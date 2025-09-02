@@ -30,29 +30,30 @@ Amharic follows a root-and-pattern morphology where subject, object, and indirec
 To reflect this, we provide two dataset versions: Amharic, which labels whole words with syntactic roles, and Amharic-morph, which segments words and labels the morphemes indicating subject and indirect object.
 
 After preprocessing, the dataset is split into **train**, **dev**, and **test** sets:  
-- Folder: `syntax/task-1`  
-- **Dev/Test Data**: Located in the `0_shot` folder  
-- **Training Data**: Located in the corresponding `n_shot` folders, where `n = {0, 1, 3, 5, 10}`  
+- **Folder**: `syntax/task-1`  
+- **Dev/Test Data**: Located in the `0_shot_examples` folder  
+- **Training Data**: Located in the corresponding `n_shot_examples` folders, where `n = {0, 1, 3, 5, 10}`  
 
 ---
 
 ### Task 2
-This dataset covers **five languages** sourced from [UniMorph](https://unimorph.github.io/), including only **derivational words**. After thorough preprocessing, the data is organized as follows:  
-- Folder: `derivation/task-2`  
-- **Dev/Test Data**: Located in the `0_shot` folder  
-- **Training Data**: Located in the corresponding `n_shot` folders, where `n = {0, 1, 3, 5, 10}` 
+This dataset covers **five languages** sourced from [UniMorph](https://unimorph.github.io/), including only **derivational words**. After preprocessing, the datasets are categorized based on their part of speech: nouns(N), verbs(V), and adjectives(ADJ). The train/test/dev split are provided in their respective folders.
+- **Folder**: `derivation/task-2`  
+- **Dev/Test Data**: Located in the `0_shot_examples` folder  
+- **Training Data**: Located in the corresponding `n_shot_examples` folders, where `n = {0, 1, 3, 5, 10}` 
 
 ---
 
 ### Task 3
 For this task, we provide a **newly curated dataset** for **Amharic** and **German**:  
-- **Amharic**: Data sourced from WMT and processed using [HornMorpho](https://github.com/hltdi/HornMorpho/tree/master) (morphological analyzer and generator).  
-- **German**: Data sourced from Wikipedia and processed using the [SMOR tool](https://aclanthology.org/L04-1007.pdf).  
+- **Amharic**: Data sourced from WMT and processed using [HornMorpho](https://github.com/hltdi/HornMorpho/tree/master) (morphological analyzer and generator). Includes Nouns and Verbs. 
+- **German**: Data sourced from Wikipedia and processed using the [SMOR tool](https://aclanthology.org/L04-1007.pdf). Inlcudes Nouns and Adjectives.
+
 
 The dataset is organized as follows:  
-- Folder: `derivation/task-3`  
-- **Dev/Test Data**: Located in the `0_shot` folder  
-- **Training Data**: Located in the corresponding `n_shot` folders, where `n = {0, 1, 3, 5, 10}` 
+- **Folder**: `derivation/task-3`  
+- **Dev/Test Data**: Located in the `0_shot_examples` folder  
+- **Training Data**: Located in the corresponding `n_shot_examples` folders, where `n = {0, 1, 3, 5, 10}` 
 
 ---
 
