@@ -52,8 +52,8 @@ For this task, we provide a **newly curated dataset** for **Amharic** and **Germ
 
 The dataset is organized as follows:  
 - **Folder**: `derivation/task-3`  
-- **Dev/Test Data**: Located in the `0_shot_examples/LANGUAGE_NAME` folder  
-- **Training Data**: Located in the corresponding `n_shot_examples/LANGUAGE_NAME` folders, where `n = {0, 1, 3, 5, 10}` 
+- **Dev/Test Data**: Located in the `0_shot_examples/LANGUAGE_CODE` folder  
+- **Training Data**: Located in the corresponding `n_shot_examples/LANGUAGE_CODE` folders, where `n = {0, 1, 3, 5, 10}` 
 
 ---
 
