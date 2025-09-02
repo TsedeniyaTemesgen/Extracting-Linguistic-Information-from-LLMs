@@ -31,16 +31,16 @@ To reflect this, we provide two dataset versions: Amharic, which labels whole wo
 
 After preprocessing, the dataset is split into **train**, **dev**, and **test** sets:  
 - **Folder**: `syntax/task-1`  
-- **Dev/Test Data**: Located in the `0_shot_examples` folder  
-- **Training Data**: Located in the corresponding `n_shot_examples` folders, where `n = {0, 1, 3, 5}`  
+- **Dev/Test Data**: Located in the `0_shot_examples/LANGUAGE_NAME` folder  
+- **Training Data**: Located in the corresponding `n_shot_examples/LANGUAGE_NAME` folders, where `n = {0, 1, 3, 5}`  
 
 ---
 
 ### Task 2
 This dataset covers **five languages** sourced from [UniMorph](https://unimorph.github.io/), including only **derivational words**. After preprocessing, the datasets are categorized based on their part of speech: nouns(N), verbs(V), and adjectives(ADJ). The train/test/dev split are provided in their respective folders.
 - **Folder**: `derivation/task-2`  
-- **Dev/Test Data**: Located in the `0_shot_examples` folder  
-- **Training Data**: Located in the corresponding `n_shot_examples` folders, where `n = {0, 1, 3, 5, 10}` 
+- **Dev/Test Data**: Located in the `0_shot_examples/LANGUAGE_CODE` folder  
+- **Training Data**: Located in the corresponding `n_shot_examples/LANGUAGE_CODE` folders, where `n = {0, 1, 3, 5, 10}` 
 
 ---
 
@@ -52,8 +52,8 @@ For this task, we provide a **newly curated dataset** for **Amharic** and **Germ
 
 The dataset is organized as follows:  
 - **Folder**: `derivation/task-3`  
-- **Dev/Test Data**: Located in the `0_shot_examples` folder  
-- **Training Data**: Located in the corresponding `n_shot_examples` folders, where `n = {0, 1, 3, 5, 10}` 
+- **Dev/Test Data**: Located in the `0_shot_examples/LANGUAGE_NAME` folder  
+- **Training Data**: Located in the corresponding `n_shot_examples/LANGUAGE_NAME` folders, where `n = {0, 1, 3, 5, 10}` 
 
 ---
 
