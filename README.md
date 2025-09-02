@@ -32,7 +32,7 @@ To reflect this, we provide two dataset versions: Amharic, which labels whole wo
 After preprocessing, the dataset is split into **train**, **dev**, and **test** sets:  
 - **Folder**: `syntax/task-1`  
 - **Dev/Test Data**: Located in the `0_shot_examples` folder  
-- **Training Data**: Located in the corresponding `n_shot_examples` folders, where `n = {0, 1, 3, 5, 10}`  
+- **Training Data**: Located in the corresponding `n_shot_examples` folders, where `n = {0, 1, 3, 5}`  
 
 ---
 
