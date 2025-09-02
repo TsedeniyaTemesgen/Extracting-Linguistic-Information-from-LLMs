@@ -1,0 +1,35 @@
+[
+    {
+        "lemma": "humiliated",
+        "surface_word": "unhumiliated",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "un-",
+        "prefix": "un-",
+        "suffix": [],
+        "alternative_0": "un<PREF> humiliated<V>",
+        "sub_words": "un<PREF> humiliated<V>"
+    },
+    {
+        "lemma": "basalt",
+        "surface_word": "nonbasalt",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "non-",
+        "prefix": "non-",
+        "suffix": [],
+        "alternative_0": "non<PREF> basalt<N>",
+        "sub_words": "non<PREF> basalt<N>"
+    },
+    {
+        "lemma": "brook",
+        "surface_word": "brookless",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-less",
+        "prefix": [],
+        "suffix": "-less",
+        "alternative_0": "brook<V> less<ADJ_SUFF>",
+        "sub_words": "brook<V> less<ADJ_SUFF>"
+    }
+]

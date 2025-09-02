@@ -1,0 +1,123 @@
+[
+    {
+        "lemma": "gratis",
+        "surface_word": "gratisowy",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-owy",
+        "prefix": [],
+        "suffix": "-owy",
+        "alternative_0": "gratis<N> owy<ADJ_SUFF>",
+        "sub_words": "gratis<N> owy<ADJ_SUFF>"
+    },
+    {
+        "lemma": "korektor",
+        "surface_word": "korektorski",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ski",
+        "prefix": [],
+        "suffix": "-ski",
+        "alternative_0": "korektor<N> ski<ADJ_SUFF>",
+        "alternative_1": "korekta<N> or<N_SUFF> ski<ADJ_SUFF>",
+        "sub_words": "korekta<N> or<N_SUFF> ski<ADJ_SUFF>"
+    },
+    {
+        "lemma": "świetlik",
+        "surface_word": "świetlikowy",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-owy",
+        "prefix": [],
+        "suffix": "-owy",
+        "alternative_0": "świetlik<N> owy<ADJ_SUFF>",
+        "alternative_1": "światło<N> ik<N_SUFF> owy<ADJ_SUFF>",
+        "alternative_2": "światły<ADJ> o<N_SUFF> ik<N_SUFF> owy<ADJ_SUFF>",
+        "sub_words": "światły<ADJ> o<N_SUFF> ik<N_SUFF> owy<ADJ_SUFF>"
+    },
+    {
+        "lemma": "podejrzewać",
+        "surface_word": "podejrzewany",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-any",
+        "prefix": [],
+        "suffix": "-any",
+        "alternative_0": "podejrzewać<V> any<ADJ_SUFF>",
+        "sub_words": "podejrzewać<V> any<ADJ_SUFF>"
+    },
+    {
+        "lemma": "stosować",
+        "surface_word": "stosowny",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-ny",
+        "prefix": [],
+        "suffix": "-ny",
+        "alternative_0": "stosować<V> ny<ADJ_SUFF>",
+        "alternative_1": "stos<N> ować<V_SUFF> ny<ADJ_SUFF>",
+        "sub_words": "stos<N> ować<V_SUFF> ny<ADJ_SUFF>"
+    },
+    {
+        "lemma": "przyszłość",
+        "surface_word": "przyszłościowy",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-owy",
+        "prefix": [],
+        "suffix": "-owy",
+        "alternative_0": "przyszłość<N> owy<ADJ_SUFF>",
+        "alternative_1": "przyszły<ADJ> ość<N_SUFF> owy<ADJ_SUFF>",
+        "sub_words": "przyszły<ADJ> ość<N_SUFF> owy<ADJ_SUFF>"
+    },
+    {
+        "lemma": "dozwolić",
+        "surface_word": "dozwolony",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-ony",
+        "prefix": [],
+        "suffix": "-ony",
+        "alternative_0": "dozwolić<V> ony<ADJ_SUFF>",
+        "alternative_1": "do<PREF> zwolić<V> ony<ADJ_SUFF>",
+        "sub_words": "do<PREF> zwolić<V> ony<ADJ_SUFF>"
+    },
+    {
+        "lemma": "czasownikowy",
+        "surface_word": "odczasownikowy",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "od-",
+        "prefix": "od-",
+        "suffix": [],
+        "alternative_0": "od<PREF> czasownikowy<ADJ>",
+        "alternative_1": "od<PREF> czas<N> owy<ADJ_SUFF> nik<N_SUFF> owy<ADJ_SUFF>",
+        "alternative_2": "od<PREF> czasownik<N> owy<ADJ_SUFF>",
+        "alternative_3": "od<PREF> czasowy<ADJ> nik<N_SUFF> owy<ADJ_SUFF>",
+        "sub_words": "od<PREF> czas<N> owy<ADJ_SUFF> nik<N_SUFF> owy<ADJ_SUFF>"
+    },
+    {
+        "lemma": "antykoncepcja",
+        "surface_word": "antykoncepcyjny",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ny",
+        "prefix": [],
+        "suffix": "-ny",
+        "alternative_0": "antykoncepcja<N> ny<ADJ_SUFF>",
+        "alternative_1": "anty<PREF> koncepcja<N> ny<ADJ_SUFF>",
+        "sub_words": "anty<PREF> koncepcja<N> ny<ADJ_SUFF>"
+    },
+    {
+        "lemma": "sypiać",
+        "surface_word": "sypialny",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-alny",
+        "prefix": [],
+        "suffix": "-alny",
+        "alternative_0": "sypiać<V> alny<ADJ_SUFF>",
+        "alternative_1": "spać<V> ać<V_SUFF> alny<ADJ_SUFF>",
+        "sub_words": "spać<V> ać<V_SUFF> alny<ADJ_SUFF>"
+    }
+]

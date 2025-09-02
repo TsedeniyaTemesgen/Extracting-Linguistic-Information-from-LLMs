@@ -1,0 +1,62 @@
+[
+    {
+        "lemma": "mieliśmy",
+        "surface_word": "niemieliśmy",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "nie-",
+        "prefix": "nie-",
+        "suffix": [],
+        "alternative_0": "nie<PREF> mieliśmy<V>",
+        "sub_words": "nie<PREF> mieliśmy<V>"
+    },
+    {
+        "lemma": "biegać",
+        "surface_word": "wbiegać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "w-",
+        "prefix": "w-",
+        "suffix": [],
+        "alternative_0": "w<PREF> biegać<V>",
+        "alternative_1": "w<PREF> biec<V> ać<V_SUFF>",
+        "sub_words": "w<PREF> biec<V> ać<V_SUFF>"
+    },
+    {
+        "lemma": "maroda",
+        "surface_word": "marodować",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-ować",
+        "prefix": [],
+        "suffix": "-ować",
+        "alternative_0": "maroda<N> ować<V_SUFF>",
+        "sub_words": "maroda<N> ować<V_SUFF>"
+    },
+    {
+        "lemma": "dychać",
+        "surface_word": "oddychać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "od-",
+        "prefix": "od-",
+        "suffix": [],
+        "alternative_0": "od<PREF> dychać<V>",
+        "alternative_1": "od<PREF> dycha<N> ać<V_SUFF>",
+        "sub_words": "od<PREF> dycha<N> ać<V_SUFF>"
+    },
+    {
+        "lemma": "przepierdolić",
+        "surface_word": "przepierdalać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "-ać",
+        "prefix": [],
+        "suffix": "-ać",
+        "alternative_0": "przepierdolić<V> ać<V_SUFF>",
+        "alternative_1": "prze<PREF> pierdolić<V> ać<V_SUFF>",
+        "alternative_2": "prze<PREF> pierdoła<N> ić<V_SUFF> ać<V_SUFF>",
+        "alternative_3": "prze<PREF> pierdoły<N> a<N_SUFF> ić<V_SUFF> ać<V_SUFF>",
+        "sub_words": "prze<PREF> pierdoły<N> a<N_SUFF> ić<V_SUFF> ać<V_SUFF>"
+    }
+]

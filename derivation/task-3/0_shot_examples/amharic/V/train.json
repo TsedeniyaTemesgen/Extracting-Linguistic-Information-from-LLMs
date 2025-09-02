@@ -1,0 +1,35 @@
+[
+  {
+    "surface_word": "ተቸክለው",
+    "surface_word_tag": "V",
+    "sub_words": " ተ<V_PREF> ቸክል<V> አው<PRON>",
+    "lemma": "ተቸከለ",
+    "stem": "ተ-ቸክል<V>",
+    "root": "ችክል:B",
+    "deriv": "*TEDERAGI;3;CVB;PASS;PL",
+    "freq": 2,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ለምታቀርቡለት",
+    "surface_word_tag": "V",
+    "sub_words": "ለ<ADP> ም<PART> ት<PRON> ኣ<V_PREF> ቀርብ<V> ኡ<PRON> ለት<PRON>",
+    "lemma": "አቀረበ",
+    "stem": "ኣ-ቀርብ<V>",
+    "root": "ቅርብ:A",
+    "deriv": "*ADRAGI;*DAT;*OBL;*RELC;2;CAUS;DA3SM;IPFV;PL",
+    "freq": 1167,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ተጋርተዋል",
+    "surface_word_tag": "V",
+    "sub_words": " ተ<V_PREF> ጋርት<V> አው<PRON> ኣል<AUX>",
+    "lemma": "ተጋራ",
+    "stem": "ተ-ጋርት<V>",
+    "root": "ግርእ:A",
+    "deriv": "*MAIN;*TEDARAGI;3;PL;PRF",
+    "freq": 22,
+    "annotated": "ok"
+  }
+]

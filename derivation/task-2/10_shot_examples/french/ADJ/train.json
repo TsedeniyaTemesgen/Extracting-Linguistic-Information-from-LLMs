@@ -1,0 +1,118 @@
+[
+    {
+        "lemma": "Challes",
+        "surface_word": "challois",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ois",
+        "prefix": [],
+        "suffix": "-ois",
+        "alternative_0": "Challes<N> ois<ADJ_SUFF>",
+        "sub_words": "Challes<N> ois<ADJ_SUFF>"
+    },
+    {
+        "lemma": "désengager",
+        "surface_word": "désengagé",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-é",
+        "prefix": [],
+        "suffix": "-é",
+        "alternative_0": "désengager<V> é<ADJ_SUFF>",
+        "alternative_1": "dés<PREF> en<PREF> gager<V> é<ADJ_SUFF>",
+        "alternative_2": "dés<PREF> engager<V> é<ADJ_SUFF>",
+        "sub_words": "dés<PREF> en<PREF> gager<V> é<ADJ_SUFF>"
+    },
+    {
+        "lemma": "genre",
+        "surface_word": "cisgenre",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "cis-",
+        "prefix": "cis-",
+        "suffix": [],
+        "alternative_0": "cis<PREF> genre<N>",
+        "sub_words": "cis<PREF> genre<N>"
+    },
+    {
+        "lemma": "isoler",
+        "surface_word": "isolant",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-ant",
+        "prefix": [],
+        "suffix": "-ant",
+        "alternative_0": "isoler<V> ant<ADJ_SUFF>",
+        "sub_words": "isoler<V> ant<ADJ_SUFF>"
+    },
+    {
+        "lemma": "cosmographie",
+        "surface_word": "cosmographique",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ique",
+        "prefix": [],
+        "suffix": "-ique",
+        "alternative_0": "cosmographie<N> ique<ADJ_SUFF>",
+        "alternative_1": "cosmos<N> graphie<N_SUFF> ique<ADJ_SUFF>",
+        "sub_words": "cosmos<N> graphie<N_SUFF> ique<ADJ_SUFF>"
+    },
+    {
+        "lemma": "américain",
+        "surface_word": "américanissime",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "-issime",
+        "prefix": [],
+        "suffix": "-issime",
+        "alternative_0": "américain<ADJ> issime<ADJ_SUFF>",
+        "sub_words": "américain<ADJ> issime<ADJ_SUFF>"
+    },
+    {
+        "lemma": "stationner",
+        "surface_word": "stationnable",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-able",
+        "prefix": [],
+        "suffix": "-able",
+        "alternative_0": "stationner<V> able<ADJ_SUFF>",
+        "alternative_1": "station<N> er<V_SUFF> able<ADJ_SUFF>",
+        "sub_words": "station<N> er<V_SUFF> able<ADJ_SUFF>"
+    },
+    {
+        "lemma": "miroir",
+        "surface_word": "miroitier",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ier",
+        "prefix": [],
+        "suffix": "-ier",
+        "alternative_0": "miroir<N> ier<ADJ_SUFF>",
+        "alternative_1": "mirer<V> oir<N_SUFF> ier<ADJ_SUFF>",
+        "sub_words": "mirer<V> oir<N_SUFF> ier<ADJ_SUFF>"
+    },
+    {
+        "lemma": "connaissable",
+        "surface_word": "inconnaissable",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "in-",
+        "prefix": "in-",
+        "suffix": [],
+        "alternative_0": "in<PREF> connaissable<ADJ>",
+        "alternative_1": "in<PREF> connaître<V> able<ADJ_SUFF>",
+        "sub_words": "in<PREF> connaître<V> able<ADJ_SUFF>"
+    },
+    {
+        "lemma": "prandial",
+        "surface_word": "postprandial",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "post-",
+        "prefix": "post-",
+        "suffix": [],
+        "alternative_0": "post<PREF> prandial<ADJ>",
+        "sub_words": "post<PREF> prandial<ADJ>"
+    }
+]

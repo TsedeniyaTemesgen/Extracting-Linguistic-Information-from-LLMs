@@ -1,0 +1,118 @@
+[
+    {
+        "lemma": "Ring",
+        "surface_word": "ringförmig",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-förmig",
+        "prefix": [],
+        "suffix": "-förmig",
+        "alternative_0": "Ring<N> förmig<ADJ_SUFF>",
+        "sub_words": "Ring<N> förmig<ADJ_SUFF>"
+    },
+    {
+        "lemma": "einbauen",
+        "surface_word": "einbaufähig",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-fähig",
+        "prefix": [],
+        "suffix": "-fähig",
+        "alternative_0": "einbauen<V> fähig<ADJ_SUFF>",
+        "alternative_1": "ein<PREF> bauen<V> fähig<ADJ_SUFF>",
+        "sub_words": "ein<PREF> bauen<V> fähig<ADJ_SUFF>"
+    },
+    {
+        "lemma": "oxidieren",
+        "surface_word": "oxidierend",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-end",
+        "prefix": [],
+        "suffix": "-end",
+        "alternative_0": "oxidieren<V> end<ADJ_SUFF>",
+        "sub_words": "oxidieren<V> end<ADJ_SUFF>"
+    },
+    {
+        "lemma": "professionell",
+        "surface_word": "unprofessionell",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "un-",
+        "prefix": "un-",
+        "suffix": [],
+        "alternative_0": "un<PREF> professionell<ADJ>",
+        "sub_words": "un<PREF> professionell<ADJ>"
+    },
+    {
+        "lemma": "sprachlich",
+        "surface_word": "vorsprachlich",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "vor-",
+        "prefix": "vor-",
+        "suffix": [],
+        "alternative_0": "vor<PREF> sprachlich<ADJ>",
+        "alternative_1": "vor<PREF> Sprache<N> lich<ADJ_SUFF>",
+        "sub_words": "vor<PREF> Sprache<N> lich<ADJ_SUFF>"
+    },
+    {
+        "lemma": "berührt",
+        "surface_word": "unberührt",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "un-",
+        "prefix": "un-",
+        "suffix": [],
+        "alternative_0": "un<PREF> berührt<V>",
+        "sub_words": "un<PREF> berührt<V>"
+    },
+    {
+        "lemma": "verschieden",
+        "surface_word": "verschiedentlich",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "-lich",
+        "prefix": [],
+        "suffix": "-lich",
+        "alternative_0": "verschieden<ADJ> lich<ADJ_SUFF>",
+        "sub_words": "verschieden<ADJ> lich<ADJ_SUFF>"
+    },
+    {
+        "lemma": "Burschenschaft",
+        "surface_word": "burschenschaftlich",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-lich",
+        "prefix": [],
+        "suffix": "-lich",
+        "alternative_0": "Burschenschaft<N> lich<ADJ_SUFF>",
+        "alternative_1": "Bursche<N> schaft<N_SUFF> lich<ADJ_SUFF>",
+        "sub_words": "Bursche<N> schaft<N_SUFF> lich<ADJ_SUFF>"
+    },
+    {
+        "lemma": "klappern",
+        "surface_word": "klapperig",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-ig",
+        "prefix": [],
+        "suffix": "-ig",
+        "alternative_0": "klappern<V> ig<ADJ_SUFF>",
+        "alternative_1": "klappen<V> ern<V_SUFF> ig<ADJ_SUFF>",
+        "sub_words": "klappen<V> ern<V_SUFF> ig<ADJ_SUFF>"
+    },
+    {
+        "lemma": "Abwechslung",
+        "surface_word": "abwechslungsreich",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-reich",
+        "prefix": [],
+        "suffix": "-reich",
+        "alternative_0": "Abwechslung<N> reich<ADJ_SUFF>",
+        "alternative_1": "ab<PREF> wechseln<V> ung<N_SUFF> reich<ADJ_SUFF>",
+        "alternative_2": "abwechseln<V> ung<N_SUFF> reich<ADJ_SUFF>",
+        "sub_words": "ab<PREF> wechseln<V> ung<N_SUFF> reich<ADJ_SUFF>"
+    }
+]

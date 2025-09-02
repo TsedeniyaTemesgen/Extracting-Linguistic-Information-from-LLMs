@@ -1,0 +1,602 @@
+[
+    {
+        "input": "Das mit dem Hautspezialist [halte] ich etwas für übertrieben , zumindest konnte meinem Hund nicht geholfen werden .",
+        "output": "[Das | object] mit dem Hautspezialist halte [ich | subject] etwas für übertrieben , zumindest konnte meinem Hund nicht geholfen werden ."
+    },
+    {
+        "input": "Die penetrant aus den Lautsprechern dudelnde Musik war derart laut , daß man sich nur schwer [unterhalten] konnte .",
+        "output": "Die penetrant aus den Lautsprechern dudelnde Musik war derart laut , daß [man | subject] [sich | object] nur schwer unterhalten konnte ."
+    },
+    {
+        "input": "Bosniens Präsident Alija Izetbegovic [äußerte] sich optimistisch über den Ausgang des Balkan - Gipfels in den USA .",
+        "output": "Bosniens [Präsident | subject] Alija Izetbegovic äußerte [sich | object] optimistisch über den Ausgang des Balkan - Gipfels in den USA ."
+    },
+    {
+        "input": "`` Wir wissen , daß Aufklärung nicht so schnell zu erreichen ist , wie wir das vor zwanzig Jahren [gedacht] haben ;",
+        "output": "`` Wir wissen , daß Aufklärung nicht so schnell zu erreichen ist , wie [wir | subject] [das | object] vor zwanzig Jahren gedacht haben ;"
+    },
+    {
+        "input": "Wer gerne zusieht wie der Chef seine völlig überlasteten Angestellten zur Sau [macht] , ist hier gut aufgehoben .",
+        "output": "Wer gerne zusieht wie der [Chef | subject] seine völlig überlasteten [Angestellten | object] zur Sau macht , ist hier gut aufgehoben ."
+    },
+    {
+        "input": "Nach einer etwa 4 stündigen Beratung [hatten] wir auch unseren Preis , der auch unseren Vorstellungen entsprach .",
+        "output": "Nach einer etwa 4 stündigen Beratung hatten [wir | subject] auch unseren [Preis | object] , der auch unseren Vorstellungen entsprach ."
+    },
+    {
+        "input": "Wir hätten es schon [ahnen] müssen , als sich der vereinbarte Fertigungstermin um Monate nach hinten verschoben .",
+        "output": "[Wir | subject] hätten [es | object] schon ahnen müssen , als sich der vereinbarte Fertigungstermin um Monate nach hinten verschoben ."
+    },
+    {
+        "input": "Wir hätten es schon ahnen müssen , als sich der vereinbarte Fertigungstermin um Monate nach hinten [verschoben] .",
+        "output": "Wir hätten es schon ahnen müssen , als [sich | object] der vereinbarte [Fertigungstermin | subject] um Monate nach hinten verschoben ."
+    },
+    {
+        "input": "Die Sachzwänge des Weltmarktes und nicht mehr der Wille der Bürgerinnen und Bürger [bestimmen] dann die Politik .",
+        "output": "Die [Sachzwänge | subject] des Weltmarktes und nicht mehr der Wille der Bürgerinnen und Bürger bestimmen dann die [Politik | object] ."
+    },
+    {
+        "input": "Ich wollte nicht warten , bis sich meine Einschätzung [abgeklärt] hat , ich wollte meine Eindrücke sofort umsetzen .",
+        "output": "Ich wollte nicht warten , bis [sich | object] meine [Einschätzung | subject] abgeklärt hat , ich wollte meine Eindrücke sofort umsetzen ."
+    },
+    {
+        "input": "Ich wollte nicht warten , bis sich meine Einschätzung abgeklärt hat , ich wollte meine Eindrücke sofort [umsetzen] .",
+        "output": "Ich wollte nicht warten , bis sich meine Einschätzung abgeklärt hat , [ich | subject] wollte meine [Eindrücke | object] sofort umsetzen ."
+    },
+    {
+        "input": "Die Zahl der unter 18jährigen Straftäter für dieses Delikt habe sich von 1985 bis 1993 auf 61 000 [verdoppelt] .",
+        "output": "Die [Zahl | subject] der unter 18jährigen Straftäter für dieses Delikt habe [sich | object] von 1985 bis 1993 auf 61 000 verdoppelt ."
+    },
+    {
+        "input": "`` Es [ärgert] uns , daß das Amt schlechter mißt als unsere externen Prüfer '' , sagt Sprecher Norbert Schäfer .",
+        "output": "`` [Es | subject] ärgert [uns | object] , daß das Amt schlechter mißt als unsere externen Prüfer '' , sagt Sprecher Norbert Schäfer ."
+    },
+    {
+        "input": "Wir haben 60qm Dielenboden [abgeschliffen] und uns die Maschinen bei der Firma Plehnert in der Weidenallee gemietet .",
+        "output": "[Wir | subject] haben [60qm | object] Dielenboden abgeschliffen und uns die Maschinen bei der Firma Plehnert in der Weidenallee gemietet ."
+    },
+    {
+        "input": "Das Berliner Landgericht hat am Montag zwei ehemalige DDR - Juristen vom Vorwurf der Rechtsbeugung [freigesprochen] .",
+        "output": "Das Berliner [Landgericht | subject] hat am Montag zwei ehemalige DDR - [Juristen | object] vom Vorwurf der Rechtsbeugung freigesprochen ."
+    },
+    {
+        "input": "Wir [hatten] wunderschöne Spaziergänge und die Städte der Region mit Ihren Gründerzeithäusern sind sehenswert .",
+        "output": "[Wir | subject] hatten wunderschöne [Spaziergänge | object] und die Städte der Region mit Ihren Gründerzeithäusern sind sehenswert ."
+    },
+    {
+        "input": "Auch gefallen hat uns dass es bequeme Sitzgruppen mit Kaminfeuer und einer Gastronomie im Spa - Bereich [gab] .",
+        "output": "Auch gefallen hat uns dass [es | subject] bequeme [Sitzgruppen | object] mit Kaminfeuer und einer Gastronomie im Spa - Bereich gab ."
+    },
+    {
+        "input": "`` Wir haben genug aufwieglerische Worte von der Rechten zu hören [bekommen] '' , versuchte Uri Dromi eine Erklärung .",
+        "output": "`` [Wir | subject] haben genug aufwieglerische [Worte | object] von der Rechten zu hören bekommen '' , versuchte Uri Dromi eine Erklärung ."
+    },
+    {
+        "input": "`` Wir haben genug aufwieglerische Worte von der Rechten zu hören bekommen '' , [versuchte] Uri Dromi eine Erklärung .",
+        "output": "`` Wir haben genug aufwieglerische Worte von der Rechten zu hören bekommen '' , versuchte [Uri | subject] Dromi eine [Erklärung | object] ."
+    },
+    {
+        "input": "Der Präsident Nelson Mandela [äußerte] zurückhaltende Kritik und setzte auf Gespräche mit der Junta in Lagos .",
+        "output": "Der [Präsident | subject] Nelson Mandela äußerte zurückhaltende [Kritik | object] und setzte auf Gespräche mit der Junta in Lagos ."
+    },
+    {
+        "input": "`` Dazu [will] Haider eine politische Kulturrevolution , er ist gegen die Parteien , gegen die Sozialpartner .",
+        "output": "`` Dazu will [Haider | subject] eine politische [Kulturrevolution | object] , er ist gegen die Parteien , gegen die Sozialpartner ."
+    },
+    {
+        "input": "Die Firma Wintergartenbau hat in den vergangenen 3 Jahren einige Leistungen in unserem Auftrag [ausgeführt] .",
+        "output": "Die [Firma | subject] Wintergartenbau hat in den vergangenen 3 Jahren einige [Leistungen | object] in unserem Auftrag ausgeführt ."
+    },
+    {
+        "input": "Denn bevor ich mir so ein teures Haarteil kaufe , muß ich auch Vertrauen in das fachliche Können [gewinnen] .",
+        "output": "Denn bevor ich mir so ein teures Haarteil kaufe , muß [ich | subject] auch [Vertrauen | object] in das fachliche Können gewinnen ."
+    },
+    {
+        "input": "Es [gibt] viel Platz für Wohnmobile und wer keines dabei hat kann in einer der gläubigen Hütten übernachten .",
+        "output": "[Es | subject] gibt viel [Platz | object] für Wohnmobile und wer keines dabei hat kann in einer der gläubigen Hütten übernachten ."
+    },
+    {
+        "input": "Es gibt viel Platz für Wohnmobile und wer keines dabei [hat] kann in einer der gläubigen Hütten übernachten .",
+        "output": "Es gibt viel Platz für Wohnmobile und [wer | subject] [keines | object] dabei hat kann in einer der gläubigen Hütten übernachten ."
+    },
+    {
+        "input": "`` Dazu besteht keine wirtschaftliche Notwendigkeit , man [will] in Stuttgart die AEG einfach nicht mehr . ''",
+        "output": "`` Dazu besteht keine wirtschaftliche Notwendigkeit , [man | subject] will in Stuttgart die [AEG | object] einfach nicht mehr . ''"
+    },
+    {
+        "input": "Der Treffpunkt war nicht eingezäunt , lag an einer Straße und es [fanden] sich Müll , Scherben und Zigarettenstummel : (",
+        "output": "Der Treffpunkt war nicht eingezäunt , lag an einer Straße und es fanden [sich | object] [Müll | subject] , Scherben und Zigarettenstummel : ("
+    },
+    {
+        "input": "Die Opposition islamistischer Kräfte hatte sich in letzter Zeit immer schärfer gegen das Herrscherhaus [ausgesprochen] .",
+        "output": "Die [Opposition | subject] islamistischer Kräfte hatte [sich | object] in letzter Zeit immer schärfer gegen das Herrscherhaus ausgesprochen ."
+    },
+    {
+        "input": "Die Entschädigungen für die Familienangehörigen [belaufen] sich auf umgerechnet zwischen etwa 150 000 und 225 000 Mark .",
+        "output": "Die [Entschädigungen | subject] für die Familienangehörigen belaufen [sich | object] auf umgerechnet zwischen etwa 150 000 und 225 000 Mark ."
+    },
+    {
+        "input": "18.00 Uhr war die Ware bereits versandfertig und 2 Tage später [hatte] ich die bestellten Artikel zu Hause .",
+        "output": "18.00 Uhr war die Ware bereits versandfertig und 2 Tage später hatte [ich | subject] die bestellten [Artikel | object] zu Hause ."
+    },
+    {
+        "input": "Diese zusätzliche Reparatur hat 6 zusätzliche Tage [gedauert] und ich dürfte auch noch die Hälfte bezahlen .",
+        "output": "Diese zusätzliche [Reparatur | subject] hat 6 zusätzliche [Tage | object] gedauert und ich dürfte auch noch die Hälfte bezahlen ."
+    },
+    {
+        "input": "Diese zusätzliche Reparatur hat 6 zusätzliche Tage gedauert und ich dürfte auch noch die Hälfte [bezahlen] .",
+        "output": "Diese zusätzliche Reparatur hat 6 zusätzliche Tage gedauert und [ich | subject] dürfte auch noch die [Hälfte | object] bezahlen ."
+    },
+    {
+        "input": "Ich dachte mir , dieser Shop ist für seine Schnäppchen bekannt , also [bekomme] ich gute Markenware zum günstigen Preis .",
+        "output": "Ich dachte mir , dieser Shop ist für seine Schnäppchen bekannt , also bekomme [ich | subject] gute [Markenware | object] zum günstigen Preis ."
+    },
+    {
+        "input": "Hätte es das Hundezentrum bereits vor sechs Jahren [gegeben] , hätte es uns viel Zeit , Ärger , Stress und Geld gespart .",
+        "output": "Hätte [es | subject] das [Hundezentrum | object] bereits vor sechs Jahren gegeben , hätte es uns viel Zeit , Ärger , Stress und Geld gespart ."
+    },
+    {
+        "input": "Er hat sich auf meine Angst [eingestellt] und versucht sie mir zu nehmen , was zum Teil auch geklappt hat .",
+        "output": "[Er | subject] hat [sich | object] auf meine Angst eingestellt und versucht sie mir zu nehmen , was zum Teil auch geklappt hat ."
+    },
+    {
+        "input": "Der Außenbereich -- ist leider sehr bedrückend , ich [fühle] mich sehr eingeengt mit all den Häusermauern .",
+        "output": "Der Außenbereich -- ist leider sehr bedrückend , [ich | subject] fühle [mich | object] sehr eingeengt mit all den Häusermauern ."
+    },
+    {
+        "input": "Offenbar [gab] es ein Mißverständnis , oder die staatlichen Gläubiger sind sich untereinander nicht einig .",
+        "output": "Offenbar gab [es | subject] ein [Mißverständnis | object] , oder die staatlichen Gläubiger sind sich untereinander nicht einig ."
+    },
+    {
+        "input": "Vielleicht nichts für Feinschmecker , aber wer es schön deftig und herzhaft [mag] , der kommt hier voll auf seine Kosten .",
+        "output": "Vielleicht nichts für Feinschmecker , aber [wer | subject] [es | object] schön deftig und herzhaft mag , der kommt hier voll auf seine Kosten ."
+    },
+    {
+        "input": "Der Bonus für die Aktionäre , der zum 125jährigen Bestehen von Schering im nächsten Jahr erwogen wurde , [gebe] es nicht .",
+        "output": "Der [Bonus | object] für die Aktionäre , der zum 125jährigen Bestehen von Schering im nächsten Jahr erwogen wurde , gebe [es | subject] nicht ."
+    },
+    {
+        "input": "Herr Prommersberger [fühlt] sich sehr gut in den Menschen / Patienten ein und konnte mir sehr gut helfen .",
+        "output": "Herr [Prommersberger | subject] fühlt [sich | object] sehr gut in den Menschen / Patienten ein und konnte mir sehr gut helfen ."
+    },
+    {
+        "input": "Bin immer in der Pappel oder in der Box ; Mitarbeiter sind nett und haben Ahnung , von dem was sie [tun] .",
+        "output": "Bin immer in der Pappel oder in der Box ; Mitarbeiter sind nett und haben Ahnung , von dem [was | object] [sie | subject] tun ."
+    },
+    {
+        "input": "Der Konzernsprecher wollte die in der Wochenendausgabe genannte Zahl weder [dementieren] noch bestätigen .",
+        "output": "Der [Konzernsprecher | subject] wollte die in der Wochenendausgabe genannte [Zahl | object] weder dementieren noch bestätigen ."
+    },
+    {
+        "input": "`` Dafür steht die Firma Syncronys gerade , und wir werden auch die Kosten [übernehmen] '' , so Poertner .",
+        "output": "`` Dafür steht die Firma Syncronys gerade , und [wir | subject] werden auch die [Kosten | object] übernehmen '' , so Poertner ."
+    },
+    {
+        "input": "Das Musikhaus Thomann [hat] nicht nur ein riesiges Angebot mit günstigen Preisen , es hat auch noch eine spitzen Logistik .",
+        "output": "Das [Musikhaus | subject] Thomann hat nicht nur ein riesiges [Angebot | object] mit günstigen Preisen , es hat auch noch eine spitzen Logistik ."
+    },
+    {
+        "input": "Das Musikhaus Thomann hat nicht nur ein riesiges Angebot mit günstigen Preisen , es [hat] auch noch eine spitzen Logistik .",
+        "output": "Das Musikhaus Thomann hat nicht nur ein riesiges Angebot mit günstigen Preisen , [es | subject] hat auch noch eine spitzen [Logistik | object] ."
+    },
+    {
+        "input": "US - Präsident Bill Clinton [sagte] am Donnerstag die Teilnahme am Asien - Pazifik - Gipfel in Japan ab .",
+        "output": "US - [Präsident | subject] Bill Clinton sagte am Donnerstag die [Teilnahme | object] am Asien - Pazifik - Gipfel in Japan ab ."
+    },
+    {
+        "input": "Bis zu sechs Millionen Bundesbürger haben daneben als Kassenpatienten eine Zusatzpolice [abgeschlossen] .",
+        "output": "Bis zu sechs Millionen [Bundesbürger | subject] haben daneben als Kassenpatienten eine [Zusatzpolice | object] abgeschlossen ."
+    },
+    {
+        "input": "Heimfrid Wolff , der von der Zürcher Prognos AG zur Gütersloher Bertelsmann - Stiftung wechselt , [verbreitete] Optimismus .",
+        "output": "Heimfrid [Wolff | subject] , der von der Zürcher Prognos AG zur Gütersloher Bertelsmann - Stiftung wechselt , verbreitete [Optimismus | object] ."
+    },
+    {
+        "input": "Der rasante Prozeß der Medienentwicklung [verändere] die Formen des menschlichen Zusammenlebens , die Arbeit und die Werte .",
+        "output": "Der rasante [Prozeß | subject] der Medienentwicklung verändere die [Formen | object] des menschlichen Zusammenlebens , die Arbeit und die Werte ."
+    },
+    {
+        "input": "Allerdings sollte man abends damit rechnen das die Frischware die man [braucht] , schon vergriffen ist .",
+        "output": "Allerdings sollte man abends damit rechnen das die Frischware [die | object] [man | subject] braucht , schon vergriffen ist ."
+    },
+    {
+        "input": "[Versuchen] Sie mal am Wochenende eine späte Rückfahrt für alle Kaiserswerth Besucher aus Meerbusch aufzustellen .",
+        "output": "Versuchen [Sie | subject] mal am Wochenende eine späte Rückfahrt für alle Kaiserswerth Besucher aus Meerbusch aufzustellen ."
+    },
+    {
+        "input": "Die SPD -- Politiker hatten [angekündigt] , die Währungsunion zum Thema des Bundestagswahlkampfes 1998 zu machen .",
+        "output": "Die [SPD | subject] -- Politiker hatten angekündigt , die Währungsunion zum Thema des Bundestagswahlkampfes 1998 zu machen ."
+    },
+    {
+        "input": "Die Stimmabgabe wurde für die Sicherheitskräfte vorverlegt , damit sie am Wahltag selbst im Einsatz [sein] können .",
+        "output": "Die Stimmabgabe wurde für die Sicherheitskräfte vorverlegt , damit [sie | subject] am Wahltag selbst im Einsatz sein können ."
+    },
+    {
+        "input": "`` Wir [wissen] , daß Aufklärung nicht so schnell zu erreichen ist , wie wir das vor zwanzig Jahren gedacht haben ;",
+        "output": "`` [Wir | subject] wissen , daß Aufklärung nicht so schnell zu erreichen ist , wie wir das vor zwanzig Jahren gedacht haben ;"
+    },
+    {
+        "input": "`` Wir wissen , daß Aufklärung nicht so schnell zu [erreichen] ist , wie wir das vor zwanzig Jahren gedacht haben ;",
+        "output": "`` Wir wissen , daß [Aufklärung | subject] nicht so schnell zu erreichen ist , wie wir das vor zwanzig Jahren gedacht haben ;"
+    },
+    {
+        "input": "Wer gerne [zusieht] wie der Chef seine völlig überlasteten Angestellten zur Sau macht , ist hier gut aufgehoben .",
+        "output": "[Wer | subject] gerne zusieht wie der Chef seine völlig überlasteten Angestellten zur Sau macht , ist hier gut aufgehoben ."
+    },
+    {
+        "input": "Vorstandschef Horst Görtz [denkt] für die nächsten achtzehn Monate an einen Börsengang an der Nasdaq in den USA .",
+        "output": "Vorstandschef [Horst | subject] Görtz denkt für die nächsten achtzehn Monate an einen Börsengang an der Nasdaq in den USA ."
+    },
+    {
+        "input": "Mit einer konsequenten Klimaschutzstrategie könnte die Kirche Vorreiter für ein neues Wohlstandsmodell [werden] .",
+        "output": "Mit einer konsequenten Klimaschutzstrategie könnte die [Kirche | subject] Vorreiter für ein neues Wohlstandsmodell werden ."
+    },
+    {
+        "input": "`` Doch nicht die Kinder [verdienen] daran , sondern Hotels , Vermittler , Bordellbetreiber '' , sagt Felizardo .",
+        "output": "`` Doch nicht die [Kinder | subject] verdienen daran , sondern Hotels , Vermittler , Bordellbetreiber '' , sagt Felizardo ."
+    },
+    {
+        "input": "`` Doch nicht die Kinder verdienen daran , sondern Hotels , Vermittler , Bordellbetreiber '' , [sagt] Felizardo .",
+        "output": "`` Doch nicht die Kinder verdienen daran , sondern Hotels , Vermittler , Bordellbetreiber '' , sagt [Felizardo | subject] ."
+    },
+    {
+        "input": "Mit meinem Hund [war] ich einige Male bei Herrn Wienrich in der Praxis , habe ihn aber persönlich nie dort gesehen .",
+        "output": "Mit meinem Hund war [ich | subject] einige Male bei Herrn Wienrich in der Praxis , habe ihn aber persönlich nie dort gesehen ."
+    },
+    {
+        "input": "Ich wollte nicht [warten] , bis sich meine Einschätzung abgeklärt hat , ich wollte meine Eindrücke sofort umsetzen .",
+        "output": "[Ich | subject] wollte nicht warten , bis sich meine Einschätzung abgeklärt hat , ich wollte meine Eindrücke sofort umsetzen ."
+    },
+    {
+        "input": "Seit 1980 [bin] auch ich dabei und nach und nach kamen unsere Kinder und nun auch deren und unsere Freunde mit .",
+        "output": "Seit 1980 bin auch [ich | subject] dabei und nach und nach kamen unsere Kinder und nun auch deren und unsere Freunde mit ."
+    },
+    {
+        "input": "Seit 1980 bin auch ich dabei und nach und nach [kamen] unsere Kinder und nun auch deren und unsere Freunde mit .",
+        "output": "Seit 1980 bin auch ich dabei und nach und nach kamen unsere [Kinder | subject] und nun auch deren und unsere Freunde mit ."
+    },
+    {
+        "input": "Die Firma IPM [überzeugt] durch umfassende Kompetenz auf den Gebieten der Website und Datenbank Programmierung .",
+        "output": "Die [Firma | subject] IPM überzeugt durch umfassende Kompetenz auf den Gebieten der Website und Datenbank Programmierung ."
+    },
+    {
+        "input": "`` Es ärgert uns , daß das Amt schlechter [mißt] als unsere externen Prüfer '' , sagt Sprecher Norbert Schäfer .",
+        "output": "`` Es ärgert uns , daß das [Amt | subject] schlechter mißt als unsere externen Prüfer '' , sagt Sprecher Norbert Schäfer ."
+    },
+    {
+        "input": "`` Es ärgert uns , daß das Amt schlechter mißt als unsere externen Prüfer '' , [sagt] Sprecher Norbert Schäfer .",
+        "output": "`` Es ärgert uns , daß das Amt schlechter mißt als unsere externen Prüfer '' , sagt [Sprecher | subject] Norbert Schäfer ."
+    },
+    {
+        "input": "Frau Mitterrand und der sie begleitende französische Gesundheitsminister Bernard Kouchner [blieben] unverletzt .",
+        "output": "Frau [Mitterrand | subject] und der sie begleitende französische Gesundheitsminister Bernard Kouchner blieben unverletzt ."
+    },
+    {
+        "input": "'' Ein junger Mann mit Anti - Friedens - Buttons am T - Shirt [meinte] , dieses Ende sei `` unvermeidbar '' gewesen :",
+        "output": "'' Ein junger [Mann | subject] mit Anti - Friedens - Buttons am T - Shirt meinte , dieses Ende sei `` unvermeidbar '' gewesen :"
+    },
+    {
+        "input": "Wenn meine Frau mal nicht zu Hause [ist] , hole ich mir immer Abends einen der lecker gefüllten Pfannenkuchen .",
+        "output": "Wenn meine [Frau | subject] mal nicht zu Hause ist , hole ich mir immer Abends einen der lecker gefüllten Pfannenkuchen ."
+    },
+    {
+        "input": "Die Gewinne [liegen] nach den Worten des Geschäftsführers seit Jahren zwischen 100 000 und 750 000 Mark nach Steuern .",
+        "output": "Die [Gewinne | subject] liegen nach den Worten des Geschäftsführers seit Jahren zwischen 100 000 und 750 000 Mark nach Steuern ."
+    },
+    {
+        "input": "Grunduntersuchung bei unserem Hund [war] dagegen in Ordnung auch wenn die Preise eher ein bischen teuer sind .",
+        "output": "[Grunduntersuchung | subject] bei unserem Hund war dagegen in Ordnung auch wenn die Preise eher ein bischen teuer sind ."
+    },
+    {
+        "input": "Bin jetzt schon seit einigen Jahren bei Herrn Dr. Sieben in Behandlung und ich bin immer [zufrieden] gewesen !",
+        "output": "Bin jetzt schon seit einigen Jahren bei Herrn Dr. Sieben in Behandlung und [ich | subject] bin immer zufrieden gewesen !"
+    },
+    {
+        "input": "`` Dazu will Haider eine politische Kulturrevolution , er [ist] gegen die Parteien , gegen die Sozialpartner .",
+        "output": "`` Dazu will Haider eine politische Kulturrevolution , [er | subject] ist gegen die Parteien , gegen die Sozialpartner ."
+    },
+    {
+        "input": "`` Natürlich nur mit legalen Methoden '' , wie Ellen Waitzis von der Hessischen Verbraucherzentrale [betont] .",
+        "output": "`` Natürlich nur mit legalen Methoden '' , wie [Ellen | subject] Waitzis von der Hessischen Verbraucherzentrale betont ."
+    },
+    {
+        "input": "Die New Yorker Börse [reagierte] bislang nur mit leichten Kursverlusten auf den Bugdetkonflikt in Washington .",
+        "output": "Die New Yorker [Börse | subject] reagierte bislang nur mit leichten Kursverlusten auf den Bugdetkonflikt in Washington ."
+    },
+    {
+        "input": "Im letzten Jahr , bin ich auf die Hompepage von Frau Rübben [gestoßen] und habe dann auch direkt einen Termin gemacht .",
+        "output": "Im letzten Jahr , bin [ich | subject] auf die Hompepage von Frau Rübben gestoßen und habe dann auch direkt einen Termin gemacht ."
+    },
+    {
+        "input": "Der für Cuxhaven einmalige Blick über den Hafen und die Elbmündung ist [geblieben] und verwöhnt den Gast aufs Weitere !",
+        "output": "Der für Cuxhaven einmalige [Blick | subject] über den Hafen und die Elbmündung ist geblieben und verwöhnt den Gast aufs Weitere !"
+    },
+    {
+        "input": "`` Dazu [besteht] keine wirtschaftliche Notwendigkeit , man will in Stuttgart die AEG einfach nicht mehr . ''",
+        "output": "`` Dazu besteht keine wirtschaftliche [Notwendigkeit | subject] , man will in Stuttgart die AEG einfach nicht mehr . ''"
+    },
+    {
+        "input": "Der Treffpunkt war nicht [eingezäunt] , lag an einer Straße und es fanden sich Müll , Scherben und Zigarettenstummel : (",
+        "output": "Der [Treffpunkt | subject] war nicht eingezäunt , lag an einer Straße und es fanden sich Müll , Scherben und Zigarettenstummel : ("
+    },
+    {
+        "input": "Der Druck auf den Shell - Konzern wegen seiner Unternehmenspolitik in Nigeria hat am Dienstag [zugenommen] .",
+        "output": "Der [Druck | subject] auf den Shell - Konzern wegen seiner Unternehmenspolitik in Nigeria hat am Dienstag zugenommen ."
+    },
+    {
+        "input": "Er hat sich auf meine Angst eingestellt und versucht sie mir zu nehmen , was zum Teil auch [geklappt] hat .",
+        "output": "Er hat sich auf meine Angst eingestellt und versucht sie mir zu nehmen , [was | subject] zum Teil auch geklappt hat ."
+    },
+    {
+        "input": "Die Menschen sollten lieber auf andere Weise gegen die Abflachung ihrer Melatonin -- Rhythmik [ankämpfen] .",
+        "output": "Die [Menschen | subject] sollten lieber auf andere Weise gegen die Abflachung ihrer Melatonin -- Rhythmik ankämpfen ."
+    },
+    {
+        "input": "Mittlerweile [war] ich bestimmt schon 10 mal da , habe verschiedene Massagen ausprobiert und war immer wieder begeistert .",
+        "output": "Mittlerweile war [ich | subject] bestimmt schon 10 mal da , habe verschiedene Massagen ausprobiert und war immer wieder begeistert ."
+    },
+    {
+        "input": "Leider [verspricht] die Firma die Ware in ca . 7 Tagen zu liefern aber nach 8 Tagen ist immer noch keine Ware angekommen .",
+        "output": "Leider verspricht die [Firma | subject] die Ware in ca . 7 Tagen zu liefern aber nach 8 Tagen ist immer noch keine Ware angekommen ."
+    },
+    {
+        "input": "Leider verspricht die Firma die Ware in ca . 7 Tagen zu liefern aber nach 8 Tagen ist immer noch keine Ware [angekommen] .",
+        "output": "Leider verspricht die Firma die Ware in ca . 7 Tagen zu liefern aber nach 8 Tagen ist immer noch keine [Ware | subject] angekommen ."
+    },
+    {
+        "input": "Vielleicht nichts für Feinschmecker , aber wer es schön deftig und herzhaft mag , der [kommt] hier voll auf seine Kosten .",
+        "output": "Vielleicht nichts für Feinschmecker , aber wer es schön deftig und herzhaft mag , [der | subject] kommt hier voll auf seine Kosten ."
+    },
+    {
+        "input": "`` Dafür [steht] die Firma Syncronys gerade , und wir werden auch die Kosten übernehmen '' , so Poertner .",
+        "output": "`` Dafür steht die [Firma | subject] Syncronys gerade , und wir werden auch die Kosten übernehmen '' , so Poertner ."
+    },
+    {
+        "input": "Vier Wochen später [ging] unser Hund mit und ohne Leine bei Fuß , Sitz und Platz aus dem Laufen heraus waren kein Problem .",
+        "output": "Vier Wochen später ging unser [Hund | subject] mit und ohne Leine bei Fuß , Sitz und Platz aus dem Laufen heraus waren kein Problem ."
+    },
+    {
+        "input": "`` Wir [stehen] in einem harten internationalen Wettbewerb unter starkem wirtschaftspolitischen Druck '' , heißt es darin .",
+        "output": "`` [Wir | subject] stehen in einem harten internationalen Wettbewerb unter starkem wirtschaftspolitischen Druck '' , heißt es darin ."
+    },
+    {
+        "input": "`` Wir stehen in einem harten internationalen Wettbewerb unter starkem wirtschaftspolitischen Druck '' , [heißt] es darin .",
+        "output": "`` Wir stehen in einem harten internationalen Wettbewerb unter starkem wirtschaftspolitischen Druck '' , heißt [es | subject] darin ."
+    },
+    {
+        "input": "Euro Disney ist im ersten Halbjahr des laufenden Geschäftjahres per Ende September tiefer in die roten Zahlen [gerutscht] .",
+        "output": "Euro [Disney | subject] ist im ersten Halbjahr des laufenden Geschäftjahres per Ende September tiefer in die roten Zahlen gerutscht ."
+    },
+    {
+        "input": "Die Demonstration sollte nach Darstellung der Veranstalter für eine friedliche Lösung des Konflikts in Kurdistan [werben] .",
+        "output": "Die [Demonstration | subject] sollte nach Darstellung der Veranstalter für eine friedliche Lösung des Konflikts in Kurdistan werben ."
+    },
+    {
+        "input": "Ich [gehe] gerne mit meiner Familie ins Hotel Sommer , weil die Umgebung auch den Kindern super gefällt .",
+        "output": "[Ich | subject] gehe gerne mit meiner Familie ins Hotel Sommer , weil die Umgebung auch den Kindern super gefällt ."
+    },
+    {
+        "input": "Wir sind unmittelbare Nachbarn vom Rauschgold und leiden sehr unter dem Lärm der dort [verursacht] wird .",
+        "output": "Wir sind unmittelbare Nachbarn vom Rauschgold und leiden sehr unter dem Lärm [der | subject] dort verursacht wird ."
+    },
+    {
+        "input": "Leider [war] ich unfreiwillig da , da mein Auto wegen kaputter Lichtmaschine abgeschleppt werden musste .",
+        "output": "Leider war [ich | subject] unfreiwillig da , da mein Auto wegen kaputter Lichtmaschine abgeschleppt werden musste ."
+    },
+    {
+        "input": "Wer in China dick ins Geschäft [kommen] will , kann sich in der Tat nicht an der Armee vorbeischleichen .",
+        "output": "[Wer | subject] in China dick ins Geschäft kommen will , kann sich in der Tat nicht an der Armee vorbeischleichen ."
+    },
+    {
+        "input": "Heimfrid Wolff , der von der Zürcher Prognos AG zur Gütersloher Bertelsmann - Stiftung [wechselt] , verbreitete Optimismus .",
+        "output": "Heimfrid Wolff , [der | subject] von der Zürcher Prognos AG zur Gütersloher Bertelsmann - Stiftung wechselt , verbreitete Optimismus ."
+    },
+    {
+        "input": "Allerdings sollte man abends damit [rechnen] das die Frischware die man braucht , schon vergriffen ist .",
+        "output": "Allerdings sollte [man | subject] abends damit rechnen das die Frischware die man braucht , schon vergriffen ist ."
+    },
+    {
+        "input": "Allerdings sollte man abends damit rechnen das die Frischware die man braucht , schon [vergriffen] ist .",
+        "output": "Allerdings sollte man abends damit rechnen das die [Frischware | subject] die man braucht , schon vergriffen ist ."
+    },
+    {
+        "input": "Nach einer etwa 4 stündigen Beratung hatten wir auch unseren Preis , der auch unseren Vorstellungen [entsprach] .",
+        "output": "Nach einer etwa 4 stündigen Beratung hatten wir auch unseren Preis , [der | subject] auch unseren [Vorstellungen | indirect_object] entsprach ."
+    },
+    {
+        "input": "Die Festlegung einer Mindestquote für Frauen entsprechend dem Mitgliederanteil [widerspricht] dem Demokratieprinzip .",
+        "output": "Die [Festlegung | subject] einer Mindestquote für Frauen entsprechend dem Mitgliederanteil widerspricht dem [Demokratieprinzip | indirect_object] ."
+    },
+    {
+        "input": "Ich [dachte] mir , dieser Shop ist für seine Schnäppchen bekannt , also bekomme ich gute Markenware zum günstigen Preis .",
+        "output": "[Ich | subject] dachte [mir | indirect_object] , dieser Shop ist für seine Schnäppchen bekannt , also bekomme ich gute Markenware zum günstigen Preis ."
+    },
+    {
+        "input": "Ich gehe gerne mit meiner Familie ins Hotel Sommer , weil die Umgebung auch den Kindern super [gefällt] .",
+        "output": "Ich gehe gerne mit meiner Familie ins Hotel Sommer , weil die [Umgebung | subject] auch den [Kindern | indirect_object] super gefällt ."
+    },
+    {
+        "input": "`` Bis auf einen einzigen sind alle 206 Alteigentümer diesem Vorschlag [gefolgt] '' , berichtet Bauman .",
+        "output": "`` Bis auf einen einzigen sind alle 206 [Alteigentümer | subject] diesem [Vorschlag | indirect_object] gefolgt '' , berichtet Bauman ."
+    },
+    {
+        "input": "Naja , das Badehaus ist zwar mitten in der City aber mir hat es von der Ausstattung und Atmosphäre nicht so sehr [gefallen] .",
+        "output": "Naja , das Badehaus ist zwar mitten in der City aber [mir | indirect_object] hat [es | subject] von der Ausstattung und Atmosphäre nicht so sehr gefallen ."
+    },
+    {
+        "input": "Den Schmugglern [drohen] Geldstrafen , und der Grenzpolizei wird die Sache mittlerweile etwas zu heiß .",
+        "output": "Den [Schmugglern | indirect_object] drohen [Geldstrafen | subject] , und der Grenzpolizei wird die Sache mittlerweile etwas zu heiß ."
+    },
+    {
+        "input": "Leider hat man vergessen , entsprechend viel Personal einzusetzen , daß der Abfertigung der Besuchermengen auch gerecht [wird] .",
+        "output": "Leider hat man vergessen , entsprechend viel Personal einzusetzen , [daß | subject] der [Abfertigung | indirect_object] der Besuchermengen auch gerecht wird ."
+    },
+    {
+        "input": "Die Hamas [warf] den Behörden vor , es habe bei der Abstimmung große Unregelmäßigkeiten gegeben .",
+        "output": "Die [Hamas | subject] warf den [Behörden | indirect_object] vor , es habe bei der Abstimmung große Unregelmäßigkeiten gegeben ."
+    },
+    {
+        "input": "Jetzt reagiere ein Teil der Zugewanderten mit `` abgrenzender Gruppenbildung '' auf den Haß , der ihnen in Deutschland [entgegenschlage] .",
+        "output": "Jetzt reagiere ein Teil der Zugewanderten mit `` abgrenzender Gruppenbildung '' auf den Haß , [der | subject] [ihnen | indirect_object] in Deutschland entgegenschlage ."
+    },
+    {
+        "input": "Wie Kohl [sei] er der Ansicht , daß es zu einem vereinten Europa keine Alternative gebe .",
+        "output": "Wie [Kohl | subject] sei er der [Ansicht | indirect_object] , daß es zu einem vereinten Europa keine Alternative gebe ."
+    },
+    {
+        "input": "`` Den Beschäftigten [ist] es nicht weiter zuzumuten , ohne Bezahlung weiterzuarbeiten '' , betonte Gesamtbetriebsratschefin Silke Striezel .",
+        "output": "`` Den [Beschäftigten | indirect_object] ist [es | subject] nicht weiter zuzumuten , ohne Bezahlung weiterzuarbeiten '' , betonte Gesamtbetriebsratschefin Silke Striezel ."
+    },
+    {
+        "input": "Der Südafrikaner reagierte damit auf Berichte , daß Jugoslawien einer Friedenslösung nur bei einer Amnestie für die Angeklagten [zustimmen] werde .",
+        "output": "Der Südafrikaner reagierte damit auf Berichte , daß [Jugoslawien | subject] einer [Friedenslösung | indirect_object] nur bei einer Amnestie für die Angeklagten zustimmen werde ."
+    },
+    {
+        "input": "Dem seit nunmehr zwei Jahrzehnten währenden Rechtsstreit um das Atomkraftwerk Mülheim -- Kärlich [steht] am kommenden Dienstag eine weitere Entscheidung bevor :",
+        "output": "Dem seit nunmehr zwei Jahrzehnten währenden [Rechtsstreit | indirect_object] um das Atomkraftwerk Mülheim -- Kärlich steht am kommenden Dienstag eine weitere [Entscheidung | subject] bevor :"
+    },
+    {
+        "input": "Also ich bin öfter hier , da es mir hier sehr gut [gefällt] !",
+        "output": "Also ich bin öfter hier , da [es | subject] [mir | indirect_object] hier sehr gut gefällt !"
+    },
+    {
+        "input": "Herr Feldkamp [riet] mir den Termin abzusagen und zu kommen .",
+        "output": "Herr [Feldkamp | subject] riet [mir | indirect_object] den Termin abzusagen und zu kommen ."
+    },
+    {
+        "input": "Claus Peymann ist in blendender Verfassung und relativ guter Dinge , das jugendliche Lachen der frühen Zeit ist ihm während seines Wiener Jahrzehnts nicht [vergangen] .",
+        "output": "Claus Peymann ist in blendender Verfassung und relativ guter Dinge , das jugendliche [Lachen | subject] der frühen Zeit ist [ihm | indirect_object] während seines Wiener Jahrzehnts nicht vergangen ."
+    },
+    {
+        "input": "Alle wußten , daß uns nicht mehr viel Zeit [blieb] .",
+        "output": "Alle wußten , daß [uns | indirect_object] nicht mehr viel [Zeit | subject] blieb ."
+    },
+    {
+        "input": "Uns ist das Essen im Halse stecken [geblieben] .",
+        "output": "[Uns | indirect_object] ist das [Essen | subject] im Halse stecken geblieben ."
+    },
+    {
+        "input": "Sechs Jahre nach der Wende muß Lech Walesa , der den Freiheitskampf der Polen und den friedlichen Systemwandel symbolisiert , einem ehemaligen kommunistischen Funktionär [weichen] .",
+        "output": "Sechs Jahre nach der Wende muß [Lech | subject] Walesa , der den Freiheitskampf der Polen und den friedlichen Systemwandel symbolisiert , einem ehemaligen kommunistischen [Funktionär | indirect_object] weichen ."
+    },
+    {
+        "input": "Laßt nie zu , daß solches euch [passiert] .",
+        "output": "Laßt nie zu , daß [solches | subject] [euch | indirect_object] passiert ."
+    },
+    {
+        "input": "Ich weiß nicht , ob es daran lag , dass ich weiblich war , aber er war sehr nervös , sah mich kaum an , auch als er mit mir sprach , und die Untersuchung [kam] mir sehr kurz gefasst vor .",
+        "output": "Ich weiß nicht , ob es daran lag , dass ich weiblich war , aber er war sehr nervös , sah mich kaum an , auch als er mit mir sprach , und die [Untersuchung | subject] kam [mir | indirect_object] sehr kurz gefasst vor ."
+    },
+    {
+        "input": "Die Atmosphäre [gefällt] bestimmt jeden .",
+        "output": "Die [Atmosphäre | subject] gefällt bestimmt [jeden | indirect_object] ."
+    },
+    {
+        "input": "`` Das hat der Partei [genutzt] . ''",
+        "output": "`` [Das | subject] hat der [Partei | indirect_object] genutzt . ''"
+    },
+    {
+        "input": "Die Zeit [geht] vor allem Kindern verloren , denn jede Stunde mehr vor dem TV bedeutet eine Stunde weniger mit Freunden oder der Familie , mit möglicherweise negativen Folgen für die individuelle und soziale Entwicklung .",
+        "output": "Die [Zeit | subject] geht vor allem [Kindern | indirect_object] verloren , denn jede Stunde mehr vor dem TV bedeutet eine Stunde weniger mit Freunden oder der Familie , mit möglicherweise negativen Folgen für die individuelle und soziale Entwicklung ."
+    },
+    {
+        "input": "Diese hatten wir telefonisch an einem Freitag kurz vor Ladenschluss angefragt und derselbe Verkäufer [sagte] uns , man solle einfach kurz vorbeikommen am Samstag morgen und es wären noch ausreichend Mietfahrzeuge vorhanden .",
+        "output": "Diese hatten wir telefonisch an einem Freitag kurz vor Ladenschluss angefragt und derselbe [Verkäufer | subject] sagte [uns | indirect_object] , man solle einfach kurz vorbeikommen am Samstag morgen und es wären noch ausreichend Mietfahrzeuge vorhanden ."
+    },
+    {
+        "input": "`` Die Regierung Israels gibt mit tiefer Trauer den Tod des Ministerpräsidenten und Verteidigungsministers Yitzhak Rabin bekannt , der heute von einem Attentäter in Tel Aviv ermordet wurde '' , [teilte] ein Regierungssprecher vor dem Krankenhaus Journalisten und ängstlich wartenden Israelis mit .",
+        "output": "`` Die Regierung Israels gibt mit tiefer Trauer den Tod des Ministerpräsidenten und Verteidigungsministers Yitzhak Rabin bekannt , der heute von einem Attentäter in Tel Aviv ermordet wurde '' , teilte ein [Regierungssprecher | subject] vor dem Krankenhaus [Journalisten | indirect_object] und ängstlich wartenden Israelis mit ."
+    },
+    {
+        "input": "Wenn meine Frau mal nicht zu Hause ist , [hole] ich mir immer Abends einen der lecker gefüllten Pfannenkuchen .",
+        "output": "Wenn meine Frau mal nicht zu Hause ist , hole [ich | subject] [mir | indirect_object] immer Abends [einen | object] der lecker gefüllten Pfannenkuchen ."
+    },
+    {
+        "input": "Denn bevor ich mir so ein teures Haarteil [kaufe] , muß ich auch Vertrauen in das fachliche Können gewinnen .",
+        "output": "Denn bevor [ich | subject] [mir | indirect_object] so ein teures [Haarteil | object] kaufe , muß ich auch Vertrauen in das fachliche Können gewinnen ."
+    },
+    {
+        "input": "Hätte es das Hundezentrum bereits vor sechs Jahren gegeben , hätte es uns viel Zeit , Ärger , Stress und Geld [gespart] .",
+        "output": "Hätte es das Hundezentrum bereits vor sechs Jahren gegeben , hätte [es | subject] [uns | indirect_object] viel [Zeit | object] , Ärger , Stress und Geld gespart ."
+    },
+    {
+        "input": "Nach eines Telefonats bei dem gesagt wurde , dass das veränderte Aussehen nichts ausmache , [gab] ich es dem Vogel aber weiter .",
+        "output": "Nach eines Telefonats bei dem gesagt wurde , dass das veränderte Aussehen nichts ausmache , gab [ich | subject] [es | object] dem [Vogel | indirect_object] aber weiter ."
+    },
+    {
+        "input": "Eltern dürfen ihren Neugeborenen künftig keine `` lustigen , `` '' unanständigen '' oder `` anmaßenden '' Vornamen mehr [geben] .",
+        "output": "[Eltern | subject] dürfen ihren [Neugeborenen | indirect_object] künftig keine `` lustigen , `` '' unanständigen '' oder `` anmaßenden '' [Vornamen | object] mehr geben ."
+    },
+    {
+        "input": "Ich wollte mir eine Krone [machen] lassen und war deshalb bei zwei Zahnärzten , die beide unverschämte Preise dafür haben wollten .",
+        "output": "[Ich | subject] wollte [mir | indirect_object] eine [Krone | object] machen lassen und war deshalb bei zwei Zahnärzten , die beide unverschämte Preise dafür haben wollten ."
+    },
+    {
+        "input": "Das US - Repräsentantenhaus hat sich strikte Regeln gegen Geschenke von Lobbyisten [auferlegt] .",
+        "output": "Das US - [Repräsentantenhaus | subject] hat [sich | indirect_object] strikte [Regeln | object] gegen Geschenke von Lobbyisten auferlegt ."
+    },
+    {
+        "input": "Ich war zwar nur einmal da , das direkt zum Herz - Röntgen , aber ich würde mir lieber fürs nächste Mal einen anderen Arzt [suchen] .",
+        "output": "Ich war zwar nur einmal da , das direkt zum Herz - Röntgen , aber [ich | subject] würde [mir | indirect_object] lieber fürs nächste Mal einen anderen [Arzt | object] suchen ."
+    },
+    {
+        "input": "Die Kasseler Richter haben damit dem Bundesverwaltungsgericht die Gefolgschaft [verweigert] .",
+        "output": "Die Kasseler [Richter | subject] haben damit dem [Bundesverwaltungsgericht | indirect_object] die [Gefolgschaft | object] verweigert ."
+    },
+    {
+        "input": "Wo [suchen] sich diese Jugendlichen dann die überlebensnotwendige emotionale Zuwendung ?",
+        "output": "Wo suchen [sich | indirect_object] diese [Jugendlichen | subject] dann die überlebensnotwendige emotionale [Zuwendung | object] ?"
+    },
+    {
+        "input": "Endlich eine Anlaufstelle wo man sich Zeit für die einzelnen Problemchen [nimmt] .",
+        "output": "Endlich eine Anlaufstelle wo [man | subject] [sich | indirect_object] [Zeit | object] für die einzelnen Problemchen nimmt ."
+    },
+    {
+        "input": "France Telecom hat uns ein Angebot [unterbreitet] '' , erklärt ein Sprecher .",
+        "output": "[France | subject] Telecom hat [uns | indirect_object] ein [Angebot | object] unterbreitet '' , erklärt ein Sprecher ."
+    },
+    {
+        "input": "Zuerst hatte man mir für meine alte Lichtmaschine 150 € [versprochen] .",
+        "output": "Zuerst hatte [man | subject] [mir | indirect_object] für meine alte Lichtmaschine 150 [€ | object] versprochen ."
+    },
+    {
+        "input": "Er [machte] mir erst Hoffnung und verschrieb etwas Antibakterielles .",
+        "output": "[Er | subject] machte [mir | indirect_object] erst [Hoffnung | object] und verschrieb etwas Antibakterielles ."
+    },
+    {
+        "input": "Die Ausstattung ist ok und so wie man sich eine Wohnung [vorstellt] .",
+        "output": "Die Ausstattung ist ok und so wie [man | subject] [sich | indirect_object] eine [Wohnung | object] vorstellt ."
+    },
+    {
+        "input": "Eine Bekannte [empfahl] mir dann Herr Dr. Sieben und wie sich herausstellte , war der Preis , den ich dort bezahlte 70 % unter dem der anderen beiden Zahnärzte !",
+        "output": "Eine [Bekannte | subject] empfahl [mir | indirect_object] dann Herr Dr. [Sieben | object] und wie sich herausstellte , war der Preis , den ich dort bezahlte 70 % unter dem der anderen beiden Zahnärzte !"
+    },
+    {
+        "input": "ALLE waren nur darauf aus einem ein neues Haarteil zu [verkaufen] .",
+        "output": "[ALLE | subject] waren nur darauf aus [einem | indirect_object] ein neues [Haarteil | object] zu verkaufen ."
+    },
+    {
+        "input": "Ich kann es euch nur ans Herz [legen] -- Ihr werdet es mögen !",
+        "output": "[Ich | subject] kann [es | object] [euch | indirect_object] nur ans Herz legen -- Ihr werdet es mögen !"
+    },
+    {
+        "input": "Er [bietet] den Perspektivlosen so eine Zukunft .",
+        "output": "[Er | subject] bietet den [Perspektivlosen | indirect_object] so eine [Zukunft | object] ."
+    },
+    {
+        "input": "Nach 8 Tagen saß ich zum ersten Mal im Büro von Herrn Feldkamp , der mir zuvor die Ermittlungsakte meiner Strafsache professionell verschlüsselt per E - Mail als pdf [geschickt] hatte .",
+        "output": "Nach 8 Tagen saß ich zum ersten Mal im Büro von Herrn Feldkamp , [der | subject] [mir | indirect_object] zuvor die [Ermittlungsakte | object] meiner Strafsache professionell verschlüsselt per E - Mail als pdf geschickt hatte ."
+    },
+    {
+        "input": "`` Wir wären weitaus weiter , hätte man uns keine Steine in den Weg [gelegt] '' , sagt der inzwischen in den Aufsichtsrat des hanseatischen Renommierklubs aufgerückte Versicherungsmakler .",
+        "output": "`` Wir wären weitaus weiter , hätte [man | subject] [uns | indirect_object] keine [Steine | object] in den Weg gelegt '' , sagt der inzwischen in den Aufsichtsrat des hanseatischen Renommierklubs aufgerückte Versicherungsmakler ."
+    },
+    {
+        "input": "Das hat uns den Sonntag [verdorben] .",
+        "output": "[Das | subject] hat [uns | indirect_object] den [Sonntag | object] verdorben ."
+    },
+    {
+        "input": "Ausgerechnet Lennons zänkische Witwe Yoko Ono , die jahrelang mit Paul McCartney über Copyrights gestritten hatte , [überreichte] den `` Fab Three '' das unvollständige Archivmaterial , das bereits auf illegalen Raubpressungen unter Fans kursierte .",
+        "output": "Ausgerechnet Lennons zänkische [Witwe | subject] Yoko Ono , die jahrelang mit Paul McCartney über Copyrights gestritten hatte , überreichte den `` [Fab | indirect_object] Three '' das unvollständige [Archivmaterial | object] , das bereits auf illegalen Raubpressungen unter Fans kursierte ."
+    }
+]

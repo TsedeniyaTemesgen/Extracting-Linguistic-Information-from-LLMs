@@ -1,0 +1,112 @@
+[
+  {
+    "surface_word": "ተቸክለው",
+    "surface_word_tag": "V",
+    "sub_words": " ተ<V_PREF> ቸክል<V> አው<PRON>",
+    "lemma": "ተቸከለ",
+    "stem": "ተ-ቸክል<V>",
+    "root": "ችክል:B",
+    "deriv": "*TEDERAGI;3;CVB;PASS;PL",
+    "freq": 2,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ለምታቀርቡለት",
+    "surface_word_tag": "V",
+    "sub_words": "ለ<ADP> ም<PART> ት<PRON> ኣ<V_PREF> ቀርብ<V> ኡ<PRON> ለት<PRON>",
+    "lemma": "አቀረበ",
+    "stem": "ኣ-ቀርብ<V>",
+    "root": "ቅርብ:A",
+    "deriv": "*ADRAGI;*DAT;*OBL;*RELC;2;CAUS;DA3SM;IPFV;PL",
+    "freq": 1167,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ተጋርተዋል",
+    "surface_word_tag": "V",
+    "sub_words": " ተ<V_PREF> ጋርት<V> አው<PRON> ኣል<AUX>",
+    "lemma": "ተጋራ",
+    "stem": "ተ-ጋርት<V>",
+    "root": "ግርእ:A",
+    "deriv": "*MAIN;*TEDARAGI;3;PL;PRF",
+    "freq": 22,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "የተብለጨለጨው",
+    "surface_word_tag": "V",
+    "sub_words": "የ<PART> ተ<V_PREF> ብለጨለጭ<V> አ<PRON> ው<PRON>",
+    "lemma": "ተብለጨለጨ",
+    "stem": "ተ-ብለጨለጭ<V>",
+    "root": "ብልጭልጭ:G",
+    "deriv": "*RELC;*TEDERAGI;3;AC3SM;MASC;PFV;SG",
+    "freq": 1,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "አታድግም",
+    "surface_word_tag": "V",
+    "sub_words": "ኣ<ADV> ት<PRON> ኣ<V_PREF> ድግም<V> ",
+    "lemma": "አደገመ",
+    "stem": "ኣ-ድግም<V>",
+    "root": "ድግም:A",
+    "deriv": "*ADRAGI;3;CAUS;FEM;JUS;NEG;SG",
+    "freq": 1,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "በተረዱ",
+    "surface_word_tag": "V",
+    "sub_words": "በ<ADP> ተ<V_PREF> ረዳ<V> ኡ<PRON>",
+    "lemma": "ተረዳ",
+    "stem": "ተ-ረዳ<V>",
+    "root": "ርድእ:A",
+    "deriv": "*INS;*OBL;*RELC;*TEDERAGI;3;PASS;PFV;PL",
+    "freq": 153,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ለተቀኘችው",
+    "surface_word_tag": "V",
+    "sub_words": "ለ<ADP> ተ<V_PREF> ቀኘ<V> አች<PRON> ው<PRON>",
+    "lemma": "ተቀኘ",
+    "stem": "ተ-ቀኘ<V>",
+    "root": "ቅኝይ:B",
+    "deriv": "*DAT;*OBL;*RELC;*TEDERAGI;3;AC3SM;FEM;PASS;PFV;SG",
+    "freq": 5,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "አልተገደበም",
+    "surface_word_tag": "V",
+    "sub_words": "ኣል<ADV> ተ<V_PREF> ገደብ<V> አ<PRON> ም<ADV>",
+    "lemma": "ተገደበ",
+    "stem": "ተ-ገደብ<V>",
+    "root": "ግድብ:B",
+    "deriv": "*MAIN;*TEDERAGI;3;MASC;NEG;PASS;PFV;SG",
+    "freq": 29,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "በማዳምጠው",
+    "surface_word_tag": "V",
+    "sub_words": "በ<ADP> ም<PART> እ<PRON> ኣ<V_PREF> ዳምጥ<V> አው<PRON>",
+    "lemma": "አዳመጠ",
+    "stem": "ኣ-ዳምጥ<V>",
+    "root": "ድምጥ:A",
+    "deriv": "*ADARAGI;*INS;*OBL;*RELC;1;AC3SM;CAUS;IPFV;SG",
+    "freq": 1,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ተለመኑ",
+    "surface_word_tag": "V",
+    "sub_words": " ተ<V_PREF> ለመን<V> ኡ<PRON>",
+    "lemma": "ተለመነ",
+    "stem": "ተ-ለመን<V>",
+    "root": "ልምን:B",
+    "deriv": "*TEDERAGI;2;IMP;PASS;PL",
+    "freq": 5,
+    "annotated": "ok"
+  }
+]

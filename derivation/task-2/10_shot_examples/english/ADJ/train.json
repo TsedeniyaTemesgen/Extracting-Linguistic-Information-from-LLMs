@@ -1,0 +1,118 @@
+[
+    {
+        "lemma": "humiliated",
+        "surface_word": "unhumiliated",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "un-",
+        "prefix": "un-",
+        "suffix": [],
+        "alternative_0": "un<PREF> humiliated<V>",
+        "sub_words": "un<PREF> humiliated<V>"
+    },
+    {
+        "lemma": "basalt",
+        "surface_word": "nonbasalt",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "non-",
+        "prefix": "non-",
+        "suffix": [],
+        "alternative_0": "non<PREF> basalt<N>",
+        "sub_words": "non<PREF> basalt<N>"
+    },
+    {
+        "lemma": "brook",
+        "surface_word": "brookless",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-less",
+        "prefix": [],
+        "suffix": "-less",
+        "alternative_0": "brook<V> less<ADJ_SUFF>",
+        "sub_words": "brook<V> less<ADJ_SUFF>"
+    },
+    {
+        "lemma": "furry",
+        "surface_word": "unfurry",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "un-",
+        "prefix": "un-",
+        "suffix": [],
+        "alternative_0": "un<PREF> furry<ADJ>",
+        "sub_words": "un<PREF> furry<ADJ>"
+    },
+    {
+        "lemma": "physicalist",
+        "surface_word": "physicalistic",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ic",
+        "prefix": [],
+        "suffix": "-ic",
+        "alternative_0": "physicalist<N> ic<ADJ_SUFF>",
+        "alternative_1": "physical<ADJ> ist<N_SUFF> ic<ADJ_SUFF>",
+        "alternative_2": "physics<N> al<ADJ_SUFF> ist<N_SUFF> ic<ADJ_SUFF>",
+        "sub_words": "physics<N> al<ADJ_SUFF> ist<N_SUFF> ic<ADJ_SUFF>"
+    },
+    {
+        "lemma": "moment",
+        "surface_word": "momentless",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-less",
+        "prefix": [],
+        "suffix": "-less",
+        "alternative_0": "moment<N> less<ADJ_SUFF>",
+        "sub_words": "moment<N> less<ADJ_SUFF>"
+    },
+    {
+        "lemma": "systematic",
+        "surface_word": "biosystematic",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "bio-",
+        "prefix": "bio-",
+        "suffix": [],
+        "alternative_0": "bio<PREF> systematic<ADJ>",
+        "alternative_1": "bio<PREF> system<N> atic<ADJ_SUFF>",
+        "sub_words": "bio<PREF> system<N> atic<ADJ_SUFF>"
+    },
+    {
+        "lemma": "severance",
+        "surface_word": "nonseverance",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "non-",
+        "prefix": "non-",
+        "suffix": [],
+        "alternative_0": "non<PREF> severance<N>",
+        "alternative_1": "non<PREF> sever<V> ance<N_SUFF>",
+        "sub_words": "non<PREF> sever<V> ance<N_SUFF>"
+    },
+    {
+        "lemma": "speaker",
+        "surface_word": "intraspeaker",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "intra-",
+        "prefix": "intra-",
+        "suffix": [],
+        "alternative_0": "intra<PREF> speaker<N>",
+        "alternative_1": "intra<PREF> speak<N> er<N_SUFF>",
+        "sub_words": "intra<PREF> speak<N> er<N_SUFF>"
+    },
+    {
+        "lemma": "sindonology",
+        "surface_word": "sindonological",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ical",
+        "prefix": [],
+        "suffix": "-ical",
+        "alternative_0": "sindonology<N> ical<ADJ_SUFF>",
+        "alternative_1": "sindon<N> ology<N_SUFF> ical<ADJ_SUFF>",
+        "sub_words": "sindon<N> ology<N_SUFF> ical<ADJ_SUFF>"
+    }
+]

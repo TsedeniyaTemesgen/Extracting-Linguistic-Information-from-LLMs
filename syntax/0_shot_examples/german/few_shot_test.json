@@ -1,0 +1,1246 @@
+[
+    {
+        "input": "Die Musiker [beherrschen] ihre Instrumente alle und brauchen sich nicht hinter einem Playback verstecken -- so macht zuhören Spass !",
+        "output": "Die [Musiker | subject] beherrschen ihre [Instrumente | object] alle und brauchen sich nicht hinter einem Playback verstecken -- so macht zuhören Spass !"
+    },
+    {
+        "input": "Unkompliziert , schnell ( innerhalb 2 Stunden ) und günstig [habe] ich jetzt 4 neue Sommerreifen drauf ( die waren sowieso runter ) .",
+        "output": "Unkompliziert , schnell ( innerhalb 2 Stunden ) und günstig habe [ich | subject] jetzt 4 neue [Sommerreifen | object] drauf ( die waren sowieso runter ) ."
+    },
+    {
+        "input": "Die 27. Große Strafkammer beriet zunächst hinter verschlossenen Türen , dann [eröffnete] Bräutigam das Verfahren 527-1 / 95 dennoch .",
+        "output": "Die 27. Große Strafkammer beriet zunächst hinter verschlossenen Türen , dann eröffnete [Bräutigam | subject] das [Verfahren | object] 527-1 / 95 dennoch ."
+    },
+    {
+        "input": "`` Die wollen , daß ich im Westjordanland oder im Gaza - Streifen eine Fabrik [baue] '' , erzählt der Fleischfabrikant Heinz Annuss .",
+        "output": "`` Die wollen , daß [ich | subject] im Westjordanland oder im Gaza - Streifen eine [Fabrik | object] baue '' , erzählt der Fleischfabrikant Heinz Annuss ."
+    },
+    {
+        "input": "Auch der übrige Familienbesitz im Ausland , der unter anderem Geschäftshäuser und Golfplätze [einschließen] soll , werde untersucht .",
+        "output": "Auch der übrige Familienbesitz im Ausland , [der | subject] unter anderem [Geschäftshäuser | object] und Golfplätze einschließen soll , werde untersucht ."
+    },
+    {
+        "input": "Das Training selbst wird von verschiedenen Trainern ( je nach Kurs ) geleitet , die alle sehr viel von Ihrem Handwerk [verstehen] .",
+        "output": "Das Training selbst wird von verschiedenen Trainern ( je nach Kurs ) geleitet , [die | subject] alle sehr [viel | object] von Ihrem Handwerk verstehen ."
+    },
+    {
+        "input": "War definitiv nicht das Letzte Mal hier und einen Gutschein für eine Kosmetikbehandlung für Mutti habe ich auch noch [mitgenommen] :-)",
+        "output": "War definitiv nicht das Letzte Mal hier und einen [Gutschein | object] für eine Kosmetikbehandlung für Mutti habe [ich | subject] auch noch mitgenommen :-)"
+    },
+    {
+        "input": "Der Bahn fehlten in den nächsten zehn Jahren bis zu 400 Milliarden Mark , für die Waigel nicht ausreichend Vorsorge [getroffen] habe .",
+        "output": "Der Bahn fehlten in den nächsten zehn Jahren bis zu 400 Milliarden Mark , für die [Waigel | subject] nicht ausreichend [Vorsorge | object] getroffen habe ."
+    },
+    {
+        "input": "Die Bundesregierung will die Förderung der deutschen Wirtschaft noch stärker `` auf kleine und mittlere Unternehmen [zuschneiden] '' .",
+        "output": "Die [Bundesregierung | subject] will die [Förderung | object] der deutschen Wirtschaft noch stärker `` auf kleine und mittlere Unternehmen zuschneiden '' ."
+    },
+    {
+        "input": "Die NP konnte aber vielerorts , darunter auch in Pretoria , weiße Wähler aus dem Lager der rechtsradikalen Parteien [zurückgewinnen] .",
+        "output": "Die [NP | subject] konnte aber vielerorts , darunter auch in Pretoria , weiße [Wähler | object] aus dem Lager der rechtsradikalen Parteien zurückgewinnen ."
+    },
+    {
+        "input": "[Meldeten] sich in Zeiten der Visumsfreiheit durchschnittlich 500 Flüchtlinge täglich , waren es am Freitag noch `` unter 100 '' .",
+        "output": "Meldeten [sich | object] in Zeiten der Visumsfreiheit durchschnittlich 500 [Flüchtlinge | subject] täglich , waren es am Freitag noch `` unter 100 '' ."
+    },
+    {
+        "input": "Zudem wollen die SPD - Spitzen die Lohnnebenkosten [senken] und mehr Flexibilität bei der Gestaltung der Arbeitszeiten erreichen .",
+        "output": "Zudem wollen die SPD - [Spitzen | subject] die [Lohnnebenkosten | object] senken und mehr Flexibilität bei der Gestaltung der Arbeitszeiten erreichen ."
+    },
+    {
+        "input": "Angola [erhält] von der Europäischen Gemeinschaft rund vier Millionen Mark zur Vorbereitung der für Ende 1992 geplanten freien Wahlen .",
+        "output": "[Angola | subject] erhält von der Europäischen Gemeinschaft rund vier Millionen [Mark | object] zur Vorbereitung der für Ende 1992 geplanten freien Wahlen ."
+    },
+    {
+        "input": "Fünf Tage nach dem Mordanschlag auf Israels Ministerpräsidenten Yitzhak Rabin hat die Polizei zwei weitere Verdächtige [festgenommen] .",
+        "output": "Fünf Tage nach dem Mordanschlag auf Israels Ministerpräsidenten Yitzhak Rabin hat die [Polizei | subject] zwei weitere [Verdächtige | object] festgenommen ."
+    },
+    {
+        "input": "`` Wir in der Wirtschaft lernen von eurer Erniedrigung und von euren Skandalen , daß wir noch mehr die Öffentlichkeit [meiden] müssen .",
+        "output": "`` Wir in der Wirtschaft lernen von eurer Erniedrigung und von euren Skandalen , daß [wir | subject] noch mehr die [Öffentlichkeit | object] meiden müssen ."
+    },
+    {
+        "input": "`` Wir in der Wirtschaft lernen von eurer Erniedrigung und von euren Skandalen , daß wir noch mehr die Öffentlichkeit [meiden] müssen .",
+        "output": "`` Wir in der Wirtschaft lernen von eurer Erniedrigung und von euren Skandalen , daß [wir | subject] noch mehr die [Öffentlichkeit | object] meiden müssen ."
+    },
+    {
+        "input": "Ein umfassender Ausbau der Verkehrswege in der Bundesrepublik bis zum Jahre 2005 würde weit mehr als eine Billion Mark [verschlingen] .",
+        "output": "Ein umfassender [Ausbau | subject] der Verkehrswege in der Bundesrepublik bis zum Jahre 2005 würde weit mehr als eine Billion [Mark | object] verschlingen ."
+    },
+    {
+        "input": "Ebensowenig habe ich eine Quittung über meinen Einkauf [erhalten] , noch eine Durchschrift des von mir unterschriebenen Vertrag .",
+        "output": "Ebensowenig habe [ich | subject] eine [Quittung | object] über meinen Einkauf erhalten , noch eine Durchschrift des von mir unterschriebenen Vertrag ."
+    },
+    {
+        "input": "\" Aber das Gericht hat dies nicht mit der Eindeutigkeit und der Klarheit [getan] , die wir uns gewünscht hätten '' , sagte er . \"",
+        "output": "\" Aber das [Gericht | subject] hat [dies | object] nicht mit der Eindeutigkeit und der Klarheit getan , die wir uns gewünscht hätten '' , sagte er . \""
+    },
+    {
+        "input": "Eine Nationalbühne wie das Burgtheater kann ein solches lokalbezogenes literarisches Segment [herausstellen] , auch darstellen .",
+        "output": "Eine [Nationalbühne | subject] wie das Burgtheater kann ein solches lokalbezogenes literarisches [Segment | object] herausstellen , auch darstellen ."
+    },
+    {
+        "input": "In die Schlagzeilen geriet vor allem das zu Ihrem Einzugsbereich zählende Revier Bernau , wo Beamte Vietnamesen [mißhandelten] .",
+        "output": "In die Schlagzeilen geriet vor allem das zu Ihrem Einzugsbereich zählende Revier Bernau , wo [Beamte | subject] [Vietnamesen | object] mißhandelten ."
+    },
+    {
+        "input": "Henkel [äußerte] Verständnis für die Angst der Deutschen vor der Abschaffung der Mark , hält diese Furcht aber für unbegründet .",
+        "output": "[Henkel | subject] äußerte [Verständnis | object] für die Angst der Deutschen vor der Abschaffung der Mark , hält diese Furcht aber für unbegründet ."
+    },
+    {
+        "input": "Ich wünsche ihnen weiterhin gutes Lesen und seien sie froh , dass man die Dienste ihres Arbeitgebers nicht im Internet [bestellen] kann .",
+        "output": "Ich wünsche ihnen weiterhin gutes Lesen und seien sie froh , dass [man | subject] die [Dienste | object] ihres Arbeitgebers nicht im Internet bestellen kann ."
+    },
+    {
+        "input": "Der Entwurf einer neuen Datenschutzrichtlinie [verbot] es , daß Kirchen , Arbeitgeber und Staat Daten miteinander austauschen .",
+        "output": "Der [Entwurf | subject] einer neuen Datenschutzrichtlinie verbot [es | object] , daß Kirchen , Arbeitgeber und Staat Daten miteinander austauschen ."
+    },
+    {
+        "input": "Der Entwurf einer neuen Datenschutzrichtlinie verbot es , daß Kirchen , Arbeitgeber und Staat Daten miteinander [austauschen] .",
+        "output": "Der Entwurf einer neuen Datenschutzrichtlinie verbot es , daß [Kirchen | subject] , Arbeitgeber und Staat [Daten | object] miteinander austauschen ."
+    },
+    {
+        "input": "Mit Flöhen befallene Schüler [haben] in Bulgarien das Recht auf drei freie Tage , um die lästigen Tierchen wieder loszuwerden .",
+        "output": "Mit Flöhen befallene [Schüler | subject] haben in Bulgarien das [Recht | object] auf drei freie Tage , um die lästigen Tierchen wieder loszuwerden ."
+    },
+    {
+        "input": "`` Die [haben] noch nicht unsere Neurose , sich immer streng unter Kontrolle haben zu müssen '' , befindet der Lachspezialist .",
+        "output": "`` [Die | subject] haben noch nicht unsere [Neurose | object] , sich immer streng unter Kontrolle haben zu müssen '' , befindet der Lachspezialist ."
+    },
+    {
+        "input": "Der Anteil dieser Fallen werde sich im Zuge der `` Weiterentwicklung tiergerechter , effektiver Fallen '' weiter [vermindern] .",
+        "output": "Der [Anteil | subject] dieser Fallen werde [sich | object] im Zuge der `` Weiterentwicklung tiergerechter , effektiver Fallen '' weiter vermindern ."
+    },
+    {
+        "input": "\" Parteitag der Christdemokraten in Dillingen [wählte] am Samstag den 40jährigen Fraktionsvorsitzenden Peter Müller zum neuen Landeschef \"",
+        "output": "\" [Parteitag | subject] der Christdemokraten in Dillingen wählte am Samstag den 40jährigen [Fraktionsvorsitzenden | object] Peter Müller zum neuen Landeschef \""
+    },
+    {
+        "input": "Die Auswahl auf der Karte war zwar nicht allzu groß , aber wir haben trotzdem ein passendes Gericht [gefunden] , was auch sehr lecker war .",
+        "output": "Die Auswahl auf der Karte war zwar nicht allzu groß , aber [wir | subject] haben trotzdem ein passendes [Gericht | object] gefunden , was auch sehr lecker war ."
+    },
+    {
+        "input": "Wir haben verschiedene Tapas [gegessen] , die von der Anrichtung und Qualität einfach sehr gut geschmeckt haben und auch der Preis stimmt .",
+        "output": "[Wir | subject] haben verschiedene [Tapas | object] gegessen , die von der Anrichtung und Qualität einfach sehr gut geschmeckt haben und auch der Preis stimmt ."
+    },
+    {
+        "input": "Damit werden Arbeitsplätze sicherer , Arbeitslose [finden] Arbeit , und die 35 - Stunden - Woche wird nicht durch Überstunden ausgehebelt .",
+        "output": "Damit werden Arbeitsplätze sicherer , [Arbeitslose | subject] finden [Arbeit | object] , und die 35 - Stunden - Woche wird nicht durch Überstunden ausgehebelt ."
+    },
+    {
+        "input": "Insgesamt [bezahlten] wir für zwei Gerichte Wein und Kaffee , dann rund 40 Euro und dies war auch dem Ambiente entsprechend .",
+        "output": "Insgesamt bezahlten [wir | subject] für zwei Gerichte Wein und Kaffee , dann rund 40 [Euro | object] und dies war auch dem Ambiente entsprechend ."
+    },
+    {
+        "input": "Auch wenn ich nicht viel von Besuchen beim Zahnarzt halte , wer [tut] das schon gerne , kann ich nur sagen , die Frau versteht ihren Beruf .",
+        "output": "Auch wenn ich nicht viel von Besuchen beim Zahnarzt halte , [wer | subject] tut [das | object] schon gerne , kann ich nur sagen , die Frau versteht ihren Beruf ."
+    },
+    {
+        "input": "Auch wenn ich nicht viel von Besuchen beim Zahnarzt halte , wer tut das schon gerne , kann ich nur sagen , die Frau [versteht] ihren Beruf .",
+        "output": "Auch wenn ich nicht viel von Besuchen beim Zahnarzt halte , wer tut das schon gerne , kann ich nur sagen , die [Frau | subject] versteht ihren [Beruf | object] ."
+    },
+    {
+        "input": "Würden die Deutschen den 8. Mai 1945 nicht als Kapitulation sondern als Tag der Befreiung [begreifen] , wäre diese Erkenntnis Allgemeingut .",
+        "output": "Würden die [Deutschen | subject] den 8. [Mai | object] 1945 nicht als Kapitulation sondern als Tag der Befreiung begreifen , wäre diese Erkenntnis Allgemeingut ."
+    },
+    {
+        "input": "Doch Kroatenführer Mate Boban hat im vorwiegend kroatisch bewohnten Südwestteil von Bosnien - Herzegowina einen eigenen Staat [ausgerufen] .",
+        "output": "Doch [Kroatenführer | subject] Mate Boban hat im vorwiegend kroatisch bewohnten Südwestteil von Bosnien - Herzegowina einen eigenen [Staat | object] ausgerufen ."
+    },
+    {
+        "input": "Deutsche Gesellschaft für Soziale Psychiatrie [diskutierte] langsame Fortschritte bei gemeindenaher Versorgung der Patienten",
+        "output": "Deutsche [Gesellschaft | subject] für Soziale Psychiatrie diskutierte langsame [Fortschritte | object] bei gemeindenaher Versorgung der Patienten"
+    },
+    {
+        "input": "SPD solle sich doch bitte , auch in Schwerin , `` in der Sache [profilieren] -- '' sowohl gegenüber der CDU als auch in die andere Richtung :",
+        "output": "[SPD | subject] solle [sich | object] doch bitte , auch in Schwerin , `` in der Sache profilieren -- '' sowohl gegenüber der CDU als auch in die andere Richtung :"
+    },
+    {
+        "input": "Damit [stellt] sich Leister offen auf die Seite der FDP und von Kartellamtschef Dieter Wolf , der diese Kompetenz für sein Haus beansprucht .",
+        "output": "Damit stellt [sich | object] [Leister | subject] offen auf die Seite der FDP und von Kartellamtschef Dieter Wolf , der diese Kompetenz für sein Haus beansprucht ."
+    },
+    {
+        "input": "Damit stellt sich Leister offen auf die Seite der FDP und von Kartellamtschef Dieter Wolf , der diese Kompetenz für sein Haus [beansprucht] .",
+        "output": "Damit stellt sich Leister offen auf die Seite der FDP und von Kartellamtschef Dieter Wolf , [der | subject] diese [Kompetenz | object] für sein Haus beansprucht ."
+    },
+    {
+        "input": "Für die Bürger [schafft] das die einzige Möglichkeit , zu kontrollieren und nachzuvollzuehen , was die Politik will Frage .",
+        "output": "Für die Bürger schafft [das | subject] die einzige [Möglichkeit | object] , zu kontrollieren und nachzuvollzuehen , was die Politik will Frage ."
+    },
+    {
+        "input": "Für die Bürger schafft das die einzige Möglichkeit , zu kontrollieren und nachzuvollzuehen , was die Politik will [Frage] .",
+        "output": "Für die Bürger schafft das die einzige Möglichkeit , zu kontrollieren und nachzuvollzuehen , [was | object] die [Politik | subject] will Frage ."
+    },
+    {
+        "input": "Die Karte ist riesig , weshalb ich schon von Anfang an vermutete , dass es mit der Frische nicht weit her ist und das [bestätigte] sich auch .",
+        "output": "Die Karte ist riesig , weshalb ich schon von Anfang an vermutete , dass es mit der Frische nicht weit her ist und [das | subject] bestätigte [sich | object] auch ."
+    },
+    {
+        "input": "Er [habe] zwei Angebote , `` und über die verhandle ich ab 7. November , wenn die Verlängerung dann nicht stattfindet '' .",
+        "output": "[Er | subject] habe zwei [Angebote | object] , `` und über die verhandle ich ab 7. November , wenn die Verlängerung dann nicht stattfindet '' ."
+    },
+    {
+        "input": "Ich habe dort 2007 meinen OWD [gemacht] und weil mir das Tauchen so gefiel hab ich dort noch im selben Jahr den AOWD und den Deep drangehängt .",
+        "output": "[Ich | subject] habe dort 2007 meinen [OWD | object] gemacht und weil mir das Tauchen so gefiel hab ich dort noch im selben Jahr den AOWD und den Deep drangehängt ."
+    },
+    {
+        "input": "Ich habe dort 2007 meinen OWD gemacht und weil mir das Tauchen so gefiel hab ich dort noch im selben Jahr den AOWD und den Deep [drangehängt] .",
+        "output": "Ich habe dort 2007 meinen OWD gemacht und weil mir das Tauchen so gefiel hab [ich | subject] dort noch im selben Jahr den [AOWD | object] und den Deep drangehängt ."
+    },
+    {
+        "input": "Der Gesamtumsatz auf dem hiesigen Markt dürfte 1992 acht Milliarden Mark [erreichen] , wovon 4,2 Milliarden auf den Sportfachhandel entfallen .",
+        "output": "Der [Gesamtumsatz | subject] auf dem hiesigen Markt dürfte 1992 acht Milliarden [Mark | object] erreichen , wovon 4,2 Milliarden auf den Sportfachhandel entfallen ."
+    },
+    {
+        "input": "Verschärft [stellen] sich die Probleme für Frauen dar , die oft freiwillig in Nachtschicht gehen , `` weil das familiär für mich ideal ist '' .",
+        "output": "Verschärft stellen [sich | object] die [Probleme | subject] für Frauen dar , die oft freiwillig in Nachtschicht gehen , `` weil das familiär für mich ideal ist '' ."
+    },
+    {
+        "input": "Positiv [wirkten] sich vor allem `` interne Maßnahmen zur Steigerung der Wettbewerbsfähigkeit '' und Volumensteigerungen in allen Sparten aus .",
+        "output": "Positiv wirkten [sich | object] vor allem `` interne [Maßnahmen | subject] zur Steigerung der Wettbewerbsfähigkeit '' und Volumensteigerungen in allen Sparten aus ."
+    },
+    {
+        "input": "Die Bundespolizei [erhielt] Informationen , denen zufolge das Trio `` dabeigewesen sein könnte , eine Bombe zu bauen '' .",
+        "output": "Die [Bundespolizei | subject] erhielt [Informationen | object] , denen zufolge das Trio `` dabeigewesen sein könnte , eine Bombe zu bauen '' ."
+    },
+    {
+        "input": "\" seine guten persönlichen Beziehungen zu John Major [wekken] Zuversicht in Hongkong und leichte Beunruhigung in Peking .",
+        "output": "\" seine guten persönlichen [Beziehungen | subject] zu John Major wekken [Zuversicht | object] in Hongkong und leichte Beunruhigung in Peking ."
+    },
+    {
+        "input": "Der Sturm in der Ostsee hat an die Strände Mecklenburg - Vorpommerns scharfe Flak - Granaten und Panzerfäuste [gespült] .",
+        "output": "Der [Sturm | subject] in der Ostsee hat an die Strände Mecklenburg - Vorpommerns scharfe Flak - [Granaten | object] und Panzerfäuste gespült ."
+    },
+    {
+        "input": "In Tokio allerdings sind viele Experten überzeugt , daß es sich bei den übrigen Anteilseignern um Strohmänner [handelt] .",
+        "output": "In Tokio allerdings sind viele Experten überzeugt , daß [es | subject] [sich | object] bei den übrigen Anteilseignern um Strohmänner handelt ."
+    },
+    {
+        "input": "Die langen Gefängnisstrafen , Auspeitschungen und Hinrichtungen der `` Verderber auf Erden '' konnten jedenfalls die Unruhen nicht [eindämmen] .",
+        "output": "Die langen [Gefängnisstrafen | subject] , Auspeitschungen und Hinrichtungen der `` Verderber auf Erden '' konnten jedenfalls die [Unruhen | object] nicht eindämmen ."
+    },
+    {
+        "input": "Rabins Tod [bringt] dies zustande und schafft damit die erste Gelegenheit , sein Vermächtnis einzulösen und den Friedensprozeß weiterzutreiben .",
+        "output": "Rabins [Tod | subject] bringt [dies | object] zustande und schafft damit die erste Gelegenheit , sein Vermächtnis einzulösen und den Friedensprozeß weiterzutreiben ."
+    },
+    {
+        "input": "Aber über die Freundlichkeit , Zuverlässlichkeit und Komptenz des gesamten Team kann man nur eines [Sagen] -- PEFERKTION",
+        "output": "Aber über die Freundlichkeit , Zuverlässlichkeit und Komptenz des gesamten Team kann [man | subject] nur [eines | object] Sagen -- PEFERKTION"
+    },
+    {
+        "input": "Hartmut Lehmann [beleuchtete] vor einem zweifelnden Publikum biographische Bezüge in Max Webers Protestantischer Ethik ;",
+        "output": "Hartmut [Lehmann | subject] beleuchtete vor einem zweifelnden Publikum biographische [Bezüge | object] in Max Webers Protestantischer Ethik ;"
+    },
+    {
+        "input": "Die USA , die Staaten der Europäischen Union sowie Norwegen und die Schweiz [beriefen] ihre Botschafter aus Nigeria ab .",
+        "output": "Die [USA | subject] , die Staaten der Europäischen Union sowie Norwegen und die Schweiz beriefen ihre [Botschafter | object] aus Nigeria ab ."
+    },
+    {
+        "input": "Die SPD wolle die Verabschiedung des Berichts rückgängig [machen] , sagte Landesvorsitzender Steffen Reiche am Sonntag .",
+        "output": "Die [SPD | subject] wolle die [Verabschiedung | object] des Berichts rückgängig machen , sagte Landesvorsitzender Steffen Reiche am Sonntag ."
+    },
+    {
+        "input": "Den in diesem Land vorhandenen Unternehmergeist [lobte] der Minister als eine `` milliarden - schwere Infrastruktur '' .",
+        "output": "Den in diesem Land vorhandenen [Unternehmergeist | object] lobte der [Minister | subject] als eine `` milliarden - schwere Infrastruktur '' ."
+    },
+    {
+        "input": "Nach Verlusten 1994 [erwartet] Cap Gemini in diesem Jahr ein positives Ergebnis , wie eine Sprecherin in Paris erklärt .",
+        "output": "Nach Verlusten 1994 erwartet [Cap | subject] Gemini in diesem Jahr ein positives [Ergebnis | object] , wie eine Sprecherin in Paris erklärt ."
+    },
+    {
+        "input": "Nur wenn die soziale und demokratische Gestaltung der Europäischen Union gelingt , werden die Menschen auch die politische Union [unterstützen] .",
+        "output": "Nur wenn die soziale und demokratische Gestaltung der Europäischen Union gelingt , werden die [Menschen | subject] auch die politische [Union | object] unterstützen ."
+    },
+    {
+        "input": "Die Ermittlungen [konzentrieren] sich unter anderem auf den Sprecher der Siedler aus Kyriat Arba , Abraham Ben David .",
+        "output": "Die [Ermittlungen | subject] konzentrieren [sich | object] unter anderem auf den Sprecher der Siedler aus Kyriat Arba , Abraham Ben David ."
+    },
+    {
+        "input": "Die Kleinaktionäre sollen als Abfindung für ein Boge - Papier eine halbe Mannesmann - Aktie oder 150 Mark [bekommen] .",
+        "output": "Die [Kleinaktionäre | subject] sollen als Abfindung für ein Boge - Papier eine halbe Mannesmann - [Aktie | object] oder 150 Mark bekommen ."
+    },
+    {
+        "input": "Dazu muss man sagen , dass besagter ServiceMA gerade alle Stühle im geschlossenen Bereich [aufgestellt] und für spätere Gäste zurecht gerückt hat .",
+        "output": "Dazu muss man sagen , dass besagter [ServiceMA | subject] gerade alle [Stühle | object] im geschlossenen Bereich aufgestellt und für spätere Gäste zurecht gerückt hat ."
+    },
+    {
+        "input": "Nur Bonns Zukunftsminister Jürgen Rüttgers hält noch am Projekt fest , weil er ITER im ostdeutschen Städtchen Greifswald [hochziehen] lassen will .",
+        "output": "Nur Bonns Zukunftsminister Jürgen Rüttgers hält noch am Projekt fest , weil [er | subject] [ITER | object] im ostdeutschen Städtchen Greifswald hochziehen lassen will ."
+    },
+    {
+        "input": "Nicht nur die Schichtarbeiter [beschränkten] ihre Freizeitaktivität auf Fernsehen , Video oder Musikhören -- auch die Kinder seien dazu gezwungen .",
+        "output": "Nicht nur die [Schichtarbeiter | subject] beschränkten ihre [Freizeitaktivität | object] auf Fernsehen , Video oder Musikhören -- auch die Kinder seien dazu gezwungen ."
+    },
+    {
+        "input": "Diesen hätte ich auch einfach zu Hause zu mir [nehmen] können , da ich einen Termin hatte und dennoch warten musste .",
+        "output": "[Diesen | object] hätte [ich | subject] auch einfach zu Hause zu mir nehmen können , da ich einen Termin hatte und dennoch warten musste ."
+    },
+    {
+        "input": "Diesen hätte ich auch einfach zu Hause zu mir nehmen können , da ich einen Termin [hatte] und dennoch warten musste .",
+        "output": "Diesen hätte ich auch einfach zu Hause zu mir nehmen können , da [ich | subject] einen [Termin | object] hatte und dennoch warten musste ."
+    },
+    {
+        "input": "Der Anstieg der Rohstoffpreise wird sich nach Einschätzung des Münchner Ifo - Instituts 1996 deutlich [abschwächen] .",
+        "output": "Der [Anstieg | subject] der Rohstoffpreise wird [sich | object] nach Einschätzung des Münchner Ifo - Instituts 1996 deutlich abschwächen ."
+    },
+    {
+        "input": "Karl Ruoff , der Geschäftsführer des Landesfischereiverbandes , [hält] die Kritik der Natürschützer für übertrieben :",
+        "output": "[Karl | subject] Ruoff , der Geschäftsführer des Landesfischereiverbandes , hält die [Kritik | object] der Natürschützer für übertrieben :"
+    },
+    {
+        "input": "Haben dort mal ein paar Tage verbracht ... meine Güte , dieses Weib [hat] mehr Haare auf den Zähnen als ein ganzes Wildschweinrudel auf dem Rücken !",
+        "output": "Haben dort mal ein paar Tage verbracht ... meine Güte , dieses [Weib | subject] hat mehr [Haare | object] auf den Zähnen als ein ganzes Wildschweinrudel auf dem Rücken !"
+    },
+    {
+        "input": "Daraufhin hat er zu anderen Gästen sich [beklagt] das wir kein verständnis haben und uns zur Zahlung warten lassen .",
+        "output": "Daraufhin hat [er | subject] zu anderen Gästen [sich | object] beklagt das wir kein verständnis haben und uns zur Zahlung warten lassen ."
+    },
+    {
+        "input": "Daraufhin hat er zu anderen Gästen sich beklagt das wir kein verständnis [haben] und uns zur Zahlung warten lassen .",
+        "output": "Daraufhin hat er zu anderen Gästen sich beklagt das [wir | subject] kein [verständnis | object] haben und uns zur Zahlung warten lassen ."
+    },
+    {
+        "input": "Er [legte] seine Befugnisse als Präsident extensiv aus und balancierte nicht selten `` an der Grenze des Rechts '' .",
+        "output": "[Er | subject] legte seine [Befugnisse | object] als Präsident extensiv aus und balancierte nicht selten `` an der Grenze des Rechts '' ."
+    },
+    {
+        "input": "Große Koalitionen waren notwendig , sogar als wir die Mehrheit [hatten] , angesichts der Bedrohungen aus dem Osten .",
+        "output": "Große Koalitionen waren notwendig , sogar als [wir | subject] die [Mehrheit | object] hatten , angesichts der Bedrohungen aus dem Osten ."
+    },
+    {
+        "input": "Das Internationale Komitee des Roten Kreuz ( IKRK ) [zog] sich am Dienstag aus der umkämpften Tamilen - Hochburg Jaffna im Norden Sri Lankas zurück .",
+        "output": "Das Internationale [Komitee | subject] des Roten Kreuz ( IKRK ) zog [sich | object] am Dienstag aus der umkämpften Tamilen - Hochburg Jaffna im Norden Sri Lankas zurück ."
+    },
+    {
+        "input": "Westerwelle [begründete] diese Forderung am Montag in Bonn damit , daß es nach dem Urnengang am 22. Oktober zu einem `` Machtvakuum '' gekommen sei .",
+        "output": "[Westerwelle | subject] begründete diese [Forderung | object] am Montag in Bonn damit , daß es nach dem Urnengang am 22. Oktober zu einem `` Machtvakuum '' gekommen sei ."
+    },
+    {
+        "input": "`` Das ist die erste intelligente Äußerung , die ich von der IG Metall seit Jahren [höre] '' , sagte Stihl der FR .",
+        "output": "`` Das ist die erste intelligente Äußerung , [die | object] [ich | subject] von der IG Metall seit Jahren höre '' , sagte Stihl der FR ."
+    },
+    {
+        "input": "Mit 98 zu 95 Stimmen [sprach] sich ein Unterbezirksparteitag am Wochenende gegen eine zweite Amtszeit Reischs aus .",
+        "output": "Mit 98 zu 95 Stimmen sprach [sich | object] ein [Unterbezirksparteitag | subject] am Wochenende gegen eine zweite Amtszeit Reischs aus ."
+    },
+    {
+        "input": "Nachdem die Serben bereits vor Wochen ihren eigenen Staat `` Serbische Republik Bosnien - Herzegowina '' [ausgerufen] haben , zogen die Kroaten nach .",
+        "output": "Nachdem die [Serben | subject] bereits vor Wochen ihren eigenen [Staat | object] `` Serbische Republik Bosnien - Herzegowina '' ausgerufen haben , zogen die Kroaten nach ."
+    },
+    {
+        "input": "Zwei Themen , die Perot immer wieder [anspricht] , Rezession und Bürokratie , machen ihnen besonders zu schaffen .",
+        "output": "Zwei Themen , [die | object] [Perot | subject] immer wieder anspricht , Rezession und Bürokratie , machen ihnen besonders zu schaffen ."
+    },
+    {
+        "input": "Diese Mehrheit aber [sieht] in Militäraktionen kein geeignetes Mittel zur Friedenswahrung und Friedenserzwingung .",
+        "output": "Diese [Mehrheit | subject] aber sieht in Militäraktionen kein geeignetes [Mittel | object] zur Friedenswahrung und Friedenserzwingung ."
+    },
+    {
+        "input": "Ich hatte einen gebacken Feta als Vorspeise [bestellt] und ich muss leider sagen , dass ich dessen Qualität auch mit Aldi Tiefkühlkost erreicht hätte !",
+        "output": "[Ich | subject] hatte einen gebacken [Feta | object] als Vorspeise bestellt und ich muss leider sagen , dass ich dessen Qualität auch mit Aldi Tiefkühlkost erreicht hätte !"
+    },
+    {
+        "input": "Ich hatte einen gebacken Feta als Vorspeise bestellt und ich muss leider sagen , dass ich dessen Qualität auch mit Aldi Tiefkühlkost [erreicht] hätte !",
+        "output": "Ich hatte einen gebacken Feta als Vorspeise bestellt und ich muss leider sagen , dass [ich | subject] dessen [Qualität | object] auch mit Aldi Tiefkühlkost erreicht hätte !"
+    },
+    {
+        "input": "Deshalb [drängt] Rao seinen Finanzminister , noch stärker die Werbetrommel bei ausländischen Investoren zu rühren , noch mehr in Optimismus zu machen .",
+        "output": "Deshalb drängt [Rao | subject] seinen [Finanzminister | object] , noch stärker die Werbetrommel bei ausländischen Investoren zu rühren , noch mehr in Optimismus zu machen ."
+    },
+    {
+        "input": "Das ist leider keine Kundenorientierung und deshalb [gibt] es einen Kaktus für die Angestellten des Restaurants .",
+        "output": "Das ist leider keine Kundenorientierung und deshalb gibt [es | subject] einen [Kaktus | object] für die Angestellten des Restaurants ."
+    },
+    {
+        "input": "Das UN - Team [vermutet] im Landwirtschaftsministerium Unterlagen über das irakische Waffenbeschaffungsprogramm .",
+        "output": "Das UN - [Team | subject] vermutet im Landwirtschaftsministerium [Unterlagen | object] über das irakische Waffenbeschaffungsprogramm ."
+    },
+    {
+        "input": "Freilich können Symbole sich auch [verschleißen] , ebenso wie die bloße Konfrontation auf Dauer nicht ausreicht ;",
+        "output": "Freilich können [Symbole | subject] [sich | object] auch verschleißen , ebenso wie die bloße Konfrontation auf Dauer nicht ausreicht ;"
+    },
+    {
+        "input": "Der Grad der Alphabetisierung , der bei den Männern des Landes mit 46 Prozent fast die Hälfte [erreicht] hat , ist bei den Frauen um etliches geringer :",
+        "output": "Der Grad der Alphabetisierung , [der | subject] bei den Männern des Landes mit 46 Prozent fast die [Hälfte | object] erreicht hat , ist bei den Frauen um etliches geringer :"
+    },
+    {
+        "input": "US - Präsident William Jefferson Clinton , der wie so viele die tiefe , rauhe Stimme Rabins [vermißte] , schien gut informiert über die Lage in Israel .",
+        "output": "US - Präsident William Jefferson Clinton , [der | subject] wie so viele die tiefe , rauhe [Stimme | object] Rabins vermißte , schien gut informiert über die Lage in Israel ."
+    },
+    {
+        "input": "Die Mehrheit der Abgeordneten [sah] darin einen wichtigen Schritt auf dem Weg zur Vollmitgliedschaft in der EG .",
+        "output": "Die [Mehrheit | subject] der Abgeordneten sah darin einen wichtigen [Schritt | object] auf dem Weg zur Vollmitgliedschaft in der EG ."
+    },
+    {
+        "input": "Kolleginnen und Kollegen , ich weiß , daß ich damit Tabus [tangiere] und wahrscheinlich auch Aufregung auslöse .",
+        "output": "Kolleginnen und Kollegen , ich weiß , daß [ich | subject] damit [Tabus | object] tangiere und wahrscheinlich auch Aufregung auslöse ."
+    },
+    {
+        "input": "Positive Aussagen des japanischen Verwaltungsministers Takami Eto zur Kolonialherrschaft in Südkorea [belasten] die Beziehungen zwischen beiden Staaten .",
+        "output": "Positive [Aussagen | subject] des japanischen Verwaltungsministers Takami Eto zur Kolonialherrschaft in Südkorea belasten die [Beziehungen | object] zwischen beiden Staaten ."
+    },
+    {
+        "input": "Die Regierung von Angola [erhält] von der Europäischen Gemeinschaft rund vier Millionen Mark zur Vorbereitung der für Ende 1992 geplanten freien Wahlen .",
+        "output": "Die [Regierung | subject] von Angola erhält von der Europäischen Gemeinschaft rund vier Millionen [Mark | object] zur Vorbereitung der für Ende 1992 geplanten freien Wahlen ."
+    },
+    {
+        "input": "`` Alles , was die Aufmerksamkeit auf den Mund [lenkt] ist gut '' , lautet ihr erstes Mode - und Schminkgebot .",
+        "output": "`` Alles , [was | subject] die [Aufmerksamkeit | object] auf den Mund lenkt ist gut '' , lautet ihr erstes Mode - und Schminkgebot ."
+    },
+    {
+        "input": "Der Computerbauer SNI hatte schon vor einiger Zeit bekanntgegeben , daß er weitere 3000 Jobs [streichen] will .",
+        "output": "Der Computerbauer SNI hatte schon vor einiger Zeit bekanntgegeben , daß [er | subject] weitere 3000 [Jobs | object] streichen will ."
+    },
+    {
+        "input": "Zehntausende Demonstranten [trugen] die Bahren der `` Märtyrer '' durch die Straßen der Zweimillionen - Stadt .",
+        "output": "Zehntausende [Demonstranten | subject] trugen die [Bahren | object] der `` Märtyrer '' durch die Straßen der Zweimillionen - Stadt ."
+    },
+    {
+        "input": "Rulewski teilte danach mit , daß der Präsident die Initiative der Parteien `` sehr warm '' [aufgenommen] habe .",
+        "output": "Rulewski teilte danach mit , daß der [Präsident | subject] die [Initiative | object] der Parteien `` sehr warm '' aufgenommen habe ."
+    },
+    {
+        "input": "Zugleich [lockt] er die Wirtschaft zum `` technologischen Sprung nach vorn '' , etwa die Weltmärkte mit Benzinsparautos `` Made in Germany '' zu erobern .",
+        "output": "Zugleich lockt [er | subject] die [Wirtschaft | object] zum `` technologischen Sprung nach vorn '' , etwa die Weltmärkte mit Benzinsparautos `` Made in Germany '' zu erobern ."
+    },
+    {
+        "input": "Auch wenn man einen Termin [hat] , kann / muß man mal warten , wie bei Arzt oder Frieseur das ist nun mal so .",
+        "output": "Auch wenn [man | subject] einen [Termin | object] hat , kann / muß man mal warten , wie bei Arzt oder Frieseur das ist nun mal so ."
+    },
+    {
+        "input": "Wir standen fast alleine im Laden , keiner [interessierte] sich für das auffällig ratlose Verhalten der Kunden",
+        "output": "Wir standen fast alleine im Laden , [keiner | subject] interessierte [sich | object] für das auffällig ratlose Verhalten der Kunden"
+    },
+    {
+        "input": "\" Es [gibt] nichts auf der Welt , was so unsichtbar wäre wie ein Denkmal '' , hat Robert Musil geschrieben . \"",
+        "output": "\" [Es | subject] gibt [nichts | object] auf der Welt , was so unsichtbar wäre wie ein Denkmal '' , hat Robert Musil geschrieben . \""
+    },
+    {
+        "input": "Viele Gerichte , so die Konsumentenschützer , [verpflichteten] die Manager schon zu `` Bedingungen in Dur '' .",
+        "output": "Viele [Gerichte | subject] , so die Konsumentenschützer , verpflichteten die [Manager | object] schon zu `` Bedingungen in Dur '' ."
+    },
+    {
+        "input": "[Hat] eine Frau zum Beispiel Kleinkinder , kann sie es auch gar nicht , jedenfalls nicht zu diesem Zeitpunkt .",
+        "output": "Hat eine [Frau | subject] zum Beispiel [Kleinkinder | object] , kann sie es auch gar nicht , jedenfalls nicht zu diesem Zeitpunkt ."
+    },
+    {
+        "input": "Hat eine Frau zum Beispiel Kleinkinder , [kann] sie es auch gar nicht , jedenfalls nicht zu diesem Zeitpunkt .",
+        "output": "Hat eine Frau zum Beispiel Kleinkinder , kann [sie | subject] [es | object] auch gar nicht , jedenfalls nicht zu diesem Zeitpunkt ."
+    },
+    {
+        "input": "Kwasniewski [wandte] sich an den ehemals führenden Solidarnosc - Aktivisten und heutigen Wahldritten , Kuron :",
+        "output": "[Kwasniewski | subject] wandte [sich | object] an den ehemals führenden Solidarnosc - Aktivisten und heutigen Wahldritten , Kuron :"
+    },
+    {
+        "input": "Mehrere große Gesellschaften [heben] zum Jahreswechsel die Beiträge in den Vollkosten - Tarifen an -- allerdings etwas moderater als in der Vergangenheit .",
+        "output": "Mehrere große [Gesellschaften | subject] heben zum Jahreswechsel die [Beiträge | object] in den Vollkosten - Tarifen an -- allerdings etwas moderater als in der Vergangenheit ."
+    },
+    {
+        "input": "Ich habe heute einen schleichenden Plattfuss [bemerkt] und brauchte deshalb schnell Ersatz für einen Reifen .",
+        "output": "[Ich | subject] habe heute einen schleichenden [Plattfuss | object] bemerkt und brauchte deshalb schnell Ersatz für einen Reifen ."
+    },
+    {
+        "input": "`` Wir [haben] die faulste Regierung und den faulsten Ministerpräsidenten der Republik '' , monierte Müller .",
+        "output": "`` [Wir | subject] haben die faulste [Regierung | object] und den faulsten Ministerpräsidenten der Republik '' , monierte Müller ."
+    },
+    {
+        "input": "Bisher [gibt] es in ganz Ostdeutschland erst einige tausend `` Wiedereinrichter '' , die wie Holm auf der einst zwangskollektivierten Scholle neu anfangen .",
+        "output": "Bisher gibt [es | subject] in ganz Ostdeutschland erst einige tausend `` [Wiedereinrichter | object] '' , die wie Holm auf der einst zwangskollektivierten Scholle neu anfangen ."
+    },
+    {
+        "input": "Der Führer der Rebellenbewegung Renamo , Afonso Dhlakama , [erklärte] sich in der botswanischen Hauptstadt Gabarone zum sofortigen Waffenstillstand bereit .",
+        "output": "Der [Führer | subject] der Rebellenbewegung Renamo , Afonso Dhlakama , erklärte [sich | object] in der botswanischen Hauptstadt Gabarone zum sofortigen Waffenstillstand bereit ."
+    },
+    {
+        "input": "Gut und günstig , regelmäßig Live - Musik und für den Hunger zwischendurch [gibt] 's auch diverse Leckereien",
+        "output": "Gut und günstig , regelmäßig Live - Musik und für den Hunger zwischendurch gibt ['s | subject] auch diverse [Leckereien | object]"
+    },
+    {
+        "input": "[Hat] man diese Grundtechniken drauf , kann man diese in lockeren Sparrings mit anderen Mitgliedern testen .",
+        "output": "Hat [man | subject] diese [Grundtechniken | object] drauf , kann man diese in lockeren Sparrings mit anderen Mitgliedern testen ."
+    },
+    {
+        "input": "Hat man diese Grundtechniken drauf , kann man diese in lockeren Sparrings mit anderen Mitgliedern [testen] .",
+        "output": "Hat man diese Grundtechniken drauf , kann [man | subject] [diese | object] in lockeren Sparrings mit anderen Mitgliedern testen ."
+    },
+    {
+        "input": "Der Mittelstand solle sich [entscheiden] , ob er günstige Teilzeitkräfte oder längere Öffnungszeiten wolle .",
+        "output": "Der [Mittelstand | subject] solle [sich | object] entscheiden , ob er günstige Teilzeitkräfte oder längere Öffnungszeiten wolle ."
+    },
+    {
+        "input": "Der Mittelstand solle sich entscheiden , ob er günstige Teilzeitkräfte oder längere Öffnungszeiten [wolle] .",
+        "output": "Der Mittelstand solle sich entscheiden , ob [er | subject] günstige [Teilzeitkräfte | object] oder längere Öffnungszeiten wolle ."
+    },
+    {
+        "input": "Mit Neid [verfolgen] die Gewerkschaften den verbissenen Ernst der Bemühungen , um die `` Stabilitätskriterien '' für die geplante Währungsunion einzuhalten .",
+        "output": "Mit Neid verfolgen die [Gewerkschaften | subject] den verbissenen [Ernst | object] der Bemühungen , um die `` Stabilitätskriterien '' für die geplante Währungsunion einzuhalten ."
+    },
+    {
+        "input": "Das ist ja ` ne feine Sache , man [spart] durch die Videos über die Mietangebote jede Menge Zeit und Fragen",
+        "output": "Das ist ja ` ne feine Sache , [man | subject] spart durch die Videos über die Mietangebote jede Menge [Zeit | object] und Fragen"
+    },
+    {
+        "input": "August Wilhelm Schlegel hatte aus dem `` translated Bottom '' einen `` transferierten Zettel '' [gemacht] .",
+        "output": "August [Wilhelm | subject] Schlegel hatte aus dem `` translated Bottom '' einen `` transferierten [Zettel | object] '' gemacht ."
+    },
+    {
+        "input": "Genau dies [verbindet] sie übrigens mit den Vorläufern des Nationalsozialismus , mit der Weimarer Rechten .",
+        "output": "Genau [dies | subject] verbindet [sie | object] übrigens mit den Vorläufern des Nationalsozialismus , mit der Weimarer Rechten ."
+    },
+    {
+        "input": "Dabei [bescheinigen] unabhängige Beobachter der Autonomen Antifa ( M ) zwar ein ausgesprochen staatskritisches Weltbild , doch keine Neigung zum Bombenlegen .",
+        "output": "Dabei bescheinigen unabhängige [Beobachter | subject] der Autonomen Antifa ( M ) zwar ein ausgesprochen staatskritisches [Weltbild | object] , doch keine Neigung zum Bombenlegen ."
+    },
+    {
+        "input": "Wenn ich so arbeiten würde , dann hätte mein Arbeitgeber mich innerhalb von wenigen Sekunden [entlassen] .",
+        "output": "Wenn ich so arbeiten würde , dann hätte mein [Arbeitgeber | subject] [mich | object] innerhalb von wenigen Sekunden entlassen ."
+    },
+    {
+        "input": "\" Präsident Boris Jelzin hat am Mittwoch die Chefin der Zentralbank , Tatjana Paramonowa , [entlassen] . \"",
+        "output": "\" Präsident [Boris | subject] Jelzin hat am Mittwoch die [Chefin | object] der Zentralbank , Tatjana Paramonowa , entlassen . \""
+    },
+    {
+        "input": "\" Aber das Gericht hat dies nicht mit der Eindeutigkeit und der Klarheit getan , die wir uns [gewünscht] hätten '' , sagte er . \"",
+        "output": "\" Aber das Gericht hat dies nicht mit der Eindeutigkeit und der Klarheit getan , [die | object] [wir | subject] [uns | indirect_object] gewünscht hätten '' , sagte er . \""
+    },
+    {
+        "input": "Die Zucht - Muscheln [schnüren] der Nordsee die Luft ab , weil sie zur Algen - Düngung und Sauerstoffzehrung im Watt beitragen .",
+        "output": "Die Zucht - [Muscheln | subject] schnüren der [Nordsee | indirect_object] die [Luft | object] ab , weil sie zur Algen - Düngung und Sauerstoffzehrung im Watt beitragen ."
+    },
+    {
+        "input": "Ich [wünsche] ihnen weiterhin gutes Lesen und seien sie froh , dass man die Dienste ihres Arbeitgebers nicht im Internet bestellen kann .",
+        "output": "[Ich | subject] wünsche [ihnen | indirect_object] weiterhin gutes [Lesen | object] und seien sie froh , dass man die Dienste ihres Arbeitgebers nicht im Internet bestellen kann ."
+    },
+    {
+        "input": "The Independent hatte berichtet , Irving habe die Tagebücher den russischen Archiven für eine sechsstellige Summe [abgekauft] .",
+        "output": "The Independent hatte berichtet , [Irving | subject] habe die [Tagebücher | object] den russischen [Archiven | indirect_object] für eine sechsstellige Summe abgekauft ."
+    },
+    {
+        "input": "Einem Umstand , dem Wüstenrot - Geschäftsführer Otto Schäfer allerdings nicht zu große Bedeutung [beigemessen] haben möchte .",
+        "output": "Einem Umstand , [dem | indirect_object] Wüstenrot - [Geschäftsführer | subject] Otto Schäfer allerdings nicht zu große [Bedeutung | object] beigemessen haben möchte ."
+    },
+    {
+        "input": "Außerdem können sie ihren Kunden künftig auch das `` Bagger - Anschlußprogramm '' , die von Komatsu produzierten Abräumfahrzeuge , [anbieten] .",
+        "output": "Außerdem können [sie | subject] ihren [Kunden | indirect_object] künftig auch das `` Bagger - [Anschlußprogramm | object] '' , die von Komatsu produzierten Abräumfahrzeuge , anbieten ."
+    },
+    {
+        "input": "Hat das denn zur Folge , daß die Jugendlichen sich Orientierungen [suchen] außerhalb der bislang traditionellen Vorbilder aus Familie und Schule ?",
+        "output": "Hat das denn zur Folge , daß die [Jugendlichen | subject] [sich | indirect_object] [Orientierungen | object] suchen außerhalb der bislang traditionellen Vorbilder aus Familie und Schule ?"
+    },
+    {
+        "input": "Auch für Probetermine [nimmt] sie sich sehr viel Zeit und zeichnet alles genaustens vor , so dass man sich vorstellen kann , wie das Ergebnis ist .",
+        "output": "Auch für Probetermine nimmt [sie | subject] [sich | indirect_object] sehr viel [Zeit | object] und zeichnet alles genaustens vor , so dass man sich vorstellen kann , wie das Ergebnis ist ."
+    },
+    {
+        "input": "Das Gremium hofft , daß sich die zuständigen Behörden weltweit den neuen Mindestanforderungen [anschließen] werden .",
+        "output": "Das Gremium hofft , daß [sich | object] die zuständigen [Behörden | subject] weltweit den neuen [Mindestanforderungen | indirect_object] anschließen werden ."
+    },
+    {
+        "input": "Boris Jelzin könne sich eine definitive Zusage im Moment aus innenpolitischen Gründen nicht [leisten] .",
+        "output": "Boris [Jelzin | subject] könne [sich | indirect_object] eine definitive [Zusage | object] im Moment aus innenpolitischen Gründen nicht leisten ."
+    },
+    {
+        "input": "Falls man also mal nicht vor Ort ist [bestellt] man sich einfach die nötigen Medikamente nach Hause .",
+        "output": "Falls man also mal nicht vor Ort ist bestellt [man | subject] [sich | indirect_object] einfach die nötigen [Medikamente | object] nach Hause ."
+    },
+    {
+        "input": "Sagen Sie , daß Sie sich das nicht mehr gefallen [lassen] '' , ruft er den Frauen und Männern zu .",
+        "output": "Sagen Sie , daß [Sie | subject] [sich | indirect_object] [das | object] nicht mehr gefallen lassen '' , ruft er den Frauen und Männern zu ."
+    },
+    {
+        "input": "Teure Detektive und kostspielige Elektronik kann sich der Supermarkt an der Ecke nicht [leisten] .",
+        "output": "Teure [Detektive | object] und kostspielige Elektronik kann [sich | indirect_object] der [Supermarkt | subject] an der Ecke nicht leisten ."
+    },
+    {
+        "input": "Die Staatsanwaltschaft [wirft] dem ehemaligen Baulöwen ( Kredit - ) Betrug und Bankrott vor .",
+        "output": "Die [Staatsanwaltschaft | subject] wirft dem ehemaligen [Baulöwen | indirect_object] ( Kredit - ) [Betrug | object] und Bankrott vor ."
+    },
+    {
+        "input": "Die FDP werde sich an weiteren Verhandlungen über die Kostendeckung nicht [beteiligen] .",
+        "output": "Die [FDP | subject] werde [sich | object] an weiteren [Verhandlungen | indirect_object] über die Kostendeckung nicht beteiligen ."
+    },
+    {
+        "input": "`` Da kommen die anderen Vereine in Deutschland nicht annähernd mit '' , [verschlug] es dem ansonsten nicht auf den Mund gefallenen Bremer Kollegen Willi Lemke fast die Sprache .",
+        "output": "`` Da kommen die anderen Vereine in Deutschland nicht annähernd mit '' , verschlug [es | subject] dem ansonsten nicht auf den Mund gefallenen Bremer [Kollegen | indirect_object] Willi Lemke fast die [Sprache | object] ."
+    },
+    {
+        "input": "Das einzige was nervt ist , dass man sich sein Handtuch selbst [mitbringen] muss .",
+        "output": "Das einzige was nervt ist , dass [man | subject] [sich | indirect_object] sein [Handtuch | object] selbst mitbringen muss ."
+    },
+    {
+        "input": "Den Seitenhieb auf seine DDR - Erfahrungen kann sich Axel Noack , Pfarrer in Wolfen ( Sachsen - Anhalt ) und Mitglied im Rat der Evangelischen Kirchen in Deutschland , nicht [verkneifen] .",
+        "output": "Den [Seitenhieb | object] auf seine DDR - Erfahrungen kann [sich | indirect_object] [Axel | subject] Noack , Pfarrer in Wolfen ( Sachsen - Anhalt ) und Mitglied im Rat der Evangelischen Kirchen in Deutschland , nicht verkneifen ."
+    },
+    {
+        "input": "In diesem Sinne [wünsche] ich allen Lesern eine gute und unfallfreie Fahrt .",
+        "output": "In diesem Sinne wünsche [ich | subject] allen [Lesern | indirect_object] eine gute und unfallfreie [Fahrt | object] ."
+    },
+    {
+        "input": "Die Partei an der Saar [verordnete] sich inzwischen eine Erfrischungskur .",
+        "output": "Die [Partei | subject] an der Saar verordnete [sich | indirect_object] inzwischen eine [Erfrischungskur | object] ."
+    },
+    {
+        "input": "Ich war sichtlich enttäuscht : der \" XXL \" - Laden [nimmt] sich nichts zu den kleineren Filialen ( außer der lebenden Exemplare ) , die Mitarbeiter waren inkompetent , sofern sie überhaupt aufzufinden waren .",
+        "output": "Ich war sichtlich enttäuscht : der \" XXL \" - [Laden | subject] nimmt [sich | indirect_object] [nichts | object] zu den kleineren Filialen ( außer der lebenden Exemplare ) , die Mitarbeiter waren inkompetent , sofern sie überhaupt aufzufinden waren ."
+    },
+    {
+        "input": "Ich kann diese Tauchschule jeden wärmstens [empfehlen] .",
+        "output": "[Ich | subject] kann diese [Tauchschule | object] [jeden | indirect_object] wärmstens empfehlen ."
+    },
+    {
+        "input": "\" Welcher Kollege hat Ihnen denn 99 [gesagt] ? \"",
+        "output": "\" Welcher [Kollege | subject] hat [Ihnen | indirect_object] denn [99 | object] gesagt ? \""
+    },
+    {
+        "input": "Wole Soyinka bringt gern Festbräuche auf die Bühne , und trotz seiner bitteren Erfahrungen [gibt] er der lächelnden Komödie , die nicht zu seinen besten gehören mag , einen hoffnungsvollen , fast märchenhaften Schluß .",
+        "output": "Wole Soyinka bringt gern Festbräuche auf die Bühne , und trotz seiner bitteren Erfahrungen gibt [er | subject] der lächelnden [Komödie | indirect_object] , die nicht zu seinen besten gehören mag , einen hoffnungsvollen , fast märchenhaften [Schluß | object] ."
+    },
+    {
+        "input": "Jeder kann sich so ein eigenes Bild [machen] .",
+        "output": "[Jeder | subject] kann [sich | indirect_object] so ein eigenes [Bild | object] machen ."
+    },
+    {
+        "input": "Ist wirklich zu empfehlen und ich wundere mich immer wider , dass nach sovielen Jahren , der laden so wenig Bewertungen hat , deshalb habe ich mir jetzt ein Konto [eingerichtet] , um auch meine Meinung schreiben zu können .",
+        "output": "Ist wirklich zu empfehlen und ich wundere mich immer wider , dass nach sovielen Jahren , der laden so wenig Bewertungen hat , deshalb habe [ich | subject] [mir | indirect_object] jetzt ein [Konto | object] eingerichtet , um auch meine Meinung schreiben zu können ."
+    },
+    {
+        "input": "Der Kindergarten für drei Gruppen wurde in Niedrigenergiebauweise als kompaktes Gebäude angelegt , das im Norden der Witterung nur geringe Angriffsfläche [bietet] , während es sich im Südosten und Südwesten der Sonne öffnet .",
+        "output": "Der Kindergarten für drei Gruppen wurde in Niedrigenergiebauweise als kompaktes Gebäude angelegt , [das | subject] im Norden der [Witterung | indirect_object] nur geringe [Angriffsfläche | object] bietet , während es sich im Südosten und Südwesten der Sonne öffnet ."
+    },
+    {
+        "input": "Der Kindergarten für drei Gruppen wurde in Niedrigenergiebauweise als kompaktes Gebäude angelegt , das im Norden der Witterung nur geringe Angriffsfläche bietet , während es sich im Südosten und Südwesten der Sonne [öffnet] .",
+        "output": "Der Kindergarten für drei Gruppen wurde in Niedrigenergiebauweise als kompaktes Gebäude angelegt , das im Norden der Witterung nur geringe Angriffsfläche bietet , während [es | subject] [sich | object] im Südosten und Südwesten der [Sonne | indirect_object] öffnet ."
+    },
+    {
+        "input": "Allein der Deutsche Reisepreis - Sicherungsverein in München hat nach Angaben von Vorstandsmitglied Rudolf Wendorff in den vergangenen Monaten 25 Unternehmen wegen ihrer wirtschaftlichen Schieflage den Versicherungsvertrag [gekündigt] .",
+        "output": "Allein der Deutsche Reisepreis - [Sicherungsverein | subject] in München hat nach Angaben von Vorstandsmitglied Rudolf Wendorff in den vergangenen Monaten 25 [Unternehmen | indirect_object] wegen ihrer wirtschaftlichen Schieflage den [Versicherungsvertrag | object] gekündigt ."
+    },
+    {
+        "input": "Mir [macht] das nichts aus .",
+        "output": "[Mir | indirect_object] macht [das | subject] [nichts | object] aus ."
+    },
+    {
+        "input": "Schritt des IG - Metall - Vorsitzenden Klaus Zwickel , der Unternehmern und Regierung ein `` Bündnis für Arbeit '' [angeboten] hat , sagte Kanzler Kohl am Mittwoch im Bundestag `` : Wir werden dieses Angebot aufnehmen und darüber sprechen . ''",
+        "output": "Schritt des IG - Metall - Vorsitzenden Klaus Zwickel , [der | subject] [Unternehmern | indirect_object] und Regierung ein `` [Bündnis | object] für Arbeit '' angeboten hat , sagte Kanzler Kohl am Mittwoch im Bundestag `` : Wir werden dieses Angebot aufnehmen und darüber sprechen . ''"
+    },
+    {
+        "input": "Die Musiker beherrschen ihre Instrumente alle und brauchen sich nicht hinter einem Playback verstecken -- so [macht] zuhören Spass !",
+        "output": "Die Musiker beherrschen ihre Instrumente alle und brauchen sich nicht hinter einem Playback verstecken -- so macht [zuhören | subject] Spass !"
+    },
+    {
+        "input": "In Madrid [hieß] es , über 500 spanische Transporter mit frischem Obst und Gemüse steckten in den Staus auf Frankreichs Autobahnen .",
+        "output": "In Madrid hieß [es | subject] , über 500 spanische Transporter mit frischem Obst und Gemüse steckten in den Staus auf Frankreichs Autobahnen ."
+    },
+    {
+        "input": "In Madrid hieß es , über 500 spanische Transporter mit frischem Obst und Gemüse [steckten] in den Staus auf Frankreichs Autobahnen .",
+        "output": "In Madrid hieß es , über 500 spanische [Transporter | subject] mit frischem Obst und Gemüse steckten in den Staus auf Frankreichs Autobahnen ."
+    },
+    {
+        "input": "Außerdem [gehört] Herr Lansky zu den Anwälten , die gerade herraus sagen , wie die Chancen stehen , den Fall zu gewinnen oder nicht .",
+        "output": "Außerdem gehört Herr [Lansky | subject] zu den Anwälten , die gerade herraus sagen , wie die Chancen stehen , den Fall zu gewinnen oder nicht ."
+    },
+    {
+        "input": "Außerdem gehört Herr Lansky zu den Anwälten , die gerade herraus [sagen] , wie die Chancen stehen , den Fall zu gewinnen oder nicht .",
+        "output": "Außerdem gehört Herr Lansky zu den Anwälten , [die | subject] gerade herraus sagen , wie die Chancen stehen , den Fall zu gewinnen oder nicht ."
+    },
+    {
+        "input": "Außerdem gehört Herr Lansky zu den Anwälten , die gerade herraus sagen , wie die Chancen [stehen] , den Fall zu gewinnen oder nicht .",
+        "output": "Außerdem gehört Herr Lansky zu den Anwälten , die gerade herraus sagen , wie die [Chancen | subject] stehen , den Fall zu gewinnen oder nicht ."
+    },
+    {
+        "input": "Es [gibt] von meiner Seite nur zu bemängeln , dass ich nicht meiner Mobilität gefragt wurde und auf die Strassenbahn angewiesen war .",
+        "output": "[Es | subject] gibt von meiner Seite nur zu bemängeln , dass ich nicht meiner Mobilität gefragt wurde und auf die Strassenbahn angewiesen war ."
+    },
+    {
+        "input": "Freundlich und unkompliziert ist die Organisation in der Praxis , und der Besuch [erfolgte] , zumindest bei mir , immer schmerzfrei .",
+        "output": "Freundlich und unkompliziert ist die Organisation in der Praxis , und der [Besuch | subject] erfolgte , zumindest bei mir , immer schmerzfrei ."
+    },
+    {
+        "input": "Unkompliziert , schnell ( innerhalb 2 Stunden ) und günstig habe ich jetzt 4 neue Sommerreifen drauf ( die [waren] sowieso runter ) .",
+        "output": "Unkompliziert , schnell ( innerhalb 2 Stunden ) und günstig habe ich jetzt 4 neue Sommerreifen drauf ( [die | subject] waren sowieso runter ) ."
+    },
+    {
+        "input": "Die 27. Große Strafkammer [beriet] zunächst hinter verschlossenen Türen , dann eröffnete Bräutigam das Verfahren 527-1 / 95 dennoch .",
+        "output": "Die 27. [Große | subject] Strafkammer beriet zunächst hinter verschlossenen Türen , dann eröffnete Bräutigam das Verfahren 527-1 / 95 dennoch ."
+    },
+    {
+        "input": "`` Die [wollen] , daß ich im Westjordanland oder im Gaza - Streifen eine Fabrik baue '' , erzählt der Fleischfabrikant Heinz Annuss .",
+        "output": "`` [Die | subject] wollen , daß ich im Westjordanland oder im Gaza - Streifen eine Fabrik baue '' , erzählt der Fleischfabrikant Heinz Annuss ."
+    },
+    {
+        "input": "`` Die wollen , daß ich im Westjordanland oder im Gaza - Streifen eine Fabrik baue '' , [erzählt] der Fleischfabrikant Heinz Annuss .",
+        "output": "`` Die wollen , daß ich im Westjordanland oder im Gaza - Streifen eine Fabrik baue '' , erzählt der [Fleischfabrikant | subject] Heinz Annuss ."
+    },
+    {
+        "input": "Die von einem Datenbankproblem vorübergehend lahmgelegte Frankfurter Aktienbörse hat zum Wochenbeginn etwas schwächer [geschlossen] .",
+        "output": "Die von einem Datenbankproblem vorübergehend lahmgelegte Frankfurter [Aktienbörse | subject] hat zum Wochenbeginn etwas schwächer geschlossen ."
+    },
+    {
+        "input": "Für den Monatsbeitrag kann man dann an allen angebotenen Kursen ( täglich mehrere Kurse , auch Samstag und Sonntag ) [teilnehmen] .",
+        "output": "Für den Monatsbeitrag kann [man | subject] dann an allen angebotenen Kursen ( täglich mehrere Kurse , auch Samstag und Sonntag ) teilnehmen ."
+    },
+    {
+        "input": "Ich [war] für eine Woche in Berlin und habe leider erst am vorletzten Abend , dieses kleine und äußerst feine Restaurant entdeckt .",
+        "output": "[Ich | subject] war für eine Woche in Berlin und habe leider erst am vorletzten Abend , dieses kleine und äußerst feine Restaurant entdeckt ."
+    },
+    {
+        "input": "`` Es ist ein Bohren von dicken Brettern '' , [sagte] Professor Manfred Bauer , einer der Väter der Sozialpsychiatrie in Deutschland .",
+        "output": "`` Es ist ein Bohren von dicken Brettern '' , sagte [Professor | subject] Manfred Bauer , einer der Väter der Sozialpsychiatrie in Deutschland ."
+    },
+    {
+        "input": "Die Verlagerung von 80 000 Arbeitsplätzen ins Ausland während des ersten Halbjahres 1995 hat vielerorts wie ein Schock [gewirkt] .",
+        "output": "Die [Verlagerung | subject] von 80 000 Arbeitsplätzen ins Ausland während des ersten Halbjahres 1995 hat vielerorts wie ein Schock gewirkt ."
+    },
+    {
+        "input": "Zeitverlust [geht] auf Kosten der Menschen '' , unter anderem wegen der anhaltenden Abwanderung von Fachkräften in die Altländer .",
+        "output": "[Zeitverlust | subject] geht auf Kosten der Menschen '' , unter anderem wegen der anhaltenden Abwanderung von Fachkräften in die Altländer ."
+    },
+    {
+        "input": "`` Wir in der Wirtschaft [lernen] von eurer Erniedrigung und von euren Skandalen , daß wir noch mehr die Öffentlichkeit meiden müssen .",
+        "output": "`` [Wir | subject] in der Wirtschaft lernen von eurer Erniedrigung und von euren Skandalen , daß wir noch mehr die Öffentlichkeit meiden müssen ."
+    },
+    {
+        "input": "`` Wir in der Wirtschaft [lernen] von eurer Erniedrigung und von euren Skandalen , daß wir noch mehr die Öffentlichkeit meiden müssen .",
+        "output": "`` [Wir | subject] in der Wirtschaft lernen von eurer Erniedrigung und von euren Skandalen , daß wir noch mehr die Öffentlichkeit meiden müssen ."
+    },
+    {
+        "input": "\" Aber das Gericht hat dies nicht mit der Eindeutigkeit und der Klarheit getan , die wir uns gewünscht hätten '' , [sagte] er . \"",
+        "output": "\" Aber das Gericht hat dies nicht mit der Eindeutigkeit und der Klarheit getan , die wir uns gewünscht hätten '' , sagte [er | subject] . \""
+    },
+    {
+        "input": "Der Ex - Generalstabschef Colin Powell hat am Mittwoch [angekündigt] , er werde bei den Präsidentenwahlen in den USA nicht kandidieren .",
+        "output": "Der Ex - [Generalstabschef | subject] Colin Powell hat am Mittwoch angekündigt , er werde bei den Präsidentenwahlen in den USA nicht kandidieren ."
+    },
+    {
+        "input": "Der Ex - Generalstabschef Colin Powell hat am Mittwoch angekündigt , er werde bei den Präsidentenwahlen in den USA nicht [kandidieren] .",
+        "output": "Der Ex - Generalstabschef Colin Powell hat am Mittwoch angekündigt , [er | subject] werde bei den Präsidentenwahlen in den USA nicht kandidieren ."
+    },
+    {
+        "input": "`` Das Damoklesschwert einer militärischen Intervention wird über den Serben [hängen] '' , hieß es in der deutschen Delegation .",
+        "output": "`` Das [Damoklesschwert | subject] einer militärischen Intervention wird über den Serben hängen '' , hieß es in der deutschen Delegation ."
+    },
+    {
+        "input": "`` Das Damoklesschwert einer militärischen Intervention wird über den Serben hängen '' , [hieß] es in der deutschen Delegation .",
+        "output": "`` Das Damoklesschwert einer militärischen Intervention wird über den Serben hängen '' , hieß [es | subject] in der deutschen Delegation ."
+    },
+    {
+        "input": "In die Schlagzeilen [geriet] vor allem das zu Ihrem Einzugsbereich zählende Revier Bernau , wo Beamte Vietnamesen mißhandelten .",
+        "output": "In die Schlagzeilen geriet vor allem das zu Ihrem Einzugsbereich zählende [Revier | subject] Bernau , wo Beamte Vietnamesen mißhandelten ."
+    },
+    {
+        "input": "Selbst Kinder der zweiten und dritten Einwanderergeneration [gälten] immer noch als Ausländer mit entsprechend weniger Rechten .",
+        "output": "Selbst [Kinder | subject] der zweiten und dritten Einwanderergeneration gälten immer noch als Ausländer mit entsprechend weniger Rechten ."
+    },
+    {
+        "input": "Die Zucht - Muscheln schnüren der Nordsee die Luft ab , weil sie zur Algen - Düngung und Sauerstoffzehrung im Watt [beitragen] .",
+        "output": "Die Zucht - Muscheln schnüren der Nordsee die Luft ab , weil [sie | subject] zur Algen - Düngung und Sauerstoffzehrung im Watt beitragen ."
+    },
+    {
+        "input": "Ein Boykott könne auch auf Kosten von Arbeitsplätzen in den alten Ländern [gehen] , meinte er weiter in der Berliner `` Sonntagspost '' .",
+        "output": "Ein [Boykott | subject] könne auch auf Kosten von Arbeitsplätzen in den alten Ländern gehen , meinte er weiter in der Berliner `` Sonntagspost '' ."
+    },
+    {
+        "input": "Ein Boykott könne auch auf Kosten von Arbeitsplätzen in den alten Ländern gehen , [meinte] er weiter in der Berliner `` Sonntagspost '' .",
+        "output": "Ein Boykott könne auch auf Kosten von Arbeitsplätzen in den alten Ländern gehen , meinte [er | subject] weiter in der Berliner `` Sonntagspost '' ."
+    },
+    {
+        "input": "Fast alle der rund 4000 für internationale Routen bestimmten Lastwagen Spaniens [stehen] still , 500 stecken in den Staus in Frankreich .",
+        "output": "Fast [alle | subject] der rund 4000 für internationale Routen bestimmten Lastwagen Spaniens stehen still , 500 stecken in den Staus in Frankreich ."
+    },
+    {
+        "input": "Fast alle der rund 4000 für internationale Routen bestimmten Lastwagen Spaniens stehen still , 500 [stecken] in den Staus in Frankreich .",
+        "output": "Fast alle der rund 4000 für internationale Routen bestimmten Lastwagen Spaniens stehen still , [500 | subject] stecken in den Staus in Frankreich ."
+    },
+    {
+        "input": "The Independent hatte [berichtet] , Irving habe die Tagebücher den russischen Archiven für eine sechsstellige Summe abgekauft .",
+        "output": "The [Independent | subject] hatte berichtet , Irving habe die Tagebücher den russischen Archiven für eine sechsstellige Summe abgekauft ."
+    },
+    {
+        "input": "`` Die haben noch nicht unsere Neurose , sich immer streng unter Kontrolle haben zu müssen '' , [befindet] der Lachspezialist .",
+        "output": "`` Die haben noch nicht unsere Neurose , sich immer streng unter Kontrolle haben zu müssen '' , befindet der [Lachspezialist | subject] ."
+    },
+    {
+        "input": "Er hat vor einigen Jahren einen Orden von ihrem Hause überreicht [bekommen] und dies sicherlich nicht für überteuerte Preise .",
+        "output": "[Er | subject] hat vor einigen Jahren einen Orden von ihrem Hause überreicht bekommen und dies sicherlich nicht für überteuerte Preise ."
+    },
+    {
+        "input": "Nachfolgend ein kurzer Bericht meiner überaus negativen Erfahrungen : Auf den Werkstatttermin musste ich eine Woche [warten] .",
+        "output": "Nachfolgend ein kurzer Bericht meiner überaus negativen Erfahrungen : Auf den Werkstatttermin musste [ich | subject] eine Woche warten ."
+    },
+    {
+        "input": "Die Hansestadt , die auch Brückenkopf Richtung Nord - und Osteuropa ist , [wird] durch den EG - Binnenmarkt noch bedeutender .",
+        "output": "Die [Hansestadt | subject] , die auch Brückenkopf Richtung Nord - und Osteuropa ist , wird durch den EG - Binnenmarkt noch bedeutender ."
+    },
+    {
+        "input": "Wir haben verschiedene Tapas gegessen , die von der Anrichtung und Qualität einfach sehr gut [geschmeckt] haben und auch der Preis stimmt .",
+        "output": "Wir haben verschiedene Tapas gegessen , [die | subject] von der Anrichtung und Qualität einfach sehr gut geschmeckt haben und auch der Preis stimmt ."
+    },
+    {
+        "input": "Wir haben verschiedene Tapas gegessen , die von der Anrichtung und Qualität einfach sehr gut geschmeckt haben und auch der Preis [stimmt] .",
+        "output": "Wir haben verschiedene Tapas gegessen , die von der Anrichtung und Qualität einfach sehr gut geschmeckt haben und auch der [Preis | subject] stimmt ."
+    },
+    {
+        "input": "Damit [werden] Arbeitsplätze sicherer , Arbeitslose finden Arbeit , und die 35 - Stunden - Woche wird nicht durch Überstunden ausgehebelt .",
+        "output": "Damit werden [Arbeitsplätze | subject] sicherer , Arbeitslose finden Arbeit , und die 35 - Stunden - Woche wird nicht durch Überstunden ausgehebelt ."
+    },
+    {
+        "input": "Damit werden Arbeitsplätze sicherer , Arbeitslose finden Arbeit , und die 35 - Stunden - Woche wird nicht durch Überstunden [ausgehebelt] .",
+        "output": "Damit werden Arbeitsplätze sicherer , Arbeitslose finden Arbeit , und die 35 - Stunden - [Woche | subject] wird nicht durch Überstunden ausgehebelt ."
+    },
+    {
+        "input": "Bei dem Machtkampf zwischen ANC und Inkatha -- Freiheitspartei ( IFP ) sind seit 1984 mehr als 13 000 Schwarze [umgekommen] .",
+        "output": "Bei dem Machtkampf zwischen ANC und Inkatha -- Freiheitspartei ( IFP ) sind seit 1984 mehr als 13 000 [Schwarze | subject] umgekommen ."
+    },
+    {
+        "input": "Auch wenn ich nicht viel von Besuchen beim Zahnarzt [halte] , wer tut das schon gerne , kann ich nur sagen , die Frau versteht ihren Beruf .",
+        "output": "Auch wenn [ich | subject] nicht viel von Besuchen beim Zahnarzt halte , wer tut das schon gerne , kann ich nur sagen , die Frau versteht ihren Beruf ."
+    },
+    {
+        "input": "Auch wenn ich nicht viel von Besuchen beim Zahnarzt halte , wer tut das schon gerne , kann ich nur [sagen] , die Frau versteht ihren Beruf .",
+        "output": "Auch wenn ich nicht viel von Besuchen beim Zahnarzt halte , wer tut das schon gerne , kann [ich | subject] nur sagen , die Frau versteht ihren Beruf ."
+    },
+    {
+        "input": "Nach Darstellung Dokos [rücken] bosnische und kroatische Kräfte an mehreren Fronten vor und könnten den Ring um Sarajewo von außen sprengen .",
+        "output": "Nach Darstellung Dokos rücken bosnische und kroatische [Kräfte | subject] an mehreren Fronten vor und könnten den Ring um Sarajewo von außen sprengen ."
+    },
+    {
+        "input": "Die Karte ist riesig , weshalb ich schon von Anfang an [vermutete] , dass es mit der Frische nicht weit her ist und das bestätigte sich auch .",
+        "output": "Die Karte ist riesig , weshalb [ich | subject] schon von Anfang an vermutete , dass es mit der Frische nicht weit her ist und das bestätigte sich auch ."
+    },
+    {
+        "input": "Die Karte ist riesig , weshalb ich schon von Anfang an vermutete , dass es mit der Frische nicht weit her [ist] und das bestätigte sich auch .",
+        "output": "Die Karte ist riesig , weshalb ich schon von Anfang an vermutete , dass [es | subject] mit der Frische nicht weit her ist und das bestätigte sich auch ."
+    },
+    {
+        "input": "Im Abgeordnetenhaus , sonst ein Ort scharfer , aber peinlich auf gute Formen achtender Debatten , [flogen] die Fetzen auf niedrigstem Niveau .",
+        "output": "Im Abgeordnetenhaus , sonst ein Ort scharfer , aber peinlich auf gute Formen achtender Debatten , flogen die [Fetzen | subject] auf niedrigstem Niveau ."
+    },
+    {
+        "input": "Das Denkmal und die authentischen Tatorte seien keine Alternative , [betonte] der Vorsitzende der Jüdischen Gemeinde zu Berlin , Jerzy Kanal .",
+        "output": "Das Denkmal und die authentischen Tatorte seien keine Alternative , betonte der [Vorsitzende | subject] der Jüdischen Gemeinde zu Berlin , Jerzy Kanal ."
+    },
+    {
+        "input": "Auch zu beachten ist , dass das Angebot aus der Internetreferenz im Laden selber für unseren Bedarf sichtlich [fehlte] ...",
+        "output": "Auch zu beachten ist , dass das [Angebot | subject] aus der Internetreferenz im Laden selber für unseren Bedarf sichtlich fehlte ..."
+    },
+    {
+        "input": "Mehrere Kompanien der Bereitschaftspolizei CRS , ausgerüstet mit Schutzschilden und Tränengasgranaten [marschierten] auf .",
+        "output": "Mehrere [Kompanien | subject] der Bereitschaftspolizei CRS , ausgerüstet mit Schutzschilden und Tränengasgranaten marschierten auf ."
+    },
+    {
+        "input": "Die SPD - Abgeordneten Otto Schily und Friedhelm Julius Beucher [nannten] die Antworten `` lückenhaft und ausweichend '' .",
+        "output": "Die SPD - [Abgeordneten | subject] Otto Schily und Friedhelm Julius Beucher nannten die Antworten `` lückenhaft und ausweichend '' ."
+    },
+    {
+        "input": "Er habe zwei Angebote , `` und über die [verhandle] ich ab 7. November , wenn die Verlängerung dann nicht stattfindet '' .",
+        "output": "Er habe zwei Angebote , `` und über die verhandle [ich | subject] ab 7. November , wenn die Verlängerung dann nicht stattfindet '' ."
+    },
+    {
+        "input": "Er habe zwei Angebote , `` und über die verhandle ich ab 7. November , wenn die Verlängerung dann nicht [stattfindet] '' .",
+        "output": "Er habe zwei Angebote , `` und über die verhandle ich ab 7. November , wenn die [Verlängerung | subject] dann nicht stattfindet '' ."
+    },
+    {
+        "input": "Daraus politische Konsequenzen zu ziehen , täte not , bevor der bosnische Bürgerkrieg doch noch in einen internationalen Konflikt [umschlägt] .",
+        "output": "Daraus politische Konsequenzen zu ziehen , täte not , bevor der bosnische [Bürgerkrieg | subject] doch noch in einen internationalen Konflikt umschlägt ."
+    },
+    {
+        "input": "Der Gesamtumsatz auf dem hiesigen Markt dürfte 1992 acht Milliarden Mark erreichen , wovon 4,2 Milliarden auf den Sportfachhandel [entfallen] .",
+        "output": "Der Gesamtumsatz auf dem hiesigen Markt dürfte 1992 acht Milliarden Mark erreichen , wovon 4,2 [Milliarden | subject] auf den Sportfachhandel entfallen ."
+    },
+    {
+        "input": "Verschärft stellen sich die Probleme für Frauen dar , die oft freiwillig in Nachtschicht [gehen] , `` weil das familiär für mich ideal ist '' .",
+        "output": "Verschärft stellen sich die Probleme für Frauen dar , [die | subject] oft freiwillig in Nachtschicht gehen , `` weil das familiär für mich ideal ist '' ."
+    },
+    {
+        "input": "Zimmer sind vorsichtig [ausgedrückt] , schmuddelig , vor allem das Bad ist runtergewirtschaftet , schimmelige Deckenecken",
+        "output": "[Zimmer | subject] sind vorsichtig ausgedrückt , schmuddelig , vor allem das Bad ist runtergewirtschaftet , schimmelige Deckenecken"
+    },
+    {
+        "input": "Die Bundespolizei erhielt Informationen , denen zufolge das Trio `` [dabeigewesen] sein könnte , eine Bombe zu bauen '' .",
+        "output": "Die Bundespolizei erhielt Informationen , denen zufolge das [Trio | subject] `` dabeigewesen sein könnte , eine Bombe zu bauen '' ."
+    },
+    {
+        "input": "Zwei Geiseln seien nach Angaben der Entführer leicht [erkrankt] , würden aber behandelt , erklärte ein Behördensprecher .",
+        "output": "Zwei [Geiseln | subject] seien nach Angaben der Entführer leicht erkrankt , würden aber behandelt , erklärte ein Behördensprecher ."
+    },
+    {
+        "input": "Zwei Geiseln seien nach Angaben der Entführer leicht erkrankt , würden aber behandelt , [erklärte] ein Behördensprecher .",
+        "output": "Zwei Geiseln seien nach Angaben der Entführer leicht erkrankt , würden aber behandelt , erklärte ein [Behördensprecher | subject] ."
+    },
+    {
+        "input": "\" Präsident Franjo Tudjman hat erneut mit der militärischen Rückeroberung Ostslawoniens [gedroht] , wenn es zu keinem Abkommen kommen sollte . \"",
+        "output": "\" Präsident [Franjo | subject] Tudjman hat erneut mit der militärischen Rückeroberung Ostslawoniens gedroht , wenn es zu keinem Abkommen kommen sollte . \""
+    },
+    {
+        "input": "\" Präsident Franjo Tudjman hat erneut mit der militärischen Rückeroberung Ostslawoniens gedroht , wenn es zu keinem Abkommen [kommen] sollte . \"",
+        "output": "\" Präsident Franjo Tudjman hat erneut mit der militärischen Rückeroberung Ostslawoniens gedroht , wenn [es | subject] zu keinem Abkommen kommen sollte . \""
+    },
+    {
+        "input": "Die Wirtschaft [klagt] über die hohen Umweltstandards , die zu einem Nachteil im Standortwettbewerb würden und andere EU - Länder begünstigten .",
+        "output": "Die [Wirtschaft | subject] klagt über die hohen Umweltstandards , die zu einem Nachteil im Standortwettbewerb würden und andere EU - Länder begünstigten ."
+    },
+    {
+        "input": "Die Wirtschaft klagt über die hohen Umweltstandards , die zu einem Nachteil im Standortwettbewerb [würden] und andere EU - Länder begünstigten .",
+        "output": "Die Wirtschaft klagt über die hohen Umweltstandards , [die | subject] zu einem Nachteil im Standortwettbewerb würden und andere EU - Länder begünstigten ."
+    },
+    {
+        "input": "Und ohne diesen Tag [ist] die Geschichte der Selbstbehauptung mit Neumann und Reuter unter dem Schutz der drei Westmächte auch nicht erklärbar .",
+        "output": "Und ohne diesen Tag ist die [Geschichte | subject] der Selbstbehauptung mit Neumann und Reuter unter dem Schutz der drei Westmächte auch nicht erklärbar ."
+    },
+    {
+        "input": "Die SPD wolle die Verabschiedung des Berichts rückgängig machen , [sagte] Landesvorsitzender Steffen Reiche am Sonntag .",
+        "output": "Die SPD wolle die Verabschiedung des Berichts rückgängig machen , sagte [Landesvorsitzender | subject] Steffen Reiche am Sonntag ."
+    },
+    {
+        "input": "So [fuhren] auch diese mit ihren Traktoren auf und blockierten ihrerseits Eisenbahnstrecken -- vornehmlich im Rhonetal .",
+        "output": "So fuhren auch [diese | subject] mit ihren Traktoren auf und blockierten ihrerseits Eisenbahnstrecken -- vornehmlich im Rhonetal ."
+    },
+    {
+        "input": "Nach Verlusten 1994 erwartet Cap Gemini in diesem Jahr ein positives Ergebnis , wie eine Sprecherin in Paris [erklärt] .",
+        "output": "Nach Verlusten 1994 erwartet Cap Gemini in diesem Jahr ein positives Ergebnis , wie eine [Sprecherin | subject] in Paris erklärt ."
+    },
+    {
+        "input": "Da die Verbreitung der Kernenergie überall auf großen Widerstand [stoße] , führe an Öl , Kohle und Gas kein Weg vorbei .",
+        "output": "Da die [Verbreitung | subject] der Kernenergie überall auf großen Widerstand stoße , führe an Öl , Kohle und Gas kein Weg vorbei ."
+    },
+    {
+        "input": "Nur wenn die soziale und demokratische Gestaltung der Europäischen Union [gelingt] , werden die Menschen auch die politische Union unterstützen .",
+        "output": "Nur wenn die soziale und demokratische [Gestaltung | subject] der Europäischen Union gelingt , werden die Menschen auch die politische Union unterstützen ."
+    },
+    {
+        "input": "Die Zukunft des Jägers 90 [scheint] unmittelbar vor dem für Montag geplanten Besuch von Verteidigungsminister Volker Rühe in London weiter offen .",
+        "output": "Die [Zukunft | subject] des Jägers 90 scheint unmittelbar vor dem für Montag geplanten Besuch von Verteidigungsminister Volker Rühe in London weiter offen ."
+    },
+    {
+        "input": "[Hat] das denn zur Folge , daß die Jugendlichen sich Orientierungen suchen außerhalb der bislang traditionellen Vorbilder aus Familie und Schule ?",
+        "output": "Hat [das | subject] denn zur Folge , daß die Jugendlichen sich Orientierungen suchen außerhalb der bislang traditionellen Vorbilder aus Familie und Schule ?"
+    },
+    {
+        "input": "Die Vernichtung der irakischen C - Waffen soll laut UN in großem Umfang in Kürze [beginnen] und rund ein Jahr dauern .",
+        "output": "Die [Vernichtung | subject] der irakischen C - Waffen soll laut UN in großem Umfang in Kürze beginnen und rund ein Jahr dauern ."
+    },
+    {
+        "input": "( Bei den Damen und Herren des besagten Mobilfunkanbieters bin ich im Gegensatz dazu bisher ausschließlich auf arrogante Unkenntnis [gestossen] ) .",
+        "output": "( Bei den Damen und Herren des besagten Mobilfunkanbieters bin [ich | subject] im Gegensatz dazu bisher ausschließlich auf arrogante Unkenntnis gestossen ) ."
+    },
+    {
+        "input": "Auch für Probetermine nimmt sie sich sehr viel Zeit und zeichnet alles genaustens vor , so dass man sich vorstellen kann , wie das Ergebnis [ist] .",
+        "output": "Auch für Probetermine nimmt sie sich sehr viel Zeit und zeichnet alles genaustens vor , so dass man sich vorstellen kann , wie das [Ergebnis | subject] ist ."
+    },
+    {
+        "input": "Dazu muss man [sagen] , dass besagter ServiceMA gerade alle Stühle im geschlossenen Bereich aufgestellt und für spätere Gäste zurecht gerückt hat .",
+        "output": "Dazu muss [man | subject] sagen , dass besagter ServiceMA gerade alle Stühle im geschlossenen Bereich aufgestellt und für spätere Gäste zurecht gerückt hat ."
+    },
+    {
+        "input": "Nur Bonns Zukunftsminister Jürgen Rüttgers [hält] noch am Projekt fest , weil er ITER im ostdeutschen Städtchen Greifswald hochziehen lassen will .",
+        "output": "Nur Bonns [Zukunftsminister | subject] Jürgen Rüttgers hält noch am Projekt fest , weil er ITER im ostdeutschen Städtchen Greifswald hochziehen lassen will ."
+    },
+    {
+        "input": "Die Bundesbahn [teilte] am Sonntag mit , der Schnellzug D 1273 von Köln nach Port Bou an der südfranzösisch - spanischen Grenze falle vorerst aus .",
+        "output": "Die [Bundesbahn | subject] teilte am Sonntag mit , der Schnellzug D 1273 von Köln nach Port Bou an der südfranzösisch - spanischen Grenze falle vorerst aus ."
+    },
+    {
+        "input": "Die Bundesbahn teilte am Sonntag mit , der Schnellzug D 1273 von Köln nach Port Bou an der südfranzösisch - spanischen Grenze [falle] vorerst aus .",
+        "output": "Die Bundesbahn teilte am Sonntag mit , der [Schnellzug | subject] D 1273 von Köln nach Port Bou an der südfranzösisch - spanischen Grenze falle vorerst aus ."
+    },
+    {
+        "input": "`` Wer in Arbeitsgruppen [arbeitet] , kann das auch noch zwei Tage vorher mit seinen Kollegen abmachen '' , sagte Personalchef Bernd Richter dazu .",
+        "output": "`` [Wer | subject] in Arbeitsgruppen arbeitet , kann das auch noch zwei Tage vorher mit seinen Kollegen abmachen '' , sagte Personalchef Bernd Richter dazu ."
+    },
+    {
+        "input": "`` Wer in Arbeitsgruppen arbeitet , kann das auch noch zwei Tage vorher mit seinen Kollegen abmachen '' , [sagte] Personalchef Bernd Richter dazu .",
+        "output": "`` Wer in Arbeitsgruppen arbeitet , kann das auch noch zwei Tage vorher mit seinen Kollegen abmachen '' , sagte [Personalchef | subject] Bernd Richter dazu ."
+    },
+    {
+        "input": "Bei einem Bombenanschlag sind am Samstag in der libanesischen Stadt Dschunije zwei Menschen ums Leben [gekommen] und drei weitere verletzt worden .",
+        "output": "Bei einem Bombenanschlag sind am Samstag in der libanesischen Stadt Dschunije zwei [Menschen | subject] ums Leben gekommen und drei weitere verletzt worden ."
+    },
+    {
+        "input": "`` Lächerlich und inhuman '' sei das Machwerk , eine `` Zumutung '' , [befand] Rauf Denktasch , Chef der türkischen Volksgruppe im Norden Zyperns .",
+        "output": "`` Lächerlich und inhuman '' sei das Machwerk , eine `` Zumutung '' , befand [Rauf | subject] Denktasch , Chef der türkischen Volksgruppe im Norden Zyperns ."
+    },
+    {
+        "input": "Auch das offizielle Syrien -- bemerkenswerter noch Irak -- [reagierten] zunächst mit keiner amtlichen Stellungnahme .",
+        "output": "Auch das offizielle [Syrien | subject] -- bemerkenswerter noch Irak -- reagierten zunächst mit keiner amtlichen Stellungnahme ."
+    },
+    {
+        "input": "Zu ihrem Bericht : Vielleicht sollten sie nicht so viel im Internet [lesen] und das noch während der Arbeitszeit ? !",
+        "output": "Zu ihrem Bericht : Vielleicht sollten [sie | subject] nicht so viel im Internet lesen und das noch während der Arbeitszeit ? !"
+    },
+    {
+        "input": "Mancherlei Abfälliges ist über den Fünfakter geschrieben worden , dessen Zeit vielleicht erst jetzt [gekommen] ist .",
+        "output": "Mancherlei Abfälliges ist über den Fünfakter geschrieben worden , dessen [Zeit | subject] vielleicht erst jetzt gekommen ist ."
+    },
+    {
+        "input": "Das Gremium [hofft] , daß sich die zuständigen Behörden weltweit den neuen Mindestanforderungen anschließen werden .",
+        "output": "Das [Gremium | subject] hofft , daß sich die zuständigen Behörden weltweit den neuen Mindestanforderungen anschließen werden ."
+    },
+    {
+        "input": "Der Vorteil [sei] daß bei gleichem Einsatz mehr Quartiere herausspringen als im herkömmlichen sozialen Wohnungsbau .",
+        "output": "Der [Vorteil | subject] sei daß bei gleichem Einsatz mehr Quartiere herausspringen als im herkömmlichen sozialen Wohnungsbau ."
+    },
+    {
+        "input": "Der Vorteil sei daß bei gleichem Einsatz mehr Quartiere [herausspringen] als im herkömmlichen sozialen Wohnungsbau .",
+        "output": "Der Vorteil sei daß bei gleichem Einsatz mehr [Quartiere | subject] herausspringen als im herkömmlichen sozialen Wohnungsbau ."
+    },
+    {
+        "input": "Mischlinge , die bisher gegen die `` Schwarzen '' im ANC [stimmten] , entscheiden jetzt eher anhand von Sachfragen .",
+        "output": "Mischlinge , [die | subject] bisher gegen die `` Schwarzen '' im ANC stimmten , entscheiden jetzt eher anhand von Sachfragen ."
+    },
+    {
+        "input": "Mischlinge , die bisher gegen die `` Schwarzen '' im ANC stimmten , [entscheiden] jetzt eher anhand von Sachfragen .",
+        "output": "[Mischlinge | subject] , die bisher gegen die `` Schwarzen '' im ANC stimmten , entscheiden jetzt eher anhand von Sachfragen ."
+    },
+    {
+        "input": "In der Bundesrepublik [leben] noch grob geschätzt rund 100 000 Asylbewerber aus Libanon und über 10 000 aus Syrien .",
+        "output": "In der Bundesrepublik leben noch grob geschätzt rund 100 000 [Asylbewerber | subject] aus Libanon und über 10 000 aus Syrien ."
+    },
+    {
+        "input": "Es müsse absolute Klarheit über die Befehlsstruktur [herrschen] , das Eurokorps müßte unter dem Schirm der Westeuropäischen Union ( WEU ) operieren .",
+        "output": "Es müsse absolute [Klarheit | subject] über die Befehlsstruktur herrschen , das Eurokorps müßte unter dem Schirm der Westeuropäischen Union ( WEU ) operieren ."
+    },
+    {
+        "input": "Es müsse absolute Klarheit über die Befehlsstruktur herrschen , das Eurokorps müßte unter dem Schirm der Westeuropäischen Union ( WEU ) [operieren] .",
+        "output": "Es müsse absolute Klarheit über die Befehlsstruktur herrschen , das [Eurokorps | subject] müßte unter dem Schirm der Westeuropäischen Union ( WEU ) operieren ."
+    },
+    {
+        "input": "Aus Andeutungen , Gesprächen und Denkmodellen [schließt] die Organisation , daß bis Ende 1999 insgesamt 58 500 Arbeitsplätze zur Disposition stehen .",
+        "output": "Aus Andeutungen , Gesprächen und Denkmodellen schließt die [Organisation | subject] , daß bis Ende 1999 insgesamt 58 500 Arbeitsplätze zur Disposition stehen ."
+    },
+    {
+        "input": "Aus Andeutungen , Gesprächen und Denkmodellen schließt die Organisation , daß bis Ende 1999 insgesamt 58 500 Arbeitsplätze zur Disposition [stehen] .",
+        "output": "Aus Andeutungen , Gesprächen und Denkmodellen schließt die Organisation , daß bis Ende 1999 insgesamt 58 500 [Arbeitsplätze | subject] zur Disposition stehen ."
+    },
+    {
+        "input": "Westerwelle begründete diese Forderung am Montag in Bonn damit , daß es nach dem Urnengang am 22. Oktober zu einem `` Machtvakuum '' [gekommen] sei .",
+        "output": "Westerwelle begründete diese Forderung am Montag in Bonn damit , daß [es | subject] nach dem Urnengang am 22. Oktober zu einem `` Machtvakuum '' gekommen sei ."
+    },
+    {
+        "input": "Auf unserer Elberadweg - Tour haben wir im \" Kranhaus \" einen Abend [verweilen] können und haben es sehr genossen .",
+        "output": "Auf unserer Elberadweg - Tour haben [wir | subject] im \" Kranhaus \" einen Abend verweilen können und haben es sehr genossen ."
+    },
+    {
+        "input": "Dabei [geht] es laut Rexrodt um den Zeitpunkt der abendlichen Geschäftsschlußzeiten an Werktagen sowie am Samstag .",
+        "output": "Dabei geht [es | subject] laut Rexrodt um den Zeitpunkt der abendlichen Geschäftsschlußzeiten an Werktagen sowie am Samstag ."
+    },
+    {
+        "input": "Sein Vermögen wird auf zehn Milliarden Dollar taxiert -- wenn es [stimmt] , daß er an seinem Familienkonzern Kokudo nur mit 40 Prozent beteiligt ist .",
+        "output": "Sein Vermögen wird auf zehn Milliarden Dollar taxiert -- wenn [es | subject] stimmt , daß er an seinem Familienkonzern Kokudo nur mit 40 Prozent beteiligt ist ."
+    },
+    {
+        "input": "Sein Vermögen wird auf zehn Milliarden Dollar taxiert -- wenn es stimmt , daß er an seinem Familienkonzern Kokudo nur mit 40 Prozent [beteiligt] ist .",
+        "output": "Sein Vermögen wird auf zehn Milliarden Dollar taxiert -- wenn es stimmt , daß [er | subject] an seinem Familienkonzern Kokudo nur mit 40 Prozent beteiligt ist ."
+    },
+    {
+        "input": "Nachdem die Serben bereits vor Wochen ihren eigenen Staat `` Serbische Republik Bosnien - Herzegowina '' ausgerufen haben , [zogen] die Kroaten nach .",
+        "output": "Nachdem die Serben bereits vor Wochen ihren eigenen Staat `` Serbische Republik Bosnien - Herzegowina '' ausgerufen haben , zogen die [Kroaten | subject] nach ."
+    },
+    {
+        "input": "Leider , ja wirklich leider , sind meine Frau und ich , die wir um die Ecke [wohnen] , bereits endtäuscht worden .",
+        "output": "Leider , ja wirklich leider , sind meine Frau und ich , [die | subject] wir um die Ecke wohnen , bereits endtäuscht worden ."
+    },
+    {
+        "input": "Wer in einer angenehmen Atmosphäre und bei Sonne [segeln] oder segeln lernen möchte , der ist hier genau richtig .",
+        "output": "[Wer | subject] in einer angenehmen Atmosphäre und bei Sonne segeln oder segeln lernen möchte , der ist hier genau richtig ."
+    },
+    {
+        "input": "Ich hatte einen gebacken Feta als Vorspeise bestellt und ich muss leider [sagen] , dass ich dessen Qualität auch mit Aldi Tiefkühlkost erreicht hätte !",
+        "output": "Ich hatte einen gebacken Feta als Vorspeise bestellt und [ich | subject] muss leider sagen , dass ich dessen Qualität auch mit Aldi Tiefkühlkost erreicht hätte !"
+    },
+    {
+        "input": "Dazu haben wir am Mittag telefonisch im unteren Bereich des Restaurant 15 Plätze mit Snacks reserevieren [lassen]",
+        "output": "Dazu haben [wir | subject] am Mittag telefonisch im unteren Bereich des Restaurant 15 Plätze mit Snacks reserevieren lassen"
+    },
+    {
+        "input": "Der Friedensprozeß in Nordirland [ist] nach Ansicht des Sinn - Fein - Präsidenten Gerry Adams in ernster Gefahr .",
+        "output": "Der [Friedensprozeß | subject] in Nordirland ist nach Ansicht des Sinn - Fein - Präsidenten Gerry Adams in ernster Gefahr ."
+    },
+    {
+        "input": "Der Professor für Raumplanung [verwies] auf die Schwierigkeiten des Eurotunnels zwischen Frankreich und England .",
+        "output": "Der [Professor | subject] für Raumplanung verwies auf die Schwierigkeiten des Eurotunnels zwischen Frankreich und England ."
+    },
+    {
+        "input": "Im DGB [herrscht] nicht nur eitle Freude über den zweiten Zusammenschluß in der Geschichte der Dachorganisation .",
+        "output": "Im DGB herrscht nicht nur eitle [Freude | subject] über den zweiten Zusammenschluß in der Geschichte der Dachorganisation ."
+    },
+    {
+        "input": "Freilich können Symbole sich auch verschleißen , ebenso wie die bloße Konfrontation auf Dauer nicht [ausreicht] ;",
+        "output": "Freilich können Symbole sich auch verschleißen , ebenso wie die bloße [Konfrontation | subject] auf Dauer nicht ausreicht ;"
+    },
+    {
+        "input": "US - Präsident William Jefferson Clinton , der wie so viele die tiefe , rauhe Stimme Rabins vermißte , [schien] gut informiert über die Lage in Israel .",
+        "output": "US - [Präsident | subject] William Jefferson Clinton , der wie so viele die tiefe , rauhe Stimme Rabins vermißte , schien gut informiert über die Lage in Israel ."
+    },
+    {
+        "input": "Während manche Suspendierung mit einer Weiterzahlung des Gehaltes [einhergeht] , wurde ihm auch das gestrichen .",
+        "output": "Während manche [Suspendierung | subject] mit einer Weiterzahlung des Gehaltes einhergeht , wurde ihm auch das gestrichen ."
+    },
+    {
+        "input": "Für nach 1986 gebaute respektive gekaufte Häuser [entfällt] der Ansatz eines Mietwertes für die eigene Wohnung .",
+        "output": "Für nach 1986 gebaute respektive gekaufte Häuser entfällt der [Ansatz | subject] eines Mietwertes für die eigene Wohnung ."
+    },
+    {
+        "input": "Kolleginnen und Kollegen , ich [weiß] , daß ich damit Tabus tangiere und wahrscheinlich auch Aufregung auslöse .",
+        "output": "Kolleginnen und Kollegen , [ich | subject] weiß , daß ich damit Tabus tangiere und wahrscheinlich auch Aufregung auslöse ."
+    },
+    {
+        "input": "Zudem wollen beide Seiten noch 1995 in Verhandlungen über eine neue betriebliche Altersversorgung [einsteigen] .",
+        "output": "Zudem wollen beide [Seiten | subject] noch 1995 in Verhandlungen über eine neue betriebliche Altersversorgung einsteigen ."
+    },
+    {
+        "input": "Die Bereitschaftspolizei [rückte] an mehreren zentralen Sperren massiv und mit Panzerfahrzeugen gegen Lkw vor .",
+        "output": "Die [Bereitschaftspolizei | subject] rückte an mehreren zentralen Sperren massiv und mit Panzerfahrzeugen gegen Lkw vor ."
+    },
+    {
+        "input": "Der Computerbauer SNI hatte schon vor einiger Zeit [bekanntgegeben] , daß er weitere 3000 Jobs streichen will .",
+        "output": "Der Computerbauer [SNI | subject] hatte schon vor einiger Zeit bekanntgegeben , daß er weitere 3000 Jobs streichen will ."
+    },
+    {
+        "input": "Rulewski [teilte] danach mit , daß der Präsident die Initiative der Parteien `` sehr warm '' aufgenommen habe .",
+        "output": "[Rulewski | subject] teilte danach mit , daß der Präsident die Initiative der Parteien `` sehr warm '' aufgenommen habe ."
+    },
+    {
+        "input": "Zudem [profitieren] die Essener vom Image der `` umweltfreundlichen und sauberen '' Verbrennung ihrer Energie .",
+        "output": "Zudem profitieren die [Essener | subject] vom Image der `` umweltfreundlichen und sauberen '' Verbrennung ihrer Energie ."
+    },
+    {
+        "input": "Die Bielefelder [veräußern] den Nuß - und Knabberartikelhersteller zu einem nicht genannten Preis an Maria May aus der Eigentümerfamilie der May - Werke .",
+        "output": "Die [Bielefelder | subject] veräußern den Nuß - und Knabberartikelhersteller zu einem nicht genannten Preis an Maria May aus der Eigentümerfamilie der May - Werke ."
+    },
+    {
+        "input": "Mitte Dezember soll das Europaparlament über die Verwirklichung einer Zollunion der Türkei mit der EU [entscheiden] , die zum 1. Januar 1996 geplant ist .",
+        "output": "Mitte Dezember soll das [Europaparlament | subject] über die Verwirklichung einer Zollunion der Türkei mit der EU entscheiden , die zum 1. Januar 1996 geplant ist ."
+    },
+    {
+        "input": "Starr vor Entsetzen habe er mit [ansehen] müssen , wie sein Freund in den vermeintlich sicheren Tod stürzte , berichtete der unverletzt gebliebene Jones .",
+        "output": "Starr vor Entsetzen habe [er | subject] mit ansehen müssen , wie sein Freund in den vermeintlich sicheren Tod stürzte , berichtete der unverletzt gebliebene Jones ."
+    },
+    {
+        "input": "Starr vor Entsetzen habe er mit ansehen müssen , wie sein Freund in den vermeintlich sicheren Tod [stürzte] , berichtete der unverletzt gebliebene Jones .",
+        "output": "Starr vor Entsetzen habe er mit ansehen müssen , wie sein [Freund | subject] in den vermeintlich sicheren Tod stürzte , berichtete der unverletzt gebliebene Jones ."
+    },
+    {
+        "input": "Starr vor Entsetzen habe er mit ansehen müssen , wie sein Freund in den vermeintlich sicheren Tod stürzte , [berichtete] der unverletzt gebliebene Jones .",
+        "output": "Starr vor Entsetzen habe er mit ansehen müssen , wie sein Freund in den vermeintlich sicheren Tod stürzte , berichtete der unverletzt gebliebene [Jones | subject] ."
+    },
+    {
+        "input": "Der Bahn [fehlten] in den nächsten zehn Jahren bis zu 400 Milliarden Mark , für die Waigel nicht ausreichend Vorsorge getroffen habe .",
+        "output": "Der [Bahn | indirect_object] fehlten in den nächsten zehn Jahren bis zu 400 Milliarden [Mark | subject] , für die Waigel nicht ausreichend Vorsorge getroffen habe ."
+    },
+    {
+        "input": "Wer sich [zutraut] , sein Geld ohne Beratung anzulegen , kann bei den sogenannten Discount - oder Direktbanken Gebühren sparen .",
+        "output": "[Wer | subject] [sich | indirect_object] zutraut , sein Geld ohne Beratung anzulegen , kann bei den sogenannten Discount - oder Direktbanken Gebühren sparen ."
+    },
+    {
+        "input": "Der israelische Ministerpräsident Yitzhak Rabin ist nach Erkenntnissen der Polizei einer rechtsradikalen Verschwörung zum Opfer [gefallen] .",
+        "output": "Der israelische [Ministerpräsident | subject] Yitzhak Rabin ist nach Erkenntnissen der Polizei einer rechtsradikalen [Verschwörung | indirect_object] zum Opfer gefallen ."
+    },
+    {
+        "input": "Auch für Probetermine nimmt sie sich sehr viel Zeit und zeichnet alles genaustens vor , so dass man sich [vorstellen] kann , wie das Ergebnis ist .",
+        "output": "Auch für Probetermine nimmt sie sich sehr viel Zeit und zeichnet alles genaustens vor , so dass [man | subject] [sich | indirect_object] vorstellen kann , wie das Ergebnis ist ."
+    },
+    {
+        "input": "`` Das ist die erste intelligente Äußerung , die ich von der IG Metall seit Jahren höre '' , [sagte] Stihl der FR .",
+        "output": "`` Das ist die erste intelligente Äußerung , die ich von der IG Metall seit Jahren höre '' , sagte [Stihl | subject] der [FR | indirect_object] ."
+    },
+    {
+        "input": "Dem Park [fehlt] eine Spitzenattraktion / ein Highlight , wie eine Achterbahn mit Katapultstart und Überschlägen .",
+        "output": "Dem [Park | indirect_object] fehlt eine [Spitzenattraktion | subject] / ein Highlight , wie eine Achterbahn mit Katapultstart und Überschlägen ."
+    },
+    {
+        "input": "Zwei Themen , die Perot immer wieder anspricht , Rezession und Bürokratie , [machen] ihnen besonders zu schaffen .",
+        "output": "Zwei [Themen | subject] , die Perot immer wieder anspricht , Rezession und Bürokratie , machen [ihnen | indirect_object] besonders zu schaffen ."
+    },
+    {
+        "input": "Danach haben wir uns von der netten Bedienung das Angebot der Tages empfehlen lassen und zwar Atun a la malaguena ( habe ich mir extra [aufgeschrieben] ) .",
+        "output": "Danach haben wir uns von der netten Bedienung das Angebot der Tages empfehlen lassen und zwar Atun a la malaguena ( habe [ich | subject] [mir | indirect_object] extra aufgeschrieben ) ."
+    },
+    {
+        "input": "Waffenschmidt versicherte , daß der russische Regierungschef , Jegor Gaidar , einer Unterzeichnung am heutigen Montag bereits vergangene Woche [zugestimmt] habe .",
+        "output": "Waffenschmidt versicherte , daß der russische [Regierungschef | subject] , Jegor Gaidar , einer [Unterzeichnung | indirect_object] am heutigen Montag bereits vergangene Woche zugestimmt habe ."
+    },
+    {
+        "input": "Das letzte Mal war ich vor ein paar Wochen dort und muss sagen , dass es mir sehr gut [gefallen] hat .",
+        "output": "Das letzte Mal war ich vor ein paar Wochen dort und muss sagen , dass [es | subject] [mir | indirect_object] sehr gut gefallen hat ."
+    },
+    {
+        "input": "`` Den Herren Rao und Singh [gebührt] ein Platz in der Geschichte '' , resumiert das britische Blatt .",
+        "output": "`` Den [Herren | indirect_object] Rao und Singh gebührt ein [Platz | subject] in der Geschichte '' , resumiert das britische Blatt ."
+    },
+    {
+        "input": "Dabei [signalisierte] mir das Fahrzeug , dass sich kein Wasser mehr im Kühlkreislauf befinden würde .",
+        "output": "Dabei signalisierte [mir | indirect_object] das [Fahrzeug | subject] , dass sich kein Wasser mehr im Kühlkreislauf befinden würde ."
+    },
+    {
+        "input": "Sagen Sie , daß Sie sich das nicht mehr gefallen lassen '' , [ruft] er den Frauen und Männern zu .",
+        "output": "Sagen Sie , daß Sie sich das nicht mehr gefallen lassen '' , ruft [er | subject] den [Frauen | indirect_object] und Männern zu ."
+    },
+    {
+        "input": "Zorn des Zyprioten [galt] einer geheimen Landkarte , die er der türkisch -- zypriotischen Presse hatte zustekken lassen , um sich darüber öffentlich erregen zu können .",
+        "output": "[Zorn | subject] des Zyprioten galt einer geheimen [Landkarte | indirect_object] , die er der türkisch -- zypriotischen Presse hatte zustekken lassen , um sich darüber öffentlich erregen zu können ."
+    },
+    {
+        "input": "Ganz so deutlich hätte ich es mir nicht [getraut] zu schreiben , aber da ist schon was dran ! :)",
+        "output": "Ganz so deutlich hätte [ich | subject] es [mir | indirect_object] nicht getraut zu schreiben , aber da ist schon was dran ! :)"
+    },
+    {
+        "input": "\" mit Hilfe der aus anderen Orten herbeigeeilten Militäreinheiten und mit Verhängung des Ausnahmezustandes [gelang] es den lokalen Machthabern , der Lage Herr zu werden . \"",
+        "output": "\" mit Hilfe der aus anderen Orten herbeigeeilten Militäreinheiten und mit Verhängung des Ausnahmezustandes gelang [es | subject] den lokalen [Machthabern | indirect_object] , der Lage Herr zu werden . \""
+    },
+    {
+        "input": "Der Präsident Aserbaidschans , Abulfas Eltschibej , [blieb] der Versammlung in Moskau fern .",
+        "output": "Der [Präsident | subject] Aserbaidschans , Abulfas Eltschibej , blieb der [Versammlung | indirect_object] in Moskau fern ."
+    },
+    {
+        "input": "Sie sind keine selbstverliebten Künstler sondern super Dienstleister -- das [gefällt] uns .",
+        "output": "Sie sind keine selbstverliebten Künstler sondern super Dienstleister -- [das | subject] gefällt [uns | indirect_object] ."
+    },
+    {
+        "input": "Die Wahlkommission kündigte an , sie werde der Entscheidung des Gerichtes [entsprechen] .",
+        "output": "Die Wahlkommission kündigte an , [sie | subject] werde der [Entscheidung | indirect_object] des Gerichtes entsprechen ."
+    },
+    {
+        "input": "Da kann man sich sicher [vorstellen] , wie das Personal mit der Brille umgegangen ist .",
+        "output": "Da kann [man | subject] [sich | indirect_object] sicher vorstellen , wie das Personal mit der Brille umgegangen ist ."
+    },
+    {
+        "input": "Der CDU - Chef [warf] dem Ministerpräsidenten Oskar Lafontaine vor , mit seiner Finanzpolitik im Lande ebenso gescheitert zu sein wie mit seiner Stahl - oder Wirtschaftspolitik .",
+        "output": "Der CDU - [Chef | subject] warf dem [Ministerpräsidenten | indirect_object] Oskar Lafontaine vor , mit seiner Finanzpolitik im Lande ebenso gescheitert zu sein wie mit seiner Stahl - oder Wirtschaftspolitik ."
+    },
+    {
+        "input": "Die anderen hatten teilweise Gemüse , was mir auch eher nach Tiefkühlkost [aussah] .",
+        "output": "Die anderen hatten teilweise Gemüse , [was | subject] [mir | indirect_object] auch eher nach Tiefkühlkost aussah ."
+    },
+    {
+        "input": "Ok , da hätte uns eigentlich schon was komisch [vorkommen] müssen .",
+        "output": "Ok , da hätte [uns | indirect_object] eigentlich schon [was | subject] komisch vorkommen müssen ."
+    },
+    {
+        "input": "Die Delegierten [folgten] außerdem der Empfehlung des Landesausschusses , über einige Anträge für einen Gang in die Opposition erst auf dem nächsten Parteitag , der für Mitte Dezember vorgesehen ist , abzustimmen .",
+        "output": "Die [Delegierten | subject] folgten außerdem der [Empfehlung | indirect_object] des Landesausschusses , über einige Anträge für einen Gang in die Opposition erst auf dem nächsten Parteitag , der für Mitte Dezember vorgesehen ist , abzustimmen ."
+    },
+    {
+        "input": "Wie es dem Stahl [geht] , so geht es dem Land .",
+        "output": "Wie [es | subject] dem [Stahl | indirect_object] geht , so geht es dem Land ."
+    },
+    {
+        "input": "Wie es dem Stahl geht , so [geht] es dem Land .",
+        "output": "Wie es dem Stahl geht , so geht [es | subject] dem [Land | indirect_object] ."
+    },
+    {
+        "input": "Es würde uns sonst was [fehlen] .",
+        "output": "Es würde [uns | indirect_object] sonst [was | subject] fehlen ."
+    },
+    {
+        "input": "Das hat der Partei [genutzt] .",
+        "output": "[Das | subject] hat der [Partei | indirect_object] genutzt ."
+    },
+    {
+        "input": "De Klerk versuche die Gewalt in den Schwarzensiedlungen als internen Machtkampf unter Schwarzen darzustellen , statt sich der `` zentralen Rolle der Sicherheitskräfte '' bei den Unruhen zuzuwenden , denen in drei Jahren 8000 Menschen zum Opfer [fielen] .",
+        "output": "De Klerk versuche die Gewalt in den Schwarzensiedlungen als internen Machtkampf unter Schwarzen darzustellen , statt sich der `` zentralen Rolle der Sicherheitskräfte '' bei den Unruhen zuzuwenden , [denen | indirect_object] in drei Jahren 8000 [Menschen | subject] zum Opfer fielen ."
+    },
+    {
+        "input": "Thorsten Geißler , CDU - Obmann im Schubladen - Ausschuß des Kieler Landtags , [warf] der SPD am Wochenende vor , 1987 nur durch Wahlbetrug in Kiel an die Macht gekommen zu sein , und forderte die Staatsanwaltschaft zu Ermittlungen gegen SPD - Politiker wegen Falschaussagen auf .",
+        "output": "[Thorsten | subject] Geißler , CDU - Obmann im Schubladen - Ausschuß des Kieler Landtags , warf der [SPD | indirect_object] am Wochenende vor , 1987 nur durch Wahlbetrug in Kiel an die Macht gekommen zu sein , und forderte die Staatsanwaltschaft zu Ermittlungen gegen SPD - Politiker wegen Falschaussagen auf ."
+    }
+]

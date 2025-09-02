@@ -1,0 +1,18 @@
+[
+    {
+        "input": "Come se la lontananza da quel giorno , la presenza sulla stessa pista di Mike Marsh e Yuji Nakamura , [rammentasse] solo un brutto sogno dell' umanità .",
+        "output": "Come se la [lontananza | subject] da quel giorno , la presenza sulla stessa pista di Mike Marsh e Yuji Nakamura , rammentasse solo un brutto [sogno | object] dell' umanità ."
+    },
+    {
+        "input": "C' [è] sicuramente una maggioranza favorevole in Parlamento , però questa minoranza viscerale potrebbe cercare in qualche modo di fermare la riforma \" .",
+        "output": "C' è sicuramente una [maggioranza | subject] favorevole in Parlamento , però questa minoranza viscerale potrebbe cercare in qualche modo di fermare la riforma \" ."
+    },
+    {
+        "input": "\" Il ministro Susanna Agnelli ci ha [telefonato] di persona - dice Colombo - , ma dalla Farnesina la collaborazione all' inizio è stata scarsissima \" .",
+        "output": "\" Il [ministro | subject] Susanna Agnelli [ci | indirect_object] ha telefonato di persona - dice Colombo - , ma dalla Farnesina la collaborazione all' inizio è stata scarsissima \" ."
+    },
+    {
+        "input": "Sul fronte romanista , invece , la squadra di Mazzone si è [concessa] due giorni di riposo dopo le tre settimane di preparazione effettuate a Lavarone .",
+        "output": "Sul fronte romanista , invece , la [squadra | subject] di Mazzone [si | indirect_object] è concessa due [giorni | object] di riposo dopo le tre settimane di preparazione effettuate a Lavarone ."
+    }
+]

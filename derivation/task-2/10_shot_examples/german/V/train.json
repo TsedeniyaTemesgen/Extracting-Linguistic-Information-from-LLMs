@@ -1,0 +1,119 @@
+[
+    {
+        "lemma": "urban",
+        "surface_word": "urbanisieren",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-isieren",
+        "prefix": [],
+        "suffix": "-isieren",
+        "alternative_0": "urban<ADJ> isieren<V_SUFF>",
+        "sub_words": "urban<ADJ> isieren<V_SUFF>"
+    },
+    {
+        "lemma": "stehen",
+        "surface_word": "entgegenstehen",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "entgegen-",
+        "prefix": "entgegen-",
+        "suffix": [],
+        "alternative_0": "entgegen<PREF> stehen<V>",
+        "sub_words": "entgegen<PREF> stehen<V>"
+    },
+    {
+        "lemma": "anschreiben",
+        "surface_word": "anschreibend",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "-end",
+        "prefix": [],
+        "suffix": "-end",
+        "alternative_0": "anschreiben<V> end<V_SUFF>",
+        "alternative_1": "an<PREF> schreiben<V> end<V_SUFF>",
+        "sub_words": "an<PREF> schreiben<V> end<V_SUFF>"
+    },
+    {
+        "lemma": "bezahlen",
+        "surface_word": "wiederbezahlen",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "wieder-",
+        "prefix": "wieder-",
+        "suffix": [],
+        "alternative_0": "wieder<PREF> bezahlen<V>",
+        "alternative_1": "wieder<PREF> be<PREF> Zahl<N> en<V_SUFF>",
+        "alternative_2": "wieder<PREF> be<PREF> zahlen<V>",
+        "sub_words": "wieder<PREF> be<PREF> Zahl<N> en<V_SUFF>"
+    },
+    {
+        "lemma": "nehmen",
+        "surface_word": "hereinnehmen",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "herein-",
+        "prefix": "herein-",
+        "suffix": [],
+        "alternative_0": "herein<PREF> nehmen<V>",
+        "alternative_1": "her<PREF> ein<ADV> nehmen<V>",
+        "sub_words": "her<PREF> ein<ADV> nehmen<V>"
+    },
+    {
+        "lemma": "helfen",
+        "surface_word": "heraushelfen",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "heraus-",
+        "prefix": "heraus-",
+        "suffix": [],
+        "alternative_0": "heraus<PREF> helfen<V>",
+        "alternative_1": "her<PREF> aus<ADJ> helfen<V>",
+        "sub_words": "her<PREF> aus<ADJ> helfen<V>"
+    },
+    {
+        "lemma": "sticken",
+        "surface_word": "stickend",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "-end",
+        "prefix": [],
+        "suffix": "-end",
+        "alternative_0": "sticken<V> end<V_SUFF>",
+        "sub_words": "sticken<V> end<V_SUFF>"
+    },
+    {
+        "lemma": "behandeln",
+        "surface_word": "weiterbehandeln",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "weiter-",
+        "prefix": "weiter-",
+        "suffix": [],
+        "alternative_0": "weiter<PREF> behandeln<V>",
+        "alternative_1": "weiter<PREF> be<PREF> handeln<V>",
+        "sub_words": "weiter<PREF> be<PREF> handeln<V>"
+    },
+    {
+        "lemma": "radeln",
+        "surface_word": "herunterradeln",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "herunter-",
+        "prefix": "herunter-",
+        "suffix": [],
+        "alternative_0": "herunter<PREF> radeln<V>",
+        "alternative_1": "herunter<PREF> Rad<N> eln<V_SUFF>",
+        "sub_words": "herunter<PREF> Rad<N> eln<V_SUFF>"
+    },
+    {
+        "lemma": "Massel",
+        "surface_word": "vermasseln",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "ver-",
+        "prefix": "ver-",
+        "suffix": [],
+        "alternative_0": "ver<PREF> Massel<N>",
+        "sub_words": "ver<PREF> Massel<N>"
+    }
+]

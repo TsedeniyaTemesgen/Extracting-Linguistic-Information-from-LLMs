@@ -1,0 +1,82 @@
+[
+    {
+        "input": "Na boisku jeden mężczyzna w sportowym stroju [trzyma] piłkę , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę .",
+        "output": "Na boisku jeden [mężczyzna | subject] w sportowym stroju trzyma [piłkę | object] , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę ."
+    },
+    {
+        "input": "Na boisku jeden mężczyzna w sportowym stroju trzyma piłkę , a drugi mężczyzna , ubrany w inne barwy , [łapie] go za nogę .",
+        "output": "Na boisku jeden mężczyzna w sportowym stroju trzyma piłkę , a drugi [mężczyzna | subject] , ubrany w inne barwy , łapie [go | object] za nogę ."
+    },
+    {
+        "input": "Nawet jeżeli SLD będzie samodzielnie [sprawował] władzę , trudno mu będzie podnieść podatki , nawet te dla najbogatszych .",
+        "output": "Nawet jeżeli [SLD | subject] będzie samodzielnie sprawował [władzę | object] , trudno mu będzie podnieść podatki , nawet te dla najbogatszych ."
+    },
+    {
+        "input": "Kiosk Ruchu na al . IX Wieków Kielc przy jej skrzyżowaniu z al . Solidarności [obrobili] w nocy nieznani jeszcze sprawcy .",
+        "output": "[Kiosk | object] Ruchu na al . IX Wieków Kielc przy jej skrzyżowaniu z al . Solidarności obrobili w nocy nieznani jeszcze [sprawcy | subject] ."
+    },
+    {
+        "input": "Zanim wsiadły do taksówki , Izaura [podniosła] z chodnika dwuzłotówkę i obejrzała ją pod słońce niczym cenny okaz robaka .",
+        "output": "Zanim wsiadły do taksówki , [Izaura | subject] podniosła z chodnika [dwuzłotówkę | object] i obejrzała ją pod słońce niczym cenny okaz robaka ."
+    },
+    {
+        "input": "Dziewczynka w niebieskim kostiumie [stoi] z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .",
+        "output": "[Dziewczynka | subject] w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami ."
+    },
+    {
+        "input": "Dziewczynka w kokardach na włosach [gra] na czerwonym flecie , a dziewczynka z kwiatem we włosach gra na różowej gitarze .",
+        "output": "[Dziewczynka | subject] w kokardach na włosach gra na czerwonym flecie , a dziewczynka z kwiatem we włosach gra na różowej gitarze ."
+    },
+    {
+        "input": "Dziewczynka w kokardach na włosach gra na czerwonym flecie , a dziewczynka z kwiatem we włosach [gra] na różowej gitarze .",
+        "output": "Dziewczynka w kokardach na włosach gra na czerwonym flecie , a [dziewczynka | subject] z kwiatem we włosach gra na różowej gitarze ."
+    },
+    {
+        "input": "Kobieta i mężczyzna [siedzą] na kamiennym schodku na ulicy , a obok stoi mężczyzna w czarnej koszuli i białych spodniach .",
+        "output": "[Kobieta | subject] i mężczyzna siedzą na kamiennym schodku na ulicy , a obok stoi mężczyzna w czarnej koszuli i białych spodniach ."
+    },
+    {
+        "input": "Kobieta i mężczyzna siedzą na kamiennym schodku na ulicy , a obok [stoi] mężczyzna w czarnej koszuli i białych spodniach .",
+        "output": "Kobieta i mężczyzna siedzą na kamiennym schodku na ulicy , a obok stoi [mężczyzna | subject] w czarnej koszuli i białych spodniach ."
+    },
+    {
+        "input": "Nie wiedząc jeszcze , że tego właśnie domagają się prawa natury , wiedziony przedziwną intuicją [zastąpił] rzecz relacją .",
+        "output": "Nie wiedząc jeszcze , że tego właśnie domagają się prawa natury , [wiedziony | subject] przedziwną intuicją zastąpił [rzecz | object] [relacją | indirect_object] ."
+    },
+    {
+        "input": "Nic też dziwnego , że tak wiele miejsca [poświęcają] jej polscy badacze historii - w tym obecni dziś na Zamku Królewskim .",
+        "output": "Nic też dziwnego , że tak wiele [miejsca | object] poświęcają [jej | indirect_object] polscy [badacze | subject] historii - w tym obecni dziś na Zamku Królewskim ."
+    },
+    {
+        "input": "Sterylizator [dezynfekuje] butelki parą , niszcząc zarazki i bakterie , może dzięki niemu sterylizować także małe zabawki .",
+        "output": "[Sterylizator | subject] dezynfekuje [butelki | object] [parą | indirect_object] , niszcząc zarazki i bakterie , może dzięki niemu sterylizować także małe zabawki ."
+    },
+    {
+        "input": "Zaczynają doceniać przyrodę i to , czym [obdarzyła] nas natura - piękne lasy , jeziora , rośliny , zwierzęta a nawet widoki",
+        "output": "Zaczynają doceniać przyrodę i to , [czym | indirect_object] obdarzyła [nas | object] [natura | subject] - piękne lasy , jeziora , rośliny , zwierzęta a nawet widoki"
+    },
+    {
+        "input": "Alicja sama mogła zobaczyć , jak komandosi w kominiarkach [wyłamują] łomem jej drzwi , odbijąc przy okazji kawałek sufitu .",
+        "output": "Alicja sama mogła zobaczyć , jak [komandosi | subject] w kominiarkach wyłamują [łomem | indirect_object] jej [drzwi | object] , odbijąc przy okazji kawałek sufitu ."
+    },
+    {
+        "input": "Sprawą [zainteresował] się referat I-szy i przez kontrolę korespondencji może uzyskamy dalsze miejsca zachowanych rzeczy .",
+        "output": "[Sprawą | indirect_object] zainteresował się [referat | subject] I-szy i przez kontrolę korespondencji może uzyskamy dalsze miejsca zachowanych rzeczy ."
+    },
+    {
+        "input": "Nie wiedząc jeszcze , że tego właśnie [domagają] się prawa natury , wiedziony przedziwną intuicją zastąpił rzecz relacją .",
+        "output": "Nie wiedząc jeszcze , że [tego | indirect_object] właśnie domagają się [prawa | subject] natury , wiedziony przedziwną intuicją zastąpił rzecz relacją ."
+    },
+    {
+        "input": "\" Punkowcy zamanifestowali , że nie tylko motocykliści [mają] prawo do takich skór - tłumaczy Mirosław Pęczak , socjolog .",
+        "output": "\" Punkowcy zamanifestowali , że nie tylko [motocykliści | subject] mają [prawo | indirect_object] do takich skór - tłumaczy Mirosław Pęczak , socjolog ."
+    },
+    {
+        "input": "Kiedyś dyrektorował mleczarni w Łososinie Górnej , na rolnictwie zna się , jak mało kto , wie co chłopu dzisiaj [dolega] .",
+        "output": "Kiedyś dyrektorował mleczarni w Łososinie Górnej , na rolnictwie zna się , jak mało kto , wie [co | subject] [chłopu | indirect_object] dzisiaj dolega ."
+    },
+    {
+        "input": "Droga Diana [wyróżniła] się po raz kolejny tym , że zażądała , by zawieziono ją do kosmoportu zamiast do śluzy miejskiej .",
+        "output": "Droga [Diana | subject] wyróżniła się po raz kolejny [tym | indirect_object] , że zażądała , by zawieziono ją do kosmoportu zamiast do śluzy miejskiej ."
+    }
+]

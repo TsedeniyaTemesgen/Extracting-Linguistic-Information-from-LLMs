@@ -1,0 +1,1142 @@
+[
+    {
+        "input": "the economy is down and when enron [collapses] , the energy industry is going to be in a world of hurt .",
+        "output": "the economy is down and when [enron | subject] collapses , the energy industry is going to be in a world of hurt ."
+    },
+    {
+        "input": "the economy is down and when enron collapses , the energy industry is [going] to be in a world of hurt .",
+        "output": "the economy is down and when enron collapses , the energy [industry | subject] is going to be in a world of hurt ."
+    },
+    {
+        "input": "I have just [checked] with RAC ( David Gorte ) and we have a green light to go ahead with the project .",
+        "output": "[I | subject] have just checked with RAC ( David Gorte ) and we have a green light to go ahead with the project ."
+    },
+    {
+        "input": "Web giant Google is resisting an attempt by the US to force it to reveal what users are [searching] for .",
+        "output": "Web giant Google is resisting an attempt by the US to force it to reveal what [users | subject] are searching for ."
+    },
+    {
+        "input": "You [need] to check out the French Indochina War ( 1946 - 1954 ) not the Vietnam War ( 1957 - 1975 ) .",
+        "output": "[You | subject] need to check out the French Indochina War ( 1946 - 1954 ) not the Vietnam War ( 1957 - 1975 ) ."
+    },
+    {
+        "input": "Hall has [agreed] to release Enron , Ecogas , Maffett and every affiliate , related party and subsidiary .",
+        "output": "[Hall | subject] has agreed to release Enron , Ecogas , Maffett and every affiliate , related party and subsidiary ."
+    },
+    {
+        "input": "It can be a little on the spicy side but just ask them exactly what you [want] and they are very helpful .",
+        "output": "It can be a little on the spicy side but just ask them exactly what [you | subject] want and they are very helpful ."
+    },
+    {
+        "input": "Please let me know what shape you all [think] the offer ought to take and we can revise accordingly .",
+        "output": "Please let me know what shape [you | subject] all think the offer ought to take and we can revise accordingly ."
+    },
+    {
+        "input": "Please let me know what shape you all think the offer ought to take and we can [revise] accordingly .",
+        "output": "Please let me know what shape you all think the offer ought to take and [we | subject] can revise accordingly ."
+    },
+    {
+        "input": "Also more often than not you [end] up with a healthy dose of nasty rude attitude from the employees !",
+        "output": "Also more often than not [you | subject] end up with a healthy dose of nasty rude attitude from the employees !"
+    },
+    {
+        "input": "We have tried many different computer people until now - we will [stick] with Qualitech Computers !!!",
+        "output": "We have tried many different computer people until now - [we | subject] will stick with Qualitech Computers !!!"
+    },
+    {
+        "input": "his clinic is very dirty he is a real disaster to go totally not organized for every step he [take] .",
+        "output": "his clinic is very dirty he is a real disaster to go totally not organized for every step [he | subject] take ."
+    },
+    {
+        "input": "I was very upset when I [went] to Mother Plucker , they had NO FEATHERS and the quality is TERRIBLE .",
+        "output": "I was very upset when [I | subject] went to Mother Plucker , they had NO FEATHERS and the quality is TERRIBLE ."
+    },
+    {
+        "input": "I just [wanted] to check with you regarding the consulting arrangement we discussed a couple of weeks ago .",
+        "output": "[I | subject] just wanted to check with you regarding the consulting arrangement we discussed a couple of weeks ago ."
+    },
+    {
+        "input": "I just wanted to check with you regarding the consulting arrangement we [discussed] a couple of weeks ago .",
+        "output": "I just wanted to check with you regarding the consulting arrangement [we | subject] discussed a couple of weeks ago ."
+    },
+    {
+        "input": "Seriously , I [talked] this morning with Tom Hall and we agreed that Ecogas would pay him $ 53,000 .",
+        "output": "Seriously , [I | subject] talked this morning with Tom Hall and we agreed that Ecogas would pay him $ 53,000 ."
+    },
+    {
+        "input": "Seriously , I talked this morning with Tom Hall and we [agreed] that Ecogas would pay him $ 53,000 .",
+        "output": "Seriously , I talked this morning with Tom Hall and [we | subject] agreed that Ecogas would pay him $ 53,000 ."
+    },
+    {
+        "input": "It [turned] out being very good quality tmobile service and I was happy with the new tmobile phone .",
+        "output": "[It | subject] turned out being very good quality tmobile service and I was happy with the new tmobile phone ."
+    },
+    {
+        "input": "She really [listens] to what it is you would like to achieve , and I am very happy with my results .",
+        "output": "[She | subject] really listens to what it is you would like to achieve , and I am very happy with my results ."
+    },
+    {
+        "input": "She really listens to what it is you would [like] to achieve , and I am very happy with my results .",
+        "output": "She really listens to what it is [you | subject] would like to achieve , and I am very happy with my results ."
+    },
+    {
+        "input": "Just wanted you to know that Eric [came] by as scheduled today and sprayed our house for scorpions .",
+        "output": "Just wanted you to know that [Eric | subject] came by as scheduled today and sprayed our house for scorpions ."
+    },
+    {
+        "input": "One time we even [left] after sitting at the table for 20 minutes and not being greeted with a drink order .",
+        "output": "One time [we | subject] even left after sitting at the table for 20 minutes and not being greeted with a drink order ."
+    },
+    {
+        "input": "o and the cheaper the better ( we are [trying] to save money now , sooo .. thatd b helpful ) thanks",
+        "output": "o and the cheaper the better ( [we | subject] are trying to save money now , sooo .. thatd b helpful ) thanks"
+    },
+    {
+        "input": "I like I [Move] CA - Los Angeles Movers , they moved me before , but this time they were awesome :)",
+        "output": "I like [I | subject] Move CA - Los Angeles Movers , they moved me before , but this time they were awesome :)"
+    },
+    {
+        "input": "I never [wait] in the waiting room more than two minutes and the cleanings are quick and painless .",
+        "output": "[I | subject] never wait in the waiting room more than two minutes and the cleanings are quick and painless ."
+    },
+    {
+        "input": "I have been [going] there since I was a little girl and love the friendly and relaxing atmosphere .",
+        "output": "[I | subject] have been going there since I was a little girl and love the friendly and relaxing atmosphere ."
+    },
+    {
+        "input": "\" ... there [is] no companion quite so devoted , so communicative , so loving and so mesmerizing as a rat . \"",
+        "output": "\" ... there is no [companion | subject] quite so devoted , so communicative , so loving and so mesmerizing as a rat . \""
+    },
+    {
+        "input": "They walked me through all the steps involved in the installation project so that there [were] no surprises .",
+        "output": "They walked me through all the steps involved in the installation project so that there were no [surprises | subject] ."
+    },
+    {
+        "input": "I [live] in the neighborhood and this place is one of my favorites for a tasty , quick and inexpensive meal .",
+        "output": "[I | subject] live in the neighborhood and this place is one of my favorites for a tasty , quick and inexpensive meal ."
+    },
+    {
+        "input": "ALITO filed a dissenting opinion , in which SCALIA and THOMAS [joined] as to Parts I through III .",
+        "output": "ALITO filed a dissenting opinion , in which [SCALIA | subject] and THOMAS joined as to Parts I through III ."
+    },
+    {
+        "input": "The service was friendly and fast , but this just doesnt [make] up for the lack - luster product .",
+        "output": "The service was friendly and fast , but [this | subject] just doesnt make up for the lack - luster product ."
+    },
+    {
+        "input": "One reader [pointed] out that the President watched the Americans in the embassy when they took them hostage .",
+        "output": "One [reader | subject] pointed out that the President watched the Americans in the embassy when they took them hostage ."
+    },
+    {
+        "input": "The thing about The Script is they do not [sound] that Irish , I was surprised to hear they were from Dublin .",
+        "output": "The thing about The Script is [they | subject] do not sound that Irish , I was surprised to hear they were from Dublin ."
+    },
+    {
+        "input": "Worst experience ever like a sardine can and the bartender downstairs is the rudest person I have ever [met] .",
+        "output": "Worst experience ever like a sardine can and the bartender downstairs is the rudest person [I | subject] have ever met ."
+    },
+    {
+        "input": "I just [wanted] to try your clinic because I was not totally happy with my current therapist I regularly see .",
+        "output": "[I | subject] just wanted to try your clinic because I was not totally happy with my current therapist I regularly see ."
+    },
+    {
+        "input": "I just wanted to try your clinic because I was not totally happy with my current therapist I regularly [see] .",
+        "output": "I just wanted to try your clinic because I was not totally happy with my current therapist [I | subject] regularly see ."
+    },
+    {
+        "input": "I was with verizon and I checked my service with tmobile and it was great so I [thought] I would try tmobile .",
+        "output": "I was with verizon and I checked my service with tmobile and it was great so [I | subject] thought I would try tmobile ."
+    },
+    {
+        "input": "Please confidentially share matters as you [think] best and advise me of the interest generated .",
+        "output": "Please confidentially share matters as [you | subject] think best and advise me of the interest generated ."
+    },
+    {
+        "input": "I [think] the women at this salon know that their business is based primarily from referrals . :)",
+        "output": "[I | subject] think the women at this salon know that their business is based primarily from referrals . :)"
+    },
+    {
+        "input": "I think the women at this salon [know] that their business is based primarily from referrals . :)",
+        "output": "I think the [women | subject] at this salon know that their business is based primarily from referrals . :)"
+    },
+    {
+        "input": "I am [going] to be the Senior Regulatory Counsel at ISO New England starting on April 9 , 2001 .",
+        "output": "[I | subject] am going to be the Senior Regulatory Counsel at ISO New England starting on April 9 , 2001 ."
+    },
+    {
+        "input": "Please let us know if you need a change so that the deals will [bridge] with the correct books .",
+        "output": "Please let us know if you need a change so that the [deals | subject] will bridge with the correct books ."
+    },
+    {
+        "input": "When I [tried] to return it they refused , so I had to leave without a refund and still hungry .",
+        "output": "When [I | subject] tried to return it they refused , so I had to leave without a refund and still hungry ."
+    },
+    {
+        "input": "When I tried to return it they [refused] , so I had to leave without a refund and still hungry .",
+        "output": "When I tried to return it [they | subject] refused , so I had to leave without a refund and still hungry ."
+    },
+    {
+        "input": "When I tried to return it they refused , so I [had] to leave without a refund and still hungry .",
+        "output": "When I tried to return it they refused , so [I | subject] had to leave without a refund and still hungry ."
+    },
+    {
+        "input": "It will take me a little while to read the whole thing , but I rarely [agree] with a John Paul Stevens opinion .",
+        "output": "It will take me a little while to read the whole thing , but [I | subject] rarely agree with a John Paul Stevens opinion ."
+    },
+    {
+        "input": "Could one of you please email me a copy of the standard template you [use] for Enfolio gas purchase agreements ?",
+        "output": "Could one of you please email me a copy of the standard template [you | subject] use for Enfolio gas purchase agreements ?"
+    },
+    {
+        "input": "Please advise immediately if you or your employer do not [consent] to Internet email for messages of this kind .",
+        "output": "Please advise immediately if [you | subject] or your employer do not consent to Internet email for messages of this kind ."
+    },
+    {
+        "input": "Wolfowitz [lied] to him and said that there was a 10 to 50 % chance that Iraq was behind them .",
+        "output": "[Wolfowitz | subject] lied to him and said that there was a 10 to 50 % chance that Iraq was behind them ."
+    },
+    {
+        "input": "Wolfowitz lied to him and said that there [was] a 10 to 50 % chance that Iraq was behind them .",
+        "output": "Wolfowitz lied to him and said that there was a 10 to 50 % [chance | subject] that Iraq was behind them ."
+    },
+    {
+        "input": "that deal is [making] like it wants to close and the traders scheduled a 430 call to wrap it up",
+        "output": "that [deal | subject] is making like it wants to close and the traders scheduled a 430 call to wrap it up"
+    },
+    {
+        "input": "that deal is making like it [wants] to close and the traders scheduled a 430 call to wrap it up",
+        "output": "that deal is making like [it | subject] wants to close and the traders scheduled a 430 call to wrap it up"
+    },
+    {
+        "input": "* Worldwatch [Projects] Catastrophe Will Be Most Costly Weather - Related Disaster in History *",
+        "output": "* [Worldwatch | subject] Projects Catastrophe Will Be Most Costly Weather - Related Disaster in History *"
+    },
+    {
+        "input": "i would [like] to have one of those super random surprisingly nice nights out ... suggestions ?",
+        "output": "[i | subject] would like to have one of those super random surprisingly nice nights out ... suggestions ?"
+    },
+    {
+        "input": "All you can [do] is take each section ( individual video ) and edit them together on software .",
+        "output": "All [you | subject] can do is take each section ( individual video ) and edit them together on software ."
+    },
+    {
+        "input": "I just want a simple way to get a good deal to whatever Restaurant I [want] , whenever I want .",
+        "output": "I just want a simple way to get a good deal to whatever Restaurant [I | subject] want , whenever I want ."
+    },
+    {
+        "input": "I just want a simple way to get a good deal to whatever Restaurant I want , whenever I [want] .",
+        "output": "I just want a simple way to get a good deal to whatever Restaurant I want , whenever [I | subject] want ."
+    },
+    {
+        "input": "I [know] saltwater is a possibility , can you give me a possible stocking option for that too ?",
+        "output": "[I | subject] know saltwater is a possibility , can you give me a possible stocking option for that too ?"
+    },
+    {
+        "input": "Quality has [fallen] over the years , but still the best go - to burger place on the East Bay .",
+        "output": "[Quality | subject] has fallen over the years , but still the best go - to burger place on the East Bay ."
+    },
+    {
+        "input": "We would [like] to thank our emergency plumbers who visted our shop in Morningside Road today .",
+        "output": "[We | subject] would like to thank our emergency plumbers who visted our shop in Morningside Road today ."
+    },
+    {
+        "input": "Syria has [agreed] to withdraw under the conditions set forth in UNSC Resolution 1559 , which has already begun .",
+        "output": "[Syria | subject] has agreed to withdraw under the conditions set forth in UNSC Resolution 1559 , which has already begun ."
+    },
+    {
+        "input": "Syria has agreed to withdraw under the conditions set forth in UNSC Resolution 1559 , which has already [begun] .",
+        "output": "Syria has agreed to withdraw under the conditions set forth in UNSC Resolution 1559 , [which | subject] has already begun ."
+    },
+    {
+        "input": "Overpriced and the doctor [acted] arrogant and rushed at a time when there was very few clients in the facility .",
+        "output": "Overpriced and the [doctor | subject] acted arrogant and rushed at a time when there was very few clients in the facility ."
+    },
+    {
+        "input": "Overpriced and the doctor acted arrogant and rushed at a time when there [was] very few clients in the facility .",
+        "output": "Overpriced and the doctor acted arrogant and rushed at a time when there was very few [clients | subject] in the facility ."
+    },
+    {
+        "input": "What if Google [expanded] on its search - engine ( and now e-mail ) wares into a full - fledged operating system ?",
+        "output": "What if [Google | subject] expanded on its search - engine ( and now e-mail ) wares into a full - fledged operating system ?"
+    },
+    {
+        "input": "Delhi police chief K Paul named the man as Tariq Ahmed Dar , and said police were [hunting] for four accomplices .",
+        "output": "Delhi police chief K Paul named the man as Tariq Ahmed Dar , and said [police | subject] were hunting for four accomplices ."
+    },
+    {
+        "input": "When the French [returned] to Indochina at the end of WW II the Viet Minh were in control of the Red River Delta .",
+        "output": "When the [French | subject] returned to Indochina at the end of WW II the Viet Minh were in control of the Red River Delta ."
+    },
+    {
+        "input": "Choose the news and sport headlines you [want] - when you want them , all in one daily e-mail",
+        "output": "Choose the news and sport headlines [you | subject] want - when you want them , all in one daily e-mail"
+    },
+    {
+        "input": "We could certainly slow the aging process down if it [had] to work its way through Congress .",
+        "output": "We could certainly slow the aging process down if [it | subject] had to work its way through Congress ."
+    },
+    {
+        "input": "because all of the food blogs Ive [read] say so and I will travel from maryland if thats true",
+        "output": "because all of the food blogs [Ive | subject] read say so and I will travel from maryland if thats true"
+    },
+    {
+        "input": "because all of the food blogs Ive read [say] so and I will travel from maryland if thats true",
+        "output": "because [all | subject] of the food blogs Ive read say so and I will travel from maryland if thats true"
+    },
+    {
+        "input": "because all of the food blogs Ive read say so and I will [travel] from maryland if thats true",
+        "output": "because all of the food blogs Ive read say so and [I | subject] will travel from maryland if thats true"
+    },
+    {
+        "input": "In addition , [is] there someone who could consider the correlation between US CPI and the $ / euro exchange rate .",
+        "output": "In addition , is there [someone | subject] who could consider the correlation between US CPI and the $ / euro exchange rate ."
+    },
+    {
+        "input": "Well if you are interested , I [suggest] you have a look at General Fiasco , Two Door Cinema Club and Wallis Bird .",
+        "output": "Well if you are interested , [I | subject] suggest you have a look at General Fiasco , Two Door Cinema Club and Wallis Bird ."
+    },
+    {
+        "input": "I [know] its in the wrong catagory , but still , I wrote this question for a reason , not for you to critisize me .",
+        "output": "[I | subject] know its in the wrong catagory , but still , I wrote this question for a reason , not for you to critisize me ."
+    },
+    {
+        "input": "So now there [are] hundreds of al - Qaeda members in Iraq where there had been none before .",
+        "output": "So now there are [hundreds | subject] of al - Qaeda members in Iraq where there had been none before ."
+    },
+    {
+        "input": "So now there are hundreds of al - Qaeda members in Iraq where there had [been] none before .",
+        "output": "So now there are hundreds of al - Qaeda members in Iraq where there had been [none | subject] before ."
+    },
+    {
+        "input": "Pat had told me before he [left] that it would help me better grasp the process as a whole .",
+        "output": "Pat had told me before [he | subject] left that it would help me better grasp the process as a whole ."
+    },
+    {
+        "input": "He [seemed] to understand how important it was for us to make sure the whole house was sprayed so he took his time .",
+        "output": "[He | subject] seemed to understand how important it was for us to make sure the whole house was sprayed so he took his time ."
+    },
+    {
+        "input": "He seemed to understand how important it was for us to [make] sure the whole house was sprayed so he took his time .",
+        "output": "He seemed to understand how important it was for [us | subject] to make sure the whole house was sprayed so he took his time ."
+    },
+    {
+        "input": "And a portion of each package or memorial purchased [goes] to a charity on their database .",
+        "output": "And a [portion | subject] of each package or memorial purchased goes to a charity on their database ."
+    },
+    {
+        "input": "ALL OF THE TEACHERS THERE ARE SO MEAN THEY [GET] MAD AT YOU FOR NOTHING !!!!!!!!!!!!!!!!!!!",
+        "output": "ALL OF THE TEACHERS THERE ARE SO MEAN [THEY | subject] GET MAD AT YOU FOR NOTHING !!!!!!!!!!!!!!!!!!!"
+    },
+    {
+        "input": "wow , the representative [went] way above and beyond in helping me with my account set up .",
+        "output": "wow , the [representative | subject] went way above and beyond in helping me with my account set up ."
+    },
+    {
+        "input": "KENNEDY filed an opinion concurring in part , in which SOUTER , GINSBURG , and BREYER [joined] as to Parts I and II .",
+        "output": "KENNEDY filed an opinion concurring in part , in which [SOUTER | subject] , GINSBURG , and BREYER joined as to Parts I and II ."
+    },
+    {
+        "input": "However , do not purchase tickets until it is a done deal - a lesson I [learned] following the Ark game last season .",
+        "output": "However , do not purchase tickets until it is a done deal - a lesson [I | subject] learned following the Ark game last season ."
+    },
+    {
+        "input": "I [understand] the imminent cold weather is making things crazy , so now may not be the best time to be in your way .",
+        "output": "[I | subject] understand the imminent cold weather is making things crazy , so now may not be the best time to be in your way ."
+    },
+    {
+        "input": "I am being told by my better half that we [need] to get an accurate head count of who will be attending our wedding .",
+        "output": "I am being told by my better half that [we | subject] need to get an accurate head count of who will be attending our wedding ."
+    },
+    {
+        "input": "I [presume] you need the Pakistan base for rescue operations in case anything went wrong .",
+        "output": "[I | subject] presume you need the Pakistan base for rescue operations in case anything went wrong ."
+    },
+    {
+        "input": "I presume you need the Pakistan base for rescue operations in case anything [went] wrong .",
+        "output": "I presume you need the Pakistan base for rescue operations in case [anything | subject] went wrong ."
+    },
+    {
+        "input": "[is] there any good places to get an ice - cream sundae from in Invercargill New Zealand ?",
+        "output": "is there any good [places | subject] to get an ice - cream sundae from in Invercargill New Zealand ?"
+    },
+    {
+        "input": "We tried 4 different style of donuts , they were all the same when it [came] to quality .",
+        "output": "We tried 4 different style of donuts , they were all the same when [it | subject] came to quality ."
+    },
+    {
+        "input": "We still have the traders and books that you provided last week , but need to know if there [are] any changes to this .",
+        "output": "We still have the traders and books that you provided last week , but need to know if there are any [changes | subject] to this ."
+    },
+    {
+        "input": "While other may be ok waiting in line at Town Bagel we are happy with the quality and service we [get] at Family Bagels",
+        "output": "While other may be ok waiting in line at Town Bagel we are happy with the quality and service [we | subject] get at Family Bagels"
+    },
+    {
+        "input": "It [looks] like the war between Microsoft and Google is quickly brewing on the horizon .",
+        "output": "[It | subject] looks like the war between Microsoft and Google is quickly brewing on the horizon ."
+    },
+    {
+        "input": "It looks like the war between Microsoft and Google is quickly [brewing] on the horizon .",
+        "output": "It looks like the [war | subject] between Microsoft and Google is quickly brewing on the horizon ."
+    },
+    {
+        "input": "If I [went] into the \" pre-university \" direction with business administration in mind .",
+        "output": "If [I | subject] went into the \" pre-university \" direction with business administration in mind ."
+    },
+    {
+        "input": "I was [wondering] if it would be OK for me to sit in with you one day to get a general feel of your end of the process .",
+        "output": "[I | subject] was wondering if it would be OK for me to sit in with you one day to get a general feel of your end of the process ."
+    },
+    {
+        "input": "I was wondering if it would be OK for me to [sit] in with you one day to get a general feel of your end of the process .",
+        "output": "I was wondering if it would be OK for [me | subject] to sit in with you one day to get a general feel of your end of the process ."
+    },
+    {
+        "input": "i doing a research paper on donatello and i [notice] that there are two statues of David , a bronze one and marble one .",
+        "output": "i doing a research paper on donatello and [i | subject] notice that there are two statues of David , a bronze one and marble one ."
+    },
+    {
+        "input": "i doing a research paper on donatello and i notice that there [are] two statues of David , a bronze one and marble one .",
+        "output": "i doing a research paper on donatello and i notice that there are two [statues | subject] of David , a bronze one and marble one ."
+    },
+    {
+        "input": "My friend [goes] to the Phils every 6 months or so and she has found that Korean Air has had the cheapest fares lately .",
+        "output": "My [friend | subject] goes to the Phils every 6 months or so and she has found that Korean Air has had the cheapest fares lately ."
+    },
+    {
+        "input": "My friend goes to the Phils every 6 months or so and she has [found] that Korean Air has had the cheapest fares lately .",
+        "output": "My friend goes to the Phils every 6 months or so and [she | subject] has found that Korean Air has had the cheapest fares lately ."
+    },
+    {
+        "input": "BREYER filed a concurring opinion , in which KENNEDY , SOUTER , and GINSBURG [joined] .",
+        "output": "BREYER filed a concurring opinion , in which [KENNEDY | subject] , SOUTER , and GINSBURG joined ."
+    },
+    {
+        "input": "Also , I have an extra ticket for the Comets game on Sat. you [said] you wanted to go ?",
+        "output": "Also , I have an extra ticket for the Comets game on Sat. [you | subject] said you wanted to go ?"
+    },
+    {
+        "input": "Also , I have an extra ticket for the Comets game on Sat. you said you [wanted] to go ?",
+        "output": "Also , I have an extra ticket for the Comets game on Sat. you said [you | subject] wanted to go ?"
+    },
+    {
+        "input": "Also , I have an extra ticket for the Comets game on Sat. you [said] you wanted to go ?",
+        "output": "Also , I have an extra ticket for the Comets game on Sat. [you | subject] said you wanted to go ?"
+    },
+    {
+        "input": "Also , I have an extra ticket for the Comets game on Sat. you said you [wanted] to go ?",
+        "output": "Also , I have an extra ticket for the Comets game on Sat. you said [you | subject] wanted to go ?"
+    },
+    {
+        "input": "I [started] collecting animations & jokes just to help with my boredom and depression .",
+        "output": "[I | subject] started collecting animations & jokes just to help with my boredom and depression ."
+    },
+    {
+        "input": "the camera only [begins] to work again when i take out the battery and put it back in .",
+        "output": "the [camera | subject] only begins to work again when i take out the battery and put it back in ."
+    },
+    {
+        "input": "We [look] forward to your active participation to make this forum an exciting meeting place for like minded individuals .",
+        "output": "[We | subject] look forward to your active participation to make this forum an exciting meeting place for like minded individuals ."
+    },
+    {
+        "input": "\" If a school bus carrying fifty children [drove] off a cliff , killing everyone involved ... that would be a tragedy \" .",
+        "output": "\" If a school [bus | subject] carrying fifty children drove off a cliff , killing everyone involved ... that would be a tragedy \" ."
+    },
+    {
+        "input": "i [need] to now get a job at house of pies b/c that is the only way to pay the bills .",
+        "output": "[i | subject] need to now get a job at house of pies b/c that is the only way to pay the bills ."
+    },
+    {
+        "input": "The workers [sped] up and down the street with no mind to the small children playing .",
+        "output": "The [workers | subject] sped up and down the street with no mind to the small children playing ."
+    },
+    {
+        "input": "I just [finish] reading a really good book ( it was actually a ebook ) from some new series called the The Tale of Terra .",
+        "output": "[I | subject] just finish reading a really good book ( it was actually a ebook ) from some new series called the The Tale of Terra ."
+    },
+    {
+        "input": "which burger chain do you [think] is as good as in n out or better in the chicago area besides five guys and smashburger ?",
+        "output": "which burger chain do [you | subject] think is as good as in n out or better in the chicago area besides five guys and smashburger ?"
+    },
+    {
+        "input": "In the Episode \" So in Louvre Are We Two \" , How many diffrent painting / scupltures [are] their and who are the artists ?",
+        "output": "In the Episode \" So in Louvre Are We Two \" , How many diffrent [painting | subject] / scupltures are their and who are the artists ?"
+    },
+    {
+        "input": "Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor [seems] tacky",
+        "output": "Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new [decor | subject] seems tacky"
+    },
+    {
+        "input": "This Fallujah operation my [turn] out to be the most important operation done by the US Military since the end of the war .",
+        "output": "This Fallujah [operation | subject] my turn out to be the most important operation done by the US Military since the end of the war ."
+    },
+    {
+        "input": "We now [know] that Bush and his administration came into office obsessed with Iraq .",
+        "output": "[We | subject] now know that Bush and his administration came into office obsessed with Iraq ."
+    },
+    {
+        "input": "We now know that Bush and his administration [came] into office obsessed with Iraq .",
+        "output": "We now know that [Bush | subject] and his administration came into office obsessed with Iraq ."
+    },
+    {
+        "input": "I [talked] with Gary Wilson , and he confirmed that the revised values are correct .",
+        "output": "[I | subject] talked with Gary Wilson , and he confirmed that the revised values are correct ."
+    },
+    {
+        "input": "I talked with Gary Wilson , and he [confirmed] that the revised values are correct .",
+        "output": "I talked with Gary Wilson , and [he | subject] confirmed that the revised values are correct ."
+    },
+    {
+        "input": "I [understand] you may not have credit approval yet so perhaps we can leave the appropriate sections blank in the meantime .",
+        "output": "[I | subject] understand you may not have credit approval yet so perhaps we can leave the appropriate sections blank in the meantime ."
+    },
+    {
+        "input": "In a timid voice , he [says] : \" If an airplane carrying Winston Peters was blown up by a bomb , THAT would be a tragedy \" .",
+        "output": "In a timid voice , [he | subject] says : \" If an airplane carrying Winston Peters was blown up by a bomb , THAT would be a tragedy \" ."
+    },
+    {
+        "input": "The Pakistani army was rife with elements protective of the Taliban , and the new military government [reneged] on the deal .",
+        "output": "The Pakistani army was rife with elements protective of the Taliban , and the new military [government | subject] reneged on the deal ."
+    },
+    {
+        "input": "If you would be so kind , could you possibly [let] me know of your status over the next couple of days ?",
+        "output": "If you would be so kind , could [you | subject] possibly let [me | object] know of your status over the next couple of days ?"
+    },
+    {
+        "input": "While Tanya is [reviewing] credit , can you please send a \" blank form Paragraph 13 \" for this master .",
+        "output": "While [Tanya | subject] is reviewing [credit | object] , can you please send a \" blank form Paragraph 13 \" for this master ."
+    },
+    {
+        "input": "While Tanya is reviewing credit , can you please [send] a \" blank form Paragraph 13 \" for this master .",
+        "output": "While Tanya is reviewing credit , can [you | subject] please send a \" blank form [Paragraph | object] 13 \" for this master ."
+    },
+    {
+        "input": "I have just checked with RAC ( David Gorte ) and we [have] a green light to go ahead with the project .",
+        "output": "I have just checked with RAC ( David Gorte ) and [we | subject] have a green [light | object] to go ahead with the project ."
+    },
+    {
+        "input": "Their service is top - notch and I especially [love] the free French champagne served even in Economy .",
+        "output": "Their service is top - notch and [I | subject] especially love the free French [champagne | object] served even in Economy ."
+    },
+    {
+        "input": "Web giant Google is [resisting] an attempt by the US to force it to reveal what users are searching for .",
+        "output": "Web giant [Google | subject] is resisting an [attempt | object] by the US to force it to reveal what users are searching for ."
+    },
+    {
+        "input": "We have [utilized] Mr. Pozza and his firm twice now in our family and both times have been very pleased .",
+        "output": "[We | subject] have utilized [Mr. | object] Pozza and his firm twice now in our family and both times have been very pleased ."
+    },
+    {
+        "input": "I [own] a property management firm and need a contractor with the credentials that Farrell Electric has .",
+        "output": "[I | subject] own a property management [firm | object] and need a contractor with the credentials that Farrell Electric has ."
+    },
+    {
+        "input": "I own a property management firm and need a contractor with the credentials that Farrell Electric [has] .",
+        "output": "I own a property management firm and need a contractor with the credentials [that | object] Farrell [Electric | subject] has ."
+    },
+    {
+        "input": "Warren Buffett is [giving] away 85 % of his wealth , mostly to the Bill and Melinda Gates Foundation .",
+        "output": "[Warren | subject] Buffett is giving away 85 [% | object] of his wealth , mostly to the Bill and Melinda Gates Foundation ."
+    },
+    {
+        "input": "We have [tried] many different computer people until now - we will stick with Qualitech Computers !!!",
+        "output": "[We | subject] have tried many different computer [people | object] until now - we will stick with Qualitech Computers !!!"
+    },
+    {
+        "input": "I was very upset when I went to Mother Plucker , they [had] NO FEATHERS and the quality is TERRIBLE .",
+        "output": "I was very upset when I went to Mother Plucker , [they | subject] had NO [FEATHERS | object] and the quality is TERRIBLE ."
+    },
+    {
+        "input": "We [accecpt] : Visa , MasterCard , Amex , Dinners Club / Carte Blanche , & Personal Checks / Money Orders .",
+        "output": "[We | subject] accecpt : [Visa | object] , MasterCard , Amex , Dinners Club / Carte Blanche , & Personal Checks / Money Orders ."
+    },
+    {
+        "input": "Sure Google , although this would [put] it on coarse for global domination of the internet by 2014 .",
+        "output": "Sure Google , although [this | subject] would put [it | object] on coarse for global domination of the internet by 2014 ."
+    },
+    {
+        "input": "Bush [demoted] Dick Clarke , among the most vocal and focused of the al - Qaeda experts , from his cabinet .",
+        "output": "[Bush | subject] demoted [Dick | object] Clarke , among the most vocal and focused of the al - Qaeda experts , from his cabinet ."
+    },
+    {
+        "input": "Please feel free to give me a call if you [have] any questions concerning the attached guaranties .",
+        "output": "Please feel free to give me a call if [you | subject] have any [questions | object] concerning the attached guaranties ."
+    },
+    {
+        "input": "I [like] I Move CA - Los Angeles Movers , they moved me before , but this time they were awesome :)",
+        "output": "[I | subject] like I Move CA - Los Angeles [Movers | object] , they moved me before , but this time they were awesome :)"
+    },
+    {
+        "input": "I like I Move CA - Los Angeles Movers , they [moved] me before , but this time they were awesome :)",
+        "output": "I like I Move CA - Los Angeles Movers , [they | subject] moved [me | object] before , but this time they were awesome :)"
+    },
+    {
+        "input": "They [walked] me through all the steps involved in the installation project so that there were no surprises .",
+        "output": "[They | subject] walked [me | object] through all the steps involved in the installation project so that there were no surprises ."
+    },
+    {
+        "input": "ALITO [filed] a dissenting opinion , in which SCALIA and THOMAS joined as to Parts I through III .",
+        "output": "[ALITO | subject] filed a dissenting [opinion | object] , in which SCALIA and THOMAS joined as to Parts I through III ."
+    },
+    {
+        "input": "It [called] a \" ploy \" the assertaion that the attack was merely on foreign fighters at Fallujah .",
+        "output": "[It | subject] called a \" ploy \" the [assertaion | object] that the attack was merely on foreign fighters at Fallujah ."
+    },
+    {
+        "input": "Further to my voicemail , our colleagues in credit are [calculating] the reserve on the PSE swap .",
+        "output": "Further to my voicemail , our [colleagues | subject] in credit are calculating the [reserve | object] on the PSE swap ."
+    },
+    {
+        "input": "and hopefully you do not [know] the same people because he tells others about you payment status .",
+        "output": "and hopefully [you | subject] do not know the same [people | object] because he tells others about you payment status ."
+    },
+    {
+        "input": "One reader pointed out that the President [watched] the Americans in the embassy when they took them hostage .",
+        "output": "One reader pointed out that the [President | subject] watched the [Americans | object] in the embassy when they took them hostage ."
+    },
+    {
+        "input": "One reader pointed out that the President watched the Americans in the embassy when they [took] them hostage .",
+        "output": "One reader pointed out that the President watched the Americans in the embassy when [they | subject] took [them | object] hostage ."
+    },
+    {
+        "input": "Even if we cannot [help] you here in Enron , he may be able to put you in touch with other CV groups in town .",
+        "output": "Even if [we | subject] cannot help [you | object] here in Enron , he may be able to put you in touch with other CV groups in town ."
+    },
+    {
+        "input": "Wei Ligang , a rising star of modern art in China , just [had] an exhibition in mid-July , 2005 in Hong Kong .",
+        "output": "[Wei | subject] Ligang , a rising star of modern art in China , just had an [exhibition | object] in mid-July , 2005 in Hong Kong ."
+    },
+    {
+        "input": "I was with verizon and I [checked] my service with tmobile and it was great so I thought I would try tmobile .",
+        "output": "I was with verizon and [I | subject] checked my [service | object] with tmobile and it was great so I thought I would try tmobile ."
+    },
+    {
+        "input": "I was with verizon and I checked my service with tmobile and it was great so I thought I would [try] tmobile .",
+        "output": "I was with verizon and I checked my service with tmobile and it was great so I thought [I | subject] would try [tmobile | object] ."
+    },
+    {
+        "input": "I will [extract] the one for the US corporate Paragraph 13 and email to your contact @ First Union Securities .",
+        "output": "[I | subject] will extract the [one | object] for the US corporate Paragraph 13 and email to your contact @ First Union Securities ."
+    },
+    {
+        "input": "When you [press] the button to stop recording the data is moved from the buffer to the memory card - no pause .",
+        "output": "When [you | subject] press the [button | object] to stop recording the data is moved from the buffer to the memory card - no pause ."
+    },
+    {
+        "input": "Mrs. Tolchin [provided] us with excellent service and came with a great deal of knowledge and professionalism !",
+        "output": "[Mrs. | subject] Tolchin provided [us | object] with excellent service and came with a great deal of knowledge and professionalism !"
+    },
+    {
+        "input": "Can one of your research staff [justify] a suitable 20 year volalatility number for USD / Euro .",
+        "output": "Can [one | subject] of your research staff justify a suitable 20 year volalatility [number | object] for USD / Euro ."
+    },
+    {
+        "input": "Please let us know if you [need] a change so that the deals will bridge with the correct books .",
+        "output": "Please let us know if [you | subject] need a [change | object] so that the deals will bridge with the correct books ."
+    },
+    {
+        "input": "Action Network is a BBC website for people who are [taking] action on issues that concern them .",
+        "output": "Action Network is a BBC website for people [who | subject] are taking [action | object] on issues that concern them ."
+    },
+    {
+        "input": "Action Network is a BBC website for people who are taking action on issues that [concern] them .",
+        "output": "Action Network is a BBC website for people who are taking action on issues [that | subject] concern [them | object] ."
+    },
+    {
+        "input": "How much would it cost for me to [take] me and three friends to Andiamos restaurant for dinner ?",
+        "output": "How much would it cost for [me | subject] to take [me | object] and three friends to Andiamos restaurant for dinner ?"
+    },
+    {
+        "input": "Michelangelo [made] the marble one but why did he do another if Donatello had already made one ?",
+        "output": "[Michelangelo | subject] made the marble [one | object] but why did he do another if Donatello had already made one ?"
+    },
+    {
+        "input": "Michelangelo made the marble one but why did he [do] another if Donatello had already made one ?",
+        "output": "Michelangelo made the marble one but why did [he | subject] do [another | object] if Donatello had already made one ?"
+    },
+    {
+        "input": "Michelangelo made the marble one but why did he do another if Donatello had already [made] one ?",
+        "output": "Michelangelo made the marble one but why did he do another if [Donatello | subject] had already made [one | object] ?"
+    },
+    {
+        "input": "I [have] a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I pause it while recording ?",
+        "output": "[I | subject] have a Kodak [Camera | object] ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I pause it while recording ?"
+    },
+    {
+        "input": "I have a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I [pause] it while recording ?",
+        "output": "I have a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do [I | subject] pause [it | object] while recording ?"
+    },
+    {
+        "input": "I [have] a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I pause it while recording ?",
+        "output": "[I | subject] have a Kodak [Camera | object] ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I pause it while recording ?"
+    },
+    {
+        "input": "I have a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I [pause] it while recording ?",
+        "output": "I have a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do [I | subject] pause [it | object] while recording ?"
+    },
+    {
+        "input": "that deal is making like it wants to close and the traders [scheduled] a 430 call to wrap it up",
+        "output": "that deal is making like it wants to close and the [traders | subject] scheduled a 430 [call | object] to wrap it up"
+    },
+    {
+        "input": "I [need] suggestions on restaurants in San Francisco with good food and good catering service .",
+        "output": "[I | subject] need [suggestions | object] on restaurants in San Francisco with good food and good catering service ."
+    },
+    {
+        "input": "I just [want] a simple way to get a good deal to whatever Restaurant I want , whenever I want .",
+        "output": "[I | subject] just want a simple [way | object] to get a good deal to whatever Restaurant I want , whenever I want ."
+    },
+    {
+        "input": "They basically [buy] daily deals from Groupon , Living Social , and all sorts of other places .",
+        "output": "[They | subject] basically buy daily [deals | object] from Groupon , Living Social , and all sorts of other places ."
+    },
+    {
+        "input": "We would like to thank our emergency plumbers who [visted] our shop in Morningside Road today .",
+        "output": "We would like to thank our emergency plumbers [who | subject] visted our [shop | object] in Morningside Road today ."
+    },
+    {
+        "input": "I [use] their limo services for all of my airport car services and airport transportation needs",
+        "output": "[I | subject] use their limo [services | object] for all of my airport car services and airport transportation needs"
+    },
+    {
+        "input": "Yes you can [carry] your duty free bottles , and liquids onto your connection as it is only a domestic flight :-)",
+        "output": "Yes [you | subject] can carry your duty free [bottles | object] , and liquids onto your connection as it is only a domestic flight :-)"
+    },
+    {
+        "input": "Paula [has] an amazing gift for creativity , vision and the ability to combine art to / with commercial purpose .",
+        "output": "[Paula | subject] has an amazing [gift | object] for creativity , vision and the ability to combine art to / with commercial purpose ."
+    },
+    {
+        "input": "This was a risk that we [had] but we did have assurances from Phillips regarding performance .",
+        "output": "This was a risk [that | object] [we | subject] had but we did have assurances from Phillips regarding performance ."
+    },
+    {
+        "input": "This was a risk that we had but we did [have] assurances from Phillips regarding performance .",
+        "output": "This was a risk that we had but [we | subject] did have [assurances | object] from Phillips regarding performance ."
+    },
+    {
+        "input": "In such case , you should [destroy] this message and kindly notify the sender by reply email .",
+        "output": "In such case , [you | subject] should destroy this [message | object] and kindly notify the sender by reply email ."
+    },
+    {
+        "input": "I [need] suggestions for San Francisco restaurants with good food and good catering service .?",
+        "output": "[I | subject] need [suggestions | object] for San Francisco restaurants with good food and good catering service .?"
+    },
+    {
+        "input": "Sanctuary [serves] delicious , somewhat healthy food in a great restaurant / fast food style .",
+        "output": "[Sanctuary | subject] serves delicious , somewhat healthy [food | object] in a great restaurant / fast food style ."
+    },
+    {
+        "input": "Delhi police chief K Paul [named] the man as Tariq Ahmed Dar , and said police were hunting for four accomplices .",
+        "output": "Delhi police chief [K | subject] Paul named the [man | object] as Tariq Ahmed Dar , and said police were hunting for four accomplices ."
+    },
+    {
+        "input": "U.S. President George W. Bush [shakes] hands with Chinese President Hu Jintao in a bilateral meeting in Santiago .",
+        "output": "U.S. [President | subject] George W. Bush shakes [hands | object] with Chinese President Hu Jintao in a bilateral meeting in Santiago ."
+    },
+    {
+        "input": "Choose the news and sport headlines you want - when you [want] them , all in one daily e-mail",
+        "output": "Choose the news and sport headlines you want - when [you | subject] want [them | object] , all in one daily e-mail"
+    },
+    {
+        "input": "We could certainly [slow] the aging process down if it had to work its way through Congress .",
+        "output": "[We | subject] could certainly slow the aging [process | object] down if it had to work its way through Congress ."
+    },
+    {
+        "input": "Was wondering if anyone [knew] a rough estimate of how much it costs with travel and training",
+        "output": "Was wondering if [anyone | subject] knew a rough [estimate | object] of how much it costs with travel and training"
+    },
+    {
+        "input": "Was wondering if anyone knew a rough estimate of how much it [costs] with travel and training",
+        "output": "Was wondering if anyone knew a rough estimate of how [much | object] [it | subject] costs with travel and training"
+    },
+    {
+        "input": "I [schedule] my weekly appointment here just to get a chance to lie comfortably on my tummy .",
+        "output": "[I | subject] schedule my weekly [appointment | object] here just to get a chance to lie comfortably on my tummy ."
+    },
+    {
+        "input": "the attitude of some staff is terrible , did not solve anything only say i can [do] nothing .",
+        "output": "the attitude of some staff is terrible , did not solve anything only say [i | subject] can do [nothing | object] ."
+    },
+    {
+        "input": "In addition , is there someone who could [consider] the correlation between US CPI and the $ / euro exchange rate .",
+        "output": "In addition , is there someone [who | subject] could consider the [correlation | object] between US CPI and the $ / euro exchange rate ."
+    },
+    {
+        "input": "Microsoft is 4 - 0 ( they [took] down Netscape , Suns Systems , MAC and IBM ) and Google may be their next target .",
+        "output": "Microsoft is 4 - 0 ( [they | subject] took down [Netscape | object] , Suns Systems , MAC and IBM ) and Google may be their next target ."
+    },
+    {
+        "input": "Well if you are interested , I suggest you [have] a look at General Fiasco , Two Door Cinema Club and Wallis Bird .",
+        "output": "Well if you are interested , I suggest [you | subject] have a [look | object] at General Fiasco , Two Door Cinema Club and Wallis Bird ."
+    },
+    {
+        "input": "I know its in the wrong catagory , but still , I [wrote] this question for a reason , not for you to critisize me .",
+        "output": "I know its in the wrong catagory , but still , [I | subject] wrote this [question | object] for a reason , not for you to critisize me ."
+    },
+    {
+        "input": "I know its in the wrong catagory , but still , I wrote this question for a reason , not for you to [critisize] me .",
+        "output": "I know its in the wrong catagory , but still , I wrote this question for a reason , not for [you | subject] to critisize [me | object] ."
+    },
+    {
+        "input": "The investors [put] big bucks into the building but are clueless about what makes a good dining or bar experience .",
+        "output": "The [investors | subject] put big [bucks | object] into the building but are clueless about what makes a good dining or bar experience ."
+    },
+    {
+        "input": "It does seem that Iranians frequently [make] statements and then hide behind lack of proof .",
+        "output": "It does seem that [Iranians | subject] frequently make [statements | object] and then hide behind lack of proof ."
+    },
+    {
+        "input": "Pat had told me before he left that it would [help] me better grasp the process as a whole .",
+        "output": "Pat had told me before he left that [it | subject] would help [me | object] better grasp the process as a whole ."
+    },
+    {
+        "input": "Launching this way will hopefully avoid future disasters , giving more support towards NASA [revisiting] the stars .",
+        "output": "Launching this way will hopefully avoid future disasters , giving more support towards [NASA | subject] revisiting the [stars | object] ."
+    },
+    {
+        "input": "Only Irish coffee [provides] in a single glass all four essential food groups : alcohol , caffeine , sugar and fat .",
+        "output": "Only Irish [coffee | subject] provides in a single glass all four essential food [groups | object] : alcohol , caffeine , sugar and fat ."
+    },
+    {
+        "input": "He seemed to understand how important it was for us to make sure the whole house was sprayed so he [took] his time .",
+        "output": "He seemed to understand how important it was for us to make sure the whole house was sprayed so [he | subject] took his [time | object] ."
+    },
+    {
+        "input": "We [discussed] a few days ago a consulting arrangement with Prof. Sheridan Titman from UT .",
+        "output": "[We | subject] discussed a few days ago a consulting [arrangement | object] with Prof. Sheridan Titman from UT ."
+    },
+    {
+        "input": "KENNEDY [filed] an opinion concurring in part , in which SOUTER , GINSBURG , and BREYER joined as to Parts I and II .",
+        "output": "[KENNEDY | subject] filed an [opinion | object] concurring in part , in which SOUTER , GINSBURG , and BREYER joined as to Parts I and II ."
+    },
+    {
+        "input": "I understand the imminent cold weather is [making] things crazy , so now may not be the best time to be in your way .",
+        "output": "I understand the imminent cold [weather | subject] is making [things | object] crazy , so now may not be the best time to be in your way ."
+    },
+    {
+        "input": "I am being told by my better half that we need to get an accurate head count of who will be [attending] our wedding .",
+        "output": "I am being told by my better half that we need to get an accurate head count of [who | subject] will be attending our [wedding | object] ."
+    },
+    {
+        "input": "They [have] fresh flowers , lasted a long while in the vase , and the two ladies at the shop know the business well .",
+        "output": "[They | subject] have fresh [flowers | object] , lasted a long while in the vase , and the two ladies at the shop know the business well ."
+    },
+    {
+        "input": "They have fresh flowers , lasted a long while in the vase , and the two ladies at the shop [know] the business well .",
+        "output": "They have fresh flowers , lasted a long while in the vase , and the two [ladies | subject] at the shop know the [business | object] well ."
+    },
+    {
+        "input": "I presume you [need] the Pakistan base for rescue operations in case anything went wrong .",
+        "output": "I presume [you | subject] need the Pakistan [base | object] for rescue operations in case anything went wrong ."
+    },
+    {
+        "input": "We [tried] 4 different style of donuts , they were all the same when it came to quality .",
+        "output": "[We | subject] tried 4 different [style | object] of donuts , they were all the same when it came to quality ."
+    },
+    {
+        "input": "John Donovan from Argghhh! has [put] out a excellent slide show on what was actually found and fought for in Fallujah .",
+        "output": "[John | subject] Donovan from Argghhh! has put out a excellent slide [show | object] on what was actually found and fought for in Fallujah ."
+    },
+    {
+        "input": "We still [have] the traders and books that you provided last week , but need to know if there are any changes to this .",
+        "output": "[We | subject] still have the [traders | object] and books that you provided last week , but need to know if there are any changes to this ."
+    },
+    {
+        "input": "We still have the traders and books that you [provided] last week , but need to know if there are any changes to this .",
+        "output": "We still have the traders and books [that | object] [you | subject] provided last week , but need to know if there are any changes to this ."
+    },
+    {
+        "input": "On my last 6 trips here from the states I [used] \" Fly genesis \" based in Seattle , Wa .",
+        "output": "On my last 6 trips here from the states [I | subject] used \" Fly [genesis | object] \" based in Seattle , Wa ."
+    },
+    {
+        "input": "i [doing] a research paper on donatello and i notice that there are two statues of David , a bronze one and marble one .",
+        "output": "[i | subject] doing a research [paper | object] on donatello and i notice that there are two statues of David , a bronze one and marble one ."
+    },
+    {
+        "input": "My friend goes to the Phils every 6 months or so and she has found that Korean Air has [had] the cheapest fares lately .",
+        "output": "My friend goes to the Phils every 6 months or so and she has found that Korean [Air | subject] has had the cheapest [fares | object] lately ."
+    },
+    {
+        "input": "BREYER [filed] a concurring opinion , in which KENNEDY , SOUTER , and GINSBURG joined .",
+        "output": "[BREYER | subject] filed a concurring [opinion | object] , in which KENNEDY , SOUTER , and GINSBURG joined ."
+    },
+    {
+        "input": "By using collateral to pay these bills are we not [keeping] required levels available ?",
+        "output": "By using collateral to pay these bills are [we | subject] not keeping required [levels | object] available ?"
+    },
+    {
+        "input": "Also , I [have] an extra ticket for the Comets game on Sat. you said you wanted to go ?",
+        "output": "Also , [I | subject] have an extra [ticket | object] for the Comets game on Sat. you said you wanted to go ?"
+    },
+    {
+        "input": "Also , I [have] an extra ticket for the Comets game on Sat. you said you wanted to go ?",
+        "output": "Also , [I | subject] have an extra [ticket | object] for the Comets game on Sat. you said you wanted to go ?"
+    },
+    {
+        "input": "the camera only begins to work again when i [take] out the battery and put it back in .",
+        "output": "the camera only begins to work again when [i | subject] take out the [battery | object] and put it back in ."
+    },
+    {
+        "input": "Well , they [have] a variety of sports that they play like basketball , soccer , etc .",
+        "output": "Well , [they | subject] have a [variety | object] of sports that they play like basketball , soccer , etc ."
+    },
+    {
+        "input": "Well , they have a variety of sports that they [play] like basketball , soccer , etc .",
+        "output": "Well , they have a variety of sports [that | object] [they | subject] play like basketball , soccer , etc ."
+    },
+    {
+        "input": "Fast Service Called them one hour ago and they just [left] my house five minutes ago .",
+        "output": "Fast Service Called them one hour ago and [they | subject] just left my [house | object] five minutes ago ."
+    },
+    {
+        "input": "with my breakfast I [like] bacon and sausage when I having a big breakfast like a grand slam with pancakes and the works .",
+        "output": "with my breakfast [I | subject] like [bacon | object] and sausage when I having a big breakfast like a grand slam with pancakes and the works ."
+    },
+    {
+        "input": "with my breakfast I like bacon and sausage when I [having] a big breakfast like a grand slam with pancakes and the works .",
+        "output": "with my breakfast I like bacon and sausage when [I | subject] having a big [breakfast | object] like a grand slam with pancakes and the works ."
+    },
+    {
+        "input": "And international donors have [given] only half of the relief aid that Darfur needs , according to the local UN officials .",
+        "output": "And international [donors | subject] have given only [half | object] of the relief aid that Darfur needs , according to the local UN officials ."
+    },
+    {
+        "input": "And international donors have given only half of the relief aid that Darfur [needs] , according to the local UN officials .",
+        "output": "And international donors have given only half of the relief aid [that | object] [Darfur | subject] needs , according to the local UN officials ."
+    },
+    {
+        "input": "can ever & never forget the training undergone here which [made] my life step onto the successful job without any hurdles .",
+        "output": "can ever & never forget the training undergone here [which | subject] made my [life | object] step onto the successful job without any hurdles ."
+    },
+    {
+        "input": "We [have] a Full Color Catalog and Wholesale Price List ready to mail to you today !",
+        "output": "[We | subject] have a Full Color [Catalog | object] and Wholesale Price List ready to mail to you today !"
+    },
+    {
+        "input": "well since i dont [know] your budget , i recommend Hakka Restaurant for chinese food",
+        "output": "well since [i | subject] dont know your [budget | object] , i recommend Hakka Restaurant for chinese food"
+    },
+    {
+        "input": "well since i dont know your budget , i [recommend] Hakka Restaurant for chinese food",
+        "output": "well since i dont know your budget , [i | subject] recommend Hakka [Restaurant | object] for chinese food"
+    },
+    {
+        "input": "I understand you may not [have] credit approval yet so perhaps we can leave the appropriate sections blank in the meantime .",
+        "output": "I understand [you | subject] may not have credit [approval | object] yet so perhaps we can leave the appropriate sections blank in the meantime ."
+    },
+    {
+        "input": "I understand you may not have credit approval yet so perhaps we can [leave] the appropriate sections blank in the meantime .",
+        "output": "I understand you may not have credit approval yet so perhaps [we | subject] can leave the appropriate [sections | object] blank in the meantime ."
+    },
+    {
+        "input": "I have [use] them four times for fixing items from pushing out a dent in a bumper to fixing the fender on my beloved Miata .",
+        "output": "[I | subject] have use [them | object] four times for fixing items from pushing out a dent in a bumper to fixing the fender on my beloved Miata ."
+    },
+    {
+        "input": "for a tank that size i would [suggest] oscars or piranha every time awesome fish !!",
+        "output": "for a tank that size [i | subject] would suggest [oscars | object] or piranha every time awesome fish !!"
+    },
+    {
+        "input": "When you [discussed] it , i was trying to think back to our remedies and discussions but the 3 years have made it difficult .",
+        "output": "When [you | subject] discussed [it | object] , i was trying to think back to our remedies and discussions but the 3 years have made it difficult ."
+    },
+    {
+        "input": "When you discussed it , i was trying to think back to our remedies and discussions but the 3 years have [made] it difficult .",
+        "output": "When you discussed it , i was trying to think back to our remedies and discussions but the 3 [years | subject] have made [it | object] difficult ."
+    },
+    {
+        "input": "But let me know if I can [spend] a day , morning , or even just an afternoon down there with you whenever it is a good time .",
+        "output": "But let me know if [I | subject] can spend a [day | object] , morning , or even just an afternoon down there with you whenever it is a good time ."
+    },
+    {
+        "input": "These guys really [know] their stuff .. they have almost anything you could want in terms of spy and surviellance equipment .",
+        "output": "These [guys | subject] really know their [stuff | object] .. they have almost anything you could want in terms of spy and surviellance equipment ."
+    },
+    {
+        "input": "These guys really know their stuff .. they [have] almost anything you could want in terms of spy and surviellance equipment .",
+        "output": "These guys really know their stuff .. [they | subject] have almost [anything | object] you could want in terms of spy and surviellance equipment ."
+    },
+    {
+        "input": "The results of the February 26th test [reduces] the working gas by 398,487 MMBTU .",
+        "output": "The [results | subject] of the February 26th test reduces the working [gas | object] by 398,487 MMBTU ."
+    },
+    {
+        "input": "In case you are interested , I [attach] this paper on gas Storage value modeling .",
+        "output": "In case you are interested , [I | subject] attach this [paper | object] on gas Storage value modeling ."
+    },
+    {
+        "input": "Most of the deals [let] you eat for 500 ff , and some of the deals are even free .",
+        "output": "[Most | subject] of the deals let [you | object] eat for 500 ff , and some of the deals are even free ."
+    },
+    {
+        "input": "Az - Zaman : The Association of Muslim Scholars [forbade] Iraqis to participate in the attack on Fallujah with the Americans .",
+        "output": "Az - Zaman : The [Association | subject] of Muslim Scholars forbade [Iraqis | object] to participate in the attack on Fallujah with the Americans ."
+    },
+    {
+        "input": "( What about 40 al - Qaeda bases that had [trained] the 9/11 hijackers and other terrorists gunning for the United States ?? )",
+        "output": "( What about 40 al - Qaeda bases [that | subject] had trained the 9/11 [hijackers | object] and other terrorists gunning for the United States ?? )"
+    },
+    {
+        "input": "i wish the other utilities i had to set up [had] people to work with like this ..",
+        "output": "i wish the other [utilities | subject] i had to set up had [people | object] to work with like this .."
+    },
+    {
+        "input": "I have [had] several dentists in my life , but Dr. Deters is by far my favorite .",
+        "output": "[I | subject] have had several [dentists | object] in my life , but Dr. Deters is by far my favorite ."
+    },
+    {
+        "input": "By using the word \" Islamic \" as an adjective Bush was purposely not [associating] Muslims with fascism , hence the qualifier .",
+        "output": "By using the word \" Islamic \" as an adjective [Bush | subject] was purposely not associating [Muslims | object] with fascism , hence the qualifier ."
+    },
+    {
+        "input": "Okay , FIRST , you have [posted] a question about an American movie , set in Mexico , in the Dining Out in Argentina category .",
+        "output": "Okay , FIRST , [you | subject] have posted a [question | object] about an American movie , set in Mexico , in the Dining Out in Argentina category ."
+    },
+    {
+        "input": "They [treat] there employees with respect and concern and expect that they will extend the same politeness to there customers .",
+        "output": "[They | subject] treat there [employees | object] with respect and concern and expect that they will extend the same politeness to there customers ."
+    },
+    {
+        "input": "and hopefully you do not know the same people because he [tells] others about you payment status .",
+        "output": "and hopefully you do not know the same people because [he | subject] tells [others | indirect_object] about you payment status ."
+    },
+    {
+        "input": "Pat had [told] me before he left that it would help me better grasp the process as a whole .",
+        "output": "[Pat | subject] had told [me | indirect_object] before he left that it would help me better grasp the process as a whole ."
+    },
+    {
+        "input": "I have [asked] Doug Daniels to prepare the settlement papers reflecting such an agreement .",
+        "output": "[I | subject] have asked [Doug | indirect_object] Daniels to prepare the settlement papers reflecting such an agreement ."
+    },
+    {
+        "input": "In one class , he [asks] the students if anyone can give him an example of a \" tragedy \" .",
+        "output": "In one class , [he | subject] asks the [students | indirect_object] if anyone can give him an example of a \" tragedy \" ."
+    },
+    {
+        "input": "she [told] me that after friday and saturday she felt i was slowly regressing .",
+        "output": "[she | subject] told [me | indirect_object] that after friday and saturday she felt i was slowly regressing ."
+    },
+    {
+        "input": "many PCs have sleep & charge now , that [allow] the PC to go into sleep mode , and still allow the USB ports to charge things like phones .",
+        "output": "many PCs have sleep & charge now , [that | subject] allow the [PC | indirect_object] to go into sleep mode , and still allow the USB ports to charge things like phones ."
+    },
+    {
+        "input": "then i [told] her i felt i should be able to screw missy just once .",
+        "output": "then [i | subject] told [her | indirect_object] i felt i should be able to screw missy just once ."
+    },
+    {
+        "input": "Did you have a chance to take a look at the resume I [sent] you ?",
+        "output": "Did you have a chance to take a look at the resume [I | subject] sent [you | indirect_object] ?"
+    },
+    {
+        "input": "Someone [told] me that Chase is planning a shitload of layoffs .",
+        "output": "[Someone | subject] told [me | indirect_object] that Chase is planning a shitload of layoffs ."
+    },
+    {
+        "input": "i am sure i could have [persuaded] you to give me some action .",
+        "output": "i am sure [i | subject] could have persuaded [you | indirect_object] to give me some action ."
+    },
+    {
+        "input": "can anyone [tell] me exactly what it is and what took place ?",
+        "output": "can [anyone | subject] tell [me | indirect_object] exactly what it is and what took place ?"
+    },
+    {
+        "input": "Did services I [asked] them NOT to do and was still charged .",
+        "output": "Did services [I | subject] asked [them | indirect_object] NOT to do and was still charged ."
+    },
+    {
+        "input": "could you also [CC] me the first few times you send it ?",
+        "output": "could [you | subject] also CC [me | indirect_object] the first few times you send it ?"
+    },
+    {
+        "input": "And can you [tell] me WHY that would be a tragedy ? \"",
+        "output": "And can [you | subject] tell [me | indirect_object] WHY that would be a tragedy ? \""
+    },
+    {
+        "input": "The Sunni AMS [told] Iraqis , \" You sinned when you participated with occupation forces in the assault on Najaf , and beware lest you repeat this same sin in Fallujah .",
+        "output": "The Sunni [AMS | subject] told [Iraqis | indirect_object] , \" You sinned when you participated with occupation forces in the assault on Najaf , and beware lest you repeat this same sin in Fallujah ."
+    },
+    {
+        "input": "One witness at the Moutasaddiq trial in Germany alleged that Zarqawi had not [allowed] Monotheism and Holy War to share resources with al - Qaeda in the early zeroes of the 21st century .",
+        "output": "One witness at the Moutasaddiq trial in Germany alleged that [Zarqawi | subject] had not allowed [Monotheism | indirect_object] and Holy War to share resources with al - Qaeda in the early zeroes of the 21st century ."
+    },
+    {
+        "input": "\" Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two - way highway between the Earth and the Moon , \" Kistler [told] SPACE.com .",
+        "output": "\" Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two - way highway between the Earth and the Moon , \" [Kistler | subject] told [SPACE.com | indirect_object] ."
+    },
+    {
+        "input": "Clinton had worked out a deal with Pakistani Prime Minister Nawaz Sharif in summer of 1999 that would have [allowed] the US to send a Special Ops team in after Bin Laden in Qandahar , based from Pakistan .",
+        "output": "Clinton had worked out a deal with Pakistani Prime Minister Nawaz Sharif in summer of 1999 [that | subject] would have allowed the [US | indirect_object] to send a Special Ops team in after Bin Laden in Qandahar , based from Pakistan ."
+    },
+    {
+        "input": "U.S. astronauts will launch to the moon on sleek , single , shuttle booster rockets and the first new upper - stage rocket this country has developed in more than a decade , NASA and the Pentagon have [told] the White House .",
+        "output": "U.S. astronauts will launch to the moon on sleek , single , shuttle booster rockets and the first new upper - stage rocket this country has developed in more than a decade , [NASA | subject] and the Pentagon have told the White [House | indirect_object] ."
+    },
+    {
+        "input": "The statement said , \" We direct an appeal at the men in the Iraqi forces , whether national guards or others , the majority of whom are Muslim , calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity , and we [ask] them to view this war as illegal . \"",
+        "output": "The statement said , \" We direct an appeal at the men in the Iraqi forces , whether national guards or others , the majority of whom are Muslim , calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity , and [we | subject] ask [them | indirect_object] to view this war as illegal . \""
+    },
+    {
+        "input": "Seriously , I talked this morning with Tom Hall and we agreed that Ecogas would [pay] him $ 53,000 .",
+        "output": "Seriously , I talked this morning with Tom Hall and we agreed that [Ecogas | subject] would pay [him | indirect_object] [$ | object] 53,000 ."
+    },
+    {
+        "input": "Could one of you please [email] me a copy of the standard template you use for Enfolio gas purchase agreements ?",
+        "output": "Could [one | subject] of you please email [me | indirect_object] a [copy | object] of the standard template you use for Enfolio gas purchase agreements ?"
+    },
+    {
+        "input": "I know saltwater is a possibility , can you [give] me a possible stocking option for that too ?",
+        "output": "I know saltwater is a possibility , can [you | subject] give [me | indirect_object] a possible stocking [option | object] for that too ?"
+    },
+    {
+        "input": "In one class , he asks the students if anyone can [give] him an example of a \" tragedy \" .",
+        "output": "In one class , he asks the students if [anyone | subject] can give [him | indirect_object] an [example | object] of a \" tragedy \" ."
+    },
+    {
+        "input": "For those of you who already [sent] us an RSVP response recently , please disregard .",
+        "output": "For those of you [who | subject] already sent [us | indirect_object] an RSVP [response | object] recently , please disregard ."
+    },
+    {
+        "input": "I was wondering if you could [give] me some references regarding the calculation of correlation coefficients from a GARCH model .",
+        "output": "I was wondering if [you | subject] could give [me | indirect_object] some [references | object] regarding the calculation of correlation coefficients from a GARCH model ."
+    },
+    {
+        "input": "I [gave] Dr. Rohatgi 2 stars because her assistant was very pleasant .",
+        "output": "[I | subject] gave [Dr. | indirect_object] Rohatgi 2 [stars | object] because her assistant was very pleasant ."
+    },
+    {
+        "input": "In any event , my presentation should [give] you a starting point .",
+        "output": "In any event , my [presentation | subject] should give [you | indirect_object] a starting [point | object] ."
+    },
+    {
+        "input": "you guys have any job opening for ex natural gas traders that [made] their now almost defunctc ompany over 40 million in the last two years ?",
+        "output": "you guys have any job opening for ex natural gas traders [that | subject] made their now almost defunctc [ompany | indirect_object] over 40 [million | object] in the last two years ?"
+    },
+    {
+        "input": "I just [give] them guide and they can find anything they need .",
+        "output": "[I | subject] just give [them | indirect_object] [guide | object] and they can find anything they need ."
+    },
+    {
+        "input": "I am [sending] you a version with comments .",
+        "output": "[I | subject] am sending [you | indirect_object] a [version | object] with comments ."
+    },
+    {
+        "input": "you can [buy] me dinner when we get back .",
+        "output": "[you | subject] can buy [me | indirect_object] [dinner | object] when we get back ."
+    },
+    {
+        "input": "okay , I dont have a review , but why in the hell would you [name] your business something that has the initials KKK .... is there something behind the scenes at this place ?",
+        "output": "okay , I dont have a review , but why in the hell would [you | subject] name your [business | indirect_object] [something | object] that has the initials KKK .... is there something behind the scenes at this place ?"
+    },
+    {
+        "input": "I shall [send] you a copy today .",
+        "output": "[I | subject] shall send [you | indirect_object] a [copy | object] today ."
+    },
+    {
+        "input": "I [give] this place 11 / 10 .",
+        "output": "[I | subject] give this [place | indirect_object] [11 | object] / 10 ."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "input": "Da manche Güter begehrter sind als andere , kann sich der Spieler einen Vorteil [verschaffen] , wenn er eine solche Nachfrage befriedigt .",
+        "output": "Da manche Güter begehrter sind als andere , kann [sich | indirect_object] der [Spieler | subject] einen [Vorteil | object] verschaffen , wenn er eine solche Nachfrage befriedigt ."
+    },
+    {
+        "input": "Zu ihrer rechten steht Hermes , der ihr offenbar die Botschaft von der anstehenden göttlichen Rettung ihrer beiden Kinder [bringen] wird .",
+        "output": "Zu ihrer rechten steht Hermes , [der | subject] [ihr | indirect_object] offenbar die [Botschaft | object] von der anstehenden göttlichen Rettung ihrer beiden Kinder bringen wird ."
+    },
+    {
+        "input": "Wir werden uns auch in Zukunft einer weiterführenden Beratung durch die Mentor - Coaching [unterziehen] und uns somit im Markt etablieren .",
+        "output": "[Wir | subject] werden [uns | object] auch in Zukunft einer weiterführenden [Beratung | indirect_object] durch die Mentor - Coaching unterziehen und uns somit im Markt etablieren ."
+    },
+    {
+        "input": "Man muss dazu [sagen] , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe gesagt habe , dass ich nur eine neue Kette haben möchte .",
+        "output": "[Man | subject] muss dazu sagen , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe gesagt habe , dass ich nur eine neue Kette haben möchte ."
+    },
+    {
+        "input": "Man muss dazu sagen , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe [gesagt] habe , dass ich nur eine neue Kette haben möchte .",
+        "output": "Man muss dazu sagen , dass das Fahrrad 15 Jahre alt ist und [ich | subject] bei der Abgabe gesagt habe , dass ich nur eine neue Kette haben möchte ."
+    },
+    {
+        "input": "Die Führungsleistung des Präsidiums könne sich also selten so präsentieren , daß sie als einheitlich und geschlossen [wahrgenommen] wird .",
+        "output": "Die Führungsleistung des Präsidiums könne sich also selten so präsentieren , daß [sie | subject] als einheitlich und geschlossen wahrgenommen wird ."
+    },
+    {
+        "input": "Man muss dazu sagen , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe gesagt habe , dass ich nur eine neue Kette [haben] möchte .",
+        "output": "Man muss dazu sagen , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe gesagt habe , dass [ich | subject] nur eine neue [Kette | object] haben möchte ."
+    },
+    {
+        "input": "Die Führungsleistung des Präsidiums könne sich also selten so [präsentieren] , daß sie als einheitlich und geschlossen wahrgenommen wird .",
+        "output": "Die [Führungsleistung | subject] des Präsidiums könne [sich | object] also selten so präsentieren , daß sie als einheitlich und geschlossen wahrgenommen wird ."
+    },
+    {
+        "input": "Das Sondereinsatzkommando der Polizei [stürmte] die Boeing 747 auf dem internationalen Flughafen von Athen und nahm den Luftpiraten fest .",
+        "output": "Das [Sondereinsatzkommando | subject] der Polizei stürmte die [Boeing | object] 747 auf dem internationalen Flughafen von Athen und nahm den Luftpiraten fest ."
+    },
+    {
+        "input": "Ich möchte auf diesem Wege dem gesamtem Team der \" Hauptstadtschwestern \" für die tatkräftige Hilfe und die aufmunternden Worte [danken] .",
+        "output": "[Ich | subject] möchte auf diesem Wege dem gesamtem [Team | indirect_object] der \" Hauptstadtschwestern \" für die tatkräftige Hilfe und die aufmunternden Worte danken ."
+    },
+    {
+        "input": "Bis auf vereinzelte Teile [nähert] sich die Musik allerdings sehr der seines Hauptprojektes an und entfernt sich von den Noise - Wurzeln .",
+        "output": "Bis auf vereinzelte Teile nähert sich die [Musik | subject] allerdings sehr [der | indirect_object] seines Hauptprojektes an und entfernt sich von den Noise - Wurzeln ."
+    },
+    {
+        "input": "Voraussetzung für den Abschluss des Studiums ( außer M.A. ) ist die Mitgliedschaft in einer christlichen Kirche , die der ACK [angehört] .",
+        "output": "Voraussetzung für den Abschluss des Studiums ( außer M.A. ) ist die Mitgliedschaft in einer christlichen Kirche , [die | subject] der [ACK | indirect_object] angehört ."
+    }
+]

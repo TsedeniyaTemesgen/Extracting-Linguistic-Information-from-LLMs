@@ -1,0 +1,36 @@
+[
+    {
+        "lemma": "smilšains",
+        "surface_word": "smilšaine",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-e",
+        "prefix": [],
+        "suffix": "-e",
+        "alternative_0": "smilšains<ADJ> e<N_SUFF>",
+        "alternative_1": "smiltis<N> ains<ADJ_SUFF> e<N_SUFF>",
+        "sub_words": "smiltis<N> ains<ADJ_SUFF> e<N_SUFF>"
+    },
+    {
+        "lemma": "slidot",
+        "surface_word": "slidotāja",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-āja",
+        "prefix": [],
+        "suffix": "-āja",
+        "alternative_0": "slidot<V> āja<N_SUFF>",
+        "sub_words": "slidot<V> āja<N_SUFF>"
+    },
+    {
+        "lemma": "svainis",
+        "surface_word": "svaine",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-e",
+        "prefix": [],
+        "suffix": "-e",
+        "alternative_0": "svainis<N> e<N_SUFF>",
+        "sub_words": "svainis<N> e<N_SUFF>"
+    }
+]

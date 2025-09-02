@@ -1,0 +1,6143 @@
+[
+  {
+    "surface_word": "verdienstlos",
+    "sub_words": "Verdienst<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wiederentdeckbar",
+    "sub_words": "wieder<VPART> entdecken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "wieder<VPART> ent<PREF> decken<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wehrbar",
+    "sub_words": "wehren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "publikumsmäßig",
+    "sub_words": "Publikum<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verschiebbar",
+    "sub_words": "verschieben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> schieben<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "komplettierbar",
+    "sub_words": "komplettieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verleugnerisch",
+    "sub_words": "verleugnen<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> leugnen<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "überarbeitbar",
+    "sub_words": "überarbeiten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "über<PREF> arbeiten<V> bar<ADJ_SUFF>",
+    "alternative_1": "über<VPART> arbeiten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "metallisierbar",
+    "sub_words": "metallisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einstellungsmäßig",
+    "sub_words": "Einstellung<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ein<VPART> stellen<V> ung<NN_SUFF> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "satzungsmäßig",
+    "sub_words": "Satzung<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "positronisch",
+    "sub_words": "Positron<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stroboskopisch",
+    "sub_words": "Stroboskop<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verarbeitbar",
+    "sub_words": "verarbeiten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> arbeiten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "motettisch",
+    "sub_words": "Motette<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "parameterlos",
+    "sub_words": "Parameter<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "palindromisch",
+    "sub_words": "Palindrom<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besitzlos",
+    "sub_words": "Besitz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "merkmalhaft",
+    "sub_words": "Merkmal<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "korblos",
+    "sub_words": "Korb<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "präsentierbar",
+    "sub_words": "präsentieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erhaltbar",
+    "sub_words": "erhalten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ungeistig",
+    "sub_words": "Ungeist<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besetzbar",
+    "sub_words": "besetzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> setzen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unerlauschbar",
+    "sub_words": "un<PREF> erlauschen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> er<PREF> lauschen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "miniaturhaft",
+    "sub_words": "Miniatur<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konfektionsmäßig",
+    "sub_words": "Konfektion<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "lüfterlos",
+    "sub_words": "lüften<V> er<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "aufsichtslos",
+    "sub_words": "Aufsicht<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pestilenzisch",
+    "sub_words": "Pestilenz<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mönchisch",
+    "sub_words": "Mönch<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "proportionsmäßig",
+    "sub_words": "Proportion<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "undatierbar",
+    "sub_words": "un<PREF> datieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "romanzenhaft",
+    "sub_words": "Romanze<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wiederzündbar",
+    "sub_words": "wieder<VPART> zünden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "edelmütig",
+    "sub_words": "Edelmut<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "edel<ADJ> Mut<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einkantig",
+    "sub_words": "ein<PREF> Kante<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besohlbar",
+    "sub_words": "besohlen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "undisziplinierbar",
+    "sub_words": "un<PREF> disziplinieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "speicherprogrammierbar",
+    "sub_words": "Speicher<NN> programmieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konfigurierbar",
+    "sub_words": "konfigurieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zerstreubar",
+    "sub_words": "zerstreuen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "zer<PREF> streuen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pupillenlos",
+    "sub_words": "Pupille<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gehirnlos",
+    "sub_words": "Gehirn<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "antragslos",
+    "sub_words": "Antrag<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kontrollierbar",
+    "sub_words": "kontrollieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vernehmbar",
+    "sub_words": "vernehmen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> nehmen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ermüdbar",
+    "sub_words": "ermüden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erfüllbar",
+    "sub_words": "erfüllen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> füllen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "klickbar",
+    "sub_words": "klicken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nichterneuerbar",
+    "sub_words": "nicht<PREF> erneuern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vermittelbar",
+    "sub_words": "vermitteln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> mitteln<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tischlerisch",
+    "sub_words": "Tischler<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Tisch<NN> ler<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "liquidierbar",
+    "sub_words": "liquidieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "montierbar",
+    "sub_words": "montieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "triomäßig",
+    "sub_words": "Trio<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sägbar",
+    "sub_words": "sägen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "jobmäßig",
+    "sub_words": "Job<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "programmierbar",
+    "sub_words": "programmieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zwergig",
+    "sub_words": "Zwerg<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vandalisch",
+    "sub_words": "Vandale<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beziehbar",
+    "sub_words": "beziehen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbewältigbar",
+    "sub_words": "un<PREF> bewältigen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "überlastbar",
+    "sub_words": "überlasten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "über<VPART> lasten<V> bar<ADJ_SUFF>",
+    "alternative_1": "über<PREF> lasten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bespringbar",
+    "sub_words": "bespringen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> springen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dilettantenhaft",
+    "sub_words": "Dilettant<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "organisierbar",
+    "sub_words": "organisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beendbar",
+    "sub_words": "beenden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> enden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "untadelhaft",
+    "sub_words": "un<PREF> Tadel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ehehaft",
+    "sub_words": "Ehe<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vorurteilshaft",
+    "sub_words": "Vorurteil<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "vor<PREF> Urteil<NN> haft<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "orientierungslos",
+    "sub_words": "orientieren<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "definitionsmäßig",
+    "sub_words": "Definition<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besprechbar",
+    "sub_words": "besprechen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> sprechen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "befristbar",
+    "sub_words": "befristen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> fristen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kartenlos",
+    "sub_words": "Karte<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verringerbar",
+    "sub_words": "verringern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hinterlegbar",
+    "sub_words": "hinterlegen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "hinter<VPART> legen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gockelhaft",
+    "sub_words": "Gockel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kantenfärbbar",
+    "sub_words": "Kante<NN> färben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reglementierbar",
+    "sub_words": "reglementieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "waldlos",
+    "sub_words": "Wald<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "treuhändig",
+    "sub_words": "Treuhand<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "treu<ADJ> Hand<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verschweißbar",
+    "sub_words": "verschweißen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> schweißen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einparametrig",
+    "sub_words": "ein<PREF> Parameter<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "grünschiefrig",
+    "sub_words": "grün<ADJ> Schiefer<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "progressistisch",
+    "sub_words": "Progressist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nummernmäßig",
+    "sub_words": "Nummer<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konjunkturhaft",
+    "sub_words": "Konjunktur<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "synthetisierbar",
+    "sub_words": "synthetisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "glückhaft",
+    "sub_words": "Glück<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "führerlos",
+    "sub_words": "Führer<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reklamierbar",
+    "sub_words": "reklamieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "frömmigkeitlich",
+    "sub_words": "Frömmigkeit<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "chromlos",
+    "sub_words": "Chrom<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pfostenlos",
+    "sub_words": "Pfosten<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einwertig",
+    "sub_words": "ein<PREF> Wert<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fensterlos",
+    "sub_words": "Fenster<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "husarisch",
+    "sub_words": "Husar<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ortslos",
+    "sub_words": "Ort<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sarglos",
+    "sub_words": "Sarg<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "valenzmäßig",
+    "sub_words": "Valenz<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "findbar",
+    "sub_words": "finden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gönnerhaft",
+    "sub_words": "Gönner<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "gönnen<V> er<NN_SUFF> haft<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unvollendbar",
+    "sub_words": "un<PREF> vollenden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> voll<VPART> enden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "genossenschaftsmäßig",
+    "sub_words": "Genossenschaft<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verschiffbar",
+    "sub_words": "verschiffen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> schiffen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "peilbar",
+    "sub_words": "peilen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vollendbar",
+    "sub_words": "vollenden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "voll<VPART> enden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rabaukig",
+    "sub_words": "Rabauke<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bewertbar",
+    "sub_words": "bewerten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> werten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "griesgrämlich",
+    "sub_words": "Griesgram<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kavaliersmäßig",
+    "sub_words": "Kavalier<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stemmbar",
+    "sub_words": "stemmen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pedallos",
+    "sub_words": "Pedal<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wesenlos",
+    "sub_words": "Wesen<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versicherungslos",
+    "sub_words": "Versicherung<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> sichern<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "alternative_1": "versichern<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "disponierbar",
+    "sub_words": "disponieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stammhaft",
+    "sub_words": "Stamm<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verwalterisch",
+    "sub_words": "verwalten<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> walten<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zinsbar",
+    "sub_words": "zinsen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "statusmäßig",
+    "sub_words": "Status<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sezessionistisch",
+    "sub_words": "Sezessionist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "äbtisch",
+    "sub_words": "Abt<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "frauenlos",
+    "sub_words": "Frau<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "eigenschaftsmäßig",
+    "sub_words": "Eigenschaft<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbeherrschbar",
+    "sub_words": "un<PREF> beherrschen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> herrschen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "legendenhaft",
+    "sub_words": "Legende<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "legen<V> Ende<NN> haft<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unrestaurierbar",
+    "sub_words": "un<PREF> restaurieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fieberlos",
+    "sub_words": "Fieber<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bechrig",
+    "sub_words": "Becher<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "posenhaft",
+    "sub_words": "Pose<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schurkenhaft",
+    "sub_words": "Schurke<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schwesternschaftlich",
+    "sub_words": "Schwester<NN> schaft<NN_SUFF> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rangierbar",
+    "sub_words": "rangieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ran<VPART> gieren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "seminarisch",
+    "sub_words": "Seminar<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "grillenhaft",
+    "sub_words": "Grille<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "durchsetzbar",
+    "sub_words": "durchsetzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "durch<PREF> setzen<V> bar<ADJ_SUFF>",
+    "alternative_1": "durch<VPART> setzen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kehrbar",
+    "sub_words": "kehren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "umstellbar",
+    "sub_words": "umstellen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "um<VPART> stellen<V> bar<ADJ_SUFF>",
+    "alternative_1": "um<PREF> stellen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wirrstrahlig",
+    "sub_words": "wirr<ADJ> Strahl<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "paprikamäßig",
+    "sub_words": "Paprika<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einfädig",
+    "sub_words": "ein<PREF> Faden<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "anzahlmäßig",
+    "sub_words": "Anzahl<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "oberlehrerhaft",
+    "sub_words": "ober<PREF> Lehrer<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einsamig",
+    "sub_words": "ein<PREF> Same<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fortschritthaft",
+    "sub_words": "Fortschritt<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "villenhaft",
+    "sub_words": "Villa<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "balletthaft",
+    "sub_words": "Ballett<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fällbar",
+    "sub_words": "fällen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einthekig",
+    "sub_words": "ein<PREF> Theke<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erodierbar",
+    "sub_words": "erodieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unverrückbar",
+    "sub_words": "un<PREF> verrücken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> ver<PREF> rücken<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "überraschungslos",
+    "sub_words": "überraschen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "freizeitmäßig",
+    "sub_words": "Freizeit<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "frei<ADJ> Zeit<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "makelhaft",
+    "sub_words": "Makel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sortiermäßig",
+    "sub_words": "sortieren<V> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "neurophysiologisch",
+    "sub_words": "Neurophysiologe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versendbar",
+    "sub_words": "versenden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> senden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unerweisbar",
+    "sub_words": "un<PREF> erweisen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> er<PREF> weisen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "längenverschiebbar",
+    "sub_words": "Länge<NN> verschieben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Länge<NN> ver<PREF> schieben<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "taucherisch",
+    "sub_words": "Taucher<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vorzeichenlos",
+    "sub_words": "Vorzeichen<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "vor<PREF> zeichen<NN> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einrundig",
+    "sub_words": "ein<PREF> Runde<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "teamlos",
+    "sub_words": "Team<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einzügig",
+    "sub_words": "ein<PREF> Zug<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "profimäßig",
+    "sub_words": "Profi<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "diplommäßig",
+    "sub_words": "Diplom<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "skelettlos",
+    "sub_words": "Skelett<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "säulenhaft",
+    "sub_words": "Säule<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "opernmäßig",
+    "sub_words": "Oper<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verschraubbar",
+    "sub_words": "verschrauben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> schrauben<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "seminaristisch",
+    "sub_words": "Seminarist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stufenmäßig",
+    "sub_words": "Stufe<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "melodielos",
+    "sub_words": "Melodie<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unerlernbar",
+    "sub_words": "un<PREF> erlernen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> er<PREF> lernen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gebietsmäßig",
+    "sub_words": "Gebiet<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gitarristisch",
+    "sub_words": "Gitarrist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reuelos",
+    "sub_words": "Reue<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schmetterlinghaft",
+    "sub_words": "Schmetterling<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mumienhaft",
+    "sub_words": "Mumie<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "seinsmäßig",
+    "sub_words": "Sein<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "forderungslos",
+    "sub_words": "Forderung<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "fordern<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ansatzlos",
+    "sub_words": "Ansatz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "täterschaftlich",
+    "sub_words": "Täterschaft<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Täter<NN> schaft<NN_SUFF> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mobmäßig",
+    "sub_words": "Mob<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "quartalsmäßig",
+    "sub_words": "Quartal<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mondlos",
+    "sub_words": "Mond<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "korsettlos",
+    "sub_words": "Korsett<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kreditorisch",
+    "sub_words": "Kreditor<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sparrenlos",
+    "sub_words": "Sparre<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zugangsmäßig",
+    "sub_words": "Zugang<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "oxidierbar",
+    "sub_words": "oxidieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "decodierbar",
+    "sub_words": "decodieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "de<VPART> codieren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "glossarisch",
+    "sub_words": "Glossar<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erpressbar",
+    "sub_words": "erpressen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> pressen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nagetierhaft",
+    "sub_words": "Nagetier<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "nagen<V> Tier<NN> haft<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "garantierbar",
+    "sub_words": "garantieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kosmonautisch",
+    "sub_words": "Kosmonaut<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "granitisch",
+    "sub_words": "Granit<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zufallsmäßig",
+    "sub_words": "Zufall<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erläuterbar",
+    "sub_words": "erläutern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> läutern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "durchsatzmäßig",
+    "sub_words": "Durchsatz<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "diversifizierbar",
+    "sub_words": "diversifizieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "perückenhaft",
+    "sub_words": "Perücke<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wiederbefüllbar",
+    "sub_words": "wieder<VPART> befüllen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "wieder<VPART> be<PREF> füllen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "oberpfälzerisch",
+    "sub_words": "ober<PREF> Pfälzer<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verankerbar",
+    "sub_words": "verankern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> ankern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fraktionsmäßig",
+    "sub_words": "Fraktion<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bedienbar",
+    "sub_words": "bedienen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> dienen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "soghaft",
+    "sub_words": "Sog<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verrottbar",
+    "sub_words": "verrotten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> rotten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "effektmäßig",
+    "sub_words": "Effekt<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unvermehrbar",
+    "sub_words": "un<PREF> vermehren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> ver<PREF> mehren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "auflagenmäßig",
+    "sub_words": "Auflage<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fleckhaft",
+    "sub_words": "Fleck<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hygroskopisch",
+    "sub_words": "Hygroskop<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "außerbörslich",
+    "sub_words": "außer<PREF> Börse<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "manövrierbar",
+    "sub_words": "manövrieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "klaviermäßig",
+    "sub_words": "Klavier<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "evaluierbar",
+    "sub_words": "evaluieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sinkbar",
+    "sub_words": "sinken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kürzelhaft",
+    "sub_words": "Kürzel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nachzüglich",
+    "sub_words": "nach<PREF> Zug<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "machomäßig",
+    "sub_words": "Macho<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verleihbar",
+    "sub_words": "verleihen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> leihen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spiegelmäßig",
+    "sub_words": "Spiegel<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zygotisch",
+    "sub_words": "Zygote<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "instrumentalistisch",
+    "sub_words": "Instrumentalist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nummerisch",
+    "sub_words": "Nummer<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pflückbar",
+    "sub_words": "pflücken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "heiligenmäßig",
+    "sub_words": "Heilige<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "collagenhaft",
+    "sub_words": "Collage<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kristallisierbar",
+    "sub_words": "kristallisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "aperturlos",
+    "sub_words": "Apertur<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einkielig",
+    "sub_words": "ein<PREF> Kiel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "choralmäßig",
+    "sub_words": "Choral<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reportagehaft",
+    "sub_words": "Reportage<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "transplantierbar",
+    "sub_words": "transplantieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stößig",
+    "sub_words": "Stoß<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "inkludierbar",
+    "sub_words": "inkludieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "oberflächenhaft",
+    "sub_words": "Oberfläche<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "qualifikationsmäßig",
+    "sub_words": "Qualifikation<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "deckbar",
+    "sub_words": "decken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "chlorophylllos",
+    "sub_words": "Chlorophyll<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erziehbar",
+    "sub_words": "erziehen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wahrsagerisch",
+    "sub_words": "Wahrsager<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "wahr<ADJ> sagen<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "alternative_1": "wahrsagen<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tölpelhaft",
+    "sub_words": "Tölpel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dinarisch",
+    "sub_words": "Dinar<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "seichtbuchtig",
+    "sub_words": "seicht<ADJ> Bucht<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "regionalorthografisch",
+    "sub_words": "regional<ADJ> Orthograf<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "relikthaft",
+    "sub_words": "Relikt<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erstrebsam",
+    "sub_words": "erstreben<V> sam<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> streben<V> sam<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vollzugsmäßig",
+    "sub_words": "Vollzug<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reservierbar",
+    "sub_words": "reservieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unlebbar",
+    "sub_words": "un<PREF> leben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbestreitbar",
+    "sub_words": "un<PREF> bestreiten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> streiten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "prioritätenmäßig",
+    "sub_words": "Priorität<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "deutschtümlich",
+    "sub_words": "Deutschtum<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "privatisierbar",
+    "sub_words": "privatisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "karstisch",
+    "sub_words": "Karst<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sternenlos",
+    "sub_words": "Stern<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unerwartbar",
+    "sub_words": "un<PREF> erwarten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> er<PREF> warten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dienstlos",
+    "sub_words": "Dienst<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "humorisch",
+    "sub_words": "Humor<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stimmlos",
+    "sub_words": "Stimme<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "landeimäßig",
+    "sub_words": "Landei<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Land<NN> Ei<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "epiphytisch",
+    "sub_words": "Epiphyt<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ungnädig",
+    "sub_words": "Ungnade<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wackelbar",
+    "sub_words": "wackeln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "finnig",
+    "sub_words": "Finne<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "teppichhaft",
+    "sub_words": "Teppich<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "backfischhaft",
+    "sub_words": "Backfisch<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "backen<V> Fisch<NN> haft<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "minotaurisch",
+    "sub_words": "Minotaur<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "raffinierbar",
+    "sub_words": "raffinieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schlanksäulig",
+    "sub_words": "schlank<ADJ> Säule<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "turkologisch",
+    "sub_words": "Turkologe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hünenhaft",
+    "sub_words": "Hüne<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rationalisierbar",
+    "sub_words": "rationalisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konventionsmäßig",
+    "sub_words": "Konvention<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "narbenlos",
+    "sub_words": "Narbe<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unmädchenhaft",
+    "sub_words": "un<PREF> Mädchen<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unvernünftig",
+    "sub_words": "Unvernunft<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "risikolos",
+    "sub_words": "Risiko<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unverschließbar",
+    "sub_words": "un<PREF> verschließen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> ver<PREF> schließen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "knabenhaft",
+    "sub_words": "Knabe<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "merkbar",
+    "sub_words": "merken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "generalisierbar",
+    "sub_words": "generalisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gablig",
+    "sub_words": "Gabel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "leinwandlos",
+    "sub_words": "Leinwand<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Lein<NN> Wand<NN> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "methodistisch",
+    "sub_words": "Methodist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unterschiedslos",
+    "sub_words": "Unterschied<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ununterbrechbar",
+    "sub_words": "un<PREF> unterbrechen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> unter<VPART> brechen<V> bar<ADJ_SUFF>",
+    "alternative_1": "un<PREF> unter<PREF> brechen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ausnahmlich",
+    "sub_words": "Ausnahme<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "geigerisch",
+    "sub_words": "Geiger<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fanfarenhaft",
+    "sub_words": "Fanfare<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bildmäßig",
+    "sub_words": "Bild<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "jungenhaft",
+    "sub_words": "Junge<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kellermäßig",
+    "sub_words": "Keller<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schalkhaft",
+    "sub_words": "Schalk<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zuckerig",
+    "sub_words": "Zucker<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bezuglos",
+    "sub_words": "Bezug<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbesiegbar",
+    "sub_words": "un<PREF> besiegen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> siegen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nichtanwaltlich",
+    "sub_words": "nicht<PREF> Anwalt<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "betastbar",
+    "sub_words": "betasten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> tasten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fratzig",
+    "sub_words": "Fratze<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "blumenhaft",
+    "sub_words": "Blume<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einschleusig",
+    "sub_words": "ein<PREF> Schleuse<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sulzig",
+    "sub_words": "Sulze<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "jauchig",
+    "sub_words": "Jauche<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "untrennbar",
+    "sub_words": "un<PREF> trennen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vaterschaftlich",
+    "sub_words": "Vaterschaft<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Vater<NN> schaft<NN_SUFF> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sublithographisch",
+    "sub_words": "sub<PREF> Lithograph<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "marionettenhaft",
+    "sub_words": "Marionette<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "karrieremäßig",
+    "sub_words": "Karriere<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "funkmäßig",
+    "sub_words": "Funk<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kapitelllos",
+    "sub_words": "Kapitell<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tatbestandlich",
+    "sub_words": "Tatbestand<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Tat<NN> Bestand<NN> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "libertinisch",
+    "sub_words": "Libertin<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verzehrbar",
+    "sub_words": "verzehren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> zehren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verschließbar",
+    "sub_words": "verschließen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> schließen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "modellierbar",
+    "sub_words": "modellieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vornämlich",
+    "sub_words": "Vorname<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "durchwanderbar",
+    "sub_words": "durchwandern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "durch<VPART> wandern<V> bar<ADJ_SUFF>",
+    "alternative_1": "durch<PREF> wandern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "anionisch",
+    "sub_words": "Anion<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "undurchleuchtbar",
+    "sub_words": "un<PREF> durchleuchten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> durch<PREF> leuchten<V> bar<ADJ_SUFF>",
+    "alternative_1": "un<PREF> durch<VPART> leuchten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "intrigenhaft",
+    "sub_words": "Intrige<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unwiderlegbar",
+    "sub_words": "un<PREF> widerlegen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> wider<VPART> legen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gliederbar",
+    "sub_words": "gliedern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zankhaft",
+    "sub_words": "Zank<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "entwirrbar",
+    "sub_words": "entwirren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kuppig",
+    "sub_words": "Kuppe<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "außergemeindlich",
+    "sub_words": "außer<PREF> Gemeinde<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versorgungslos",
+    "sub_words": "versorgen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> sorgen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbewirtschaftbar",
+    "sub_words": "un<PREF> bewirtschaften<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> wirtschaften<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rezeptorisch",
+    "sub_words": "Rezeptor<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konkurrenzmäßig",
+    "sub_words": "Konkurrenz<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "orakelhaft",
+    "sub_words": "Orakel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "resultatlos",
+    "sub_words": "Resultat<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "synonymisch",
+    "sub_words": "Synonym<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wachsig",
+    "sub_words": "Wachs<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gebietlich",
+    "sub_words": "Gebiet<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bejagbar",
+    "sub_words": "bejagen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> jagen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "volumenmäßig",
+    "sub_words": "Volumen<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "generierbar",
+    "sub_words": "generieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pulverisierbar",
+    "sub_words": "pulverisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schleierlos",
+    "sub_words": "Schleier<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "leichenhaft",
+    "sub_words": "Leiche<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "soldlos",
+    "sub_words": "Sold<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wabig",
+    "sub_words": "Wabe<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dusslig",
+    "sub_words": "Dussel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vorberichtlich",
+    "sub_words": "Vorbericht<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "vor<PREF> Bericht<NN> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "startbar",
+    "sub_words": "starten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schieläugig",
+    "sub_words": "Schielauge<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "schielen<V> Auge<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "statuenhaft",
+    "sub_words": "Statue<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "regattamäßig",
+    "sub_words": "Regatta<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "staatsanwaltlich",
+    "sub_words": "Staatsanwalt<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Staat<NN> Anwalt<NN> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kompromittierbar",
+    "sub_words": "kompromittieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einrahmig",
+    "sub_words": "ein<PREF> Rahm<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schweinemäßig",
+    "sub_words": "Schwein<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "haltungsmäßig",
+    "sub_words": "Haltung<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "halten<V> ung<NN_SUFF> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "entdeckerisch",
+    "sub_words": "entdecken<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ent<PREF> decken<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fortpflanzungsmäßig",
+    "sub_words": "Fortpflanzung<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "fort<PREF> pflanzen<V> ung<NN_SUFF> mäßig<ADJ_SUFF>",
+    "alternative_1": "fort<VPART> pflanzen<V> ung<NN_SUFF> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vervielfältigbar",
+    "sub_words": "vervielfältigen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versetzbar",
+    "sub_words": "versetzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> setzen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "immunisierbar",
+    "sub_words": "immunisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ballettmäßig",
+    "sub_words": "Ballett<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "löschbar",
+    "sub_words": "löschen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bevölkerungslos",
+    "sub_words": "Bevölkerung<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "bevölkern<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "überprüfbar",
+    "sub_words": "überprüfen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "über<PREF> prüfen<V> bar<ADJ_SUFF>",
+    "alternative_1": "über<VPART> prüfen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nomadenhaft",
+    "sub_words": "Nomade<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "trefferlos",
+    "sub_words": "Treffer<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spelzig",
+    "sub_words": "Spelze<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wiedererkennbar",
+    "sub_words": "wieder<VPART> erkennen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "wieder<VPART> er<PREF> kennen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "supervisorisch",
+    "sub_words": "Supervisor<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "instanzlos",
+    "sub_words": "Instanz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "jammerhaft",
+    "sub_words": "Jammer<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zwiesprachig",
+    "sub_words": "Zwiesprache<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schweißbar",
+    "sub_words": "schweißen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verzichtbar",
+    "sub_words": "verzichten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dehnbar",
+    "sub_words": "dehnen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "elfig",
+    "sub_words": "Elfe<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "momenthaft",
+    "sub_words": "Moment<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besatzungslos",
+    "sub_words": "Besatzung<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "lackmäßig",
+    "sub_words": "Lack<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bürstig",
+    "sub_words": "Bürste<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "generationsmäßig",
+    "sub_words": "Generation<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "evangelistisch",
+    "sub_words": "Evangelist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verallgemeinerbar",
+    "sub_words": "verallgemeinern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "periskopisch",
+    "sub_words": "Periskop<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "justierbar",
+    "sub_words": "justieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "klimatisierbar",
+    "sub_words": "klimatisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pyramidisch",
+    "sub_words": "Pyramide<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "regielos",
+    "sub_words": "Regie<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "übermachtig",
+    "sub_words": "Übermacht<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "über<PREF> Macht<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ermittelbar",
+    "sub_words": "ermitteln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> mitteln<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unüberbietbar",
+    "sub_words": "un<PREF> überbieten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> über<PREF> bieten<V> bar<ADJ_SUFF>",
+    "alternative_1": "un<PREF> über<VPART> bieten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "effizienzmäßig",
+    "sub_words": "Effizienz<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zerstörbar",
+    "sub_words": "zerstören<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "zer<PREF> stören<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beeinflussbar",
+    "sub_words": "beeinflussen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "angebotslos",
+    "sub_words": "Angebot<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "technikmäßig",
+    "sub_words": "Technik<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beleghaft",
+    "sub_words": "Beleg<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gestaltungsmäßig",
+    "sub_words": "gestalten<V> ung<NN_SUFF> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schleusenlos",
+    "sub_words": "Schleuse<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unterdrückerisch",
+    "sub_words": "unterdrücken<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "unter<PREF> drücken<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "alternative_1": "unter<VPART> drücken<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rechenmäßig",
+    "sub_words": "Rechen<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nachtodlich",
+    "sub_words": "nach<PREF> Tod<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gipsig",
+    "sub_words": "Gips<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versicherbar",
+    "sub_words": "versichern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> sichern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "janusgesichtig",
+    "sub_words": "Janusgesicht<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Janus<NN> Gesicht<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "quellbar",
+    "sub_words": "quellen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "quasiintegrierbar",
+    "sub_words": "quasi<ADJ> integrieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "distelig",
+    "sub_words": "Distel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verjährbar",
+    "sub_words": "verjähren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> jähren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "umbaubar",
+    "sub_words": "umbauen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "um<VPART> bauen<V> bar<ADJ_SUFF>",
+    "alternative_1": "um<PREF> bauen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unakkusativisch",
+    "sub_words": "un<PREF> Akkusativ<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spektakelhaft",
+    "sub_words": "Spektakel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "putzlos",
+    "sub_words": "Putz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "befolgbar",
+    "sub_words": "befolgen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> folgen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unverschiebbar",
+    "sub_words": "un<PREF> verschieben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> ver<PREF> schieben<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pneumologisch",
+    "sub_words": "Pneumologe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kriegstreiberisch",
+    "sub_words": "Krieg<NN> treiben<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "summenlos",
+    "sub_words": "Summe<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kurvenlos",
+    "sub_words": "Kurve<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dynastisch",
+    "sub_words": "Dynast<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "entmischbar",
+    "sub_words": "entmischen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ent<PREF> mischen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spezialistisch",
+    "sub_words": "Spezialist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "deaktivierbar",
+    "sub_words": "deaktivieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "de<VPART> aktivieren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "imperativisch",
+    "sub_words": "Imperativ<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "keimhaft",
+    "sub_words": "Keim<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hagiografisch",
+    "sub_words": "Hagiograf<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "szenemäßig",
+    "sub_words": "Szene<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unschaffbar",
+    "sub_words": "un<PREF> schaffen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "durchfahrbar",
+    "sub_words": "durchfahren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "durch<PREF> fahren<V> bar<ADJ_SUFF>",
+    "alternative_1": "durch<VPART> fahren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "titellos",
+    "sub_words": "Titel<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "aktualisierbar",
+    "sub_words": "aktualisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "authentifizierbar",
+    "sub_words": "authentifizieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "strafbar",
+    "sub_words": "strafen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zurückstreifbar",
+    "sub_words": "zurück<VPART> streifen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konfessionsmäßig",
+    "sub_words": "Konfession<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "improvisatorisch",
+    "sub_words": "Improvisator<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "untrainierbar",
+    "sub_words": "un<PREF> trainieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tatbestandsmäßig",
+    "sub_words": "Tatbestand<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Tat<NN> Bestand<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "korporationsmäßig",
+    "sub_words": "Korporation<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ährig",
+    "sub_words": "Ähre<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mohrisch",
+    "sub_words": "Mohr<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unzüchtig",
+    "sub_words": "Unzucht<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einstämmig",
+    "sub_words": "ein<PREF> Stamm<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fördersam",
+    "sub_words": "fördern<V> sam<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "anscheinlich",
+    "sub_words": "Anschein<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vokallos",
+    "sub_words": "Vokal<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "widerspruchslos",
+    "sub_words": "Widerspruch<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erteilbar",
+    "sub_words": "erteilen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> teilen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "osteologisch",
+    "sub_words": "Osteologe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unlokalisierbar",
+    "sub_words": "un<PREF> lokalisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "berufmäßig",
+    "sub_words": "Beruf<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "branchenmäßig",
+    "sub_words": "Branche<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "antibrahmanisch",
+    "sub_words": "anti<PREF> Brahmane<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gelübdelos",
+    "sub_words": "Gelübde<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gerichtsmäßig",
+    "sub_words": "Gericht<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "evidenzlos",
+    "sub_words": "Evidenz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "anwaltlich",
+    "sub_words": "Anwalt<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "migrantisch",
+    "sub_words": "Migrant<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "höhenjustierbar",
+    "sub_words": "Höhe<NN> justieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "metallurgisch",
+    "sub_words": "Metallurg<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nephrologisch",
+    "sub_words": "Nephrologe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fasnächtlich",
+    "sub_words": "Fasnacht<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unerschütterbar",
+    "sub_words": "un<PREF> erschüttern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "belastbar",
+    "sub_words": "belasten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> lasten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "identifizierbar",
+    "sub_words": "identifizieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gliederhaft",
+    "sub_words": "Glied<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "habsburgerisch",
+    "sub_words": "Habsburger<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kommentatorisch",
+    "sub_words": "Kommentator<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schlackenlos",
+    "sub_words": "Schlacke<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "veranschaulichbar",
+    "sub_words": "veranschaulichen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "übersetzbar",
+    "sub_words": "übersetzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "über<VPART> setzen<V> bar<ADJ_SUFF>",
+    "alternative_1": "über<PREF> setzen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "treppenlos",
+    "sub_words": "Treppe<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "interpretierbar",
+    "sub_words": "interpretieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "materialmäßig",
+    "sub_words": "Material<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gnomenhaft",
+    "sub_words": "Gnom<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bewilligbar",
+    "sub_words": "bewilligen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> willigen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "liquiditätsmäßig",
+    "sub_words": "Liquidität<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gazettenhaft",
+    "sub_words": "Gazette<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einsaitig",
+    "sub_words": "ein<PREF> Saite<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hantierbar",
+    "sub_words": "hantieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einbrüderig",
+    "sub_words": "ein<PREF> Bruder<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vorabendlich",
+    "sub_words": "Vorabend<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "vor<PREF> Abend<NN> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nazimäßig",
+    "sub_words": "Nazi<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "maskenlos",
+    "sub_words": "Maske<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "inszenierbar",
+    "sub_words": "inszenieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wiederverwendbar",
+    "sub_words": "wieder<VPART> verwenden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "wieder<VPART> ver<PREF> wenden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "empathielos",
+    "sub_words": "Empathie<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "missionierbar",
+    "sub_words": "missionieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schüttelbar",
+    "sub_words": "schütteln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "höhepunktlos",
+    "sub_words": "Höhepunkt<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Höhe<NN> Punkt<NN> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "trägheitslos",
+    "sub_words": "träge<ADJ> heit<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "eisenbahnmäßig",
+    "sub_words": "Eisenbahn<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Eisen<NN> Bahn<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unverständlich",
+    "sub_words": "Unverstand<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "jünglingshaft",
+    "sub_words": "Jüngling<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "betäubungslos",
+    "sub_words": "betäuben<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einmotorig",
+    "sub_words": "ein<PREF> Motor<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verwirrbar",
+    "sub_words": "verwirren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "labormäßig",
+    "sub_words": "Labor<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schneeig",
+    "sub_words": "Schnee<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schandlos",
+    "sub_words": "Schande<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fabrikmäßig",
+    "sub_words": "Fabrik<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konditionierbar",
+    "sub_words": "konditionieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konzessionslos",
+    "sub_words": "Konzession<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beurteilbar",
+    "sub_words": "beurteilen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> urteilen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unerforschbar",
+    "sub_words": "un<PREF> erforschen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> er<PREF> forschen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbefriedbar",
+    "sub_words": "un<PREF> befrieden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> frieden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tolerierbar",
+    "sub_words": "tolerieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stürzbar",
+    "sub_words": "stürzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dranghaft",
+    "sub_words": "Drang<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "berechenbar",
+    "sub_words": "berechnen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> rechnen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "neandertalerhaft",
+    "sub_words": "Neandertaler<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kreaturlos",
+    "sub_words": "Kreatur<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sirenenhaft",
+    "sub_words": "Sirene<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "straßenbahnlos",
+    "sub_words": "Straßenbahn<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Straße<NN> Bahn<NN> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "induzierbar",
+    "sub_words": "induzieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zeichnungsmäßig",
+    "sub_words": "zeichnen<V> ung<NN_SUFF> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pflanzenfresserisch",
+    "sub_words": "Pflanzenfresser<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Pflanze<NN> fressen<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verschuldbar",
+    "sub_words": "verschulden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> schulden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "götzenverehrerisch",
+    "sub_words": "Götze<NN> verehren<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Götze<NN> ver<PREF> ehren<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verzinkbar",
+    "sub_words": "verzinken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> zinken<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beispielshaft",
+    "sub_words": "Beispiel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zwitterhaft",
+    "sub_words": "Zwitter<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "angstlos",
+    "sub_words": "Angst<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fratzenhaft",
+    "sub_words": "Fratze<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "daktyloskopisch",
+    "sub_words": "Daktyloskop<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versuchsmäßig",
+    "sub_words": "Versuch<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "überholbar",
+    "sub_words": "überholen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "über<PREF> holen<V> bar<ADJ_SUFF>",
+    "alternative_1": "über<VPART> holen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "titanenhaft",
+    "sub_words": "Titan<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "demiurgisch",
+    "sub_words": "Demiurg<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "revidierbar",
+    "sub_words": "revidieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "visionslos",
+    "sub_words": "Vision<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "komplexhaft",
+    "sub_words": "Komplex<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besitzerlos",
+    "sub_words": "besitzen<V> er<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> sitzen<V> er<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stammesmäßig",
+    "sub_words": "Stamm<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "metastasisch",
+    "sub_words": "Metastase<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "detektierbar",
+    "sub_words": "detektieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spaltenmäßig",
+    "sub_words": "Spalte<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "existenzlos",
+    "sub_words": "Existenz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbefreibar",
+    "sub_words": "un<PREF> befreien<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "antidynastisch",
+    "sub_words": "anti<PREF> Dynast<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbewohnbar",
+    "sub_words": "un<PREF> bewohnen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> wohnen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einfellig",
+    "sub_words": "ein<PREF> Fell<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wirtlos",
+    "sub_words": "Wirt<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stauchbar",
+    "sub_words": "stauchen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bestimmungslos",
+    "sub_words": "Bestimmung<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "bestimmen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "alternative_1": "be<PREF> stimmen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schleppenlos",
+    "sub_words": "Schleppe<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "anekdotenhaft",
+    "sub_words": "Anekdote<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hüllblattlos",
+    "sub_words": "hüllen<V> Blatt<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "examenlos",
+    "sub_words": "Examen<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pfeilerhaft",
+    "sub_words": "Pfeiler<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "trinkbar",
+    "sub_words": "trinken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "akkordeonistisch",
+    "sub_words": "Akkordeonist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gewerklich",
+    "sub_words": "Gewerk<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schönfärberisch",
+    "sub_words": "schön<ADJ> Färber<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unmitteilbar",
+    "sub_words": "un<PREF> mit<VPART> teilen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "butterhaft",
+    "sub_words": "Butter<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hoffnungslos",
+    "sub_words": "Hoffnung<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "untolerierbar",
+    "sub_words": "un<PREF> tolerieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "garagenhaft",
+    "sub_words": "Garage<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unkletterbar",
+    "sub_words": "un<PREF> klettern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "krummsäbelig",
+    "sub_words": "krumm<ADJ> Säbel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "federig",
+    "sub_words": "Feder<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "adaptierbar",
+    "sub_words": "adaptieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "radfahrerisch",
+    "sub_words": "Radfahrer<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Rad<NN> fahren<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rokokohaft",
+    "sub_words": "Rokoko<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "flötig",
+    "sub_words": "Flöte<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nichtreduzierbar",
+    "sub_words": "nicht<PREF> reduzieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verletzbar",
+    "sub_words": "verletzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nichtdiagnostizierbar",
+    "sub_words": "nicht<PREF> diagnostizieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verkraftbar",
+    "sub_words": "verkraften<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "geckenhaft",
+    "sub_words": "Geck<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "übergriffig",
+    "sub_words": "Übergriff<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verwaltbar",
+    "sub_words": "verwalten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> walten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tunnellos",
+    "sub_words": "Tunnel<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erbaubar",
+    "sub_words": "erbauen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> bauen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "igellos",
+    "sub_words": "Igel<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "landschaftsmäßig",
+    "sub_words": "Landschaft<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Land<NN> schaft<NN_SUFF> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "denkmalhaft",
+    "sub_words": "Denkmal<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verfahrbar",
+    "sub_words": "verfahren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "entschuldbar",
+    "sub_words": "entschulden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ent<PREF> schulden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gemarkungsmäßig",
+    "sub_words": "Gemarkung<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kerbig",
+    "sub_words": "Kerbe<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spritig",
+    "sub_words": "Sprit<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erzählbar",
+    "sub_words": "erzählen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> zählen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bibliotheksmäßig",
+    "sub_words": "Bibliothek<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ungerinnbar",
+    "sub_words": "un<PREF> gerinnen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verhinderbar",
+    "sub_words": "verhindern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> hindern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hitparadenmäßig",
+    "sub_words": "Hitparade<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Hit<NN> Parade<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "betretbar",
+    "sub_words": "betreten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unschätzbar",
+    "sub_words": "un<PREF> schätzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besichtigbar",
+    "sub_words": "besichtigen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "typisierbar",
+    "sub_words": "typisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tunnelmäßig",
+    "sub_words": "Tunnel<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "überzeugbar",
+    "sub_words": "überzeugen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "über<VPART> zeugen<V> bar<ADJ_SUFF>",
+    "alternative_1": "über<PREF> zeugen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besetzungsmäßig",
+    "sub_words": "besetzen<V> ung<NN_SUFF> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> setzen<V> ung<NN_SUFF> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stiftisch",
+    "sub_words": "Stift<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "interimsmäßig",
+    "sub_words": "Interim<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mähnenhaft",
+    "sub_words": "Mähne<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rennmäßig",
+    "sub_words": "rennen<V> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "silbisch",
+    "sub_words": "Silbe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tragblattlos",
+    "sub_words": "tragen<V> Blatt<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zapatistisch",
+    "sub_words": "Zapatist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "minimierbar",
+    "sub_words": "minimieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sentenzenhaft",
+    "sub_words": "Sentenz<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bearbeitbar",
+    "sub_words": "bearbeiten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> arbeiten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unstillbar",
+    "sub_words": "un<PREF> stillen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vermittlerisch",
+    "sub_words": "vermitteln<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> mitteln<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "strafenlos",
+    "sub_words": "Strafe<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "portallos",
+    "sub_words": "Portal<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bildlos",
+    "sub_words": "Bild<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stundenmäßig",
+    "sub_words": "Stunde<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "feindlos",
+    "sub_words": "Feind<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "grundstücksmäßig",
+    "sub_words": "Grundstück<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Grund<NN> Stück<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zweiteilbar",
+    "sub_words": "zweiteilen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "separierbar",
+    "sub_words": "separieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "linienhaft",
+    "sub_words": "Linie<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "altarmäßig",
+    "sub_words": "Altar<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "maurermäßig",
+    "sub_words": "Maurer<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rennsportmäßig",
+    "sub_words": "rennen<V> Sport<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mannhaft",
+    "sub_words": "Mann<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ladyhaft",
+    "sub_words": "Lady<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "symbiontisch",
+    "sub_words": "Symbiont<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "klägerisch",
+    "sub_words": "Kläger<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "intensivierbar",
+    "sub_words": "intensivieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sponsorlos",
+    "sub_words": "Sponsor<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "innungsmäßig",
+    "sub_words": "Innung<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einkuppelig",
+    "sub_words": "ein<PREF> Kuppel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "trainierbar",
+    "sub_words": "trainieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "geschöpflich",
+    "sub_words": "Geschöpf<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "novellenhaft",
+    "sub_words": "Novelle<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "finalistisch",
+    "sub_words": "Finalist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vermeidbar",
+    "sub_words": "vermeiden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> meiden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "attraktivitätsmäßig",
+    "sub_words": "Attraktivität<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "herrschaftsmäßig",
+    "sub_words": "Herrschaft<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Herr<NN> schaft<NN_SUFF> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wünschbar",
+    "sub_words": "wünschen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gluckenhaft",
+    "sub_words": "Glucke<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dokumentenmäßig",
+    "sub_words": "Dokument<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbesetzbar",
+    "sub_words": "un<PREF> besetzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> setzen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "positionslos",
+    "sub_words": "Position<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "lokalisierbar",
+    "sub_words": "lokalisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tastenprogrammierbar",
+    "sub_words": "Taste<NN> programmieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einkettig",
+    "sub_words": "ein<PREF> Kette<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unverbrennbar",
+    "sub_words": "un<PREF> verbrennen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> ver<PREF> brennen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pfeilerlos",
+    "sub_words": "Pfeiler<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erstrebbar",
+    "sub_words": "erstreben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> streben<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "männerlos",
+    "sub_words": "Mann<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hilfslos",
+    "sub_words": "Hilfe<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "klüftig",
+    "sub_words": "Kluft<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unvermeidbar",
+    "sub_words": "un<PREF> vermeiden<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> ver<PREF> meiden<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dekontaminierbar",
+    "sub_words": "dekontaminieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "de<VPART> kontaminieren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "querschnittlich",
+    "sub_words": "Querschnitt<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "quer<ADJ> Schnitt<NN> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "affenhaft",
+    "sub_words": "Affe<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "berberisch",
+    "sub_words": "Berber<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "heilsmäßig",
+    "sub_words": "Heil<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kathodisch",
+    "sub_words": "Kathode<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verlustmäßig",
+    "sub_words": "Verlust<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zerstörungslos",
+    "sub_words": "zerstören<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "zer<PREF> stören<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dekadisch",
+    "sub_words": "Dekade<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vorinstanzlich",
+    "sub_words": "vor<PREF> Instanz<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rosettig",
+    "sub_words": "Rosette<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unzinsbar",
+    "sub_words": "un<PREF> zinsen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "limonenhaft",
+    "sub_words": "Limone<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kasernenmäßig",
+    "sub_words": "Kaserne<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zeilenmäßig",
+    "sub_words": "Zeile<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unfriedlich",
+    "sub_words": "Unfriede<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ertastbar",
+    "sub_words": "ertasten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> tasten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "quaderhaft",
+    "sub_words": "Quader<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hauchig",
+    "sub_words": "Hauch<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unglimpflich",
+    "sub_words": "Unglimpf<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "durchblätterbar",
+    "sub_words": "durchblättern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "durch<PREF> blättern<V> bar<ADJ_SUFF>",
+    "alternative_1": "durch<VPART> blättern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "standpunktlos",
+    "sub_words": "Standpunkt<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Stand<NN> Punkt<NN> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "privatnützig",
+    "sub_words": "privat<ADJ> Nutz<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vaginamäßig",
+    "sub_words": "Vagina<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "projektmäßig",
+    "sub_words": "Projekt<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "starenhaft",
+    "sub_words": "Star<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "welthaft",
+    "sub_words": "Welt<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "entfaltbar",
+    "sub_words": "entfalten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ent<PREF> falten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "anglerisch",
+    "sub_words": "angeln<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schotterig",
+    "sub_words": "Schotter<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "untermauerbar",
+    "sub_words": "untermauern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "unter<VPART> mauern<V> bar<ADJ_SUFF>",
+    "alternative_1": "unter<PREF> mauern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "letztinstanzlich",
+    "sub_words": "letzt<ADJ> Instanz<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gartenmäßig",
+    "sub_words": "Garten<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "impfbar",
+    "sub_words": "impfen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tropfig",
+    "sub_words": "Tropf<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fräsbar",
+    "sub_words": "fräsen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schwankmäßig",
+    "sub_words": "Schwank<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vergnügsam",
+    "sub_words": "vergnügen<V> sam<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reglementsmäßig",
+    "sub_words": "Reglement<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "perfektisch",
+    "sub_words": "Perfekt<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "belegbar",
+    "sub_words": "belegen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "diätarisch",
+    "sub_words": "Diätar<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "begebbar",
+    "sub_words": "begeben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "axialverschiebbar",
+    "sub_words": "axial<ADJ> verschieben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "axial<ADJ> ver<PREF> schieben<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gratig",
+    "sub_words": "Grat<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verdunkelbar",
+    "sub_words": "verdunkeln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> dunkeln<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beseelbar",
+    "sub_words": "beseelen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbetretbar",
+    "sub_words": "un<PREF> betreten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "betriebsmäßig",
+    "sub_words": "Betrieb<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "untertägig",
+    "sub_words": "unter<PREF> Tag<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "achterlich",
+    "sub_words": "Achter<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bestehbar",
+    "sub_words": "bestehen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "signaturlos",
+    "sub_words": "Signatur<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "parzellenhaft",
+    "sub_words": "Parzelle<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ionisierbar",
+    "sub_words": "ionisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "chausseemäßig",
+    "sub_words": "Chaussee<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kumpelhaft",
+    "sub_words": "Kumpel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "cartoonistisch",
+    "sub_words": "Cartoonist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "formatierbar",
+    "sub_words": "formatieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bilderhaft",
+    "sub_words": "Bild<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "problemhaft",
+    "sub_words": "Problem<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "durchquerbar",
+    "sub_words": "durchqueren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "durch<PREF> queren<V> bar<ADJ_SUFF>",
+    "alternative_1": "durch<VPART> queren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "archivmäßig",
+    "sub_words": "Archiv<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "typlos",
+    "sub_words": "Typ<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versorgbar",
+    "sub_words": "versorgen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> sorgen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mitgestaltbar",
+    "sub_words": "mit<VPART> gestalten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gewichtlos",
+    "sub_words": "Gewicht<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kopierbar",
+    "sub_words": "kopieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gobelinhaft",
+    "sub_words": "Gobelin<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kartellmäßig",
+    "sub_words": "Kartell<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pantoffelig",
+    "sub_words": "Pantoffel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbespielbar",
+    "sub_words": "un<PREF> bespielen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> spielen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "isolierbar",
+    "sub_words": "isolieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "antizyklonisch",
+    "sub_words": "anti<PREF> Zyklon<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "warnungslos",
+    "sub_words": "Warnung<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "warnen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versöhnerisch",
+    "sub_words": "versöhnen<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> söhnen<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "orientalistisch",
+    "sub_words": "Orientalist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zirkelhaft",
+    "sub_words": "Zirkel<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "improvisierbar",
+    "sub_words": "improvisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "formalisierbar",
+    "sub_words": "formalisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "auftragsmäßig",
+    "sub_words": "Auftrag<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "filzlos",
+    "sub_words": "Filz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wolkenhaft",
+    "sub_words": "Wolke<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fellig",
+    "sub_words": "Fell<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "katerhaft",
+    "sub_words": "Kater<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "neutralisierbar",
+    "sub_words": "neutralisieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "substituierbar",
+    "sub_words": "substituieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "knödelig",
+    "sub_words": "Knödel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "porträthaft",
+    "sub_words": "Porträt<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "jahrgangsmäßig",
+    "sub_words": "Jahrgang<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Jahr<NN> Gang<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "eliminierbar",
+    "sub_words": "eliminieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "umschreibbar",
+    "sub_words": "umschreiben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "um<PREF> schreiben<V> bar<ADJ_SUFF>",
+    "alternative_1": "um<VPART> schreiben<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "faltenlos",
+    "sub_words": "Falte<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kieferlos",
+    "sub_words": "Kiefer<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "janusköpfig",
+    "sub_words": "Januskopf<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Janus<NN> Kopf<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "punktelos",
+    "sub_words": "Punkt<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verstaubar",
+    "sub_words": "verstauen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> stauen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sagbar",
+    "sub_words": "sagen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kaufkraftmäßig",
+    "sub_words": "Kaufkraft<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "kaufen<V> Kraft<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unermessbar",
+    "sub_words": "un<PREF> ermessen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "konsensmäßig",
+    "sub_words": "Konsens<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fixierbar",
+    "sub_words": "fixieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "anteilmäßig",
+    "sub_words": "Anteil<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "diffusionslos",
+    "sub_words": "Diffusion<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "herzöglich",
+    "sub_words": "Herzog<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besitzmäßig",
+    "sub_words": "Besitz<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rekonfigurierbar",
+    "sub_words": "rekonfigurieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "re<VPART> konfigurieren<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sklavenlos",
+    "sub_words": "Sklave<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "springbrunnenhaft",
+    "sub_words": "Springbrunnen<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "springen<V> Brunnen<NN> haft<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "attitüdenhaft",
+    "sub_words": "Attitüde<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schlafbar",
+    "sub_words": "schlafen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "skalamäßig",
+    "sub_words": "Skala<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "identitätsmäßig",
+    "sub_words": "Identität<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "importierbar",
+    "sub_words": "importieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spritzerlos",
+    "sub_words": "Spritzer<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "politologisch",
+    "sub_words": "Politologe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "antiprotonisch",
+    "sub_words": "anti<PREF> Proton<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "streichbar",
+    "sub_words": "streichen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "komparativisch",
+    "sub_words": "Komparativ<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schollig",
+    "sub_words": "Scholle<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "samisch",
+    "sub_words": "Same<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "linienmäßig",
+    "sub_words": "Linie<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "idiotenhaft",
+    "sub_words": "Idiot<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pfadlos",
+    "sub_words": "Pfad<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "haubig",
+    "sub_words": "Haube<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "glaslos",
+    "sub_words": "Glas<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "messbar",
+    "sub_words": "messen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "arabeskenhaft",
+    "sub_words": "Arabeske<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verlinkbar",
+    "sub_words": "verlinken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> linken<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einzelheitlich",
+    "sub_words": "Einzelheit<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kriminalromanhaft",
+    "sub_words": "kriminal<ADJ> Roman<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbeugbar",
+    "sub_words": "un<PREF> beugen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zeugnishaft",
+    "sub_words": "Zeugnis<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "arbeiterhaft",
+    "sub_words": "Arbeiter<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hengstmäßig",
+    "sub_words": "Hengst<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gastroskopisch",
+    "sub_words": "Gastroskop<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reparaturlos",
+    "sub_words": "Reparatur<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "eigenbrötlerisch",
+    "sub_words": "Eigenbrötler<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "seziererisch",
+    "sub_words": "sezieren<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sanierbar",
+    "sub_words": "sanieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verteidigungslos",
+    "sub_words": "verteidigen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gaghaft",
+    "sub_words": "Gag<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vorwärtsverfolgbar",
+    "sub_words": "vorwärts<VPART> verfolgen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "vorwärts<VPART> ver<PREF> folgen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "triebwerkslos",
+    "sub_words": "Triebwerk<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Trieb<NN> Werk<NN> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hinblicklich",
+    "sub_words": "Hinblick<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unmischbar",
+    "sub_words": "un<PREF> mischen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "optionslos",
+    "sub_words": "Option<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bankmäßig",
+    "sub_words": "Bank<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "önologisch",
+    "sub_words": "Önologe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "skeletthaft",
+    "sub_words": "Skelett<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spottlos",
+    "sub_words": "Spott<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "voraussetzungslos",
+    "sub_words": "Voraussetzung<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "voraus<PREF> setzen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "alternative_1": "vor<VPART> aus<VPART> setzen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "alternative_2": "voraus<VPART> setzen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "alternative_3": "vor<PREF> aus<VPART> setzen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "regierbar",
+    "sub_words": "regieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einzeilig",
+    "sub_words": "ein<PREF> Zeile<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fundamentlos",
+    "sub_words": "Fundament<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zyklonisch",
+    "sub_words": "Zyklon<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bewässerbar",
+    "sub_words": "bewässern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> wässern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schmalfenstrig",
+    "sub_words": "schmal<ADJ> Fenster<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "undeckbar",
+    "sub_words": "un<PREF> decken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "denominationslos",
+    "sub_words": "Denomination<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "de<PREF> Nomination<NN> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schwielenlos",
+    "sub_words": "Schwiele<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "nachgeburtlich",
+    "sub_words": "Nachgeburt<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "nach<PREF> Geburt<NN> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "klanglos",
+    "sub_words": "Klang<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beteiligungslos",
+    "sub_words": "beteiligen<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "delegierbar",
+    "sub_words": "delegieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beleuchtbar",
+    "sub_words": "beleuchten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> leuchten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "trassenmäßig",
+    "sub_words": "Trasse<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unreizbar",
+    "sub_words": "un<PREF> reizen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "granatenmäßig",
+    "sub_words": "Granate<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unbezweifelbar",
+    "sub_words": "un<PREF> bezweifeln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> be<PREF> zweifeln<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "freakig",
+    "sub_words": "Freak<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "brünftig",
+    "sub_words": "Brunft<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kaminlos",
+    "sub_words": "Kamin<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rosinig",
+    "sub_words": "Rosine<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "königslos",
+    "sub_words": "König<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schnulzenhaft",
+    "sub_words": "Schnulze<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pfadfinderisch",
+    "sub_words": "Pfadfinder<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Pfad<NN> Finder<NN> isch<ADJ_SUFF>",
+    "alternative_1": "Pfad<NN> finden<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bezeugbar",
+    "sub_words": "bezeugen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> zeugen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unüberschaubar",
+    "sub_words": "un<PREF> überschauen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> über<VPART> schauen<V> bar<ADJ_SUFF>",
+    "alternative_1": "un<PREF> über<PREF> schauen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "memoirenhaft",
+    "sub_words": "Memoiren<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "spiegelbar",
+    "sub_words": "spiegeln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "durchdringbar",
+    "sub_words": "durchdringen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "durch<VPART> dringen<V> bar<ADJ_SUFF>",
+    "alternative_1": "durch<PREF> dringen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "instinktlos",
+    "sub_words": "Instinkt<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tussihaft",
+    "sub_words": "Tussi<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gefühlsmäßig",
+    "sub_words": "Gefühl<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sporig",
+    "sub_words": "Spore<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "anhanglos",
+    "sub_words": "Anhang<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "transponierbar",
+    "sub_words": "transponieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gespürlos",
+    "sub_words": "Gespür<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "prospekthaft",
+    "sub_words": "Prospekt<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "violenhaft",
+    "sub_words": "Viole<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schmuckhaft",
+    "sub_words": "Schmuck<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "wiederwählbar",
+    "sub_words": "wieder<VPART> wählen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "haubenlos",
+    "sub_words": "Haube<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mahlbar",
+    "sub_words": "mahlen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "buchbinderisch",
+    "sub_words": "Buch<NN> binden<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reporterhaft",
+    "sub_words": "Reporter<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "trichterlos",
+    "sub_words": "Trichter<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kernlos",
+    "sub_words": "Kern<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kerkermäßig",
+    "sub_words": "Kerker<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "provenzalisch",
+    "sub_words": "Provenzale<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verteidigbar",
+    "sub_words": "verteidigen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verwerfbar",
+    "sub_words": "verwerfen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> werfen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "änderbar",
+    "sub_words": "ändern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "errechenbar",
+    "sub_words": "errechnen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> rechnen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "antonymisch",
+    "sub_words": "Antonym<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rollenlos",
+    "sub_words": "Rolle<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "diskutierbar",
+    "sub_words": "diskutieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stenografisch",
+    "sub_words": "Stenograf<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "jeckisch",
+    "sub_words": "Jeck<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "betanzbar",
+    "sub_words": "betanzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> tanzen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bekenntnislos",
+    "sub_words": "Bekenntnis<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pfarrmäßig",
+    "sub_words": "Pfarre<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "punktmäßig",
+    "sub_words": "Punkt<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "störbar",
+    "sub_words": "stören<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vermittelungslos",
+    "sub_words": "vermitteln<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> mitteln<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unverletzbar",
+    "sub_words": "un<PREF> verletzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "räucherig",
+    "sub_words": "Raucher<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "rauchen<V> er<NN_SUFF> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einkommenslos",
+    "sub_words": "Einkommen<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "felgenlos",
+    "sub_words": "Felge<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "adventistisch",
+    "sub_words": "Adventist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "emissionslos",
+    "sub_words": "Emission<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "honorarlos",
+    "sub_words": "Honorar<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "undurchdringbar",
+    "sub_words": "un<PREF> durchdringen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> durch<VPART> dringen<V> bar<ADJ_SUFF>",
+    "alternative_1": "un<PREF> durch<PREF> dringen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "domlos",
+    "sub_words": "Dom<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "versatzlos",
+    "sub_words": "Versatz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "radarmäßig",
+    "sub_words": "Radar<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kantenlos",
+    "sub_words": "Kante<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pagodenhaft",
+    "sub_words": "Pagode<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ergebnismäßig",
+    "sub_words": "Ergebnis<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dermatologisch",
+    "sub_words": "Dermatologe<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "priesterlos",
+    "sub_words": "Priester<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unterpfändlich",
+    "sub_words": "unter<PREF> Pfand<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "abspreizbar",
+    "sub_words": "ab<VPART> spreizen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "daunig",
+    "sub_words": "Daune<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "platzierbar",
+    "sub_words": "platzieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "füllerhaft",
+    "sub_words": "Füller<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "neutestamentlich",
+    "sub_words": "neu<ADJ> Testament<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "abschiebbar",
+    "sub_words": "ab<VPART> schieben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "dunkelockerlich",
+    "sub_words": "dunkel<ADJ> Ocker<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kavalleristisch",
+    "sub_words": "Kavallerist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "lederig",
+    "sub_words": "Leder<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "aufbewahrbar",
+    "sub_words": "auf<VPART> bewahren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zitathaft",
+    "sub_words": "Zitat<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "siegerlich",
+    "sub_words": "Sieger<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "seefahrerisch",
+    "sub_words": "Seefahrer<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "See<NN> fahren<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "forstlich",
+    "sub_words": "Forst<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "engbrüstig",
+    "sub_words": "eng<ADJ> Brust<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "geldlos",
+    "sub_words": "Geld<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "skaldisch",
+    "sub_words": "Skalde<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "äußerbar",
+    "sub_words": "äußern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "diskussionslos",
+    "sub_words": "Diskussion<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tanzbar",
+    "sub_words": "tanzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "packbar",
+    "sub_words": "packen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kaubar",
+    "sub_words": "kauen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verwandelbar",
+    "sub_words": "verwandeln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ver<PREF> wandeln<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einpaarig",
+    "sub_words": "ein<PREF> Paar<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rücksichtlich",
+    "sub_words": "Rücksicht<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "rück<PREF> Sicht<NN> lich<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "zweizylindrig",
+    "sub_words": "Zweizylinder<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "zwei<PREF> Zylinder<NN> ig<ADJ_SUFF>",
+    "alternative_1": "zwei<ADJ> Zylinder<NN> ig<ADJ_SUFF>",
+    "alternative_2": "zwei<CARD> Zylinder<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fremdorganschaftlich",
+    "sub_words": "fremd<ADJ> Organ<NN> schaft<NN_SUFF> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unüberschreitbar",
+    "sub_words": "un<PREF> überschreiten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> über<PREF> schreiten<V> bar<ADJ_SUFF>",
+    "alternative_1": "un<PREF> über<VPART> schreiten<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "pfauenhaft",
+    "sub_words": "Pfau<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "themenmäßig",
+    "sub_words": "Thema<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gleichsohlig",
+    "sub_words": "gleich<ADJ> Sohle<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "malermäßig",
+    "sub_words": "Maler<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fahrwerksmäßig",
+    "sub_words": "fahren<V> Werk<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kindhaft",
+    "sub_words": "Kind<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "backbar",
+    "sub_words": "backen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "halterlos",
+    "sub_words": "Halter<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "grundhaft",
+    "sub_words": "Grund<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "handbiegbar",
+    "sub_words": "Hand<NN> biegen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unverhandelbar",
+    "sub_words": "un<PREF> verhandeln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> ver<PREF> handeln<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "gebisslos",
+    "sub_words": "Gebiss<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "umreißbar",
+    "sub_words": "umreißen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "um<VPART> reißen<V> bar<ADJ_SUFF>",
+    "alternative_1": "um<PREF> reißen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kleinmaßstabig",
+    "sub_words": "klein<ADJ> Maßstab<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "klein<ADJ> Maß<NN> Stab<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ebenflächig",
+    "sub_words": "eben<ADJ> Fläche<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kolumnistisch",
+    "sub_words": "Kolumnist<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "leibhaft",
+    "sub_words": "Leib<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "tränkbar",
+    "sub_words": "tränken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fälschbar",
+    "sub_words": "fälschen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "aufbaubar",
+    "sub_words": "auf<VPART> bauen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "staatsmäßig",
+    "sub_words": "Staat<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "mitarbeitermäßig",
+    "sub_words": "Mitarbeiter<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "mit<PREF> Arbeiter<NN> mäßig<ADJ_SUFF>",
+    "alternative_1": "mit<PREF> arbeiten<V> er<NN> mäßig<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "niederbordig",
+    "sub_words": "nieder<ADJ> Bord<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "entleihbar",
+    "sub_words": "entleihen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "ent<PREF> leihen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "plastikhaft",
+    "sub_words": "Plastik<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "genusshaft",
+    "sub_words": "Genuss<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "besteuerbar",
+    "sub_words": "besteuern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> steuern<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "falzlos",
+    "sub_words": "Falz<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "fachlos",
+    "sub_words": "Fach<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "erbringbar",
+    "sub_words": "erbringen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "er<PREF> bringen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "bilanzmäßig",
+    "sub_words": "Bilanz<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "berührungslos",
+    "sub_words": "berühren<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> rühren<V> ung<NN_SUFF> los<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "weithalsig",
+    "sub_words": "weit<ADJ> Hals<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verdachtlos",
+    "sub_words": "Verdacht<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ratifizierbar",
+    "sub_words": "ratifizieren<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unwandelbar",
+    "sub_words": "un<PREF> wandeln<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "verständnismäßig",
+    "sub_words": "Verständnis<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "flachgiebelig",
+    "sub_words": "flach<ADJ> Giebel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unschlagbar",
+    "sub_words": "un<PREF> schlagen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "strukturmäßig",
+    "sub_words": "Struktur<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "lagerbar",
+    "sub_words": "lagern<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "breitfahnig",
+    "sub_words": "breit<ADJ> Fahne<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "familienlos",
+    "sub_words": "Familie<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "abdichtbar",
+    "sub_words": "ab<VPART> dichten<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "einhakbar",
+    "sub_words": "ein<VPART> haken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "regenerisch",
+    "sub_words": "regnen<V> er<NN_SUFF> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unausweislich",
+    "sub_words": "un<PREF> Ausweis<NN> lich<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "trancig",
+    "sub_words": "Trance<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rückgebbar",
+    "sub_words": "rück<VPART> geben<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "niedrigmodulig",
+    "sub_words": "niedrig<ADJ> Modul<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hinzufügbar",
+    "sub_words": "hinzu<VPART> fügen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vorbildhaft",
+    "sub_words": "Vorbild<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vorratslos",
+    "sub_words": "Vorrat<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "niederflurig",
+    "sub_words": "nieder<ADJ> Flur<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "quellenmäßig",
+    "sub_words": "Quelle<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "reimmäßig",
+    "sub_words": "Reim<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "unverrechenbar",
+    "sub_words": "un<PREF> verrechnen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "un<PREF> ver<PREF> rechnen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "stipendiatisch",
+    "sub_words": "Stipendiat<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sichelig",
+    "sub_words": "Sichel<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rückzahlbar",
+    "sub_words": "rück<VPART> zahlen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "klassifikatorisch",
+    "sub_words": "Klassifikator<NN> isch<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "sprechbar",
+    "sub_words": "sprechen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "rückgewinnbar",
+    "sub_words": "rück<VPART> gewinnen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schmierenhaft",
+    "sub_words": "Schmiere<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "artmäßig",
+    "sub_words": "Art<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "beitragslos",
+    "sub_words": "Beitrag<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hammermäßig",
+    "sub_words": "Hammer<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ergänzbar",
+    "sub_words": "ergänzen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ebensträußig",
+    "sub_words": "eben<ADJ> Strauß<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  }
+]

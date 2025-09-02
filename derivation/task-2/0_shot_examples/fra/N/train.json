@@ -1,0 +1,36 @@
+[
+    {
+        "lemma": "polysyllabe",
+        "surface_word": "polysyllabie",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-ie",
+        "prefix": [],
+        "suffix": "-ie",
+        "alternative_0": "polysyllabe<ADJ> ie<N_SUFF>",
+        "alternative_1": "poly<PREF> syllabe<N> ie<N_SUFF>",
+        "sub_words": "poly<PREF> syllabe<N> ie<N_SUFF>"
+    },
+    {
+        "lemma": "Alberta",
+        "surface_word": "Albertain",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-ain",
+        "prefix": [],
+        "suffix": "-ain",
+        "alternative_0": "Alberta<N> ain<N_SUFF>",
+        "sub_words": "Alberta<N> ain<N_SUFF>"
+    },
+    {
+        "lemma": "marmoriser",
+        "surface_word": "marmorisation",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-ation",
+        "prefix": [],
+        "suffix": "-ation",
+        "alternative_0": "marmoriser<V> ation<N_SUFF>",
+        "sub_words": "marmoriser<V> ation<N_SUFF>"
+    }
+]

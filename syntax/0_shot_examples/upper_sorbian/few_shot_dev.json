@@ -1,0 +1,58 @@
+[
+    {
+        "input": "W tajkich padach , hdyž wužiwar prawdźepodobnje skerje wěcownu informaciju pyta hač gramatisku ( na př . Budyšin abo Jakub Bart - Ćišinski ) , [wotkazuje] wikisłownik na Wikipediju .",
+        "output": "W tajkich padach , hdyž wužiwar prawdźepodobnje skerje wěcownu informaciju pyta hač gramatisku ( na př . Budyšin abo Jakub Bart - Ćišinski ) , wotkazuje [wikisłownik | subject] na Wikipediju ."
+    },
+    {
+        "input": "Móžnosće wobydlerstwa někajkeho stata , so z internetom zwjazać , [wotwisuja] wot stopjenja ekonomiskeho wuwića tutoho stata .",
+        "output": "[Móžnosće | subject] wobydlerstwa někajkeho stata , so z internetom zwjazać , wotwisuja wot stopjenja ekonomiskeho wuwića tutoho stata ."
+    },
+    {
+        "input": "Sumeriska lisćina kralow , kotraž tež wo lijeńcy [powěda] , dokumentuje tute pućowanja přez mjenowanje semitiskich mjenow .",
+        "output": "Sumeriska lisćina kralow , [kotraž | subject] tež wo lijeńcy powěda , dokumentuje tute pućowanja přez mjenowanje semitiskich mjenow ."
+    },
+    {
+        "input": "W idealnym padźe budźe raz tak , zo kóžde słowo w kóždym artiklu Wikipedije na wotpowědne hesło we wikisłowniku wotkazuje , tak zo [dyrbi] wužiwar wikipedije jenož na njeznate słowo kliknyć , zo by něšto wo nim zhonił .",
+        "output": "W idealnym padźe budźe raz tak , zo kóžde słowo w kóždym artiklu Wikipedije na wotpowědne hesło we wikisłowniku wotkazuje , tak zo dyrbi [wužiwar | subject] wikipedije jenož na njeznate słowo kliknyć , zo by něšto wo nim zhonił ."
+    },
+    {
+        "input": "W idealnym padźe budźe raz tak , zo kóžde słowo w kóždym artiklu Wikipedije na wotpowědne hesło we wikisłowniku [wotkazuje] , tak zo dyrbi wužiwar wikipedije jenož na njeznate słowo kliknyć , zo by něšto wo nim zhonił .",
+        "output": "W idealnym padźe budźe raz tak , zo kóžde [słowo | subject] w kóždym artiklu Wikipedije na wotpowědne hesło we wikisłowniku wotkazuje , tak zo dyrbi wužiwar wikipedije jenož na njeznate słowo kliknyć , zo by něšto wo nim zhonił ."
+    },
+    {
+        "input": "Někotři rěčespytnicy [měnja] , zo sumeriska rěč móhła z mongolšćinu , finšćinu , madźaršćinu abo z turkowšćinu přiwuzna być a wotwodźeja z toho připućowanje Sumeričanow do Mezopotamiskeje z wuchoda , měnjo , zo tam su korjenja tutych rěčow .",
+        "output": "Někotři [rěčespytnicy | subject] měnja , zo sumeriska rěč móhła z mongolšćinu , finšćinu , madźaršćinu abo z turkowšćinu přiwuzna być a wotwodźeja z toho připućowanje Sumeričanow do Mezopotamiskeje z wuchoda , měnjo , zo tam su korjenja tutych rěčow ."
+    },
+    {
+        "input": "Někotři rěčespytnicy měnja , zo sumeriska rěč móhła z mongolšćinu , finšćinu , madźaršćinu abo z turkowšćinu přiwuzna być a wotwodźeja z toho připućowanje Sumeričanow do Mezopotamiskeje z wuchoda , měnjo , zo tam [su] korjenja tutych rěčow .",
+        "output": "Někotři rěčespytnicy měnja , zo sumeriska rěč móhła z mongolšćinu , finšćinu , madźaršćinu abo z turkowšćinu přiwuzna być a wotwodźeja z toho připućowanje Sumeričanow do Mezopotamiskeje z wuchoda , měnjo , zo tam su [korjenja | subject] tutych rěčow ."
+    },
+    {
+        "input": "We wikipediji namakaš encyklopediske artikle wo někajkej wěcy abo wosobje , něšto , štož [njesłuša] do słownika ; na druhim boku pak njenamakaš informaciju wo gramatice abo ortografiji ( wothladajo wot toho , zo so wuraz nadźijomnje korektnje piše a wužiwa ) .",
+        "output": "We wikipediji namakaš encyklopediske artikle wo někajkej wěcy abo wosobje , něšto , [štož | subject] njesłuša do słownika ; na druhim boku pak njenamakaš informaciju wo gramatice abo ortografiji ( wothladajo wot toho , zo so wuraz nadźijomnje korektnje piše a wužiwa ) ."
+    },
+    {
+        "input": "We wikipediji namakaš encyklopediske artikle wo někajkej wěcy abo wosobje , něšto , štož njesłuša do słownika ; na druhim boku pak njenamakaš informaciju wo gramatice abo ortografiji ( wothladajo wot toho , zo so wuraz nadźijomnje korektnje [piše] a wužiwa ) .",
+        "output": "We wikipediji namakaš encyklopediske artikle wo někajkej wěcy abo wosobje , něšto , štož njesłuša do słownika ; na druhim boku pak njenamakaš informaciju wo gramatice abo ortografiji ( wothladajo wot toho , zo so [wuraz | subject] nadźijomnje korektnje piše a wužiwa ) ."
+    },
+    {
+        "input": "[Njejsu] žane archeologiske dokłady za tajke připućowanje .",
+        "output": "Njejsu žane archeologiske [dokłady | subject] za tajke připućowanje ."
+    },
+    {
+        "input": "Kak so potajkim wikisłownik wot Wikipedije [rozeznawa] ?",
+        "output": "Kak so potajkim [wikisłownik | subject] wot Wikipedije rozeznawa ?"
+    },
+    {
+        "input": "W tajkich padach , hdyž wužiwar prawdźepodobnje skerje wěcownu informaciju [pyta] hač gramatisku ( na př . Budyšin abo Jakub Bart - Ćišinski ) , wotkazuje wikisłownik na Wikipediju .",
+        "output": "W tajkich padach , hdyž [wužiwar | subject] prawdźepodobnje skerje wěcownu [informaciju | object] pyta hač gramatisku ( na př . Budyšin abo Jakub Bart - Ćišinski ) , wotkazuje wikisłownik na Wikipediju ."
+    },
+    {
+        "input": "Sumeriska lisćina kralow , kotraž tež wo lijeńcy powěda , [dokumentuje] tute pućowanja přez mjenowanje semitiskich mjenow .",
+        "output": "Sumeriska [lisćina | subject] kralow , kotraž tež wo lijeńcy powěda , dokumentuje tute [pućowanja | object] přez mjenowanje semitiskich mjenow ."
+    },
+    {
+        "input": "932 Heinrich I . [podćisnje] serbskej kmjenaj Łužičanow a Milčanow .",
+        "output": "932 [Heinrich | subject] I . podćisnje serbskej [kmjenaj | object] Łužičanow a Milčanow ."
+    }
+]

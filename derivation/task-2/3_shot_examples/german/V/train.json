@@ -1,0 +1,36 @@
+[
+    {
+        "lemma": "urban",
+        "surface_word": "urbanisieren",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-isieren",
+        "prefix": [],
+        "suffix": "-isieren",
+        "alternative_0": "urban<ADJ> isieren<V_SUFF>",
+        "sub_words": "urban<ADJ> isieren<V_SUFF>"
+    },
+    {
+        "lemma": "stehen",
+        "surface_word": "entgegenstehen",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "entgegen-",
+        "prefix": "entgegen-",
+        "suffix": [],
+        "alternative_0": "entgegen<PREF> stehen<V>",
+        "sub_words": "entgegen<PREF> stehen<V>"
+    },
+    {
+        "lemma": "anschreiben",
+        "surface_word": "anschreibend",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "-end",
+        "prefix": [],
+        "suffix": "-end",
+        "alternative_0": "anschreiben<V> end<V_SUFF>",
+        "alternative_1": "an<PREF> schreiben<V> end<V_SUFF>",
+        "sub_words": "an<PREF> schreiben<V> end<V_SUFF>"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "input": "Neilgi pēc tam 12:35 , VUGD [saņēma] informāciju , ka Saldus novada , Zirņu pagastā , grāvī atrodas zirgs , kurš saviem spēkiem no tā nevar izkļūt .",
+        "output": "Neilgi pēc tam 12:35 , [VUGD | subject] saņēma [informāciju | object] , ka Saldus novada , Zirņu pagastā , grāvī atrodas zirgs , kurš saviem spēkiem no tā nevar izkļūt ."
+    },
+    {
+        "input": "Jau ziņots , ka Valsts kontrole revīzijā Jelgavas pilsētas pašvaldības aģentūrās [konstatējusi] nepamatotus tēriņus vairāk nekā 50 000 latu apmērā .",
+        "output": "Jau ziņots , ka Valsts [kontrole | subject] revīzijā Jelgavas pilsētas pašvaldības aģentūrās konstatējusi nepamatotus [tēriņus | object] vairāk nekā 50 000 latu apmērā ."
+    },
+    {
+        "input": "Cinka vegānu organismā ir mazāk nekā visēdājiem , kas skaidrojams ar uzsūkšanās traucējumiem , ko [rada] augos esošais lielais balastvielu daudzums .",
+        "output": "Cinka vegānu organismā ir mazāk nekā visēdājiem , kas skaidrojams ar uzsūkšanās traucējumiem , [ko | object] rada augos esošais lielais balastvielu [daudzums | subject] ."
+    },
+    {
+        "input": "Kā trešo un noslēdzošo piekariņu Daniels [izvēlējās] ģimenes koku , lai vai kur mamma arī nebūtu , viņai līdzi būtu ģimene , kaut simboliskā nozīmē .",
+        "output": "Kā trešo un noslēdzošo piekariņu [Daniels | subject] izvēlējās ģimenes [koku | object] , lai vai kur mamma arī nebūtu , viņai līdzi būtu ģimene , kaut simboliskā nozīmē ."
+    },
+    {
+        "input": "“ Es [izjūtu] tādu kā pienākumu aizbraukt uz Varanasi , jo daudzi mani klausītāji vēstulēs raksta , ka ir tur bijuši , ļoti gaidu kādas būs sajūtas .",
+        "output": "“ [Es | subject] izjūtu tādu kā [pienākumu | object] aizbraukt uz Varanasi , jo daudzi mani klausītāji vēstulēs raksta , ka ir tur bijuši , ļoti gaidu kādas būs sajūtas ."
+    },
+    {
+        "input": "Viņas māsa pēdējā laikā arī neiesaistījās sarunās , viņu bieži [mocīja] sāpes , un naktīs viņa vai nu raudāja , vai kliedza , tas bija neizturami .",
+        "output": "Viņas māsa pēdējā laikā arī neiesaistījās sarunās , [viņu | object] bieži mocīja [sāpes | subject] , un naktīs viņa vai nu raudāja , vai kliedza , tas bija neizturami ."
+    },
+    {
+        "input": "Līdz ar to ilgtermiņā Latviju [klās] lielas atkritumu kaudzes , lai gan , atkritumus veiksmīgi pārstrādājot , pāri varētu palikt vien smaka un pelni .",
+        "output": "Līdz ar to ilgtermiņā [Latviju | object] klās lielas atkritumu [kaudzes | subject] , lai gan , atkritumus veiksmīgi pārstrādājot , pāri varētu palikt vien smaka un pelni ."
+    },
+    {
+        "input": "Ir divas iespējas - vai nu liekam degli un gāzi sadedzinām , vai arī liekam koģenerācijas iekārtu , kas [ražo] elektrību , ko ir izdarījusi „ ZAAO \" .",
+        "output": "Ir divas iespējas - vai nu liekam degli un gāzi sadedzinām , vai arī liekam koģenerācijas iekārtu , [kas | subject] ražo [elektrību | object] , ko ir izdarījusi „ ZAAO \" ."
+    },
+    {
+        "input": "Ir divas iespējas - vai nu liekam degli un gāzi sadedzinām , vai arī liekam koģenerācijas iekārtu , kas ražo elektrību , ko ir [izdarījusi] „ ZAAO \" .",
+        "output": "Ir divas iespējas - vai nu liekam degli un gāzi sadedzinām , vai arī liekam koģenerācijas iekārtu , kas ražo elektrību , [ko | object] ir izdarījusi „ [ZAAO | subject] \" ."
+    },
+    {
+        "input": "Visos poligonos šī masa ir uzkrāta , paies vēl vairāki gadi , kamēr viņi [iztērēs] uzkrājumus un tad varbūt sāks interesēties par iespēju to iepirkt .",
+        "output": "Visos poligonos šī masa ir uzkrāta , paies vēl vairāki gadi , kamēr [viņi | subject] iztērēs [uzkrājumus | object] un tad varbūt sāks interesēties par iespēju to iepirkt ."
+    },
+    {
+        "input": "Naftas bija pārpārēm , bet tās rafinēšanas process bija tik rupjš , ka galaprodukts [zaudēja] kvalitāti un vairs nebija pilnīgi drošs lietošanai .",
+        "output": "Naftas bija pārpārēm , bet tās rafinēšanas process bija tik rupjš , ka [galaprodukts | subject] zaudēja [kvalitāti | object] un vairs nebija pilnīgi drošs lietošanai ."
+    },
+    {
+        "input": "Četrgadīgās māsiņas Nikijas un divus gadus vecā Rolanda brālītis , kuram vārdu vēl visi [domā] , sevi pieteica 50 centimetru garš un 3500 gramu smags .",
+        "output": "Četrgadīgās māsiņas Nikijas un divus gadus vecā Rolanda brālītis , kuram [vārdu | object] vēl [visi | subject] domā , sevi pieteica 50 centimetru garš un 3500 gramu smags ."
+    },
+    {
+        "input": "Četrgadīgās māsiņas Nikijas un divus gadus vecā Rolanda brālītis , kuram vārdu vēl visi domā , sevi [pieteica] 50 centimetru garš un 3500 gramu smags .",
+        "output": "Četrgadīgās māsiņas Nikijas un divus gadus vecā Rolanda [brālītis | subject] , kuram vārdu vēl visi domā , [sevi | object] pieteica 50 centimetru garš un 3500 gramu smags ."
+    },
+    {
+        "input": "Adhezīvais slānis [nodrošina] labu lipīgumu , nodrošinot labu barjeru un norobežošanu no apkārtējās vides vietā , kur pārsējs kontaktē ar brūci .",
+        "output": "Adhezīvais [slānis | subject] nodrošina labu [lipīgumu | object] , nodrošinot labu barjeru un norobežošanu no apkārtējās vides vietā , kur pārsējs kontaktē ar brūci ."
+    },
+    {
+        "input": "Dziedātāja Bejonsē pēdējā laikā [apsver] iespēju sākt filmēties filmās un labas lomas dēļ viņa ir gatava filmēties pilnīgi kaila neizmantojot dublieri .",
+        "output": "Dziedātāja [Bejonsē | subject] pēdējā laikā apsver [iespēju | object] sākt filmēties filmās un labas lomas dēļ viņa ir gatava filmēties pilnīgi kaila neizmantojot dublieri ."
+    },
+    {
+        "input": "K. Silvestrova norādīja , ka Rendā daudzi [izmanto] maisus , kurus līdz piepildīšanai tur dzīvoklī vai uz balkona , tā radot antisanitāru vidi .",
+        "output": "K. Silvestrova norādīja , ka Rendā [daudzi | subject] izmanto [maisus | object] , kurus līdz piepildīšanai tur dzīvoklī vai uz balkona , tā radot antisanitāru vidi ."
+    },
+    {
+        "input": "Viņi [vērtē] piegādes loģistiku , degvielas krājumu uzglabāšanas izmaksas un citus faktorus un problēmas redz citā rakursā , \" uzsver eksperts .",
+        "output": "[Viņi | subject] vērtē piegādes [loģistiku | object] , degvielas krājumu uzglabāšanas izmaksas un citus faktorus un problēmas redz citā rakursā , \" uzsver eksperts ."
+    },
+    {
+        "input": "Tāpat šādu izmaiņu dēļ dārgāka varētu kļūt dalītās atkritumu vākšanas infrastruktūras sakārtošana iedzīvotājiem , ko kā obligātu [pieprasa] ES .",
+        "output": "Tāpat šādu izmaiņu dēļ dārgāka varētu kļūt dalītās atkritumu vākšanas infrastruktūras sakārtošana iedzīvotājiem , [ko | object] kā obligātu pieprasa [ES | subject] ."
+    },
+    {
+        "input": "Ekonomiskās attīstības periodos valstu valdības ir [meklējušas] līdzsvaru starp aktīvās nodarbinātības politikas pasākumiem un bezdarba līmeni .",
+        "output": "Ekonomiskās attīstības periodos valstu [valdības | subject] ir meklējušas [līdzsvaru | object] starp aktīvās nodarbinātības politikas pasākumiem un bezdarba līmeni ."
+    },
+    {
+        "input": "Slapjais sniegs un drēgnums mani bija te [iedzinis] , nākot no biroja , - kurš normāls cilvēks gan apmeklē kafejnīcas tirgu un dzelzceļa staciju tuvumā ?",
+        "output": "Slapjais [sniegs | subject] un drēgnums [mani | object] bija te iedzinis , nākot no biroja , - kurš normāls cilvēks gan apmeklē kafejnīcas tirgu un dzelzceļa staciju tuvumā ?"
+    },
+    {
+        "input": "Slapjais sniegs un drēgnums mani bija te iedzinis , nākot no biroja , - kurš normāls cilvēks gan [apmeklē] kafejnīcas tirgu un dzelzceļa staciju tuvumā ?",
+        "output": "Slapjais sniegs un drēgnums mani bija te iedzinis , nākot no biroja , - kurš normāls [cilvēks | subject] gan apmeklē [kafejnīcas | object] tirgu un dzelzceļa staciju tuvumā ?"
+    },
+    {
+        "input": "Piekto gadu pēc kārtas jūlija pirmā nedēļa Jelgavas novadam iezīmējas ar novada svētkiem , kas šogad ikvienu uz Elejas muižas parku [aicinās] 5. jūlijā .",
+        "output": "Piekto gadu pēc kārtas jūlija pirmā nedēļa Jelgavas novadam iezīmējas ar novada svētkiem , [kas | subject] šogad [ikvienu | object] uz Elejas muižas parku aicinās 5. jūlijā ."
+    },
+    {
+        "input": "Runā , ka arī Daugavpils nodaļas darbinieču vidū , kuras Latgales nodokļu maksātāji [raksturo] kā īpaši savtīgas un netaisnīgas , atrasti daži upurjēri .",
+        "output": "Runā , ka arī Daugavpils nodaļas darbinieču vidū , [kuras | object] Latgales nodokļu [maksātāji | subject] raksturo kā īpaši savtīgas un netaisnīgas , atrasti daži upurjēri ."
+    },
+    {
+        "input": "Jau apmeklējot « Golden globe » ceremoniju , zvaigznes vakaru [pavadīja] kopā , aktieris nemitīgi kaut ko čukstēja dziedātājai un glāstīja viņas muguru .",
+        "output": "Jau apmeklējot « Golden globe » ceremoniju , [zvaigznes | subject] [vakaru | object] pavadīja kopā , aktieris nemitīgi kaut ko čukstēja dziedātājai un glāstīja viņas muguru ."
+    },
+    {
+        "input": "1766. g. galvasnaudas nodokli Latgalē [maksāja] 2996 ebreji , neskaitot bērnus , no kā var secināt , ka viņu kopējais skaits bija ap pieciem tūkstošiem .",
+        "output": "1766. g. galvasnaudas [nodokli | object] Latgalē maksāja 2996 [ebreji | subject] , neskaitot bērnus , no kā var secināt , ka viņu kopējais skaits bija ap pieciem tūkstošiem ."
+    },
+    {
+        "input": "Iespējams , puika cerēja kārtīgi sabaidīt dakteri : pirmītējie apturētājvārdi nelīdzēja , un tagad viņš [raidīja] pretī niknus uzbrukumvārdus .",
+        "output": "Iespējams , puika cerēja kārtīgi sabaidīt dakteri : pirmītējie apturētājvārdi nelīdzēja , un tagad [viņš | subject] raidīja pretī niknus [uzbrukumvārdus | object] ."
+    },
+    {
+        "input": "Es pēc tam bieži [iztēlojos] šīs nesteidzīgās un lēnās pastaigas - miglaini rudenīgā parkā , protams ; šos lēni kā ūdens lāses ritošos vārdus .",
+        "output": "[Es | subject] pēc tam bieži iztēlojos šīs nesteidzīgās un lēnās [pastaigas | object] - miglaini rudenīgā parkā , protams ; šos lēni kā ūdens lāses ritošos vārdus ."
+    },
+    {
+        "input": "Diemžēl Nitišam pusfināla brauciena starts nebija veiksmīgs , jo viņš [zaudēja] pozīciju un bija spiests iesaistīties cīņā ar Tūrdu Linnerudu .",
+        "output": "Diemžēl Nitišam pusfināla brauciena starts nebija veiksmīgs , jo [viņš | subject] zaudēja [pozīciju | object] un bija spiests iesaistīties cīņā ar Tūrdu Linnerudu ."
+    },
+    {
+        "input": "Sistēma [nodrošina] platāku un īsāku staru kūli , kas labāk apgaismo gājējus un velosipēdistus ceļa malās un mazāk apžilbina pretim braucošos .",
+        "output": "[Sistēma | subject] nodrošina platāku un īsāku staru [kūli | object] , kas labāk apgaismo gājējus un velosipēdistus ceļa malās un mazāk apžilbina pretim braucošos ."
+    },
+    {
+        "input": "Sistēma nodrošina platāku un īsāku staru kūli , kas labāk [apgaismo] gājējus un velosipēdistus ceļa malās un mazāk apžilbina pretim braucošos .",
+        "output": "Sistēma nodrošina platāku un īsāku staru kūli , [kas | subject] labāk apgaismo [gājējus | object] un velosipēdistus ceļa malās un mazāk apžilbina pretim braucošos ."
+    },
+    {
+        "input": "Tāpat latviete [izpildīja] divas rezultatīvas piespēles , pieļāva divas kļūdas , izprovocēja divus pārkāpumus un pati nopelnīja trīs piezīmes .",
+        "output": "Tāpat [latviete | subject] izpildīja divas rezultatīvas [piespēles | object] , pieļāva divas kļūdas , izprovocēja divus pārkāpumus un pati nopelnīja trīs piezīmes ."
+    },
+    {
+        "input": "Eliasbergs [atzina] dažus tradicionālas sabiedrības kritikas momentus , īpaši par tās morālajām nepilnībām , kuras saistījās ar trimdas nodarīto ļaunumu .",
+        "output": "[Eliasbergs | subject] atzina dažus tradicionālas sabiedrības kritikas [momentus | object] , īpaši par tās morālajām nepilnībām , kuras saistījās ar trimdas nodarīto ļaunumu ."
+    },
+    {
+        "input": "PF \" Ķekava \" [saņēmusi] \" Nordea Bank Finland \" Latvijas filiāles vēstuli , ar kuru banka informē , ka radušās saistību neizpildes prasības .",
+        "output": "PF \" [Ķekava | subject] \" saņēmusi \" Nordea Bank Finland \" Latvijas filiāles [vēstuli | object] , ar kuru banka informē , ka radušās saistību neizpildes prasības ."
+    },
+    {
+        "input": "Britu dziedātājs Džons Ņūmens , kuram otro reizi konstatēts smadzeņu audzējs , otrdien [mierināja] fanus , sakot , ka viņu « tas neuztrauc » .",
+        "output": "Britu dziedātājs [Džons | subject] Ņūmens , kuram otro reizi konstatēts smadzeņu audzējs , otrdien mierināja [fanus | object] , sakot , ka viņu « tas neuztrauc » ."
+    },
+    {
+        "input": "Britu dziedātājs Džons Ņūmens , kuram otro reizi konstatēts smadzeņu audzējs , otrdien mierināja fanus , sakot , ka viņu « tas [neuztrauc] » .",
+        "output": "Britu dziedātājs Džons Ņūmens , kuram otro reizi konstatēts smadzeņu audzējs , otrdien mierināja fanus , sakot , ka [viņu | object] « [tas | subject] neuztrauc » ."
+    },
+    {
+        "input": "Tāpēc , piemēram , teniss ir krietni vienkāršāka spēle par golfu : ja tenisistam sitiens neizdodas , tad , iespējams , pretinieks to [sacūkos] vēl vairāk .",
+        "output": "Tāpēc , piemēram , teniss ir krietni vienkāršāka spēle par golfu : ja tenisistam sitiens neizdodas , tad , iespējams , [pretinieks | subject] [to | object] sacūkos vēl vairāk ."
+    },
+    {
+        "input": "Lēnām un cienīgi viņš kāpa pa trapu uz kuģa , no kurienes smaidīgi tautieši [māja] ardievas , sūtīja gaisa skūpstus palicējiem un arī skūpstījās pa īstam .",
+        "output": "Lēnām un cienīgi viņš kāpa pa trapu uz kuģa , no kurienes smaidīgi [tautieši | subject] māja [ardievas | object] , sūtīja gaisa skūpstus palicējiem un arī skūpstījās pa īstam ."
+    },
+    {
+        "input": "Grāmatas otro daļu [veido] nozīmīgākās un nereti arī skandalozākās Andra Grūtupa intervijas , juridisko un dokumentālajai prozai veltīto grāmatu fragmenti .",
+        "output": "Grāmatas otro [daļu | object] veido nozīmīgākās un nereti arī skandalozākās Andra Grūtupa [intervijas | subject] , juridisko un dokumentālajai prozai veltīto grāmatu fragmenti ."
+    },
+    {
+        "input": "Tā kā ne Viljamam , ne Keitai līdz pat pirmdienas vakaram nav [jāpilda] nekādi valstij būtiski pienākumi , viņi plāno uz nedēļas nogali izrauties no mājām .",
+        "output": "Tā kā ne [Viljamam | subject] , ne Keitai līdz pat pirmdienas vakaram nav jāpilda nekādi valstij būtiski [pienākumi | object] , viņi plāno uz nedēļas nogali izrauties no mājām ."
+    },
+    {
+        "input": "Strenču domes priekšsēdētāja Velga Graumane [noliedz] runas , ka bedru labošana un zāles pļaušana pilsētā ir saistīta ar valsts pirmās amatpersonas vizīti .",
+        "output": "Strenču domes priekšsēdētāja [Velga | subject] Graumane noliedz [runas | object] , ka bedru labošana un zāles pļaušana pilsētā ir saistīta ar valsts pirmās amatpersonas vizīti ."
+    },
+    {
+        "input": "Tia [veda] svešinieci uz pamestā , tukšā pagraba pusi , kur kādreiz esot glabāti dažādi kārumi , bet kurus vairs neviens neprata pagatavot .",
+        "output": "[Tia | subject] veda [svešinieci | object] uz pamestā , tukšā pagraba pusi , kur kādreiz esot glabāti dažādi kārumi , bet kurus vairs neviens neprata pagatavot ."
+    },
+    {
+        "input": "Pārvades sistēmas operators [pērk] palīgpakalpojumus , ievērojot atklātas , nediskriminējošas un uz tirgus principiem balstītas procedūras .",
+        "output": "Pārvades sistēmas [operators | subject] pērk [palīgpakalpojumus | object] , ievērojot atklātas , nediskriminējošas un uz tirgus principiem balstītas procedūras ."
+    },
+    {
+        "input": "Slodzes urīna nesaturēšana var attīstīties liekā svara dēļ , to [veicina] arī grūtniecība un dzemdības , turklāt ar katru iznēsāto bērniņu šis risks pieaug .",
+        "output": "Slodzes urīna nesaturēšana var attīstīties liekā svara dēļ , [to | object] veicina arī [grūtniecība | subject] un dzemdības , turklāt ar katru iznēsāto bērniņu šis risks pieaug ."
+    },
+    {
+        "input": "Un kā atbilde pacienta aizdomām nāk reklāmas saukļi , ka ārsti kaut ko [nestāsta] – nestāsta tik daudz , ka pat žurnālu par neizstāstīto var izdot regulāri .",
+        "output": "Un kā atbilde pacienta aizdomām nāk reklāmas saukļi , ka [ārsti | subject] kaut [ko | object] nestāsta – nestāsta tik daudz , ka pat žurnālu par neizstāstīto var izdot regulāri ."
+    },
+    {
+        "input": "Neizpratni par notiekošo vēl vairāk [palielināja] apstāklis , ka aizvestie nereti bija plašā apkārtnē cienījami cilvēki skolotāji , ārsti .",
+        "output": "[Neizpratni | object] par notiekošo vēl vairāk palielināja [apstāklis | subject] , ka aizvestie nereti bija plašā apkārtnē cienījami cilvēki skolotāji , ārsti ."
+    },
+    {
+        "input": "Jaunāko dēlu Skots [nesa] uz rokām , bet Kortnija stūma ratiņus ar sešus gadus veco Meisonu , kamēr četrus gadus vecā Penelope gāja kājām .",
+        "output": "Jaunāko [dēlu | object] [Skots | subject] nesa uz rokām , bet Kortnija stūma ratiņus ar sešus gadus veco Meisonu , kamēr četrus gadus vecā Penelope gāja kājām ."
+    },
+    {
+        "input": "Jaunāko dēlu Skots nesa uz rokām , bet Kortnija [stūma] ratiņus ar sešus gadus veco Meisonu , kamēr četrus gadus vecā Penelope gāja kājām .",
+        "output": "Jaunāko dēlu Skots nesa uz rokām , bet [Kortnija | subject] stūma [ratiņus | object] ar sešus gadus veco Meisonu , kamēr četrus gadus vecā Penelope gāja kājām ."
+    },
+    {
+        "input": "Tavas smadzenes seksa laikā [spēlē] svarīgu lomu , reģistrējot sajūtas un izstrādājot endorfīnus ( laimes un labsajūtas hormonu ) ķermenī .",
+        "output": "Tavas [smadzenes | subject] seksa laikā spēlē svarīgu [lomu | object] , reģistrējot sajūtas un izstrādājot endorfīnus ( laimes un labsajūtas hormonu ) ķermenī ."
+    },
+    {
+        "input": "3. Emitents [emitē] valsts vērtspapīrus , uzņemas saistības samaksāt fiksēto ienākumu un dzēst valsts vērtspapīrus to dzēšanas datumos par to nominālvērtību .",
+        "output": "3. [Emitents | subject] emitē valsts [vērtspapīrus | object] , uzņemas saistības samaksāt fiksēto ienākumu un dzēst valsts vērtspapīrus to dzēšanas datumos par to nominālvērtību ."
+    },
+    {
+        "input": "Vissvarīgākās lietas , ko zinātnieki atklājuši par atminu , centrējas ap faktu , ka mēs [nenoglabājam] atmiņas kā vienu veselumu noteiktā smadzeņu struktūrā .",
+        "output": "Vissvarīgākās lietas , ko zinātnieki atklājuši par atminu , centrējas ap faktu , ka [mēs | subject] nenoglabājam [atmiņas | object] kā vienu veselumu noteiktā smadzeņu struktūrā ."
+    },
+    {
+        "input": "Neilgi pēc tam 12:35 , VUGD saņēma informāciju , ka Saldus novada , Zirņu pagastā , grāvī [atrodas] zirgs , kurš saviem spēkiem no tā nevar izkļūt .",
+        "output": "Neilgi pēc tam 12:35 , VUGD saņēma informāciju , ka Saldus novada , Zirņu pagastā , grāvī atrodas [zirgs | subject] , kurš saviem spēkiem no tā nevar izkļūt ."
+    },
+    {
+        "input": "Neilgi pēc tam 12:35 , VUGD saņēma informāciju , ka Saldus novada , Zirņu pagastā , grāvī atrodas zirgs , kurš saviem spēkiem no tā [nevar] izkļūt .",
+        "output": "Neilgi pēc tam 12:35 , VUGD saņēma informāciju , ka Saldus novada , Zirņu pagastā , grāvī atrodas zirgs , [kurš | subject] saviem spēkiem no tā nevar izkļūt ."
+    },
+    {
+        "input": "Cik man zināms , šāda prakse [ir] Vācijā , kur jau noteikumos tiek iestrādāts , ka būs jāizmanto šis kurināmais , nevis gāze , šķelda vai kas cits .",
+        "output": "Cik man zināms , šāda [prakse | subject] ir Vācijā , kur jau noteikumos tiek iestrādāts , ka būs jāizmanto šis kurināmais , nevis gāze , šķelda vai kas cits ."
+    },
+    {
+        "input": "Lai izvairītos no grozījumos ietvertā formulējuma nepareizas interpretācijas , tajā minētās administratīvā akta darbības sekas ir [jāizprot] citādi .",
+        "output": "Lai izvairītos no grozījumos ietvertā formulējuma nepareizas interpretācijas , tajā minētās administratīvā akta darbības [sekas | subject] ir jāizprot citādi ."
+    },
+    {
+        "input": "Šīs vīns tiek [ražots] Francijas dienvidos , kur dominē saulains un silts klimats , kas rada labvēlīgus apstākļus Sauvignon Blanc vīnogu audzēšanai .",
+        "output": "Šīs [vīns | subject] tiek ražots Francijas dienvidos , kur dominē saulains un silts klimats , kas rada labvēlīgus apstākļus Sauvignon Blanc vīnogu audzēšanai ."
+    },
+    {
+        "input": "Šīs vīns tiek ražots Francijas dienvidos , kur [dominē] saulains un silts klimats , kas rada labvēlīgus apstākļus Sauvignon Blanc vīnogu audzēšanai .",
+        "output": "Šīs vīns tiek ražots Francijas dienvidos , kur dominē saulains un silts [klimats | subject] , kas rada labvēlīgus apstākļus Sauvignon Blanc vīnogu audzēšanai ."
+    },
+    {
+        "input": "Vairums zvaigžņu no abām ballītēm [ieradās] uzvilkuši jaunus tērpus , lai atkal spētu mirdzēt un pārsteigt fotogrāfus un viens otru ar savu izskatu .",
+        "output": "[Vairums | subject] zvaigžņu no abām ballītēm ieradās uzvilkuši jaunus tērpus , lai atkal spētu mirdzēt un pārsteigt fotogrāfus un viens otru ar savu izskatu ."
+    },
+    {
+        "input": "Kā trešo un noslēdzošo piekariņu Daniels izvēlējās ģimenes koku , lai vai kur mamma arī [nebūtu] , viņai līdzi būtu ģimene , kaut simboliskā nozīmē .",
+        "output": "Kā trešo un noslēdzošo piekariņu Daniels izvēlējās ģimenes koku , lai vai kur [mamma | subject] arī nebūtu , viņai līdzi būtu ģimene , kaut simboliskā nozīmē ."
+    },
+    {
+        "input": "Kā trešo un noslēdzošo piekariņu Daniels izvēlējās ģimenes koku , lai vai kur mamma arī nebūtu , viņai līdzi [būtu] ģimene , kaut simboliskā nozīmē .",
+        "output": "Kā trešo un noslēdzošo piekariņu Daniels izvēlējās ģimenes koku , lai vai kur mamma arī nebūtu , viņai līdzi būtu [ģimene | subject] , kaut simboliskā nozīmē ."
+    },
+    {
+        "input": "“ Es izjūtu tādu kā pienākumu aizbraukt uz Varanasi , jo daudzi mani klausītāji vēstulēs [raksta] , ka ir tur bijuši , ļoti gaidu kādas būs sajūtas .",
+        "output": "“ Es izjūtu tādu kā pienākumu aizbraukt uz Varanasi , jo daudzi mani [klausītāji | subject] vēstulēs raksta , ka ir tur bijuši , ļoti gaidu kādas būs sajūtas ."
+    },
+    {
+        "input": "Viņas māsa pēdējā laikā arī [neiesaistījās] sarunās , viņu bieži mocīja sāpes , un naktīs viņa vai nu raudāja , vai kliedza , tas bija neizturami .",
+        "output": "Viņas [māsa | subject] pēdējā laikā arī neiesaistījās sarunās , viņu bieži mocīja sāpes , un naktīs viņa vai nu raudāja , vai kliedza , tas bija neizturami ."
+    },
+    {
+        "input": "Viņas māsa pēdējā laikā arī neiesaistījās sarunās , viņu bieži mocīja sāpes , un naktīs viņa vai nu [raudāja] , vai kliedza , tas bija neizturami .",
+        "output": "Viņas māsa pēdējā laikā arī neiesaistījās sarunās , viņu bieži mocīja sāpes , un naktīs [viņa | subject] vai nu raudāja , vai kliedza , tas bija neizturami ."
+    },
+    {
+        "input": "Daži no klātesošajiem jautri [pasmīnēja] , atzīstot , cik labi , ka tiek pasniegts biezpiens , citādi būtu grūtības atcerēties pirmā ēdiena garšu .",
+        "output": "[Daži | subject] no klātesošajiem jautri pasmīnēja , atzīstot , cik labi , ka tiek pasniegts biezpiens , citādi būtu grūtības atcerēties pirmā ēdiena garšu ."
+    },
+    {
+        "input": "Daži no klātesošajiem jautri pasmīnēja , atzīstot , cik labi , ka tiek pasniegts biezpiens , citādi [būtu] grūtības atcerēties pirmā ēdiena garšu .",
+        "output": "Daži no klātesošajiem jautri pasmīnēja , atzīstot , cik labi , ka tiek pasniegts biezpiens , citādi būtu [grūtības | subject] atcerēties pirmā ēdiena garšu ."
+    },
+    {
+        "input": "Piemēram , Eiropa [prasa] un Latvijas likumdošanā ierakstīts , ka sadzīves atkritumus drīkst noglabāt tikai tādā gadījumā , ja viņi ir apstrādāti .",
+        "output": "Piemēram , [Eiropa | subject] prasa un Latvijas likumdošanā ierakstīts , ka sadzīves atkritumus drīkst noglabāt tikai tādā gadījumā , ja viņi ir apstrādāti ."
+    },
+    {
+        "input": "Iepriekšējie runātāji [centās] samest visu vienā katlā , cerot , ka no tā nesaindēsies un paliks dzīvi , taču tā rīkoties tomēr ir ļoti nepareizi .",
+        "output": "Iepriekšējie [runātāji | subject] centās samest visu vienā katlā , cerot , ka no tā nesaindēsies un paliks dzīvi , taču tā rīkoties tomēr ir ļoti nepareizi ."
+    },
+    {
+        "input": "Patlaban prokuroriem un tiesnešiem [ir] tiesības pieprasīt šādu izvērtēšanas ziņojumu par dzimumnoziedznieku , taču lielākoties tas netiek darīts .",
+        "output": "Patlaban prokuroriem un tiesnešiem ir [tiesības | subject] pieprasīt šādu izvērtēšanas ziņojumu par dzimumnoziedznieku , taču lielākoties tas netiek darīts ."
+    },
+    {
+        "input": "Otrs paņēmiens – pilnīgi pretējs pirmajam : visiem dievbijīgajiem ebrejiem ir [jāstājas] cionistu organizāciju rindās ar mērķi izmainīt tā saturu .",
+        "output": "Otrs paņēmiens – pilnīgi pretējs pirmajam : visiem dievbijīgajiem [ebrejiem | subject] ir jāstājas cionistu organizāciju rindās ar mērķi izmainīt tā saturu ."
+    },
+    {
+        "input": "Līdz ar to ilgtermiņā Latviju klās lielas atkritumu kaudzes , lai gan , atkritumus veiksmīgi pārstrādājot , pāri [varētu] palikt vien smaka un pelni .",
+        "output": "Līdz ar to ilgtermiņā Latviju klās lielas atkritumu kaudzes , lai gan , atkritumus veiksmīgi pārstrādājot , pāri varētu palikt vien [smaka | subject] un pelni ."
+    },
+    {
+        "input": "[Ir] divas iespējas - vai nu liekam degli un gāzi sadedzinām , vai arī liekam koģenerācijas iekārtu , kas ražo elektrību , ko ir izdarījusi „ ZAAO \" .",
+        "output": "Ir divas [iespējas | subject] - vai nu liekam degli un gāzi sadedzinām , vai arī liekam koģenerācijas iekārtu , kas ražo elektrību , ko ir izdarījusi „ ZAAO \" ."
+    },
+    {
+        "input": "Visos poligonos šī masa ir uzkrāta , [paies] vēl vairāki gadi , kamēr viņi iztērēs uzkrājumus un tad varbūt sāks interesēties par iespēju to iepirkt .",
+        "output": "Visos poligonos šī masa ir uzkrāta , paies vēl vairāki [gadi | subject] , kamēr viņi iztērēs uzkrājumus un tad varbūt sāks interesēties par iespēju to iepirkt ."
+    },
+    {
+        "input": "Visātrākās un vislielākās izmaiņas [notiek] pirmajos 18 mēnešos , kuru laikā tiek sasniegti paši fundamentālākie un svarīgākie attīstības robežstabi .",
+        "output": "Visātrākās un vislielākās [izmaiņas | subject] notiek pirmajos 18 mēnešos , kuru laikā tiek sasniegti paši fundamentālākie un svarīgākie attīstības robežstabi ."
+    },
+    {
+        "input": "Nav iespējams apturēt tādu administratīvo aktu , kurš pēc būtības nav [izpildāms] , proti , ja ar administratīvo aktu atsaka pieņemt kādu lēmumu .",
+        "output": "Nav iespējams apturēt tādu administratīvo aktu , [kurš | subject] pēc būtības nav izpildāms , proti , ja ar administratīvo aktu atsaka pieņemt kādu lēmumu ."
+    },
+    {
+        "input": "Viņš ST priekšsēdētāja amatā pirmo reizi [stājās] 2007. gada 31. janvārī , savukārt 2010. gadā viņš priekšsēdētāja amatā tika ievēlēts atkārtoti .",
+        "output": "[Viņš | subject] ST priekšsēdētāja amatā pirmo reizi stājās 2007. gada 31. janvārī , savukārt 2010. gadā viņš priekšsēdētāja amatā tika ievēlēts atkārtoti ."
+    },
+    {
+        "input": "Aktrise Nikola Kidmena publiski [paziņo] , ka nav apvainojusies uz savu meitu , tieši otrādi , tā bija viņas pašas izvēle - neierasties uz kāzām .",
+        "output": "Aktrise [Nikola | subject] Kidmena publiski paziņo , ka nav apvainojusies uz savu meitu , tieši otrādi , tā bija viņas pašas izvēle - neierasties uz kāzām ."
+    },
+    {
+        "input": "Pērn esot uzrakstījusi viņam pateicības vēstuli , jo aizvadītajā gadā Valsts prezidents [ieradās] uz politisko represēto salidojuma atklāšanu Ikšķilē .",
+        "output": "Pērn esot uzrakstījusi viņam pateicības vēstuli , jo aizvadītajā gadā Valsts [prezidents | subject] ieradās uz politisko represēto salidojuma atklāšanu Ikšķilē ."
+    },
+    {
+        "input": "Es biju diezgan daudz [izdarījusi] , lai aizmirstu savu bērnību Maskavas forštatē , ģimenē , kur tēvs dzēra un mājas kāpnēs smirdēja pēc atejas .",
+        "output": "[Es | subject] biju diezgan daudz izdarījusi , lai aizmirstu savu bērnību Maskavas forštatē , ģimenē , kur tēvs dzēra un mājas kāpnēs smirdēja pēc atejas ."
+    },
+    {
+        "input": "Es biju diezgan daudz izdarījusi , lai aizmirstu savu bērnību Maskavas forštatē , ģimenē , kur tēvs [dzēra] un mājas kāpnēs smirdēja pēc atejas .",
+        "output": "Es biju diezgan daudz izdarījusi , lai aizmirstu savu bērnību Maskavas forštatē , ģimenē , kur [tēvs | subject] dzēra un mājas kāpnēs smirdēja pēc atejas ."
+    },
+    {
+        "input": "Pēc laika izrādījies , ka uz labu tas bijis , jo nav kā lielsaimnieks uz Sibīriju aizvests , bet izsūtīšana darbos uz Vāciju nav [gājusi] garām .",
+        "output": "Pēc laika izrādījies , ka uz labu tas bijis , jo nav kā lielsaimnieks uz Sibīriju aizvests , bet [izsūtīšana | subject] darbos uz Vāciju nav gājusi garām ."
+    },
+    {
+        "input": "Uz jautājumiem viņš atbildēja korekti un solīdi , tikai žēl , ka jautājumi bija dažādi , arī šādi tādi , \" [spriež] strencēniete Inese Kārkliņa .",
+        "output": "Uz jautājumiem viņš atbildēja korekti un solīdi , tikai žēl , ka jautājumi bija dažādi , arī šādi tādi , \" spriež strencēniete [Inese | subject] Kārkliņa ."
+    },
+    {
+        "input": "Nuroks [mēdza] ierasties dažādās Latvijas provinces pilsētās , lai uzstātos ar priekšlasījumu par tā laika aktuālajām tēmām politikā un sadzīvē .",
+        "output": "[Nuroks | subject] mēdza ierasties dažādās Latvijas provinces pilsētās , lai uzstātos ar priekšlasījumu par tā laika aktuālajām tēmām politikā un sadzīvē ."
+    },
+    {
+        "input": "Lai gan Nitišs [varēja] turpināt braucienu , tā atlikušajā daļā jēkabpilietis spēja pacelties uz ceturto vietu , ar ko bija par maz , lai tiktu finālā .",
+        "output": "Lai gan [Nitišs | subject] varēja turpināt braucienu , tā atlikušajā daļā jēkabpilietis spēja pacelties uz ceturto vietu , ar ko bija par maz , lai tiktu finālā ."
+    },
+    {
+        "input": "Lai gan Nitišs varēja turpināt braucienu , tā atlikušajā daļā jēkabpilietis [spēja] pacelties uz ceturto vietu , ar ko bija par maz , lai tiktu finālā .",
+        "output": "Lai gan Nitišs varēja turpināt braucienu , tā atlikušajā daļā [jēkabpilietis | subject] spēja pacelties uz ceturto vietu , ar ko bija par maz , lai tiktu finālā ."
+    },
+    {
+        "input": "Tik , cik nosaukums [izklausās] kārdinoši , tikpat gardi deserts arī garšoja , un neviens nemaz nebrīnijās par to , cik strauji tie pazuda no šķīvjiem .",
+        "output": "Tik , cik [nosaukums | subject] izklausās kārdinoši , tikpat gardi deserts arī garšoja , un neviens nemaz nebrīnijās par to , cik strauji tie pazuda no šķīvjiem ."
+    },
+    {
+        "input": "Tik , cik nosaukums izklausās kārdinoši , tikpat gardi deserts arī [garšoja] , un neviens nemaz nebrīnijās par to , cik strauji tie pazuda no šķīvjiem .",
+        "output": "Tik , cik nosaukums izklausās kārdinoši , tikpat gardi [deserts | subject] arī garšoja , un neviens nemaz nebrīnijās par to , cik strauji tie pazuda no šķīvjiem ."
+    },
+    {
+        "input": "Tik , cik nosaukums izklausās kārdinoši , tikpat gardi deserts arī garšoja , un neviens nemaz nebrīnijās par to , cik strauji tie [pazuda] no šķīvjiem .",
+        "output": "Tik , cik nosaukums izklausās kārdinoši , tikpat gardi deserts arī garšoja , un neviens nemaz nebrīnijās par to , cik strauji [tie | subject] pazuda no šķīvjiem ."
+    },
+    {
+        "input": "Normāli darbojoties , tie palīdz urīnceļiem aizvērties , bet tajos gadījumos , kad šie muskuļi [kļūst] vājāki , var rasties nekontrolēta urīna noplūde .",
+        "output": "Normāli darbojoties , tie palīdz urīnceļiem aizvērties , bet tajos gadījumos , kad šie [muskuļi | subject] kļūst vājāki , var rasties nekontrolēta urīna noplūde ."
+    },
+    {
+        "input": "Normāli darbojoties , tie palīdz urīnceļiem aizvērties , bet tajos gadījumos , kad šie muskuļi kļūst vājāki , [var] rasties nekontrolēta urīna noplūde .",
+        "output": "Normāli darbojoties , tie palīdz urīnceļiem aizvērties , bet tajos gadījumos , kad šie muskuļi kļūst vājāki , var rasties nekontrolēta urīna [noplūde | subject] ."
+    },
+    {
+        "input": "Iedodoties slimnīcā , zvaigzne tik tikko [spējusi] parunāt un uzreiz tika pieslēgts pie traheotomijas caurules un citiem aparātiem , kuri palīdz elpot .",
+        "output": "Iedodoties slimnīcā , [zvaigzne | subject] tik tikko spējusi parunāt un uzreiz tika pieslēgts pie traheotomijas caurules un citiem aparātiem , kuri palīdz elpot ."
+    },
+    {
+        "input": "Iedodoties slimnīcā , zvaigzne tik tikko spējusi parunāt un uzreiz tika pieslēgts pie traheotomijas caurules un citiem aparātiem , kuri [palīdz] elpot .",
+        "output": "Iedodoties slimnīcā , zvaigzne tik tikko spējusi parunāt un uzreiz tika pieslēgts pie traheotomijas caurules un citiem aparātiem , [kuri | subject] palīdz elpot ."
+    },
+    {
+        "input": "Ja jūs tur [sēdētu] un būtu drošības dienesta darbinieks , no jums būtu paņemts paraksts , ka jūs nedrīkstat izpaust šīs ziņas , kas jums ir uzticētas .",
+        "output": "Ja [jūs | subject] tur sēdētu un būtu drošības dienesta darbinieks , no jums būtu paņemts paraksts , ka jūs nedrīkstat izpaust šīs ziņas , kas jums ir uzticētas ."
+    },
+    {
+        "input": "Ja jūs tur sēdētu un būtu drošības dienesta darbinieks , no jums būtu paņemts paraksts , ka jūs [nedrīkstat] izpaust šīs ziņas , kas jums ir uzticētas .",
+        "output": "Ja jūs tur sēdētu un būtu drošības dienesta darbinieks , no jums būtu paņemts paraksts , ka [jūs | subject] nedrīkstat izpaust šīs ziņas , kas jums ir uzticētas ."
+    },
+    {
+        "input": "It kā ietu pa gaiteni , garu un tumšu , pa labirintu , nenojaušot , kas [gaida] aiz nākamā pagrieziena , ko ieraudzīšu spogulī nākam sev pretī .",
+        "output": "It kā ietu pa gaiteni , garu un tumšu , pa labirintu , nenojaušot , [kas | subject] gaida aiz nākamā pagrieziena , ko ieraudzīšu spogulī nākam sev pretī ."
+    },
+    {
+        "input": "K. Silvestrova [norādīja] , ka Rendā daudzi izmanto maisus , kurus līdz piepildīšanai tur dzīvoklī vai uz balkona , tā radot antisanitāru vidi .",
+        "output": "[K. | subject] Silvestrova norādīja , ka Rendā daudzi izmanto maisus , kurus līdz piepildīšanai tur dzīvoklī vai uz balkona , tā radot antisanitāru vidi ."
+    },
+    {
+        "input": "Viņi vērtē piegādes loģistiku , degvielas krājumu uzglabāšanas izmaksas un citus faktorus un problēmas redz citā rakursā , \" [uzsver] eksperts .",
+        "output": "Viņi vērtē piegādes loģistiku , degvielas krājumu uzglabāšanas izmaksas un citus faktorus un problēmas redz citā rakursā , \" uzsver [eksperts | subject] ."
+    },
+    {
+        "input": "Tāpat šādu izmaiņu dēļ dārgāka [varētu] kļūt dalītās atkritumu vākšanas infrastruktūras sakārtošana iedzīvotājiem , ko kā obligātu pieprasa ES .",
+        "output": "Tāpat šādu izmaiņu dēļ dārgāka varētu kļūt dalītās atkritumu vākšanas infrastruktūras [sakārtošana | subject] iedzīvotājiem , ko kā obligātu pieprasa ES ."
+    },
+    {
+        "input": "Žans Pjērs lēnām [soļoja] pa N. pilsētiņas glīto ieliņu un priecājās par puķēm namu balkoniņos , par safrizētajām večiņām un pat par garāmskrejošo kaķi .",
+        "output": "[Žans | subject] Pjērs lēnām soļoja pa N. pilsētiņas glīto ieliņu un priecājās par puķēm namu balkoniņos , par safrizētajām večiņām un pat par garāmskrejošo kaķi ."
+    },
+    {
+        "input": "Stilizēts interjera plauktiņš ir , kokā griezta ķerra puķēm , elegants krēsls , sols , tā ir tikai neliela diplomdarbu daļa , kas [redzama] šajā attēlā .",
+        "output": "Stilizēts interjera plauktiņš ir , kokā griezta ķerra puķēm , elegants krēsls , sols , tā ir tikai neliela diplomdarbu daļa , [kas | subject] redzama šajā attēlā ."
+    },
+    {
+        "input": "Klausoties dziedātājas balsī , visi četri žūrijas locekļi beigu beigās [apgriezās] savos krēslos riņķī , dodot māksliniecei zaļo gaismu tālākai dalībai .",
+        "output": "Klausoties dziedātājas balsī , visi četri žūrijas [locekļi | subject] beigu beigās apgriezās savos krēslos riņķī , dodot māksliniecei zaļo gaismu tālākai dalībai ."
+    },
+    {
+        "input": "Iespējams , puika [cerēja] kārtīgi sabaidīt dakteri : pirmītējie apturētājvārdi nelīdzēja , un tagad viņš raidīja pretī niknus uzbrukumvārdus .",
+        "output": "Iespējams , [puika | subject] cerēja kārtīgi sabaidīt dakteri : pirmītējie apturētājvārdi nelīdzēja , un tagad viņš raidīja pretī niknus uzbrukumvārdus ."
+    },
+    {
+        "input": "Cinka vegānu organismā ir mazāk nekā visēdājiem , kas [skaidrojams] ar uzsūkšanās traucējumiem , ko rada augos esošais lielais balastvielu daudzums .",
+        "output": "Cinka vegānu organismā ir mazāk nekā visēdājiem , [kas | subject] skaidrojams ar uzsūkšanās [traucējumiem | indirect_object] , ko rada augos esošais lielais balastvielu daudzums ."
+    },
+    {
+        "input": "Dažviet notikumi [uzvēdīja] ne tikai pašus dziļākos padomju stagnācijas laikus , bet pat kaut ko no senākām – no personības kulta laka – smaķelēm .",
+        "output": "Dažviet [notikumi | subject] uzvēdīja [ne | indirect_object] tikai pašus dziļākos padomju stagnācijas laikus , bet pat kaut ko no senākām – no personības kulta laka – smaķelēm ."
+    },
+    {
+        "input": "Valdība īsi pirms Ziemsvētkiem [paziņoja] par ieceri grozīt 2010. gada likumu , ar kuru sievietēm atļauts izdarīt abortu līdz 14 grūtniecības nedēļai .",
+        "output": "[Valdība | subject] īsi pirms Ziemsvētkiem paziņoja par [ieceri | indirect_object] grozīt 2010. gada likumu , ar kuru sievietēm atļauts izdarīt abortu līdz 14 grūtniecības nedēļai ."
+    },
+    {
+        "input": "Ministrija jau vairākkārt [pieprasījusi] Jelgavas domei pārtraukt reklāmas izvietošanu laikrakstā , tomēr Jelgavas dome uz šīm prasībām nav reaģējusi .",
+        "output": "[Ministrija | subject] jau vairākkārt pieprasījusi Jelgavas [domei | indirect_object] pārtraukt reklāmas izvietošanu laikrakstā , tomēr Jelgavas dome uz šīm prasībām nav reaģējusi ."
+    },
+    {
+        "input": "Ministrija jau vairākkārt pieprasījusi Jelgavas domei pārtraukt reklāmas izvietošanu laikrakstā , tomēr Jelgavas dome uz šīm prasībām nav [reaģējusi] .",
+        "output": "Ministrija jau vairākkārt pieprasījusi Jelgavas domei pārtraukt reklāmas izvietošanu laikrakstā , tomēr Jelgavas [dome | subject] uz šīm [prasībām | indirect_object] nav reaģējusi ."
+    },
+    {
+        "input": "Adhezīvais slānis nodrošina labu lipīgumu , nodrošinot labu barjeru un norobežošanu no apkārtējās vides vietā , kur pārsējs [kontaktē] ar brūci .",
+        "output": "Adhezīvais slānis nodrošina labu lipīgumu , nodrošinot labu barjeru un norobežošanu no apkārtējās vides vietā , kur [pārsējs | subject] kontaktē ar [brūci | indirect_object] ."
+    },
+    {
+        "input": "Uz jautājumiem viņš [atbildēja] korekti un solīdi , tikai žēl , ka jautājumi bija dažādi , arī šādi tādi , \" spriež strencēniete Inese Kārkliņa .",
+        "output": "Uz [jautājumiem | indirect_object] [viņš | subject] atbildēja korekti un solīdi , tikai žēl , ka jautājumi bija dažādi , arī šādi tādi , \" spriež strencēniete Inese Kārkliņa ."
+    },
+    {
+        "input": "Tik , cik nosaukums izklausās kārdinoši , tikpat gardi deserts arī garšoja , un neviens nemaz [nebrīnijās] par to , cik strauji tie pazuda no šķīvjiem .",
+        "output": "Tik , cik nosaukums izklausās kārdinoši , tikpat gardi deserts arī garšoja , un [neviens | subject] nemaz nebrīnijās par [to | indirect_object] , cik strauji tie pazuda no šķīvjiem ."
+    },
+    {
+        "input": "Normāli darbojoties , tie [palīdz] urīnceļiem aizvērties , bet tajos gadījumos , kad šie muskuļi kļūst vājāki , var rasties nekontrolēta urīna noplūde .",
+        "output": "Normāli darbojoties , [tie | subject] palīdz [urīnceļiem | indirect_object] aizvērties , bet tajos gadījumos , kad šie muskuļi kļūst vājāki , var rasties nekontrolēta urīna noplūde ."
+    },
+    {
+        "input": "Basketboliste [iesaka] ikvienam priecāties par savu ķermeni , novērtēt atšķirības , jo tieši atšķirības liek mums priecāties par otro pusīšu ķermeņiem .",
+        "output": "[Basketboliste | subject] iesaka [ikvienam | indirect_object] priecāties par savu ķermeni , novērtēt atšķirības , jo tieši atšķirības liek mums priecāties par otro pusīšu ķermeņiem ."
+    },
+    {
+        "input": "Basketboliste iesaka ikvienam priecāties par savu ķermeni , novērtēt atšķirības , jo tieši atšķirības [liek] mums priecāties par otro pusīšu ķermeņiem .",
+        "output": "Basketboliste iesaka ikvienam priecāties par savu ķermeni , novērtēt atšķirības , jo tieši [atšķirības | subject] liek [mums | indirect_object] priecāties par otro pusīšu ķermeņiem ."
+    },
+    {
+        "input": "Izstādes darbu vidū arī Fanijas uzņemtie mirkļi ir Tukuma ielās un pagalmos – tik neparasti , ka pat īsteni tukumnieki [neatpazina] šīs vietas …",
+        "output": "Izstādes darbu vidū arī Fanijas uzņemtie mirkļi ir Tukuma ielās un pagalmos – tik neparasti , ka pat īsteni [tukumnieki | subject] neatpazina šīs [vietas | indirect_object] …"
+    },
+    {
+        "input": "Visērtākie attiecību aspektā ir vidējie bērni , jo visa bērnības pieredze ir [saistīta] ar saskarsmes treniņu , gan ar vecākiem , gan jaunākiem bērniem .",
+        "output": "Visērtākie attiecību aspektā ir vidējie bērni , jo visa bērnības [pieredze | subject] ir saistīta ar saskarsmes [treniņu | indirect_object] , gan ar vecākiem , gan jaunākiem bērniem ."
+    },
+    {
+        "input": "Piekto gadu pēc kārtas jūlija pirmā nedēļa Jelgavas novadam [iezīmējas] ar novada svētkiem , kas šogad ikvienu uz Elejas muižas parku aicinās 5. jūlijā .",
+        "output": "Piekto gadu pēc kārtas jūlija pirmā [nedēļa | subject] Jelgavas novadam iezīmējas ar novada [svētkiem | indirect_object] , kas šogad ikvienu uz Elejas muižas parku aicinās 5. jūlijā ."
+    },
+    {
+        "input": "Tas bija ļoti parasts stāsts , kurā es [klausījos] tikai ar vienu ausi , un man likās , ka es viņai to varētu izstāstīt labāk nekā viņa man _ .",
+        "output": "Tas bija ļoti parasts stāsts , kurā [es | subject] klausījos tikai ar vienu [ausi | indirect_object] , un man likās , ka es viņai to varētu izstāstīt labāk nekā viņa man _ ."
+    },
+    {
+        "input": "Tomēr cilvēki joprojām atpazīst un spēj uztvert nebijušu pieredzi , un tas vien [norāda] uz smadzeņu un prāta vienreizēji lielo kapacitāti un potenciālu .",
+        "output": "Tomēr cilvēki joprojām atpazīst un spēj uztvert nebijušu pieredzi , un [tas | subject] vien norāda uz smadzeņu un prāta vienreizēji lielo [kapacitāti | indirect_object] un potenciālu ."
+    },
+    {
+        "input": "Eliasbergs atzina dažus tradicionālas sabiedrības kritikas momentus , īpaši par tās morālajām nepilnībām , kuras [saistījās] ar trimdas nodarīto ļaunumu .",
+        "output": "Eliasbergs atzina dažus tradicionālas sabiedrības kritikas momentus , īpaši par tās morālajām nepilnībām , [kuras | subject] saistījās ar trimdas nodarīto [ļaunumu | indirect_object] ."
+    },
+    {
+        "input": "PF \" Ķekava \" saņēmusi \" Nordea Bank Finland \" Latvijas filiāles vēstuli , ar kuru banka [informē] , ka radušās saistību neizpildes prasības .",
+        "output": "PF \" Ķekava \" saņēmusi \" Nordea Bank Finland \" Latvijas filiāles vēstuli , ar [kuru | indirect_object] [banka | subject] informē , ka radušās saistību neizpildes prasības ."
+    },
+    {
+        "input": "Piemēram , nereti pilntiesīgs ieceļotājs Francijā nedrīkst vairāk Francijā tiesiski uzturēties , ja vien viņš [neiegūst] carte de séjour noteiktā periodā .",
+        "output": "Piemēram , nereti pilntiesīgs ieceļotājs Francijā nedrīkst vairāk Francijā tiesiski uzturēties , ja vien [viņš | subject] neiegūst [carte | indirect_object] de séjour noteiktā periodā ."
+    },
+    {
+        "input": "Iesākumā šis darbs šķita diezgan sarežģīts , bet , kopīgi darbojoties , katra dalībniece [tika] pie skaista groziņa raibajām Lieldienu olām .",
+        "output": "Iesākumā šis darbs šķita diezgan sarežģīts , bet , kopīgi darbojoties , katra [dalībniece | subject] tika pie skaista [groziņa | indirect_object] raibajām Lieldienu olām ."
+    },
+    {
+        "input": "Strenču domes priekšsēdētāja Velga Graumane noliedz runas , ka bedru labošana un zāles pļaušana pilsētā ir [saistīta] ar valsts pirmās amatpersonas vizīti .",
+        "output": "Strenču domes priekšsēdētāja Velga Graumane noliedz runas , ka bedru [labošana | subject] un zāles pļaušana pilsētā ir saistīta ar valsts pirmās amatpersonas [vizīti | indirect_object] ."
+    },
+    {
+        "input": "Aizņēmuši bibliotēkas ātrija 4. stāva daļu , viņi Gaismas pils viesiem [piedāvāja] jāt ar koka zirgu , veidot mala podu , adīt dižšalli un aust grāmatzīmes .",
+        "output": "Aizņēmuši bibliotēkas ātrija 4. stāva daļu , [viņi | subject] Gaismas pils [viesiem | indirect_object] piedāvāja jāt ar koka zirgu , veidot mala podu , adīt dižšalli un aust grāmatzīmes ."
+    },
+    {
+        "input": "Slodzes urīna nesaturēšana var attīstīties liekā svara dēļ , to veicina arī grūtniecība un dzemdības , turklāt ar katru iznēsāto bērniņu šis risks [pieaug] .",
+        "output": "Slodzes urīna nesaturēšana var attīstīties liekā svara dēļ , to veicina arī grūtniecība un dzemdības , turklāt ar katru iznēsāto [bērniņu | indirect_object] šis [risks | subject] pieaug ."
+    },
+    {
+        "input": "“ Šo situāciju varētu atrisināt , ja atjaunotu Alūksnes sabiedriskās kārtības noteikumos punktu , kas nepilngadīgajiem [aizliegtu] smēķēt .",
+        "output": "“ Šo situāciju varētu atrisināt , ja atjaunotu Alūksnes sabiedriskās kārtības noteikumos punktu , [kas | subject] [nepilngadīgajiem | indirect_object] aizliegtu smēķēt ."
+    },
+    {
+        "input": "Tobāgo salas eksotiski gleznainais nosaukums ir [zināms] teju katram bērnam , taču tikai retajam ir bijusi iespēja pasakainajā salā pabūt .",
+        "output": "Tobāgo salas eksotiski gleznainais [nosaukums | subject] ir zināms teju katram [bērnam | indirect_object] , taču tikai retajam ir bijusi iespēja pasakainajā salā pabūt ."
+    },
+    {
+        "input": "Finanšu ministrija [sacenšas] ar Iekšlietu ministriju nolaidībā un nekompetencē , pārbaudot valsts garantēta kredīta izlietošanu uzņēmumā Liepājas metalurgs .",
+        "output": "Finanšu [ministrija | subject] sacenšas ar Iekšlietu [ministriju | indirect_object] nolaidībā un nekompetencē , pārbaudot valsts garantēta kredīta izlietošanu uzņēmumā Liepājas metalurgs ."
+    },
+    {
+        "input": "No vienas puses , nav noliedzama nepieciešamība stimulēt bezdarbnieku konkurētspējas paaugstināšanu , kas attiecīgi [palīdzētu] viņiem iekļauties darba vidē .",
+        "output": "No vienas puses , nav noliedzama nepieciešamība stimulēt bezdarbnieku konkurētspējas paaugstināšanu , [kas | subject] attiecīgi palīdzētu [viņiem | indirect_object] iekļauties darba vidē ."
+    },
+    {
+        "input": "Alkoholismā aktieris vaino tēva nāvi un šķiršanos , tieši šīs lietas viņu iebīdījušas nepareizās sliedēs , toties mātes nāve [likusi] aktierim pilnībā salūzt .",
+        "output": "Alkoholismā aktieris vaino tēva nāvi un šķiršanos , tieši šīs lietas viņu iebīdījušas nepareizās sliedēs , toties mātes [nāve | subject] likusi [aktierim | indirect_object] pilnībā salūzt ."
+    },
+    {
+        "input": "» Vakara Ziņas « [pievienojas] Maestro sveicēju pulkam , novēlot nepagurt mūzikas laukā , iepriecinot , aizkustinot un sajūsminot savus uzticīgos klausītājus !",
+        "output": "» Vakara [Ziņas | subject] « pievienojas Maestro sveicēju [pulkam | indirect_object] , novēlot nepagurt mūzikas laukā , iepriecinot , aizkustinot un sajūsminot savus uzticīgos klausītājus !"
+    },
+    {
+        "input": "Abi apmeklēja polo sacensības Bērkšīrā , bet kāds aculiecinieks tabloīdam « The Sun » [atklājis] , ka Harijs un Elija nemitīgi flirtējuši un pat skūpstījušies .",
+        "output": "Abi apmeklēja polo sacensības Bērkšīrā , bet kāds [aculiecinieks | subject] tabloīdam « [The | indirect_object] Sun » atklājis , ka Harijs un Elija nemitīgi flirtējuši un pat skūpstījušies ."
+    },
+    {
+        "input": "Miks [netic] mīlestībai no pirmā acu skatiena , jo uzskata , ka jāiepazīst vienam otru , jāvieš uzticība , jāpierāda , ka viss ir īsts .",
+        "output": "[Miks | subject] netic [mīlestībai | indirect_object] no pirmā acu skatiena , jo uzskata , ka jāiepazīst vienam otru , jāvieš uzticība , jāpierāda , ka viss ir īsts ."
+    },
+    {
+        "input": "Es reibu ātri , man nevajadzēja daudz , 1 00 gramu konjaka un drusku iztēles man arvien [lika] iegrimt banālās un neproduktīvās pārdomās par esības noslēpumiem .",
+        "output": "Es reibu ātri , man nevajadzēja daudz , 1 00 gramu [konjaka | subject] un drusku iztēles [man | indirect_object] arvien lika iegrimt banālās un neproduktīvās pārdomās par esības noslēpumiem ."
+    },
+    {
+        "input": "Nupat puikas fantāzija bija uzkurbulēta , vārds [apauga] ar citiem vārdiem un aizrautīgi ripoja uz priekšu , nevarēdams vien rimties .",
+        "output": "Nupat puikas fantāzija bija uzkurbulēta , [vārds | subject] apauga ar citiem [vārdiem | indirect_object] un aizrautīgi ripoja uz priekšu , nevarēdams vien rimties ."
+    },
+    {
+        "input": "Lai vairāk apgrozītos ļaudīs , viņš [atteicās] no braucieniem automašīnā , pa centru gāja kājām , burzījās sabiedriskajā transportā .",
+        "output": "Lai vairāk apgrozītos ļaudīs , [viņš | subject] atteicās no [braucieniem | indirect_object] automašīnā , pa centru gāja kājām , burzījās sabiedriskajā transportā ."
+    },
+    {
+        "input": "Augustā Afleks sociālajos tīklos [publicēja] video no uzņemšanas laukuma , kur Manganello bija iejuties ļaunā varoņa Dedstroka lomā .",
+        "output": "Augustā [Afleks | subject] sociālajos tīklos publicēja [video | indirect_object] no uzņemšanas laukuma , kur Manganello bija iejuties ļaunā varoņa Dedstroka lomā ."
+    },
+    {
+        "input": "Krūtis koriģēt drīst tikai 5 - 6 mēnešus pēc bērna barošanas beigām , kad hormonālais līmenis [ļauj] audiem un dziedzeriem normāli reaģēt uz atveseļošanās procesu .",
+        "output": "Krūtis koriģēt drīst tikai 5 - 6 mēnešus pēc bērna barošanas beigām , kad hormonālais [līmenis | subject] ļauj [audiem | indirect_object] un dziedzeriem normāli reaģēt uz atveseļošanās procesu ."
+    },
+    {
+        "input": "Vaicāts , kas šajā biznesā ir aizraujošākais , dibinātājs Kaspars Ritums [saka] katru reizi cits klients un atšķirīgas vajadzības .",
+        "output": "Vaicāts , kas šajā biznesā ir aizraujošākais , dibinātājs [Kaspars | subject] Ritums saka katru reizi cits [klients | indirect_object] un atšķirīgas vajadzības ."
+    },
+    {
+        "input": "Transporta uzņēmumiem tas ir saistīts ar izmaksām , kas būtu jāiegulda , lai iegādātos jaunus autobusus , kas [darbojas] ar gāzi .",
+        "output": "Transporta uzņēmumiem tas ir saistīts ar izmaksām , kas būtu jāiegulda , lai iegādātos jaunus autobusus , [kas | subject] darbojas ar [gāzi | indirect_object] ."
+    },
+    {
+        "input": "Dons ar vilcienu no Maskavas [dosies] līdz pat Vladivostokai , tālāk mūziķa ceļš vedīs uz Deli un tad vilcienā vedīs uz Varanasi .",
+        "output": "[Dons | subject] ar [vilcienu | indirect_object] no Maskavas dosies līdz pat Vladivostokai , tālāk mūziķa ceļš vedīs uz Deli un tad vilcienā vedīs uz Varanasi ."
+    },
+    {
+        "input": "Vecumnieku novada Vecumniekos kādu 52 gadus vecu vīrieti apakšdelmā sakoda odze , savukārt tā paša novada Stelpes pagastā 74 gadus vecai kundzei mēlē [iekoda] lapsene .",
+        "output": "Vecumnieku novada Vecumniekos kādu 52 gadus vecu vīrieti apakšdelmā sakoda odze , savukārt tā paša novada Stelpes pagastā 74 gadus vecai [kundzei | indirect_object] mēlē iekoda [lapsene | subject] ."
+    },
+    {
+        "input": "Aptieku pārstāvji norādīja , ka kopumā pircēji ir informēti par eiro ieviešanu Latvijā un neviens nav [brīnījies] par to , ka latu maksājuma atlikumā tiek izdots eiro .",
+        "output": "Aptieku pārstāvji norādīja , ka kopumā pircēji ir informēti par eiro ieviešanu Latvijā un [neviens | subject] nav brīnījies par [to | indirect_object] , ka latu maksājuma atlikumā tiek izdots eiro ."
+    },
+    {
+        "input": "Patiesībā tas ļoti apbēdina , liek aizdomāties , ko tad īsti tādu daru , ka cilvēki par mani tā [domā] un pat publiski izsakās .",
+        "output": "Patiesībā tas ļoti apbēdina , liek aizdomāties , ko tad īsti tādu daru , ka [cilvēki | subject] par [mani | indirect_object] tā domā un pat publiski izsakās ."
+    },
+    {
+        "input": "Ziņkāre [jaucās] ar vieglu nepatiku pret visu apkārtējo un nelāgu nojausmu , ka varbūt šī te , ko redzu , ir tā īstā dzīve , ko gadiem esmu meklējusi nepareizās vietās .",
+        "output": "[Ziņkāre | subject] jaucās ar vieglu [nepatiku | indirect_object] pret visu apkārtējo un nelāgu nojausmu , ka varbūt šī te , ko redzu , ir tā īstā dzīve , ko gadiem esmu meklējusi nepareizās vietās ."
+    },
+    {
+        "input": "Līdz ar to , Roberts Štelmahers savā debijas spēlē [uzveica] savu bijušo komandu un ar pozitīvām emocijām iesāka savas gaitas \" Valmiera / ORDO \" galvenā trenera amatā .",
+        "output": "Līdz ar to , [Roberts | subject] Štelmahers savā debijas spēlē uzveica savu bijušo [komandu | indirect_object] un ar pozitīvām emocijām iesāka savas gaitas \" Valmiera / ORDO \" galvenā trenera amatā ."
+    },
+    {
+        "input": "Lai mēs [nekaitētu] paši sev , netērētu savu dārgo laiku un līdzekļus , būtu racionālāk , ja uz katru vizīti pie ārsta mēs būtu sagatavojuši jautājumus un neskaidrības .",
+        "output": "Lai [mēs | subject] nekaitētu paši [sev | indirect_object] , netērētu savu dārgo laiku un līdzekļus , būtu racionālāk , ja uz katru vizīti pie ārsta mēs būtu sagatavojuši jautājumus un neskaidrības ."
+    },
+    {
+        "input": "Viņu upuris [liek] mums liecināt taisnību , sargāt brīvību un stiprināt neatkarību , \" uzsvērusi prezidente Daļa Grībauskaite .",
+        "output": "Viņu [upuris | subject] liek [mums | indirect_object] liecināt taisnību , sargāt brīvību un stiprināt neatkarību , \" uzsvērusi prezidente Daļa Grībauskaite ."
+    },
+    {
+        "input": "Tomēr arī uz gados jaunajiem smēķētājiem [attiecas] smēķēšanas aizliegumi konkrētās vietās , tieši tad arī viņi tiekot sodīti .",
+        "output": "Tomēr arī uz gados jaunajiem [smēķētājiem | indirect_object] attiecas smēķēšanas [aizliegumi | subject] konkrētās vietās , tieši tad arī viņi tiekot sodīti ."
+    },
+    {
+        "input": "Raugoties no vēstures , sievietes ir bijušas tās , kas [rūpējas] par ģimeni , bērniem , par mājas pavardu , lai vīrietim , atgriežoties no medībām , būtu patīkami mājās .",
+        "output": "Raugoties no vēstures , sievietes ir bijušas tās , [kas | subject] rūpējas par [ģimeni | indirect_object] , bērniem , par mājas pavardu , lai vīrietim , atgriežoties no medībām , būtu patīkami mājās ."
+    },
+    {
+        "input": "Lielākais pārsteigums bija fotomākslinieka Nila Viļņa veidotā foto kaste ar īpašiem efektiem , kuri [lika] modeļiem apgriezties kājām gaisā viņiem pašiem to pat nemanot .",
+        "output": "Lielākais pārsteigums bija fotomākslinieka Nila Viļņa veidotā foto kaste ar īpašiem efektiem , [kuri | subject] lika [modeļiem | indirect_object] apgriezties kājām gaisā viņiem pašiem to pat nemanot ."
+    },
+    {
+        "input": "Braucu un tīksminājos par skaisto dabu , ūdens atspulgiem un lidojošajām zivīm , kas [sekoja] laivai , – kādu laiku tās lido , iekrīt ūdenī , tad paceļas un atkal palido .",
+        "output": "Braucu un tīksminājos par skaisto dabu , ūdens atspulgiem un lidojošajām zivīm , [kas | subject] sekoja [laivai | indirect_object] , – kādu laiku tās lido , iekrīt ūdenī , tad paceļas un atkal palido ."
+    },
+    {
+        "input": "Šīs vīns tiek ražots Francijas dienvidos , kur dominē saulains un silts klimats , kas [rada] labvēlīgus apstākļus Sauvignon Blanc vīnogu audzēšanai .",
+        "output": "Šīs vīns tiek ražots Francijas dienvidos , kur dominē saulains un silts klimats , [kas | subject] rada labvēlīgus [apstākļus | object] Sauvignon Blanc vīnogu [audzēšanai | indirect_object] ."
+    },
+    {
+        "input": "Jau apmeklējot « Golden globe » ceremoniju , zvaigznes vakaru pavadīja kopā , aktieris nemitīgi kaut ko [čukstēja] dziedātājai un glāstīja viņas muguru .",
+        "output": "Jau apmeklējot « Golden globe » ceremoniju , zvaigznes vakaru pavadīja kopā , [aktieris | subject] nemitīgi kaut [ko | object] čukstēja [dziedātājai | indirect_object] un glāstīja viņas muguru ."
+    },
+    {
+        "input": "Līdzīgas izjūtas pārņem ik reizi , kad atkal kāds [velta] labus vārdus manai pirmajai grāmatai „ Piedzīvojumi ” – staroju priekā un pateicībā !",
+        "output": "Līdzīgas izjūtas pārņem ik reizi , kad atkal [kāds | subject] velta labus [vārdus | object] manai pirmajai grāmatai „ [Piedzīvojumi | indirect_object] ” – staroju priekā un pateicībā !"
+    },
+    {
+        "input": "Ceirei Cion ( Cionas jaunatne ) bija kreisi noskaņoto cionistu partija , kas savos uzskatos [apvienoja] cionisma idejas ar demokrātiska sociālisma ideju .",
+        "output": "Ceirei Cion ( Cionas jaunatne ) bija kreisi noskaņoto cionistu partija , [kas | subject] savos uzskatos apvienoja cionisma [idejas | object] ar demokrātiska sociālisma [ideju | indirect_object] ."
+    },
+    {
+        "input": "5 ) zemes izmantotājs , atsavinot zemi , kas daļēji vai pilnībā atrodas degradētajā teritorijā , par to [informē] nekustamā īpašuma ieguvēju .",
+        "output": "5 ) zemes [izmantotājs | subject] , atsavinot zemi , kas daļēji vai pilnībā atrodas degradētajā teritorijā , par [to | indirect_object] informē nekustamā īpašuma [ieguvēju | object] ."
+    },
+    {
+        "input": "Vissvarīgākās lietas , ko zinātnieki [atklājuši] par atminu , centrējas ap faktu , ka mēs nenoglabājam atmiņas kā vienu veselumu noteiktā smadzeņu struktūrā .",
+        "output": "Vissvarīgākās lietas , [ko | object] [zinātnieki | subject] atklājuši par [atminu | indirect_object] , centrējas ap faktu , ka mēs nenoglabājam atmiņas kā vienu veselumu noteiktā smadzeņu struktūrā ."
+    },
+    {
+        "input": "Analīzei autore [izvēlējusies] Īriju , Nīderlandi un Zviedriju , ņemot vērā to valdību spēju pārvarēt ekonomiskās problēmas un attīstīt uzņēmējdarbības vidi .",
+        "output": "[Analīzei | indirect_object] [autore | subject] izvēlējusies [Īriju | object] , Nīderlandi un Zviedriju , ņemot vērā to valdību spēju pārvarēt ekonomiskās problēmas un attīstīt uzņēmējdarbības vidi ."
+    },
+    {
+        "input": "Un tieši tajā brīdī nez ko diedelēt ienāca kaimiņiene un pēc tam neparko negribēja atcerēties , vai punu starp acīm viņai [uzsitis] kurpes purngals vai papēdis .",
+        "output": "Un tieši tajā brīdī nez ko diedelēt ienāca kaimiņiene un pēc tam neparko negribēja atcerēties , vai [punu | object] starp acīm [viņai | indirect_object] uzsitis kurpes [purngals | subject] vai papēdis ."
+    },
+    {
+        "input": "Papildlaiku \" Valmiera / ORDO \" komandai rezultatīvi [iesāka] brāļi Šķēles , bet Blaua pustālais metiens panāca piecu punktu pārsvaru .",
+        "output": "[Papildlaiku | object] \" Valmiera / ORDO \" [komandai | indirect_object] rezultatīvi iesāka brāļi [Šķēles | subject] , bet Blaua pustālais metiens panāca piecu punktu pārsvaru ."
+    },
+    {
+        "input": "Tā kā tālāka ugunsdzēsēju glābēju palīdzība vairs nebija nepieciešama , ugunsdzēsēji glābēji izglābto zirgu [nodeva] veterinārārstam .",
+        "output": "Tā kā tālāka ugunsdzēsēju glābēju palīdzība vairs nebija nepieciešama , ugunsdzēsēji [glābēji | subject] izglābto [zirgu | object] nodeva [veterinārārstam | indirect_object] ."
+    },
+    {
+        "input": "Sanī vaigi jau bija gluži plankumaini sārti , lūpas kvēloja , un acis arī , un es [apliku] roku viņai ap vidukli , kurš bija tik trausls kā manai pusaudzei meitai .",
+        "output": "Sanī vaigi jau bija gluži plankumaini sārti , lūpas kvēloja , un acis arī , un [es | subject] apliku [roku | object] [viņai | indirect_object] ap vidukli , kurš bija tik trausls kā manai pusaudzei meitai ."
+    },
+    {
+        "input": "Nebija grūti iedomāties , ka viņa strādā netālajā tirgū un ienākusi ieņemt savu ikvakara mēriņu - maksu par pasūtījumu bārmenim viņa pirmīt bija [nobērusi] sīknaudā .",
+        "output": "Nebija grūti iedomāties , ka viņa strādā netālajā tirgū un ienākusi ieņemt savu ikvakara mēriņu - [maksu | object] par pasūtījumu [bārmenim | indirect_object] [viņa | subject] pirmīt bija nobērusi sīknaudā ."
+    },
+    {
+        "input": "Vizīti Strenčos Valsts prezidentam [atgādinās] simboliska dāvana - Agra Dzilnas fotogrāfija , kurā redzamas Strenču krāces Gaujā .",
+        "output": "[Vizīti | object] Strenčos Valsts [prezidentam | indirect_object] atgādinās simboliska [dāvana | subject] - Agra Dzilnas fotogrāfija , kurā redzamas Strenču krāces Gaujā ."
+    },
+    {
+        "input": "Apsēžoties sieviete [uzguldīja] krūtis galdam , smaidīja , bet tā drusku nicīgi _ , - es nojautu , ka viņi nesatiksies otrreiz .",
+        "output": "Apsēžoties [sieviete | subject] uzguldīja [krūtis | object] [galdam | indirect_object] , smaidīja , bet tā drusku nicīgi _ , - es nojautu , ka viņi nesatiksies otrreiz ."
+    },
+    {
+        "input": "Šādas nodarbības notiek divas reizes mēnesī un tām visus materiālus [sagādā] biedrības « Irlavas interešu klubiņš » dalībnieces , kuras arī palīdz darbošanos organizēt .",
+        "output": "Šādas nodarbības notiek divas reizes mēnesī un [tām | indirect_object] visus [materiālus | object] sagādā biedrības « Irlavas interešu klubiņš » [dalībnieces | subject] , kuras arī palīdz darbošanos organizēt ."
+    },
+    {
+        "input": "\" Ventspils \" punktus spēja gūt tikai Pitss un Mārtiņa Laksas drošā spēle [atnesa] uzvaru valmieriešiem ar rezultātu 87 : 83 .",
+        "output": "\" Ventspils \" punktus spēja gūt tikai Pitss un Mārtiņa Laksas drošā [spēle | subject] atnesa [uzvaru | object] [valmieriešiem | indirect_object] ar rezultātu 87 : 83 ."
+    },
+    {
+        "input": "Tāpat Kuks [vērš] uzmanību uz rakstniekiem , kurus ir samaitājušas Apgaismības idejas , kuri cionismam piešķir Apgaismības neprāta daļu , izraujot Toru no ebreju apziņas .",
+        "output": "Tāpat [Kuks | subject] vērš [uzmanību | object] uz [rakstniekiem | indirect_object] , kurus ir samaitājušas Apgaismības idejas , kuri cionismam piešķir Apgaismības neprāta daļu , izraujot Toru no ebreju apziņas ."
+    },
+    {
+        "input": "Tāpat Kuks vērš uzmanību uz rakstniekiem , kurus ir samaitājušas Apgaismības idejas , kuri cionismam [piešķir] Apgaismības neprāta daļu , izraujot Toru no ebreju apziņas .",
+        "output": "Tāpat Kuks vērš uzmanību uz rakstniekiem , kurus ir samaitājušas Apgaismības idejas , [kuri | subject] [cionismam | indirect_object] piešķir Apgaismības neprāta [daļu | object] , izraujot Toru no ebreju apziņas ."
+    },
+    {
+        "input": "Tad , kad vairums cionistu sāks pildīt baušļus un kļūs par reliģijas sekotājiem , tad cionisms Torai [nesīs] vienīgi labumu .",
+        "output": "Tad , kad vairums cionistu sāks pildīt baušļus un kļūs par reliģijas sekotājiem , tad [cionisms | subject] [Torai | indirect_object] nesīs vienīgi [labumu | object] ."
+    },
+    {
+        "input": "« Mans mērķis nav netīrās veļas mazgāšana , es tikai negribu , ka mani pazemo visi , kam tas ienāk prātā , » šādu komentāru Liene [sniedz] dzīves stila portālam « Sejas » .",
+        "output": "« Mans mērķis nav netīrās veļas mazgāšana , es tikai negribu , ka mani pazemo visi , kam tas ienāk prātā , » šādu [komentāru | object] [Liene | subject] sniedz dzīves stila portālam « [Sejas | indirect_object] » ."
+    },
+    {
+        "input": "Kad golferis ar nūju bumbiņu [raida] 200 metru attālumā , tad atvēziena brīdī pat visniecīgākā leņķa izmaiņa to var novirzīt ap desmit metru uz vienu vai otru pusi no mērķa .",
+        "output": "Kad [golferis | subject] ar [nūju | indirect_object] [bumbiņu | object] raida 200 metru attālumā , tad atvēziena brīdī pat visniecīgākā leņķa izmaiņa to var novirzīt ap desmit metru uz vienu vai otru pusi no mērķa ."
+    },
+    {
+        "input": "Viņas balss skanēja aizrautīgi , un bārmenis - jau bez uzaicinājuma - [ielēja] viņai vēl glāzi šampanieša , bet es ik pa brīdim piekrītoši māju ar galvu vai izbrīnā pacēlu uzacis .",
+        "output": "Viņas balss skanēja aizrautīgi , un [bārmenis | subject] - jau bez uzaicinājuma - ielēja [viņai | indirect_object] vēl [glāzi | object] šampanieša , bet es ik pa brīdim piekrītoši māju ar galvu vai izbrīnā pacēlu uzacis ."
+    },
+    {
+        "input": "Tā arī bija , mana blondā klasesbiedrene mani “ [nostučīja] ” skolotājai tad , kad veiksmīgi biju saņēmusi špikeri .",
+        "output": "Tā arī bija , mana blondā [klasesbiedrene | subject] [mani | object] “ nostučīja ” [skolotājai | indirect_object] tad , kad veiksmīgi biju saņēmusi špikeri ."
+    },
+    {
+        "input": "Pamazām acis sadala murgos ielauzušos gaismu svītrās , tad ķermeņos sadala , un es atpazīstu rudajā kamolā balsi , kura ar saviem slaidajiem pirkstiem [pluina] mana mēteļa apkakli .",
+        "output": "Pamazām acis sadala murgos ielauzušos gaismu svītrās , tad ķermeņos sadala , un es atpazīstu rudajā kamolā balsi , [kura | subject] ar saviem slaidajiem [pirkstiem | indirect_object] pluina mana mēteļa [apkakli | object] ."
+    },
+    {
+        "input": "Bet viņi neguva mācību un min tos pašus argumentus , kurus T. Hercls [dzirdēja] no saviem pretiniekiem , kurus Minhenes ebreji minēja , vēršoties pret Cionistu kongresa sasaukšanu .",
+        "output": "Bet viņi neguva mācību un min tos pašus argumentus , [kurus | object] [T. | subject] Hercls dzirdēja no saviem [pretiniekiem | indirect_object] , kurus Minhenes ebreji minēja , vēršoties pret Cionistu kongresa sasaukšanu ."
+    },
+    {
+        "input": "Vēršam uzmanību , ka seguma atjaunošanas būvdarbi notiek posmā no Bunčiem līdz Tīnūžiem ( 12. - 21. km ) autoceļā Ulbroka – Ogre ( P5 ) , kas [savieno] Rīgu ar Tīnūžu – Kokneses ceļu .",
+        "output": "Vēršam uzmanību , ka seguma atjaunošanas būvdarbi notiek posmā no Bunčiem līdz Tīnūžiem ( 12. - 21. km ) autoceļā Ulbroka – Ogre ( P5 ) , [kas | subject] savieno [Rīgu | object] ar Tīnūžu – Kokneses [ceļu | indirect_object] ."
+    },
+    {
+        "input": "Pēc lekcijas klātesošie [izteica] viņam pateicību un lūdz arī turpmāk darboties Latvijas ebreju interešu vārdā .",
+        "output": "Pēc lekcijas [klātesošie | subject] izteica [viņam | indirect_object] [pateicību | object] un lūdz arī turpmāk darboties Latvijas ebreju interešu vārdā ."
+    },
+    {
+        "input": "Protams , neviens Žanam Pjēram savu uzmanību [neveltīja] , bet cik ļoti tieši šorīt tā viņam bija vajadzīga .",
+        "output": "Protams , [neviens | subject] [Žanam | indirect_object] Pjēram savu [uzmanību | object] neveltīja , bet cik ļoti tieši šorīt tā viņam bija vajadzīga ."
+    },
+    {
+        "input": "“ Vajadzētu sodīt pārdevējus , kas [tirgo] tabakas izstrādājumus nepilngadīgajiem , taču nav neviena tik apzinīga smēķētāja , kas atzītos , kur dabūjis cigaretes , ” uzsver G. Teterovskis .",
+        "output": "“ Vajadzētu sodīt pārdevējus , [kas | subject] tirgo tabakas [izstrādājumus | object] [nepilngadīgajiem | indirect_object] , taču nav neviena tik apzinīga smēķētāja , kas atzītos , kur dabūjis cigaretes , ” uzsver G. Teterovskis ."
+    },
+    {
+        "input": "Ja bērns ilgstoši [neatrod] sev ne atbalstu , ne kādu , ar ko izrunāties , un nespēj atrisināt savas problēmas , nomāktība ievelkas un pārvēršas depresijā , kas jau var izvērsties īstā nelaimē .",
+        "output": "Ja [bērns | subject] ilgstoši neatrod [sev | indirect_object] ne [atbalstu | object] , ne kādu , ar ko izrunāties , un nespēj atrisināt savas problēmas , nomāktība ievelkas un pārvēršas depresijā , kas jau var izvērsties īstā nelaimē ."
+    },
+    {
+        "input": "Ziņkāres dzīts , apjautājos , vai Herr Kapitän zina , ar ko viņa mīļotā meita [pavadījusi] šo vakaru .",
+        "output": "Ziņkāres dzīts , apjautājos , vai Herr Kapitän zina , ar [ko | indirect_object] viņa mīļotā [meita | subject] pavadījusi šo [vakaru | object] ."
+    },
+    {
+        "input": "Lai arī sievietei mediķi palīdzību [sniedza] uz vietas un tūska pārgāja , cietusī nogādāta slimnīcā .",
+        "output": "Lai arī [sievietei | indirect_object] [mediķi | subject] [palīdzību | object] sniedza uz vietas un tūska pārgāja , cietusī nogādāta slimnīcā ."
+    },
+    {
+        "input": "Kādas priekšrocības iedzīvotājiem [sniedz] modernākas tehnoloģijas atkritumu savākšanā un pārstrādē ?",
+        "output": "Kādas [priekšrocības | object] [iedzīvotājiem | indirect_object] sniedz modernākas [tehnoloģijas | subject] atkritumu savākšanā un pārstrādē ?"
+    },
+    {
+        "input": "32. Pārvadātājam , kuram anulēta licence , Departaments [anulē] visas izsniegtās licences kartītes .",
+        "output": "32. [Pārvadātājam | indirect_object] , kuram anulēta licence , [Departaments | subject] anulē visas izsniegtās licences [kartītes | object] ."
+    },
+    {
+        "input": "Šķidrās ziepes rokām Kitchen satur dabīgu citruseļļu , kas [piešķir] produktam svaigu aromātu .",
+        "output": "Šķidrās ziepes rokām Kitchen satur dabīgu citruseļļu , [kas | subject] piešķir [produktam | indirect_object] svaigu [aromātu | object] ."
+    },
+    {
+        "input": "Milzīgs paldies jāsaka mūsu Tumes komandas faniem Dudko ģimenei , Elenai un Viktoram , Igoram Visockim – viņu nemitīgais atbalsts komandai [deva] jaunus spēkus un ticību uzvarai cīņā par čempiontitulu !",
+        "output": "Milzīgs paldies jāsaka mūsu Tumes komandas faniem Dudko ģimenei , Elenai un Viktoram , Igoram Visockim – viņu nemitīgais [atbalsts | subject] [komandai | indirect_object] deva jaunus [spēkus | object] un ticību uzvarai cīņā par čempiontitulu !"
+    },
+    {
+        "input": "Divdesmitajos gados maztilpuma rafinēšanas process , kas [izmaksāja] nepilnu tūkstoti dolāru par uzstādīšanu un aparatūru , izauga par kompāniju Standart Oil , kuras peļņa bija deviņdesmit miljoni dolāru .",
+        "output": "Divdesmitajos gados maztilpuma rafinēšanas process , [kas | subject] izmaksāja nepilnu [tūkstoti | object] dolāru par [uzstādīšanu | indirect_object] un aparatūru , izauga par kompāniju Standart Oil , kuras peļņa bija deviņdesmit miljoni dolāru ."
+    },
+    {
+        "input": "Sezonas labāko garšu apvienojums ar vakara uzdevumu vainagojās panākumos , jo tieši Svetlana ar brīnišķīgi pasniegto un garšā bagātīgo desertu [izpelnījās] simpātijas balvu no “ Četras Sezonas ” redakcijas .",
+        "output": "Sezonas labāko garšu apvienojums ar vakara uzdevumu vainagojās panākumos , jo tieši [Svetlana | subject] ar brīnišķīgi pasniegto un garšā bagātīgo [desertu | indirect_object] izpelnījās simpātijas [balvu | object] no “ Četras Sezonas ” redakcijas ."
+    },
+    {
+        "input": "Obligāti ir jāizveido centrs , lai būtu adrese , kur visas pasaules ebreji varētu vērsties nelaimes gadījumā , lai tauta zinātu , ka nav robežu , kas [nodala] ebreju no ebreja , ka mēs visi esam viena tauta .",
+        "output": "Obligāti ir jāizveido centrs , lai būtu adrese , kur visas pasaules ebreji varētu vērsties nelaimes gadījumā , lai tauta zinātu , ka nav robežu , [kas | subject] nodala [ebreju | object] no [ebreja | indirect_object] , ka mēs visi esam viena tauta ."
+    },
+    {
+        "input": "Bija iespēja nopirkt vēl 2000 dunamu un viņi [lūdza] palīdzību saviem Rīgas biedriem .",
+        "output": "Bija iespēja nopirkt vēl 2000 dunamu un [viņi | subject] lūdza [palīdzību | object] saviem Rīgas [biedriem | indirect_object] ."
+    },
+    {
+        "input": "Savos klejojumos viņi pat kopīgi [izraudzījušies] tēvam kapakmeni un atdusas vietu .",
+        "output": "Savos klejojumos [viņi | subject] pat kopīgi izraudzījušies [tēvam | indirect_object] [kapakmeni | object] un atdusas vietu ."
+    },
+    {
+        "input": "Mēs [sniedzām] atbalsta roku Agudai , asimilantiem un lielburžuāzijas pārstāvjiem .",
+        "output": "[Mēs | subject] sniedzām atbalsta [roku | object] [Agudai | indirect_object] , asimilantiem un lielburžuāzijas pārstāvjiem ."
+    },
+    {
+        "input": "Mēs tev dzīvokli [atsavināsim] , zemīti atņemsim , lasies uz ārzemēm , plikadīda !",
+        "output": "[Mēs | subject] [tev | indirect_object] [dzīvokli | object] atsavināsim , zemīti atņemsim , lasies uz ārzemēm , plikadīda !"
+    },
+    {
+        "input": "Slimība [izraisa] atkarīgajam psiholoģiskas un sociālas sekas , tāpēc vēlams ārstēšanās procesā iesaistīt ģimeni , kolēģus , multidisciplināru komandu : ārstus , psihologus , medicīnas māsas , sociālos darbiniekus .",
+        "output": "[Slimība | subject] izraisa [atkarīgajam | indirect_object] psiholoģiskas un sociālas [sekas | object] , tāpēc vēlams ārstēšanās procesā iesaistīt ģimeni , kolēģus , multidisciplināru komandu : ārstus , psihologus , medicīnas māsas , sociālos darbiniekus ."
+    },
+    {
+        "input": "Kūlas dedzināšana [nodara] kaitējumu dabai un bioloģiskajai daudzveidībai .",
+        "output": "Kūlas [dedzināšana | subject] nodara [kaitējumu | object] [dabai | indirect_object] un bioloģiskajai daudzveidībai ."
+    },
+    {
+        "input": "Jau ~ 2 gadus visā pasaulē ražotājs [dod] mūža garantiju savam produktam .",
+        "output": "Jau ~ 2 gadus visā pasaulē [ražotājs | subject] dod mūža [garantiju | object] savam [produktam | indirect_object] ."
+    },
+    {
+        "input": "Bērniem apģērbus tirgus lietoto preču būdās par savu naudu [pērk] sieva .",
+        "output": "[Bērniem | indirect_object] [apģērbus | object] tirgus lietoto preču būdās par savu [naudu | indirect_object] pērk [sieva | subject] ."
+    },
+    {
+        "input": "Man jau sen likās , ka es [zinu] par dzīvi visu , izņemot pašu galveno .",
+        "output": "Man jau sen likās , ka [es | subject] zinu par [dzīvi | indirect_object] [visu | object] , izņemot pašu galveno ."
+    },
+    {
+        "input": "Galvā šaudās domas un aizdomas , ka “ ārsti no manis kaut ko [slēpj] ” .",
+        "output": "Galvā šaudās domas un aizdomas , ka “ [ārsti | subject] no [manis | indirect_object] kaut [ko | object] slēpj ” ."
+    },
+    {
+        "input": "Savu uzrunu Rimšēvičs [noslēdza] ar vārdiem \" Dievs , svētī Latviju \" .",
+        "output": "Savu [uzrunu | object] [Rimšēvičs | subject] noslēdza ar vārdiem \" Dievs , [svētī | indirect_object] Latviju \" ."
+    }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "surface_word": "ለመበየን",
+    "surface_word_tag": "N",
+    "sub_words": "ለ<ADP> መ<N_PREF> በየን<N> ",
+    "lemma": "መበየን",
+    "stem": "መ-በየን<N>",
+    "root": "ብይን:B",
+    "deriv": "*DAT;*INF;*OBL;*TEDERAGI;PASS;SG",
+    "freq": 3,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ለመረገምም",
+    "surface_word_tag": "N",
+    "sub_words": "ለ<ADP> መ<N_PREF> ረገም<N> ም<ADV>",
+    "lemma": "መረገም",
+    "stem": "መ-ረገም<N>",
+    "root": "ርግም:A",
+    "deriv": "*DAT;*INF;*OBL;*TEDERAGI;PASS;SG",
+    "freq": 17,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "የመዋደጃ",
+    "surface_word_tag": "N",
+    "sub_words": "የ<ADP> መ<N_PREF> ዋደድ<N> ኢያ<N_SUFF> ",
+    "lemma": "መዋደጃ",
+    "stem": "መ-ዋደድ-ኢያ<N>",
+    "root": "ውድድ:A",
+    "deriv": "*TEDARAGI;GEN;SG",
+    "freq": 541,
+    "annotated": "ok"
+  }
+]

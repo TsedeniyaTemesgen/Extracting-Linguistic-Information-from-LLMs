@@ -1,0 +1,18 @@
+[
+    {
+        "input": "Na boisku jeden mężczyzna w sportowym stroju [trzyma] piłkę , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę .",
+        "output": "Na boisku jeden [mężczyzna | subject] w sportowym stroju trzyma [piłkę | object] , a drugi mężczyzna , ubrany w inne barwy , łapie go za nogę ."
+    },
+    {
+        "input": "Dziewczynka w niebieskim kostiumie [stoi] z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami .",
+        "output": "[Dziewczynka | subject] w niebieskim kostiumie stoi z hula-hoop na biodrach na tle czarnej ściany ozdobionej kolorowymi kształtami ."
+    },
+    {
+        "input": "Nie wiedząc jeszcze , że tego właśnie domagają się prawa natury , wiedziony przedziwną intuicją [zastąpił] rzecz relacją .",
+        "output": "Nie wiedząc jeszcze , że tego właśnie domagają się prawa natury , [wiedziony | subject] przedziwną intuicją zastąpił [rzecz | object] [relacją | indirect_object] ."
+    },
+    {
+        "input": "Sprawą [zainteresował] się referat I-szy i przez kontrolę korespondencji może uzyskamy dalsze miejsca zachowanych rzeczy .",
+        "output": "[Sprawą | indirect_object] zainteresował się [referat | subject] I-szy i przez kontrolę korespondencji może uzyskamy dalsze miejsca zachowanych rzeczy ."
+    }
+]

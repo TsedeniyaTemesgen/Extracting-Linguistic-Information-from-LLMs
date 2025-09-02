@@ -1,0 +1,82 @@
+[
+    {
+        "input": "In June and July of 1973 , he [accumulated] 56 points , enough to meet the minimum requirement for the 1973 - 1974 year .",
+        "output": "In June and July of 1973 , [he | subject] accumulated 56 [points | object] , enough to meet the minimum requirement for the 1973 - 1974 year ."
+    },
+    {
+        "input": "And were the Columbine killers [acting] out this \" real morality \" when they indescriminately murdered their classmates .",
+        "output": "And were the Columbine [killers | subject] acting out this \" real [morality | object] \" when they indescriminately murdered their classmates ."
+    },
+    {
+        "input": "And were the Columbine killers acting out this \" real morality \" when they indescriminately [murdered] their classmates .",
+        "output": "And were the Columbine killers acting out this \" real morality \" when [they | subject] indescriminately murdered their [classmates | object] ."
+    },
+    {
+        "input": "Above all , we [need] a total absolute unity and determination of the civilized world against all three circles of evil .",
+        "output": "Above all , [we | subject] need a total absolute [unity | object] and determination of the civilized world against all three circles of evil ."
+    },
+    {
+        "input": "KSM and Hambali [sent] al - Hindi ( al - Britani ) , along with Jafar the Pilot , to case NYC targets for a second wave .",
+        "output": "[KSM | subject] and Hambali sent [al | object] - Hindi ( al - Britani ) , along with Jafar the Pilot , to case NYC targets for a second wave ."
+    },
+    {
+        "input": "Response : Iraq is actually hostile territory for al - Qaeda , and without Iraqi sympathizers it cannot [succeed] there .",
+        "output": "Response : Iraq is actually hostile territory for al - Qaeda , and without Iraqi sympathizers [it | subject] cannot succeed there ."
+    },
+    {
+        "input": "Reports are [circulating] in the intelligence community that the Andaman Islands are not only thick with Myanmar rebels .",
+        "output": "[Reports | subject] are circulating in the intelligence community that the Andaman Islands are not only thick with Myanmar rebels ."
+    },
+    {
+        "input": "As the implications of the Andaman Islands situation [sink] in , Indian intelligence has inevitably come under scrutiny .",
+        "output": "As the [implications | subject] of the Andaman Islands situation sink in , Indian intelligence has inevitably come under scrutiny ."
+    },
+    {
+        "input": "As the implications of the Andaman Islands situation sink in , Indian intelligence has inevitably [come] under scrutiny .",
+        "output": "As the implications of the Andaman Islands situation sink in , Indian [intelligence | subject] has inevitably come under scrutiny ."
+    },
+    {
+        "input": "Some 200,000 guns the US [sent] to Iraqi security forces may have been smuggled to terrorists , it was feared yesterday .",
+        "output": "Some 200,000 guns the [US | subject] sent to Iraqi security forces may have been smuggled to terrorists , it was feared yesterday ."
+    },
+    {
+        "input": "We [informed] Tana that we made the change in Global Counterparty to include , \" a division of Cargill Incorporated \" .",
+        "output": "[We | subject] informed [Tana | indirect_object] that we made the change in Global Counterparty to include , \" a division of Cargill Incorporated \" ."
+    },
+    {
+        "input": "Kori [told] me she saw you last night at Steak Night and introduced herself since I failed to do so the last time we went .",
+        "output": "[Kori | subject] told [me | indirect_object] she saw you last night at Steak Night and introduced herself since I failed to do so the last time we went ."
+    },
+    {
+        "input": "They needed someone that could [convince] the jury they had been able to see all relevant documents in CIA files on Wilson .",
+        "output": "They needed someone [that | subject] could convince the [jury | indirect_object] they had been able to see all relevant documents in CIA files on Wilson ."
+    },
+    {
+        "input": "I had immense pain on a Sunday morning , with friends and family [telling] me that I would never find a Dentist on a Sunday .",
+        "output": "I had immense pain on a Sunday morning , with [friends | subject] and family telling [me | indirect_object] that I would never find a Dentist on a Sunday ."
+    },
+    {
+        "input": "I would [reccomend] anyone to go see Jana Kueck and Robin Talley to see all the many procedures they have to offer .",
+        "output": "[I | subject] would reccomend [anyone | indirect_object] to go see Jana Kueck and Robin Talley to see all the many procedures they have to offer ."
+    },
+    {
+        "input": "I am [sending] you some info that I have passed along regarding the effort to win the cash for the fund raising benefit .",
+        "output": "[I | subject] am sending [you | indirect_object] some [info | object] that I have passed along regarding the effort to win the cash for the fund raising benefit ."
+    },
+    {
+        "input": "Still if you can get your pet shop to do a hardness or TDS ( total Dissolved Solids ) test , that may [give] you a hint .",
+        "output": "Still if you can get your pet shop to do a hardness or TDS ( total Dissolved Solids ) test , [that | subject] may give [you | indirect_object] a [hint | object] ."
+    },
+    {
+        "input": "THEY WILL [GIVE] YOU A LOW PRICE OVER THE PHONE AND ON THE DAY OF YOUR MOVE THEY WILL CHANGE THE PRICE , I GUARANTEE IT .",
+        "output": "[THEY | subject] WILL GIVE [YOU | indirect_object] A LOW [PRICE | object] OVER THE PHONE AND ON THE DAY OF YOUR MOVE THEY WILL CHANGE THE PRICE , I GUARANTEE IT ."
+    },
+    {
+        "input": "I highly recommend the four - course tasting menu , which [gives] you plenty of range and food to satisfy your appetite .",
+        "output": "I highly recommend the four - course tasting menu , [which | subject] gives [you | indirect_object] [plenty | object] of range and food to satisfy your appetite ."
+    },
+    {
+        "input": "In my opinion , we should [show] CRRA a copy of the LOI with the assumption that the Development Agreement is attached .",
+        "output": "In my opinion , [we | subject] should show [CRRA | indirect_object] a [copy | object] of the LOI with the assumption that the Development Agreement is attached ."
+    }
+]

@@ -1,0 +1,506 @@
+[
+    {
+        "surface_word": "ተለማመኑት",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ለማመን<V> ኡ<PRON> ት<PRON>",
+        "lemma": "ተለማመነ",
+        "stem": "ተ-ለማመን<V>",
+        "root": "ልምን:B",
+        "deriv": "*TEDERARAGI;2;AC3SM;IMP;PL;RECP",
+        "freq": 4
+    },
+    {
+        "surface_word": "አጫርሶ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣ<V_PREF> ጫርስ<V> ኦ<PRON>",
+        "lemma": "አጫረሰ",
+        "stem": "ኣ-ጫርስ<V>",
+        "root": "ጭርስ:B",
+        "deriv": "*ADARAGI;3;CAUS;CVB;MASC;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "ካጎደለ",
+        "surface_word_tag": "V",
+        "sub_words": "ከ<ADP> ኣ<V_PREF> ጎደል<V> አ<PRON>",
+        "lemma": "አጐደለ",
+        "stem": "ኣ-ጎደል<V>",
+        "root": "ጉድል:A",
+        "deriv": "*ABL;*ADRAGI;*OBL;*RELC;3;CAUS;MASC;PFV;SG",
+        "freq": 7
+    },
+    {
+        "surface_word": "ባጠናቀረው",
+        "surface_word_tag": "V",
+        "sub_words": "በ<ADP> ኣ<V_PREF> ጠናቀር<V> አ<PRON> ው<PRON>",
+        "lemma": "አጠናቀረ",
+        "stem": "ኣ-ጠናቀር<V>",
+        "root": "ጥንቅር:F",
+        "deriv": "*ADRAGI;*INS;*OBL;*RELC;3;AC3SM;MASC;PFV;SG",
+        "freq": 4
+    },
+    {
+        "surface_word": "አክሱምኮ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣ<V_PREF> ክሳ<V> ኡ<PRON> ም<ADV> ኮ<ADV>",
+        "lemma": "አከሳ",
+        "stem": "ኣ-ክሳ<V>",
+        "root": "ክስእ:A",
+        "deriv": "*ADRAGI;2;CAUS;IMP;PL",
+        "freq": 1
+    },
+    {
+        "surface_word": "ተሰጣጡ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ሰጣጥ<V> ኡ<PRON>",
+        "lemma": "ተሰጣጠ",
+        "stem": "ተ-ሰጣጥ<V>",
+        "root": "ስጥይ:A",
+        "deriv": "*TEDERARAGI;2;IMP;PL;RECP",
+        "freq": 1,
+        "alternative_0": " ተ<V_PREF> ሰጣጠ<V> ኡ<PRON>",
+        "alternative_1": " ተ<V_PREF> ሰጣጣ<V> ኡ<PRON>"
+    },
+    {
+        "surface_word": "ተካበው",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ካብ<V> አው<PRON>",
+        "lemma": "ተካበ",
+        "stem": "ተ-ካብ<V>",
+        "root": "ክእብ:A",
+        "deriv": "*TEDERAGI;2;AC3SM;IMP;MASC;PASS;SG",
+        "freq": 1,
+        "alternative_0": " ተ<V_PREF> ካብ<V> አ<PRON> ው<PRON>"
+    },
+    {
+        "surface_word": "ታንጉት",
+        "surface_word_tag": "V",
+        "sub_words": "ት<PRON> ኣ<V_PREF> ንጉት<V> ",
+        "lemma": "አነጐተ",
+        "stem": "ኣ-ንጉት<V>",
+        "root": "ንጉት:A",
+        "deriv": "*ADRAGI;3;FEM;JUS;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "አርጋግቶ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣ<V_PREF> ርጋግት<V> ኦ<PRON>",
+        "lemma": "አርጋጋ",
+        "stem": "ኣ-ርጋግት<V>",
+        "root": "ርግእ:A",
+        "deriv": "*ADERARAGI;3;CAUS;CVB;MASC;SG",
+        "freq": 3
+    },
+    {
+        "surface_word": "የሚያስልገው",
+        "surface_word_tag": "V",
+        "sub_words": "የ<PART> ም<PART> ይ<PRON> ኣስ<V_PREF> ልግ<V> አው<PRON>",
+        "lemma": "አስላገ",
+        "stem": "ኣስ-ልግ<V>",
+        "root": "ልእግ:A",
+        "deriv": "*ASDERAGI;*RELC;3;AC3SM;CAUS;IPFV;MASC;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "እንዳበሳጨኝ",
+        "surface_word_tag": "V",
+        "sub_words": "እንደ<ADP> ኣ<V_PREF> በሳጨ<V> አ<PRON> ኝ<PRON>",
+        "lemma": "አበሳጨ",
+        "stem": "ኣ-በሳጨ<V>",
+        "root": "ብስጭይ:F",
+        "deriv": "*ADRAGI;*EQTV;*OBL;*RELC;3;AC1S;CAUS;MASC;PFV;SG",
+        "freq": 21
+    },
+    {
+        "surface_word": "አስጋለበኝ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣስ<V_PREF> ጋለብ<V> አ<PRON> ኝ<PRON>",
+        "lemma": "አስጋለበ",
+        "stem": "ኣስ-ጋለብ<V>",
+        "root": "ግልብ:C",
+        "deriv": "*ASDERAGI;*MAIN;3;AC1S;CAUS;MASC;PFV;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "ተስዬ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ስል<V> ኤ<PRON>",
+        "lemma": "ተሳለ",
+        "stem": "ተ-ስል<V>",
+        "root": "ስእል:A",
+        "deriv": "*TEDERAGI;1;CVB;PASS;SG",
+        "freq": 10
+    },
+    {
+        "surface_word": "ተቀቅላለች",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ቀቅል<V> ኣ<PRON> ኣለች<AUX>",
+        "lemma": "ተቀቀለ",
+        "stem": "ተ-ቀቅል<V>",
+        "root": "ቅቅል:B",
+        "deriv": "*MAIN;*TEDERAGI;3;FEM;PASS;PRF;SG",
+        "freq": 4
+    },
+    {
+        "surface_word": "ያጽዱ",
+        "surface_word_tag": "V",
+        "sub_words": "ይ<PRON> ኣ<V_PREF> ጽዳ<V> ኡ<PRON>",
+        "lemma": "አጸዳ",
+        "stem": "ኣ-ጽዳ<V>",
+        "root": "ፅድእ:A",
+        "deriv": "*ADRAGI;3;CAUS;JUS;PL",
+        "freq": 1
+    },
+    {
+        "surface_word": "አትሉኝ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣ<V_PREF> ትላ<V> ኡ<PRON> ኝ<PRON>",
+        "lemma": "አተላ",
+        "stem": "ኣ-ትላ<V>",
+        "root": "ትልእ:A",
+        "deriv": "*ADRAGI;2;AC1S;CAUS;IMP;PL",
+        "freq": 1
+    },
+    {
+        "surface_word": "አስወርጂ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣስ<V_PREF> ወርድ<V> ኢ<PRON>",
+        "lemma": "አስወረደ",
+        "stem": "ኣስ-ወርድ<V>",
+        "root": "ውርድ:A",
+        "deriv": "*ASDERAGI;2;CAUS;FEM;IMP;SG",
+        "freq": 3
+    },
+    {
+        "surface_word": "አስውበህ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣስ<V_PREF> ውብ<V> አህ<PRON>",
+        "lemma": "አስዋበ",
+        "stem": "ኣስ-ውብ<V>",
+        "root": "ውእብ:A",
+        "deriv": "*ASDERAGI;2;CAUS;CVB;MASC;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "ያካለለ",
+        "surface_word_tag": "V",
+        "sub_words": "የ<PART> ኣ<V_PREF> ካለል<V> አ<PRON>",
+        "lemma": "አካለለ",
+        "stem": "ኣ-ካለል<V>",
+        "root": "ክልል:B",
+        "deriv": "*ADARAGI;*RELC;3;CAUS;MASC;PFV;SG",
+        "freq": 5
+    },
+    {
+        "surface_word": "አመልክተናል",
+        "surface_word_tag": "V",
+        "sub_words": " ኣ<V_PREF> መልክት<V> አን<PRON> ኣል<AUX>",
+        "lemma": "አመለከተ",
+        "stem": "ኣ-መልክት<V>",
+        "root": "ምልክት:E",
+        "deriv": "*ADRAGI;*MAIN;1;CAUS;PL;PRF",
+        "freq": 749
+    },
+    {
+        "surface_word": "ተጨናገፈ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ጨናገፍ<V> አ<PRON>",
+        "lemma": "ተጨናገፈ",
+        "stem": "ተ-ጨናገፍ<V>",
+        "root": "ጭንግፍ:E",
+        "deriv": "*MAIN;*TEDARAGI;3;MASC;PFV;SG",
+        "freq": 2
+    },
+    {
+        "surface_word": "በሚያንጸባርቅ",
+        "surface_word_tag": "V",
+        "sub_words": "በ<ADP> ም<PART> ይ<PRON> ኣ<V_PREF> ንጸባርቅ<V> ",
+        "lemma": "አንጸባረቀ",
+        "stem": "ኣ-ንጸባርቅ<V>",
+        "root": "ንፅብርቅ:H",
+        "deriv": "*ADRAGI;*INS;*OBL;*RELC;3;CAUS;IPFV;MASC;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "ያዘናጉናል",
+        "surface_word_tag": "V",
+        "sub_words": "ይ<PRON> ኣ<V_PREF> ዘናጋ<V> ኡ<PRON> ን<PRON> ኣል<AUX>",
+        "lemma": "አዘናጋ",
+        "stem": "ኣ-ዘናጋ<V>",
+        "root": "ዝንግእ:E",
+        "deriv": "*ADARAGI;*MAIN;3;AC1P;CAUS;IPFV;PL",
+        "freq": 1
+    },
+    {
+        "surface_word": "አታብዙበት",
+        "surface_word_tag": "V",
+        "sub_words": "ኣ<ADV> ት<PRON> ኣ<V_PREF> ብዛ<V> ኡ<PRON> በት<PRON>",
+        "lemma": "አበዛ",
+        "stem": "ኣ-ብዛ<V>",
+        "root": "ብዝእ:A",
+        "deriv": "*ADRAGI;*MAL3SM;2;CAUS;IMP;NEG;PL",
+        "freq": 51
+    },
+    {
+        "surface_word": "ተንቀለቀለ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ንቀለቀል<V> አ<PRON>",
+        "lemma": "ተንቀለቀለ",
+        "stem": "ተ-ንቀለቀል<V>",
+        "root": "ንቅልቅል:G",
+        "deriv": "*MAIN;*TEDERAGI;3;MASC;PFV;SG",
+        "freq": 4
+    },
+    {
+        "surface_word": "ያስሸልላል",
+        "surface_word_tag": "V",
+        "sub_words": "ይ<PRON> ኣስ<V_PREF> ሸልል<V> ኣል<AUX>",
+        "lemma": "አሸለለ",
+        "stem": "ኣስ-ሸልል<V>",
+        "root": "ሽልል:B",
+        "deriv": "*ASDERAGI;*MAIN;3;CAUS;IPFV;MASC;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "ከሚያስመስሉ",
+        "surface_word_tag": "V",
+        "sub_words": "ከ<ADP> ም<PART> ይ<PRON> ኣስ<V_PREF> መስል<V> ኡ<PRON>",
+        "lemma": "አስመሰለ",
+        "stem": "ኣስ-መስል<V>",
+        "root": "ምስል:A",
+        "deriv": "*ABL;*ASDERAGI;*OBL;*RELC;3;CAUS;IPFV;PL",
+        "freq": 64
+    },
+    {
+        "surface_word": "ተዳዳሪ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ዳዳር<V> ኢ<PRON>",
+        "lemma": "ተዳዳረ",
+        "stem": "ተ-ዳዳር<V>",
+        "root": "ድእር:A",
+        "deriv": "*TEDERARAGI;2;FEM;IMP;RECP;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "አስክሬን",
+        "surface_word_tag": "V",
+        "sub_words": " ኣ<V_PREF> ስክር<V> ኤ<PRON> ን<PRON>",
+        "lemma": "አሰከረ",
+        "stem": "ኣ-ስክር<V>",
+        "root": "ስክር:A",
+        "deriv": "*ADRAGI;1;AC1P;CAUS;CVB;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "የተላከ",
+        "surface_word_tag": "V",
+        "sub_words": "የ<PART> ተ<V_PREF> ላክ<V> አ<PRON>",
+        "lemma": "ተላከ",
+        "stem": "ተ-ላክ<V>",
+        "root": "ልእክ:A",
+        "deriv": "*RELC;*TEDERAGI;3;MASC;PASS;PFV;SG",
+        "freq": 96
+    },
+    {
+        "surface_word": "እንደማርዳት",
+        "surface_word_tag": "V",
+        "sub_words": "እንደ<ADP> ም<PART> እ<PRON> ኣ<V_PREF> ርድ<V> ኣት<PRON>",
+        "lemma": "አራደ",
+        "stem": "ኣ-ርድ<V>",
+        "root": "ርእድ:A",
+        "deriv": "*ADRAGI;*EQTV;*OBL;*RELC;1;AC3SF;CAUS;IPFV;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "ካልታጠንን",
+        "surface_word_tag": "V",
+        "sub_words": "ከ<ADP> ኣል<ADV> ተ<V_PREF> ኣጠን<V> ን<PRON>",
+        "lemma": "ታጠነ",
+        "stem": "ተ-ኣጠን<V>",
+        "root": "እጥን:A",
+        "deriv": "*ABL;*OBL;*RELC;*TEDERAGI;1;NEG;PASS;PFV;PL",
+        "freq": 6
+    },
+    {
+        "surface_word": "አታቁሙ",
+        "surface_word_tag": "V",
+        "sub_words": "ኣ<ADV> ት<PRON> ኣ<V_PREF> ቁም<V> ኡ<PRON>",
+        "lemma": "አቈመ",
+        "stem": "ኣ-ቁም<V>",
+        "root": "ቅውም:A",
+        "deriv": "*ADRAGI;2;CAUS;IMP;NEG;PL",
+        "freq": 118
+    },
+    {
+        "surface_word": "አሸከመኝ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣስ<V_PREF> ሸከም<V> አ<PRON> ኝ<PRON>",
+        "lemma": "አሸከመ",
+        "stem": "ኣስ-ሸከም<V>",
+        "root": "ሽክም:B",
+        "deriv": "*ASDERAGI;*MAIN;3;AC1S;CAUS;MASC;PFV;SG",
+        "freq": 6
+    },
+    {
+        "surface_word": "ተራች",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ራታ<V> ኢ<PRON>",
+        "lemma": "ተራታ",
+        "stem": "ተ-ራታ<V>",
+        "root": "ርትእ:A",
+        "deriv": "*TEDARAGI;2;FEM;IMP;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "ተድራለች",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ድር<V> ኣ<PRON> ኣለች<AUX>",
+        "lemma": "ተዳረ",
+        "stem": "ተ-ድር<V>",
+        "root": "ድእር:A",
+        "deriv": "*MAIN;*TEDERAGI;3;FEM;PASS;PRF;SG",
+        "freq": 9
+    },
+    {
+        "surface_word": "ካልታሸገ",
+        "surface_word_tag": "V",
+        "sub_words": "ከ<ADP> ኣል<ADV> ተ<V_PREF> ኣሸግ<V> አ<PRON>",
+        "lemma": "ታሸገ",
+        "stem": "ተ-ኣሸግ<V>",
+        "root": "እሽግ:B",
+        "deriv": "*ABL;*OBL;*RELC;*TEDERAGI;3;MASC;NEG;PASS;PFV;SG",
+        "freq": 32
+    },
+    {
+        "surface_word": "ተገዙ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ገዛ<V> ኡ<PRON>",
+        "lemma": "ተገዛ",
+        "stem": "ተ-ገዛ<V>",
+        "root": "ግዝእ:A",
+        "deriv": "*TEDERAGI;2;IMP;PASS;PL",
+        "freq": 30
+    },
+    {
+        "surface_word": "አቀማጥላኛለች",
+        "surface_word_tag": "V",
+        "sub_words": " ኣ<V_PREF> ቀማጥል<V> ኣ<PRON> ኝ<PRON> ኣለች<AUX>",
+        "lemma": "አቀማጠለ",
+        "stem": "ኣ-ቀማጥል<V>",
+        "root": "ቅምጥል:F",
+        "deriv": "*ADRAGI;*MAIN;3;AC1S;CAUS;FEM;PRF;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "አያመነጩም",
+        "surface_word_tag": "V",
+        "sub_words": "ኣ<ADV> ይ<PRON> ኣ<V_PREF> መነጨ<V> ኡ<PRON> ም<ADV>",
+        "lemma": "አመነጨ",
+        "stem": "ኣ-መነጨ<V>",
+        "root": "ምንጭይ:E",
+        "deriv": "*ADRAGI;*MAIN;3;CAUS;IPFV;NEG;PL",
+        "freq": 35
+    },
+    {
+        "surface_word": "የተበጣጠሰ",
+        "surface_word_tag": "V",
+        "sub_words": "የ<PART> ተ<V_PREF> በጣጠስ<V> አ<PRON>",
+        "lemma": "ተበጣጠሰ",
+        "stem": "ተ-በጣጠስ<V>",
+        "root": "ብጥስ:B",
+        "deriv": "*RELC;*TEDERARAGI;3;MASC;PFV;RECP;SG",
+        "freq": 10
+    },
+    {
+        "surface_word": "የተፋጠነ",
+        "surface_word_tag": "V",
+        "sub_words": "የ<PART> ተ<V_PREF> ፋጠን<V> አ<PRON>",
+        "lemma": "ተፋጠነ",
+        "stem": "ተ-ፋጠን<V>",
+        "root": "ፍጥን:A",
+        "deriv": "*RELC;*TEDARAGI;3;MASC;PFV;SG",
+        "freq": 19
+    },
+    {
+        "surface_word": "የምናስጠናቸው",
+        "surface_word_tag": "V",
+        "sub_words": "የ<PART> ም<PART> እን<PRON> ኣስ<V_PREF> ጠና<V> ኣቸው<PRON>",
+        "lemma": "አስጠና",
+        "stem": "ኣስ-ጠና<V>",
+        "root": "ጥንእ:A",
+        "deriv": "*ASDERAGI;*RELC;1;AC3P;CAUS;IPFV;PL",
+        "freq": 16
+    },
+    {
+        "surface_word": "የሚያሳምመኝ",
+        "surface_word_tag": "V",
+        "sub_words": "የ<PART> ም<PART> ይ<PRON> ኣስ<V_PREF> ኣምም<V> አኝ<PRON>",
+        "lemma": "አሳመመ",
+        "stem": "ኣስ-ኣምም<V>",
+        "root": "እምም:A",
+        "deriv": "*ASDERAGI;*RELC;3;AC1S;CAUS;IPFV;MASC;SG",
+        "freq": 1,
+        "alternative_0": "የ<PART> ም<PART> ይ<PRON> ኣ<V_PREF> ሳምም<V> አኝ<PRON>"
+    },
+    {
+        "surface_word": "አመለካከቱ",
+        "surface_word_tag": "V",
+        "sub_words": " ኣ<V_PREF> መለካከት<V> ኡ<PRON>",
+        "lemma": "አመለካከተ",
+        "stem": "ኣ-መለካከት<V>",
+        "root": "ምልክት:E",
+        "deriv": "*ADERARAGI;*MAIN;3;CAUS;PFV;PL",
+        "freq": 1
+    },
+    {
+        "surface_word": "ተላቀሱ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ላቀስ<V> ኡ<PRON>",
+        "lemma": "ተላቀሰ",
+        "stem": "ተ-ላቀስ<V>",
+        "root": "ልቅስ:A",
+        "deriv": "*TEDARAGI;2;IMP;PL",
+        "freq": 3
+    },
+    {
+        "surface_word": "ካልታከመ",
+        "surface_word_tag": "V",
+        "sub_words": "ከ<ADP> ኣል<ADV> ተ<V_PREF> ኣከም<V> አ<PRON>",
+        "lemma": "ታከመ",
+        "stem": "ተ-ኣከም<V>",
+        "root": "እክም:B",
+        "deriv": "*ABL;*OBL;*RELC;*TEDERAGI;3;MASC;NEG;PASS;PFV;SG",
+        "freq": 27
+    },
+    {
+        "surface_word": "ተቸነከረ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> ቸነከር<V> አ<PRON>",
+        "lemma": "ተቸነከረ",
+        "stem": "ተ-ቸነከር<V>",
+        "root": "ችንክር:E",
+        "deriv": "*MAIN;*TEDERAGI;3;MASC;PASS;PFV;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "ተመርጎ",
+        "surface_word_tag": "V",
+        "sub_words": " ተ<V_PREF> መርግ<V> ኦ<PRON>",
+        "lemma": "ተመረገ",
+        "stem": "ተ-መርግ<V>",
+        "root": "ምርግ:A",
+        "deriv": "*TEDERAGI;3;CVB;MASC;PASS;SG",
+        "freq": 1
+    },
+    {
+        "surface_word": "እናፈናቅላቸው",
+        "surface_word_tag": "V",
+        "sub_words": "እን<PRON> ኣ<V_PREF> ፈናቅል<V> ኣቸው<PRON>",
+        "lemma": "አፈናቀለ",
+        "stem": "ኣ-ፈናቅል<V>",
+        "root": "ፍንቅል:E",
+        "deriv": "*ADARAGI;1;AC3P;CAUS;JUS;PL",
+        "freq": 11
+    }
+]

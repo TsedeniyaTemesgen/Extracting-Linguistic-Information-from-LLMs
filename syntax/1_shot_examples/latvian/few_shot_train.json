@@ -1,0 +1,18 @@
+[
+    {
+        "input": "Tunelī viņš [zaudējis] kontroli pār savu spēkratu , sportkārs ieslīdējis pretējā joslā un ar aizmugures riteni atsities pret betona konstrukciju .",
+        "output": "Tunelī [viņš | subject] zaudējis [kontroli | object] pār savu spēkratu , sportkārs ieslīdējis pretējā joslā un ar aizmugures riteni atsities pret betona konstrukciju ."
+    },
+    {
+        "input": "Viņa [lēkšoja] starp galdiņiem , pāri apstādījumiem , lejup pa akmens trepēm , saķērusi savas krūtis , pār kurām bija uzdrukāts \" DIARY OR DIE \" .",
+        "output": "[Viņa | subject] lēkšoja starp galdiņiem , pāri apstādījumiem , lejup pa akmens trepēm , saķērusi savas krūtis , pār kurām bija uzdrukāts \" DIARY OR DIE \" ."
+    },
+    {
+        "input": "Taču Ankara atteikusies izpildīt visas prasības , kuras Brisele [izvirzījusi] šāda lēmuma pieņemšanai , tostarp grozīt savu pretterorisma likumu .",
+        "output": "Taču Ankara atteikusies izpildīt visas prasības , [kuras | object] [Brisele | subject] izvirzījusi šāda lēmuma [pieņemšanai | indirect_object] , tostarp grozīt savu pretterorisma likumu ."
+    },
+    {
+        "input": "Es [tieku] galā ar saviem sapņiem un savu seju , pirms pamostas vīrs un bērni , no vannasistabas es iznāku gaiša , pat ja gaišums nav gluži īsts .",
+        "output": "[Es | subject] tieku galā ar saviem [sapņiem | indirect_object] un savu seju , pirms pamostas vīrs un bērni , no vannasistabas es iznāku gaiša , pat ja gaišums nav gluži īsts ."
+    }
+]

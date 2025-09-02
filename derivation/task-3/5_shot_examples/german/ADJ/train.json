@@ -1,0 +1,32 @@
+[
+  {
+    "surface_word": "anfängerhaft",
+    "sub_words": "an<VPART> fangen<V> er<NN_SUFF> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "berücksichtigbar",
+    "sub_words": "berücksichtigen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vielkammerig",
+    "sub_words": "viel<ADJ> Kammer<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kurzfasrig",
+    "sub_words": "kurz<ADJ> Faser<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vertraglos",
+    "sub_words": "Vertrag<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "input": "Il me [semble] bien plus logique que la Commission européenne , que M. Patten , remplisse ce rôle de dirigeant afin d' exécuter rapidement et efficacement le pacte de stabilité .",
+        "output": "Il [me | indirect_object] semble bien plus logique que la [Commission | subject] européenne , que M. Patten , remplisse ce rôle de dirigeant afin d' exécuter rapidement et efficacement le pacte de stabilité ."
+    },
+    {
+        "input": "Une hypocalcémie préexistante [doit] être traitée par des apports appropriés de calcium et de vitamine D avant l' instauration du traitement par Aclasta ( voir rubrique 4.3 ) .",
+        "output": "Une [hypocalcémie | subject] préexistante doit être traitée par des apports appropriés de calcium et de vitamine D avant l' instauration du traitement par Aclasta ( voir rubrique 4.3 ) ."
+    },
+    {
+        "input": "La Commission européenne a [délivré] une autorisation de mise sur le marché valide dans toute l' Union européenne pour Aclasta à Novartis Europharm Limited , le 15 avril 2005 .",
+        "output": "La [Commission | subject] européenne a délivré une [autorisation | object] de mise sur le marché valide dans toute l' Union européenne pour Aclasta à Novartis Europharm Limited , le 15 avril 2005 ."
+    },
+    {
+        "input": "Cette défense est assez intelligente , car c' est l' État français lui-même qui lui [fournit] son alibi , en assurant qu' il n' y a eu à aucun moment paiement d' une rançon .",
+        "output": "Cette défense est assez intelligente , car c' est l' État français lui-même [qui | subject] [lui | indirect_object] fournit son [alibi | object] , en assurant qu' il n' y a eu à aucun moment paiement d' une rançon ."
+    }
+]

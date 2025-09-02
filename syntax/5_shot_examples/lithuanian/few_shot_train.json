@@ -1,0 +1,74 @@
+[
+    {
+        "input": "Savarankiškas , nieko neribojamas valstybingumas [laikomas] absoliučia ir pirmąja vertybe , nepalyginti svarbesne už demokratiją , žmogiškumą ar sveiką protą .",
+        "output": "Savarankiškas , nieko neribojamas [valstybingumas | subject] laikomas absoliučia ir pirmąja [vertybe | indirect_object] , nepalyginti svarbesne už demokratiją , žmogiškumą ar sveiką protą ."
+    },
+    {
+        "input": "Strepsiadas – patriarchališkai doras žemdirbys , kurio sūnus , kaip paprastai būna , jau [pasidavė] naujoms madoms ir dėl to kelia tėvui nerimą .",
+        "output": "Strepsiadas – patriarchališkai doras žemdirbys , kurio [sūnus | subject] , kaip paprastai būna , jau pasidavė naujoms [madoms | indirect_object] ir dėl to kelia tėvui nerimą ."
+    },
+    {
+        "input": "Rašytoja Vanda Juknaitė šeštadienį Vytauto Didžiojo universitete Kaune [paskelbta] 2016-ųjų Tolerancijos žmogumi .",
+        "output": "Rašytoja [Vanda | subject] Juknaitė šeštadienį Vytauto Didžiojo universitete Kaune paskelbta 2016-ųjų Tolerancijos [žmogumi | indirect_object] ."
+    },
+    {
+        "input": "Stalino laikais sovietai mąstė ne tautinėmis , o klasinėmis , vėliau , po Stalino , grynai pragmatinėmis kategorijomis : jeigu tu [nesipriešinsi] mūsų valdžiai , tai nebūsi naikinamas ir galėsi daryti karjerą , vis vien kokiai tautai priklausai .",
+        "output": "Stalino laikais sovietai mąstė ne tautinėmis , o klasinėmis , vėliau , po Stalino , grynai pragmatinėmis kategorijomis : jeigu [tu | subject] nesipriešinsi mūsų [valdžiai | indirect_object] , tai nebūsi naikinamas ir galėsi daryti karjerą , vis vien kokiai tautai priklausai ."
+    },
+    {
+        "input": "Ši kasmetinė nominacija [skiriama] asmeniui , stojusiam prieš ksenofobijos bei antisemitizmo , kitaminčių , kitatikių bei kitataučių persekiojimą , pasisakiusiam prieš smurto , prievartos ir radikalizmo apraiškas visuomeniniame Lietuvos gyvenime .",
+        "output": "Ši kasmetinė [nominacija | subject] skiriama [asmeniui | indirect_object] , stojusiam prieš ksenofobijos bei antisemitizmo , kitaminčių , kitatikių bei kitataučių persekiojimą , pasisakiusiam prieš smurto , prievartos ir radikalizmo apraiškas visuomeniniame Lietuvos gyvenime ."
+    },
+    {
+        "input": "Šių dienų valstybės remia savo teisę egzistuoti ne protėvių žygdarbiais ir kančiomis , o tuo , kaip [funkcionuoja] jų ekonomika , teisė , administracija , savivalda .",
+        "output": "Šių dienų valstybės remia savo teisę egzistuoti ne protėvių žygdarbiais ir kančiomis , o tuo , kaip funkcionuoja jų [ekonomika | subject] , teisė , administracija , savivalda ."
+    },
+    {
+        "input": "Daugeliui tas „ eurokolaboravimas “ Iš esmės [nesiskiria] nuo kolaboravimo su sovietais , nebent yra dar blogesnis , nes tauta dabar nyksta greitesniu tempu .",
+        "output": "Daugeliui tas „ [eurokolaboravimas | subject] “ Iš esmės nesiskiria nuo kolaboravimo su sovietais , nebent yra dar blogesnis , nes tauta dabar nyksta greitesniu tempu ."
+    },
+    {
+        "input": "Daugeliui tas „ eurokolaboravimas “ Iš esmės nesiskiria nuo kolaboravimo su sovietais , nebent yra dar blogesnis , nes tauta dabar [nyksta] greitesniu tempu .",
+        "output": "Daugeliui tas „ eurokolaboravimas “ Iš esmės nesiskiria nuo kolaboravimo su sovietais , nebent yra dar blogesnis , nes [tauta | subject] dabar nyksta greitesniu tempu ."
+    },
+    {
+        "input": "Lietuvos valstybės interesas yra įsijungimas į globalinį ryšių tinklą – į kurį , beje , pamažu [įsijungia] ir mūsų tradiciniai priešininkai – o ne atsitvėrimas nuo jo .",
+        "output": "Lietuvos valstybės interesas yra įsijungimas į globalinį ryšių tinklą – į kurį , beje , pamažu įsijungia ir mūsų tradiciniai [priešininkai | subject] – o ne atsitvėrimas nuo jo ."
+    },
+    {
+        "input": "Bent penkiasdešimt metų , o gal ir ilgiau ( jei turėsime galvoje Smetonos autoritarizmo laikotarpį ) Lietuvoje [stigo] normalios , „ sokratiškos “ intelektualios terpės .",
+        "output": "Bent penkiasdešimt metų , o gal ir ilgiau ( jei turėsime galvoje Smetonos autoritarizmo laikotarpį ) Lietuvoje stigo normalios , „ sokratiškos “ intelektualios [terpės | subject] ."
+    },
+    {
+        "input": "Komedijos centre – sodietis Strepsiadas , šalia kurio namų [įsirengė] „ mąstyklą “ filosofas Sokratas ( tada jis dar buvo gyvas ir greičiausiai matė spektaklį ) .",
+        "output": "Komedijos centre – sodietis Strepsiadas , šalia kurio namų įsirengė „ [mąstyklą | object] “ filosofas [Sokratas | subject] ( tada jis dar buvo gyvas ir greičiausiai matė spektaklį ) ."
+    },
+    {
+        "input": "Be to , jis [domisi] ne tik Atika , ne tik savuoju demu , kaip Strepsiadas , bet ir kitais kraštais , netgi visata – taigi yra aiškus globalistas , kosmopolitas .",
+        "output": "Be to , [jis | subject] domisi ne tik [Atika | object] , ne tik savuoju demu , kaip Strepsiadas , bet ir kitais kraštais , netgi visata – taigi yra aiškus globalistas , kosmopolitas ."
+    },
+    {
+        "input": "Šių dienų valstybės [remia] savo teisę egzistuoti ne protėvių žygdarbiais ir kančiomis , o tuo , kaip funkcionuoja jų ekonomika , teisė , administracija , savivalda .",
+        "output": "Šių dienų [valstybės | subject] remia savo [teisę | object] egzistuoti ne protėvių žygdarbiais ir kančiomis , o tuo , kaip funkcionuoja jų ekonomika , teisė , administracija , savivalda ."
+    },
+    {
+        "input": "Iš viso kurti fetišą , stabą iš valstybės – nepriimtina praktika , nes ji [pažeidžia] pirmąjį Dievo įsakymą , privalomą ir krikščioniui , ir šiaip jau mąstančiam žmogui .",
+        "output": "Iš viso kurti fetišą , stabą iš valstybės – nepriimtina praktika , nes [ji | subject] pažeidžia pirmąjį Dievo [įsakymą | object] , privalomą ir krikščioniui , ir šiaip jau mąstančiam žmogui ."
+    },
+    {
+        "input": "Kad ir kokios būtų su tuo susijusios problemos , kad ir kiek jas bandytų išpūsti rasistai , nei viena Europos Sąjungos tauta [nerodo] nutautėjimo požymių .",
+        "output": "Kad ir kokios būtų su tuo susijusios problemos , kad ir kiek jas bandytų išpūsti rasistai , nei viena Europos Sąjungos [tauta | subject] nerodo nutautėjimo [požymių | object] ."
+    },
+    {
+        "input": "Mes irgi dažnai netikime , kad Lietuva gali išlikti laisvės sąlygomis , neturėdama ir pati [nesikurdama] sau priešų .",
+        "output": "Mes irgi dažnai netikime , kad Lietuva gali išlikti laisvės sąlygomis , neturėdama ir [pati | subject] nesikurdama [sau | indirect_object] [priešų | object] ."
+    },
+    {
+        "input": "Kitas dalykas – tavo mentalitetas ir moralė : juos mes [suksime] tokia linkme , kokia mums paranki .",
+        "output": "Kitas dalykas – tavo mentalitetas ir moralė : [juos | object] [mes | subject] suksime tokia [linkme | indirect_object] , kokia mums paranki ."
+    },
+    {
+        "input": "Seimas , apsijuokdamas prieš Europą , neretai keldamas jos pasibjaurėjimą , priiminėja įstatymus apie raides „ w “ draudimą pasuose ir apie draudimą platinti seksualinę informaciją , o asmenys , laikantys save laisvės kovotojais , [apmėto] akmenimis gėjų eitynes ( gink Dieve , ne nacių simpatikų eitynes ) .",
+        "output": "Seimas , apsijuokdamas prieš Europą , neretai keldamas jos pasibjaurėjimą , priiminėja įstatymus apie raides „ w “ draudimą pasuose ir apie draudimą platinti seksualinę informaciją , o [asmenys | subject] , laikantys save laisvės kovotojais , apmėto [akmenimis | indirect_object] gėjų [eitynes | object] ( gink Dieve , ne nacių simpatikų eitynes ) ."
+    }
+]

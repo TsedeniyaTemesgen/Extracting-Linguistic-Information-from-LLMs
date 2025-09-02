@@ -1,0 +1,36 @@
+[
+    {
+        "lemma": "bāls",
+        "surface_word": "bālgans",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "-gans",
+        "prefix": [],
+        "suffix": "-gans",
+        "alternative_0": "bāls<ADJ> gans<ADJ_SUFF>",
+        "sub_words": "bāls<ADJ> gans<ADJ_SUFF>"
+    },
+    {
+        "lemma": "simbolists",
+        "surface_word": "simbolistisks",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-isks",
+        "prefix": [],
+        "suffix": "-isks",
+        "alternative_0": "simbolists<N> isks<ADJ_SUFF>",
+        "alternative_1": "simbols<N> ists<N_SUFF> isks<ADJ_SUFF>",
+        "sub_words": "simbols<N> ists<N_SUFF> isks<ADJ_SUFF>"
+    },
+    {
+        "lemma": "arābs",
+        "surface_word": "arābisks",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-isks",
+        "prefix": [],
+        "suffix": "-isks",
+        "alternative_0": "arābs<N> isks<ADJ_SUFF>",
+        "sub_words": "arābs<N> isks<ADJ_SUFF>"
+    }
+]

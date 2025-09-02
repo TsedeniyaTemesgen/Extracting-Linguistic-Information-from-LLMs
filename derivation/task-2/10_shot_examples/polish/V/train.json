@@ -1,0 +1,123 @@
+[
+    {
+        "lemma": "mieliśmy",
+        "surface_word": "niemieliśmy",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "nie-",
+        "prefix": "nie-",
+        "suffix": [],
+        "alternative_0": "nie<PREF> mieliśmy<V>",
+        "sub_words": "nie<PREF> mieliśmy<V>"
+    },
+    {
+        "lemma": "biegać",
+        "surface_word": "wbiegać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "w-",
+        "prefix": "w-",
+        "suffix": [],
+        "alternative_0": "w<PREF> biegać<V>",
+        "alternative_1": "w<PREF> biec<V> ać<V_SUFF>",
+        "sub_words": "w<PREF> biec<V> ać<V_SUFF>"
+    },
+    {
+        "lemma": "maroda",
+        "surface_word": "marodować",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-ować",
+        "prefix": [],
+        "suffix": "-ować",
+        "alternative_0": "maroda<N> ować<V_SUFF>",
+        "sub_words": "maroda<N> ować<V_SUFF>"
+    },
+    {
+        "lemma": "dychać",
+        "surface_word": "oddychać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "od-",
+        "prefix": "od-",
+        "suffix": [],
+        "alternative_0": "od<PREF> dychać<V>",
+        "alternative_1": "od<PREF> dycha<N> ać<V_SUFF>",
+        "sub_words": "od<PREF> dycha<N> ać<V_SUFF>"
+    },
+    {
+        "lemma": "przepierdolić",
+        "surface_word": "przepierdalać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "-ać",
+        "prefix": [],
+        "suffix": "-ać",
+        "alternative_0": "przepierdolić<V> ać<V_SUFF>",
+        "alternative_1": "prze<PREF> pierdolić<V> ać<V_SUFF>",
+        "alternative_2": "prze<PREF> pierdoła<N> ić<V_SUFF> ać<V_SUFF>",
+        "alternative_3": "prze<PREF> pierdoły<N> a<N_SUFF> ić<V_SUFF> ać<V_SUFF>",
+        "sub_words": "prze<PREF> pierdoły<N> a<N_SUFF> ić<V_SUFF> ać<V_SUFF>"
+    },
+    {
+        "lemma": "rozróżnić",
+        "surface_word": "rozróżniać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "-ać",
+        "prefix": [],
+        "suffix": "-ać",
+        "alternative_0": "rozróżnić<V> ać<V_SUFF>",
+        "sub_words": "rozróżnić<V> ać<V_SUFF>"
+    },
+    {
+        "lemma": "istny",
+        "surface_word": "istnieć",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-eć",
+        "prefix": [],
+        "suffix": "-eć",
+        "alternative_0": "istny<ADJ> eć<V_SUFF>",
+        "sub_words": "istny<ADJ> eć<V_SUFF>"
+    },
+    {
+        "lemma": "krytykować",
+        "surface_word": "skrytykować",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "s-",
+        "prefix": "s-",
+        "suffix": [],
+        "alternative_0": "s<PREF> krytykować<V>",
+        "alternative_1": "s<PREF> krytyk<N> a<N_SUFF> ować<V_SUFF>",
+        "alternative_2": "s<PREF> krytyka<N> ować<V_SUFF>",
+        "sub_words": "s<PREF> krytyk<N> a<N_SUFF> ować<V_SUFF>"
+    },
+    {
+        "lemma": "chybić",
+        "surface_word": "chybiać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "-ać",
+        "prefix": [],
+        "suffix": "-ać",
+        "alternative_0": "chybić<V> ać<V_SUFF>",
+        "alternative_1": "chyba<N> ić<V_SUFF> ać<V_SUFF>",
+        "sub_words": "chyba<N> ić<V_SUFF> ać<V_SUFF>"
+    },
+    {
+        "lemma": "smucić",
+        "surface_word": "zasmucić",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "za-",
+        "prefix": "za-",
+        "suffix": [],
+        "alternative_0": "za<PREF> smucić<V>",
+        "alternative_1": "za<PREF> s<PREF> męt<N> ny<ADJ_SUFF> ić<V_SUFF>",
+        "alternative_2": "za<PREF> smutek<N> ny<ADJ_SUFF> ić<V_SUFF>",
+        "alternative_3": "za<PREF> smutny<ADJ> ić<V_SUFF>",
+        "sub_words": "za<PREF> s<PREF> męt<N> ny<ADJ_SUFF> ić<V_SUFF>"
+    }
+]

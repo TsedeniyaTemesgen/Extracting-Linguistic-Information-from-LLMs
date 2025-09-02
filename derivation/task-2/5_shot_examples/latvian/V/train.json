@@ -1,0 +1,60 @@
+[
+    {
+        "lemma": "barot",
+        "surface_word": "nobarot",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "no-",
+        "prefix": "no-",
+        "suffix": [],
+        "alternative_0": "no<PREF> barot<V>",
+        "sub_words": "no<PREF> barot<V>"
+    },
+    {
+        "lemma": "turpināt",
+        "surface_word": "paturpināt",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "pa-",
+        "prefix": "pa-",
+        "suffix": [],
+        "alternative_0": "pa<PREF> turpināt<V>",
+        "alternative_1": "pa<PREF> turp<ADV> ināt<V_SUFF>",
+        "sub_words": "pa<PREF> turp<ADV> ināt<V_SUFF>"
+    },
+    {
+        "lemma": "bagāts",
+        "surface_word": "bagātināt",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-ināt",
+        "prefix": [],
+        "suffix": "-ināt",
+        "alternative_0": "bagāts<ADJ> ināt<V_SUFF>",
+        "sub_words": "bagāts<ADJ> ināt<V_SUFF>"
+    },
+    {
+        "lemma": "cepināt",
+        "surface_word": "nocepināt",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "no-",
+        "prefix": "no-",
+        "suffix": [],
+        "alternative_0": "no<PREF> cepināt<V>",
+        "alternative_1": "no<PREF> cept<V> ināt<V_SUFF>",
+        "sub_words": "no<PREF> cept<V> ināt<V_SUFF>"
+    },
+    {
+        "lemma": "seksuāls",
+        "surface_word": "seksualizēt",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-izēt",
+        "prefix": [],
+        "suffix": "-izēt",
+        "alternative_0": "seksuāls<ADJ> izēt<V_SUFF>",
+        "alternative_1": "sekss<N> āls<ADJ_SUFF> izēt<V_SUFF>",
+        "sub_words": "sekss<N> āls<ADJ_SUFF> izēt<V_SUFF>"
+    }
+]

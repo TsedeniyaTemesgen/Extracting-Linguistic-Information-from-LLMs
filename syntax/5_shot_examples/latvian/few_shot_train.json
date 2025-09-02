@@ -1,0 +1,82 @@
+[
+    {
+        "input": "Tunelī viņš [zaudējis] kontroli pār savu spēkratu , sportkārs ieslīdējis pretējā joslā un ar aizmugures riteni atsities pret betona konstrukciju .",
+        "output": "Tunelī [viņš | subject] zaudējis [kontroli | object] pār savu spēkratu , sportkārs ieslīdējis pretējā joslā un ar aizmugures riteni atsities pret betona konstrukciju ."
+    },
+    {
+        "input": "\" Tas , vai kādā no vasaras mēnešiem būs deflācija , [noteiks] to , vai būs nepieciešamība mainīt mūsu inflācijas prognozes , \" saka L. Strašūna .",
+        "output": "\" [Tas | subject] , vai kādā no vasaras mēnešiem būs deflācija , noteiks [to | object] , vai būs nepieciešamība mainīt mūsu inflācijas prognozes , \" saka L. Strašūna ."
+    },
+    {
+        "input": "Nākamajā sēdē , kas notiks 6. oktobrī , tiesa [uzklausīs] apsūdzības uzturētāja pieteiktos lieciniekus , jo viņi šodien uz tiesu nebija aicināti .",
+        "output": "Nākamajā sēdē , kas notiks 6. oktobrī , [tiesa | subject] uzklausīs apsūdzības uzturētāja pieteiktos [lieciniekus | object] , jo viņi šodien uz tiesu nebija aicināti ."
+    },
+    {
+        "input": "Taču atliekot sabiedrības drošības aspektu , es vēlos koncentrēties uz svarīgāko - ko īsti mums visiem [nozīmē] šis neprātīgais preses rituāls . »",
+        "output": "Taču atliekot sabiedrības drošības aspektu , es vēlos koncentrēties uz svarīgāko - [ko | object] īsti mums visiem nozīmē šis neprātīgais preses [rituāls | subject] . »"
+    },
+    {
+        "input": "Ja cēloņi saistās ar fundamentālām problēmām – piemēram , nevienlīdzību – tad katalizatori ir tādi notikumi , kas [provocē] konflikta eskalāciju .",
+        "output": "Ja cēloņi saistās ar fundamentālām problēmām – piemēram , nevienlīdzību – tad katalizatori ir tādi notikumi , [kas | subject] provocē konflikta [eskalāciju | object] ."
+    },
+    {
+        "input": "Viņa [lēkšoja] starp galdiņiem , pāri apstādījumiem , lejup pa akmens trepēm , saķērusi savas krūtis , pār kurām bija uzdrukāts \" DIARY OR DIE \" .",
+        "output": "[Viņa | subject] lēkšoja starp galdiņiem , pāri apstādījumiem , lejup pa akmens trepēm , saķērusi savas krūtis , pār kurām bija uzdrukāts \" DIARY OR DIE \" ."
+    },
+    {
+        "input": "Mamma gan aizdomīgi [saausījās] , kad pajautāju , kas ir homoseksuālisti – jo grāmatā bija rakstīts , ka Dveina Hūvera dēls esot homoseksuālists .",
+        "output": "[Mamma | subject] gan aizdomīgi saausījās , kad pajautāju , kas ir homoseksuālisti – jo grāmatā bija rakstīts , ka Dveina Hūvera dēls esot homoseksuālists ."
+    },
+    {
+        "input": "Otrkārt , Jurelis ļoti [bēdājās] , ka , ja Inesīte būs aktrise , viņam nebūs , ar ko kopā iet uz teātri , jo Inesītei taču būs jābūt uz skatuves .",
+        "output": "Otrkārt , [Jurelis | subject] ļoti bēdājās , ka , ja Inesīte būs aktrise , viņam nebūs , ar ko kopā iet uz teātri , jo Inesītei taču būs jābūt uz skatuves ."
+    },
+    {
+        "input": "Otrkārt , Jurelis ļoti bēdājās , ka , ja Inesīte būs aktrise , viņam nebūs , ar ko kopā iet uz teātri , jo Inesītei taču būs [jābūt] uz skatuves .",
+        "output": "Otrkārt , Jurelis ļoti bēdājās , ka , ja Inesīte būs aktrise , viņam nebūs , ar ko kopā iet uz teātri , jo [Inesītei | subject] taču būs jābūt uz skatuves ."
+    },
+    {
+        "input": "Es tieku galā ar saviem sapņiem un savu seju , pirms [pamostas] vīrs un bērni , no vannasistabas es iznāku gaiša , pat ja gaišums nav gluži īsts .",
+        "output": "Es tieku galā ar saviem sapņiem un savu seju , pirms pamostas [vīrs | subject] un bērni , no vannasistabas es iznāku gaiša , pat ja gaišums nav gluži īsts ."
+    },
+    {
+        "input": "Taču Ankara atteikusies izpildīt visas prasības , kuras Brisele [izvirzījusi] šāda lēmuma pieņemšanai , tostarp grozīt savu pretterorisma likumu .",
+        "output": "Taču Ankara atteikusies izpildīt visas prasības , [kuras | object] [Brisele | subject] izvirzījusi šāda lēmuma [pieņemšanai | indirect_object] , tostarp grozīt savu pretterorisma likumu ."
+    },
+    {
+        "input": "Padomājiet , kam jūsu bērns [dod] priekšroku ( te nav runa par suņiem vai kaķiem , zilu vai sarkanu krekliņu , bet par nopietnākiem jautājumiem ) .",
+        "output": "Padomājiet , [kam | indirect_object] jūsu [bērns | subject] dod [priekšroku | object] ( te nav runa par suņiem vai kaķiem , zilu vai sarkanu krekliņu , bet par nopietnākiem jautājumiem ) ."
+    },
+    {
+        "input": "Studiju laikā , pusdienojot ēdnīcā , negaidīti apjautu , ka man grūtības [sagādā] dakšiņas turēšana kreisajā rokā , jo tā gluži vienkārši drebēja .",
+        "output": "Studiju laikā , pusdienojot ēdnīcā , negaidīti apjautu , ka [man | indirect_object] [grūtības | object] sagādā dakšiņas [turēšana | subject] kreisajā rokā , jo tā gluži vienkārši drebēja ."
+    },
+    {
+        "input": "Augstākās izglītības padomes priekšsēdētājs klātesošos [iepazīstināja] ar četrām pozīcijām , uz kuru rēķina būtu iespējams līdzekļu ietaupījums .",
+        "output": "Augstākās izglītības padomes [priekšsēdētājs | subject] [klātesošos | object] iepazīstināja ar četrām [pozīcijām | indirect_object] , uz kuru rēķina būtu iespējams līdzekļu ietaupījums ."
+    },
+    {
+        "input": "Taču , kā paskaidroja domes jurists , šis fakts cilvēku nebūt [neatbrīvo] no atbildības , jo tas tiek kvalificēts kā nolaidīga dokumenta glabāšana .",
+        "output": "Taču , kā paskaidroja domes jurists , šis [fakts | subject] [cilvēku | object] nebūt neatbrīvo no [atbildības | indirect_object] , jo tas tiek kvalificēts kā nolaidīga dokumenta glabāšana ."
+    },
+    {
+        "input": "Es [tieku] galā ar saviem sapņiem un savu seju , pirms pamostas vīrs un bērni , no vannasistabas es iznāku gaiša , pat ja gaišums nav gluži īsts .",
+        "output": "[Es | subject] tieku galā ar saviem [sapņiem | indirect_object] un savu seju , pirms pamostas vīrs un bērni , no vannasistabas es iznāku gaiša , pat ja gaišums nav gluži īsts ."
+    },
+    {
+        "input": "Retajos brīžos viņš [izraujas] no sintētiskās vides un atskārš , cik nejēdzīga ir kļuvusi reālā , jo robeža starp divām pasaulēm nupat izgaisusi .",
+        "output": "Retajos brīžos [viņš | subject] izraujas no sintētiskās [vides | indirect_object] un atskārš , cik nejēdzīga ir kļuvusi reālā , jo robeža starp divām pasaulēm nupat izgaisusi ."
+    },
+    {
+        "input": "Viņš arī atklāja , ka aptuveni 100 kaujinieki piektdien [uzbrukuši] Ukrainas armijas spēku pozīcijām netālu no Horļivkas , bet atspiesti atpakaļ .",
+        "output": "Viņš arī atklāja , ka aptuveni 100 [kaujinieki | subject] piektdien uzbrukuši Ukrainas armijas spēku [pozīcijām | indirect_object] netālu no Horļivkas , bet atspiesti atpakaļ ."
+    },
+    {
+        "input": "Aktrise intervijā atzinusi , ka reiz viņai pat piedāvāts izņemt pāris ribas , lai viņas augums vairāk [atbilstu] Holivudas skaistuma standartiem .",
+        "output": "Aktrise intervijā atzinusi , ka reiz viņai pat piedāvāts izņemt pāris ribas , lai viņas [augums | subject] vairāk atbilstu Holivudas skaistuma [standartiem | indirect_object] ."
+    },
+    {
+        "input": "Viņi pārāk daudz laika [velta] nenozīmīgām detaļām nevis tādēļ , ka pietrūktu intelekta nozīmīgiem darbiem , bet tādēļ , ka baidās no neveiksmes .",
+        "output": "[Viņi | subject] pārāk daudz [laika | indirect_object] velta nenozīmīgām [detaļām | indirect_object] nevis tādēļ , ka pietrūktu intelekta nozīmīgiem darbiem , bet tādēļ , ka baidās no neveiksmes ."
+    }
+]

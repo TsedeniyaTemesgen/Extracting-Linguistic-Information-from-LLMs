@@ -1,0 +1,18 @@
+[
+    {
+        "input": "In June and July of 1973 , he [accumulated] 56 points , enough to meet the minimum requirement for the 1973 - 1974 year .",
+        "output": "In June and July of 1973 , [he | subject] accumulated 56 [points | object] , enough to meet the minimum requirement for the 1973 - 1974 year ."
+    },
+    {
+        "input": "Response : Iraq is actually hostile territory for al - Qaeda , and without Iraqi sympathizers it cannot [succeed] there .",
+        "output": "Response : Iraq is actually hostile territory for al - Qaeda , and without Iraqi sympathizers [it | subject] cannot succeed there ."
+    },
+    {
+        "input": "We [informed] Tana that we made the change in Global Counterparty to include , \" a division of Cargill Incorporated \" .",
+        "output": "[We | subject] informed [Tana | indirect_object] that we made the change in Global Counterparty to include , \" a division of Cargill Incorporated \" ."
+    },
+    {
+        "input": "I am [sending] you some info that I have passed along regarding the effort to win the cash for the fund raising benefit .",
+        "output": "[I | subject] am sending [you | indirect_object] some [info | object] that I have passed along regarding the effort to win the cash for the fund raising benefit ."
+    }
+]

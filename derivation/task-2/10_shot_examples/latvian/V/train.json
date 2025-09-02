@@ -1,0 +1,106 @@
+[
+    {
+        "lemma": "barot",
+        "surface_word": "nobarot",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "no-",
+        "prefix": "no-",
+        "suffix": [],
+        "alternative_0": "no<PREF> barot<V>",
+        "sub_words": "no<PREF> barot<V>"
+    },
+    {
+        "lemma": "turpināt",
+        "surface_word": "paturpināt",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "pa-",
+        "prefix": "pa-",
+        "suffix": [],
+        "alternative_0": "pa<PREF> turpināt<V>",
+        "alternative_1": "pa<PREF> turp<ADV> ināt<V_SUFF>",
+        "sub_words": "pa<PREF> turp<ADV> ināt<V_SUFF>"
+    },
+    {
+        "lemma": "bagāts",
+        "surface_word": "bagātināt",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-ināt",
+        "prefix": [],
+        "suffix": "-ināt",
+        "alternative_0": "bagāts<ADJ> ināt<V_SUFF>",
+        "sub_words": "bagāts<ADJ> ināt<V_SUFF>"
+    },
+    {
+        "lemma": "cepināt",
+        "surface_word": "nocepināt",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "no-",
+        "prefix": "no-",
+        "suffix": [],
+        "alternative_0": "no<PREF> cepināt<V>",
+        "alternative_1": "no<PREF> cept<V> ināt<V_SUFF>",
+        "sub_words": "no<PREF> cept<V> ināt<V_SUFF>"
+    },
+    {
+        "lemma": "seksuāls",
+        "surface_word": "seksualizēt",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-izēt",
+        "prefix": [],
+        "suffix": "-izēt",
+        "alternative_0": "seksuāls<ADJ> izēt<V_SUFF>",
+        "alternative_1": "sekss<N> āls<ADJ_SUFF> izēt<V_SUFF>",
+        "sub_words": "sekss<N> āls<ADJ_SUFF> izēt<V_SUFF>"
+    },
+    {
+        "lemma": "dzīvot",
+        "surface_word": "apdzīvot",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "ap-",
+        "prefix": "ap-",
+        "suffix": [],
+        "alternative_0": "ap<PREF> dzīvot<V>",
+        "alternative_1": "ap<PREF> dzīvs<ADJ> ot<V_SUFF>",
+        "sub_words": "ap<PREF> dzīvs<ADJ> ot<V_SUFF>"
+    },
+    {
+        "lemma": "dievs",
+        "surface_word": "dievināt",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-ināt",
+        "prefix": [],
+        "suffix": "-ināt",
+        "alternative_0": "dievs<N> ināt<V_SUFF>",
+        "sub_words": "dievs<N> ināt<V_SUFF>"
+    },
+    {
+        "lemma": "augt",
+        "surface_word": "audzināt",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "-ināt",
+        "prefix": [],
+        "suffix": "-ināt",
+        "alternative_0": "augt<V> ināt<V_SUFF>",
+        "sub_words": "augt<V> ināt<V_SUFF>"
+    },
+    {
+        "lemma": "aktivizēt",
+        "surface_word": "deaktivizēt",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "de-",
+        "prefix": "de-",
+        "suffix": [],
+        "alternative_0": "de<PREF> aktivizēt<V>",
+        "alternative_1": "de<PREF> aktīvs<N> izēt<V_SUFF>",
+        "sub_words": "de<PREF> aktīvs<N> izēt<V_SUFF>"
+    }
+]

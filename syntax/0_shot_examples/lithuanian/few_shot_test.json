@@ -1,0 +1,226 @@
+[
+    {
+        "input": "Rusija , panaši į Kemalio Turkiją , [atitiktų] mūsų interesus , nors ne mūsų amžinai konfrontuojančių ir nieko kito nemokančių politikų interesus .",
+        "output": "[Rusija | subject] , panaši į Kemalio Turkiją , atitiktų mūsų [interesus | object] , nors ne mūsų amžinai konfrontuojančių ir nieko kito nemokančių politikų interesus ."
+    },
+    {
+        "input": "Vis dėlto Rusijos narai ne tik [ištraukė] tik kiek aplamdytą savirašį MARS BM prietaisą , bet ir atidarę apsauginę kapsulę viduje rado nepažeistą magnetofoną .",
+        "output": "Vis dėlto Rusijos [narai | subject] ne tik ištraukė tik kiek aplamdytą savirašį MARS BM [prietaisą | object] , bet ir atidarę apsauginę kapsulę viduje rado nepažeistą magnetofoną ."
+    },
+    {
+        "input": "Į tai , galimas daiktas , bus pasakyta : „ Jūs [reikalaujate] tolerancijos , bet jūs netolerantiški mums , tikriesiems Lietuvos patriotams “ .",
+        "output": "Į tai , galimas daiktas , bus pasakyta : „ [Jūs | subject] reikalaujate [tolerancijos | object] , bet jūs netolerantiški mums , tikriesiems Lietuvos patriotams “ ."
+    },
+    {
+        "input": "Ir nors pilotų kabinos įrašuose , anot jų klausiusių ekspertų , gausu pašalinio triukšmo , jis [įprastas] triukšmingam Tu-154 , kuris negarsėja puikia izoliacija .",
+        "output": "Ir nors pilotų kabinos įrašuose , anot jų klausiusių ekspertų , gausu pašalinio triukšmo , [jis | subject] įprastas triukšmingam [Tu-154 | object] , kuris negarsėja puikia izoliacija ."
+    },
+    {
+        "input": "Ir nors pilotų kabinos įrašuose , anot jų klausiusių ekspertų , gausu pašalinio triukšmo , jis įprastas triukšmingam Tu-154 , kuris [negarsėja] puikia izoliacija .",
+        "output": "Ir nors pilotų kabinos įrašuose , anot jų klausiusių ekspertų , gausu pašalinio triukšmo , jis įprastas triukšmingam Tu-154 , [kuris | subject] negarsėja puikia [izoliacija | object] ."
+    },
+    {
+        "input": "Anot kito gamykloje dirbusio lietuvio , Romualdo Beniušio , vėliau pradėti gaminti ir magnetofonai prietaisams MARS BM , kuriuos kruopščiai [tikrindavo] saugumiečiai .",
+        "output": "Anot kito gamykloje dirbusio lietuvio , Romualdo Beniušio , vėliau pradėti gaminti ir magnetofonai prietaisams MARS BM , [kuriuos | object] kruopščiai tikrindavo [saugumiečiai | subject] ."
+    },
+    {
+        "input": "Bet kokiu atveju trijų MARS BM mikrofonų užtenka , mat , anot R. Beniušio , „ Vilma “ [gamino] itin jautrią įrangą – tokios troško ir pasiklausymo aparatūrą naudojęs KGB .",
+        "output": "Bet kokiu atveju trijų MARS BM mikrofonų užtenka , mat , anot R. Beniušio , „ [Vilma | subject] “ gamino itin jautrią [įrangą | object] – tokios troško ir pasiklausymo aparatūrą naudojęs KGB ."
+    },
+    {
+        "input": "Bet kokiu atveju trijų MARS BM mikrofonų užtenka , mat , anot R. Beniušio , „ Vilma “ gamino itin jautrią įrangą – tokios troško ir pasiklausymo aparatūrą [naudojęs] KGB .",
+        "output": "Bet kokiu atveju trijų MARS BM mikrofonų užtenka , mat , anot R. Beniušio , „ Vilma “ gamino itin jautrią įrangą – tokios troško ir pasiklausymo [aparatūrą | object] naudojęs [KGB | subject] ."
+    },
+    {
+        "input": "„ Labai daug išbrokuodavo , nes mes darėme taip , kad būtų įvykdyti planai , o jiems [reikėjo] kokybės “ , – pasakojo R. Beniušis .",
+        "output": "„ Labai daug išbrokuodavo , nes mes darėme taip , kad būtų įvykdyti planai , o [jiems | object] reikėjo [kokybės | subject] “ , – pasakojo R. Beniušis ."
+    },
+    {
+        "input": "Pradėjęs dirbti kaip kasetinių magnetofonų derintojas jis vėliau [tapo] realizacijos skyriaus bei cecho vadovo pavaduotoju .",
+        "output": "Pradėjęs dirbti kaip kasetinių magnetofonų derintojas [jis | subject] vėliau tapo realizacijos skyriaus bei cecho vadovo [pavaduotoju | object] ."
+    },
+    {
+        "input": "Jo teigimu , kaip ir kiti panašūs savirašiai prietaisai , MARS BM [įrašinėdavo] 30 minučių pokalbių pilotų kabinoje .",
+        "output": "Jo teigimu , kaip ir kiti panašūs savirašiai prietaisai , [MARS | subject] BM įrašinėdavo 30 minučių [pokalbių | object] pilotų kabinoje ."
+    },
+    {
+        "input": "Savirašio prietaisą iš Juodosios jūros dugno [ištraukę] tyrėjai duomenis analizuoja jau daugiau kaip savaitę .",
+        "output": "Savirašio [prietaisą | object] iš Juodosios jūros dugno ištraukę [tyrėjai | subject] duomenis analizuoja jau daugiau kaip savaitę ."
+    },
+    {
+        "input": "Įrašuose esą [negirdėti] jokių pašalinių garsų , kurie galėtų reikšti bombos sprogimą arba lėktuvo užgrobimą .",
+        "output": "[Įrašuose | object] esą negirdėti jokių pašalinių [garsų | subject] , kurie galėtų reikšti bombos sprogimą arba lėktuvo užgrobimą ."
+    },
+    {
+        "input": "Nedaugelis žino , jog paskutinius žodžius [įrašė] Vilniuje veikusioje gamykloje pagaminti prietaisai .",
+        "output": "Nedaugelis žino , jog paskutinius [žodžius | object] įrašė Vilniuje veikusioje gamykloje pagaminti [prietaisai | subject] ."
+    },
+    {
+        "input": "Juodojoje jūroje sudužusio Rusijos gynybos ministerijos lėktuvo Tu-154 katastrofos narpliojantys tyrėjai [analizuoja] įvairius vadinamųjų „ juodųjų dėžių “ duomenis , tarp jų ir sudužusio orlaivio įgulos pokalbius .",
+        "output": "Juodojoje jūroje sudužusio Rusijos gynybos ministerijos lėktuvo Tu-154 katastrofos narpliojantys [tyrėjai | subject] analizuoja įvairius vadinamųjų „ juodųjų dėžių “ [duomenis | object] , tarp jų ir sudužusio orlaivio įgulos pokalbius ."
+    },
+    {
+        "input": "Tokių nukritusiame lėktuve , kuris gruodžio 25 dieną [pražudė] 92 žmones , buvo trys .",
+        "output": "Tokių nukritusiame lėktuve , [kuris | subject] gruodžio 25 dieną pražudė 92 [žmones | object] , buvo trys ."
+    },
+    {
+        "input": "Išties , Tu-154 katastrofą tiriantys ekspertai dėmesį [atkreipė] į paskutines dešimt pilotų pokalbių sekundžių – iki tol kilęs lėktuvas nepatyrė jokių gedimų , o apie „ ypatingą situaciją “ lėktuve tyrėjams užuominas suteikė būtent pilotų pokalbiai .",
+        "output": "Išties , Tu-154 katastrofą tiriantys [ekspertai | subject] [dėmesį | object] atkreipė į paskutines dešimt pilotų pokalbių sekundžių – iki tol kilęs lėktuvas nepatyrė jokių gedimų , o apie „ ypatingą situaciją “ lėktuve tyrėjams užuominas suteikė būtent pilotų pokalbiai ."
+    },
+    {
+        "input": "Išties , Tu-154 katastrofą tiriantys ekspertai dėmesį atkreipė į paskutines dešimt pilotų pokalbių sekundžių – iki tol kilęs lėktuvas [nepatyrė] jokių gedimų , o apie „ ypatingą situaciją “ lėktuve tyrėjams užuominas suteikė būtent pilotų pokalbiai .",
+        "output": "Išties , Tu-154 katastrofą tiriantys ekspertai dėmesį atkreipė į paskutines dešimt pilotų pokalbių sekundžių – iki tol kilęs [lėktuvas | subject] nepatyrė jokių [gedimų | object] , o apie „ ypatingą situaciją “ lėktuve tyrėjams užuominas suteikė būtent pilotų pokalbiai ."
+    },
+    {
+        "input": "MARS BM garsą [užtikrina] trys įtaisyti mikrofonai .",
+        "output": "MARS BM [garsą | object] užtikrina trys įtaisyti [mikrofonai | subject] ."
+    },
+    {
+        "input": "Be kita ko , nesibaigiantis sąskaitų suvedinėjimas su Rusija ir senųjų žaizdų demonstravimas turbūt jau [darosi] įkyrus gyventojų daugumai .",
+        "output": "Be kita ko , nesibaigiantis sąskaitų [suvedinėjimas | subject] su Rusija ir senųjų žaizdų demonstravimas turbūt jau darosi [įkyrus | indirect_object] gyventojų daugumai ."
+    },
+    {
+        "input": "Kas mums [lieka] dabartinėje ne itin linksmoje situacijoje ?",
+        "output": "[Kas | subject] [mums | indirect_object] lieka [dabartinėje | indirect_object] ne itin linksmoje situacijoje ?"
+    },
+    {
+        "input": "Tiesa , aš [dirbau] ne „ specialiame “ , o tiesiog realizavimo skyriuje , tad pačių magnetofonų nesurinkinėjau ir tiesiogiai susidurti su gamyba neteko .",
+        "output": "Tiesa , [aš | subject] dirbau ne „ specialiame “ , o tiesiog realizavimo skyriuje , tad pačių magnetofonų nesurinkinėjau ir tiesiogiai susidurti su gamyba neteko ."
+    },
+    {
+        "input": "Summa summarum [lieku] optimistas : po nepriklausomybės atgavimo , po ekonominės bei politinės transformacijos ateis laikas ir mentalinei transformacijai .",
+        "output": "Summa summarum lieku [optimistas | subject] : po nepriklausomybės atgavimo , po ekonominės bei politinės transformacijos ateis laikas ir mentalinei transformacijai ."
+    },
+    {
+        "input": "Summa summarum lieku optimistas : po nepriklausomybės atgavimo , po ekonominės bei politinės transformacijos [ateis] laikas ir mentalinei transformacijai .",
+        "output": "Summa summarum lieku optimistas : po nepriklausomybės atgavimo , po ekonominės bei politinės transformacijos ateis [laikas | subject] ir mentalinei transformacijai ."
+    },
+    {
+        "input": "Jis [neslėpė] žinojęs , kad dirbo slaptame adrese , kuris buvo žinomas įvairiais pavadinimais , pavyzdžiui , „ Pašto dėžutė 4151 “ bei „ Pašto dėžutė 52 “ .",
+        "output": "[Jis | subject] neslėpė žinojęs , kad dirbo slaptame adrese , kuris buvo žinomas įvairiais pavadinimais , pavyzdžiui , „ Pašto dėžutė 4151 “ bei „ Pašto dėžutė 52 “ ."
+    },
+    {
+        "input": "Jis neslėpė žinojęs , kad dirbo slaptame adrese , kuris buvo [žinomas] įvairiais pavadinimais , pavyzdžiui , „ Pašto dėžutė 4151 “ bei „ Pašto dėžutė 52 “ .",
+        "output": "Jis neslėpė žinojęs , kad dirbo slaptame adrese , [kuris | subject] buvo žinomas įvairiais pavadinimais , pavyzdžiui , „ Pašto dėžutė 4151 “ bei „ Pašto dėžutė 52 “ ."
+    },
+    {
+        "input": "Oficialiai „ Vilma “ [garsėjo] , kaip tuomet patikimais laikytų magnetofonų „ Vilma “ , „ Rūta “ , „ Tonika “ , „ Skif “ ir kitų gamintoja .",
+        "output": "Oficialiai „ [Vilma | subject] “ garsėjo , kaip tuomet patikimais laikytų magnetofonų „ Vilma “ , „ Rūta “ , „ Tonika “ , „ Skif “ ir kitų gamintoja ."
+    },
+    {
+        "input": "Anot kito gamykloje dirbusio lietuvio , Romualdo Beniušio , vėliau pradėti [gaminti] ir magnetofonai prietaisams MARS BM , kuriuos kruopščiai tikrindavo saugumiečiai .",
+        "output": "Anot kito gamykloje dirbusio lietuvio , Romualdo Beniušio , vėliau pradėti gaminti ir [magnetofonai | subject] prietaisams MARS BM , kuriuos kruopščiai tikrindavo saugumiečiai ."
+    },
+    {
+        "input": "„ [Nėra] prasmės įrašinėti daugiau , nes jei kas atsitinka , tai nutinka greitai ir svarbiausios būna minutės ar net sekundės “ , – teigė buvęs „ Vilmos “ darbuotojas .",
+        "output": "„ Nėra [prasmės | subject] įrašinėti daugiau , nes jei kas atsitinka , tai nutinka greitai ir svarbiausios būna minutės ar net sekundės “ , – teigė buvęs „ Vilmos “ darbuotojas ."
+    },
+    {
+        "input": "„ Nėra prasmės įrašinėti daugiau , nes jei kas [atsitinka] , tai nutinka greitai ir svarbiausios būna minutės ar net sekundės “ , – teigė buvęs „ Vilmos “ darbuotojas .",
+        "output": "„ Nėra prasmės įrašinėti daugiau , nes jei [kas | subject] atsitinka , tai nutinka greitai ir svarbiausios būna minutės ar net sekundės “ , – teigė buvęs „ Vilmos “ darbuotojas ."
+    },
+    {
+        "input": "„ Nėra prasmės įrašinėti daugiau , nes jei kas atsitinka , tai [nutinka] greitai ir svarbiausios būna minutės ar net sekundės “ , – teigė buvęs „ Vilmos “ darbuotojas .",
+        "output": "„ Nėra prasmės įrašinėti daugiau , nes jei kas atsitinka , [tai | subject] nutinka greitai ir svarbiausios būna minutės ar net sekundės “ , – teigė buvęs „ Vilmos “ darbuotojas ."
+    },
+    {
+        "input": "„ Nėra prasmės įrašinėti daugiau , nes jei kas atsitinka , tai nutinka greitai ir svarbiausios būna minutės ar net sekundės “ , – [teigė] buvęs „ Vilmos “ darbuotojas .",
+        "output": "„ Nėra prasmės įrašinėti daugiau , nes jei kas atsitinka , tai nutinka greitai ir svarbiausios būna minutės ar net sekundės “ , – teigė buvęs „ Vilmos “ [darbuotojas | subject] ."
+    },
+    {
+        "input": "„ Labai daug išbrokuodavo , nes mes [darėme] taip , kad būtų įvykdyti planai , o jiems reikėjo kokybės “ , – pasakojo R. Beniušis .",
+        "output": "„ Labai daug išbrokuodavo , nes [mes | subject] darėme taip , kad būtų įvykdyti planai , o jiems reikėjo kokybės “ , – pasakojo R. Beniušis ."
+    },
+    {
+        "input": "„ Labai daug išbrokuodavo , nes mes darėme taip , kad būtų įvykdyti planai , o jiems reikėjo kokybės “ , – [pasakojo] R. Beniušis .",
+        "output": "„ Labai daug išbrokuodavo , nes mes darėme taip , kad būtų įvykdyti planai , o jiems reikėjo kokybės “ , – pasakojo [R. | subject] Beniušis ."
+    },
+    {
+        "input": "Pirmasis Sovietų kariuomenės reikmėms [skirtas] vielinis magnetofonas „ MN-61 “ pradėtas gaminti būtent „ Vilmoje “ dar 1961 m .",
+        "output": "Pirmasis Sovietų kariuomenės reikmėms skirtas vielinis [magnetofonas | subject] „ MN-61 “ pradėtas gaminti būtent „ Vilmoje “ dar 1961 m ."
+    },
+    {
+        "input": "„ Užsparniai , su*a ! Vade , krentame ! “ , – tokie buvo paskutiniai lėktuvo Tu-154 kapitono padėjėjo Aleksandro Rovenskio žodžiai , kuriuos [įrašė] savirašis prietaisas MARS BM .",
+        "output": "„ Užsparniai , su*a ! Vade , krentame ! “ , – tokie buvo paskutiniai lėktuvo Tu-154 kapitono padėjėjo Aleksandro Rovenskio žodžiai , kuriuos įrašė savirašis [prietaisas | subject] MARS BM ."
+    },
+    {
+        "input": "Gali diskutuoti ( mes [neslėpsim] , kad tavo nuomones laikome klaidingomis ar anachroniškomis ) , bet negali diskriminuoti .",
+        "output": "Gali diskutuoti ( [mes | subject] neslėpsim , kad tavo nuomones laikome klaidingomis ar anachroniškomis ) , bet negali diskriminuoti ."
+    },
+    {
+        "input": "Jis , kaip ir pats lėktuvas [pagamintas] gūdžiais Sovietų sąjungos laikais , dar praėjusio amžiaus 9-jame dešimtmetyje .",
+        "output": "[Jis | subject] , kaip ir pats lėktuvas pagamintas gūdžiais Sovietų sąjungos laikais , dar praėjusio amžiaus 9-jame dešimtmetyje ."
+    },
+    {
+        "input": "Ir nors oficialios „ Tu-154 “ tragedijos priežastys iki šiol [neįvardytos] , realiausia versija laikoma pilotų klaida .",
+        "output": "Ir nors oficialios „ Tu-154 “ tragedijos [priežastys | subject] iki šiol neįvardytos , realiausia versija laikoma pilotų klaida ."
+    },
+    {
+        "input": "Ir nors oficialios „ Tu-154 “ tragedijos priežastys iki šiol neįvardytos , realiausia versija [laikoma] pilotų klaida .",
+        "output": "Ir nors oficialios „ Tu-154 “ tragedijos priežastys iki šiol neįvardytos , realiausia [versija | subject] laikoma pilotų klaida ."
+    },
+    {
+        "input": "Tačiau dauguma iš maždaug 7 tūkst. darbuotojų [žinojo] , jog uždarose ir sovietinio saugumo KGB kruopščiai prižiūrimose patalpose gaminamos ir karinės , „ ypatingos “ paskirties prekės .",
+        "output": "Tačiau [dauguma | subject] iš maždaug 7 tūkst. darbuotojų žinojo , jog uždarose ir sovietinio saugumo KGB kruopščiai prižiūrimose patalpose gaminamos ir karinės , „ ypatingos “ paskirties prekės ."
+    },
+    {
+        "input": "Tačiau nedaugelis šiandien [žino] , kad tais laikais tokius juostinius bei kasetinius magnetofonus , dedamus į ryškia oranžine arba raudona spalva nudažytas kapsules , gamino tiktai Vilniuje .",
+        "output": "Tačiau [nedaugelis | subject] šiandien žino , kad tais laikais tokius juostinius bei kasetinius magnetofonus , dedamus į ryškia oranžine arba raudona spalva nudažytas kapsules , gamino tiktai Vilniuje ."
+    },
+    {
+        "input": "Įrašuose esą negirdėti jokių pašalinių garsų , kurie [galėtų] reikšti bombos sprogimą arba lėktuvo užgrobimą .",
+        "output": "Įrašuose esą negirdėti jokių pašalinių garsų , [kurie | subject] galėtų reikšti bombos sprogimą arba lėktuvo užgrobimą ."
+    },
+    {
+        "input": "Mat nors savirašiai prietaisai , dar kitaip vadinami juodosiomis dėžėmis , [pagaminti] taip , kad atlaikytų ypač stiprius smūgius katastrofų metu , juos aptikti jūros dugne neretai būna ypač sunku .",
+        "output": "Mat nors savirašiai [prietaisai | subject] , dar kitaip vadinami juodosiomis dėžėmis , pagaminti taip , kad atlaikytų ypač stiprius smūgius katastrofų metu , juos aptikti jūros dugne neretai būna ypač sunku ."
+    },
+    {
+        "input": "Bet reikia prie jos prisidėti , o ne pasiduoti tiems , kas [bando] įamžinti prieštvaninį mentalitetą .",
+        "output": "Bet reikia prie jos prisidėti , o ne pasiduoti tiems , [kas | subject] bando įamžinti prieštvaninį mentalitetą ."
+    },
+    {
+        "input": "Nedaugelis [žino] , jog paskutinius žodžius įrašė Vilniuje veikusioje gamykloje pagaminti prietaisai .",
+        "output": "[Nedaugelis | subject] žino , jog paskutinius žodžius įrašė Vilniuje veikusioje gamykloje pagaminti prietaisai ."
+    },
+    {
+        "input": "Nors , žinoma , saugumiečiais teko susidurti , juk jie buvo viršininkai “ , – [pasakojo] A. Sysas .",
+        "output": "Nors , žinoma , saugumiečiais teko susidurti , juk jie buvo viršininkai “ , – pasakojo [A. | subject] Sysas ."
+    },
+    {
+        "input": "Sovietiniais laikais „ Vilmoje “ dirbęs dabartinis socialdemokratų partijos politikas Algirdas Sysas [pasakojo] žinojęs , jog kituose skyriuose gaminami prietaisai ir lėktuvams , ir kitai karinei technikai .",
+        "output": "Sovietiniais laikais „ Vilmoje “ dirbęs dabartinis socialdemokratų partijos politikas [Algirdas | subject] Sysas pasakojo žinojęs , jog kituose skyriuose gaminami prietaisai ir lėktuvams , ir kitai karinei technikai ."
+    },
+    {
+        "input": "Sovietiniais laikais „ Vilmoje “ dirbęs dabartinis socialdemokratų partijos politikas Algirdas Sysas pasakojo žinojęs , jog kituose skyriuose [gaminami] prietaisai ir lėktuvams , ir kitai karinei technikai .",
+        "output": "Sovietiniais laikais „ Vilmoje “ dirbęs dabartinis socialdemokratų partijos politikas Algirdas Sysas pasakojo žinojęs , jog kituose skyriuose gaminami [prietaisai | subject] ir lėktuvams , ir kitai karinei technikai ."
+    },
+    {
+        "input": "Paprastai , kai į lėktuvai [nukrenta] į jūrą , nustatyti katastrofos priežastis būna ypač sunku .",
+        "output": "Paprastai , kai į [lėktuvai | subject] nukrenta į jūrą , nustatyti katastrofos priežastis būna ypač sunku ."
+    },
+    {
+        "input": "Paskutiniai žemyn smingančio Tu-154 kapitono padėjėjo žodžiai [fiksuoti] lietuvišku prietaisu",
+        "output": "Paskutiniai žemyn smingančio Tu-154 kapitono padėjėjo [žodžiai | subject] fiksuoti lietuvišku prietaisu"
+    },
+    {
+        "input": "Taip nėra : mes tik [draudžiame] drausti , draudžiame prievartauti .",
+        "output": "Taip nėra : [mes | subject] tik draudžiame drausti , draudžiame prievartauti ."
+    },
+    {
+        "input": "Čia SSRS okupacijos laikais [veikė] milžiniška gamykla „ Vilma “ .",
+        "output": "Čia SSRS okupacijos laikais veikė milžiniška [gamykla | subject] „ Vilma “ ."
+    },
+    {
+        "input": "Remiantis pirminiais duomenimis , tinkamai [nesuveikė] užsparniai – juos į skirtingas puses pakreipę pilotai galėjo tiesiog supainioti svirtis , o tai padaryti sudėtingai valdomame Tu-154 nėra sudėtinga net patyrusiems pilotams – aviacijos istorijoje jau yra nesyk pasitaikę atvejų , kai viena nedidelė klaida ar jų virtinė lėmė siaubingas katastrofas .",
+        "output": "Remiantis pirminiais duomenimis , tinkamai nesuveikė [užsparniai | subject] – juos į skirtingas puses pakreipę pilotai galėjo tiesiog supainioti svirtis , o tai padaryti sudėtingai valdomame Tu-154 nėra sudėtinga net patyrusiems pilotams – aviacijos istorijoje jau yra nesyk pasitaikę atvejų , kai viena nedidelė klaida ar jų virtinė lėmė siaubingas katastrofas ."
+    },
+    {
+        "input": "Remiantis pirminiais duomenimis , tinkamai nesuveikė užsparniai – juos į skirtingas puses pakreipę pilotai [galėjo] tiesiog supainioti svirtis , o tai padaryti sudėtingai valdomame Tu-154 nėra sudėtinga net patyrusiems pilotams – aviacijos istorijoje jau yra nesyk pasitaikę atvejų , kai viena nedidelė klaida ar jų virtinė lėmė siaubingas katastrofas .",
+        "output": "Remiantis pirminiais duomenimis , tinkamai nesuveikė užsparniai – juos į skirtingas puses pakreipę [pilotai | subject] galėjo tiesiog supainioti svirtis , o tai padaryti sudėtingai valdomame Tu-154 nėra sudėtinga net patyrusiems pilotams – aviacijos istorijoje jau yra nesyk pasitaikę atvejų , kai viena nedidelė klaida ar jų virtinė lėmė siaubingas katastrofas ."
+    },
+    {
+        "input": "Išties , Tu-154 katastrofą tiriantys ekspertai dėmesį atkreipė į paskutines dešimt pilotų pokalbių sekundžių – iki tol kilęs lėktuvas nepatyrė jokių gedimų , o apie „ ypatingą situaciją “ lėktuve tyrėjams užuominas [suteikė] būtent pilotų pokalbiai .",
+        "output": "Išties , Tu-154 katastrofą tiriantys ekspertai dėmesį atkreipė į paskutines dešimt pilotų pokalbių sekundžių – iki tol kilęs lėktuvas nepatyrė jokių gedimų , o apie „ ypatingą situaciją “ lėktuve [tyrėjams | indirect_object] [užuominas | object] suteikė būtent pilotų [pokalbiai | subject] ."
+    }
+]

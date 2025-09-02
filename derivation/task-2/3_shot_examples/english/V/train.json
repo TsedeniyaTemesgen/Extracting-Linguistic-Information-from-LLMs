@@ -1,0 +1,37 @@
+[
+    {
+        "lemma": "vampire",
+        "surface_word": "vampirise",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-ise",
+        "prefix": [],
+        "suffix": "-ise",
+        "alternative_0": "vampire<N> ise<V_SUFF>",
+        "sub_words": "vampire<N> ise<V_SUFF>"
+    },
+    {
+        "lemma": "pile",
+        "surface_word": "unpile",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "un-",
+        "prefix": "un-",
+        "suffix": [],
+        "alternative_0": "un<PREF> pile<N>",
+        "sub_words": "un<PREF> pile<N>"
+    },
+    {
+        "lemma": "neocolonial",
+        "surface_word": "neocolonialize",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-ize",
+        "prefix": [],
+        "suffix": "-ize",
+        "alternative_0": "neocolonial<ADJ> ize<V_SUFF>",
+        "alternative_1": "neo<PREF> colonial<ADJ> ize<V_SUFF>",
+        "alternative_2": "neo<PREF> colony<N> al<ADJ_SUFF> ize<V_SUFF>",
+        "sub_words": "neo<PREF> colony<N> al<ADJ_SUFF> ize<V_SUFF>"
+    }
+]

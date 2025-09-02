@@ -1,0 +1,60 @@
+[
+    {
+        "lemma": "Challes",
+        "surface_word": "challois",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ois",
+        "prefix": [],
+        "suffix": "-ois",
+        "alternative_0": "Challes<N> ois<ADJ_SUFF>",
+        "sub_words": "Challes<N> ois<ADJ_SUFF>"
+    },
+    {
+        "lemma": "désengager",
+        "surface_word": "désengagé",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-é",
+        "prefix": [],
+        "suffix": "-é",
+        "alternative_0": "désengager<V> é<ADJ_SUFF>",
+        "alternative_1": "dés<PREF> en<PREF> gager<V> é<ADJ_SUFF>",
+        "alternative_2": "dés<PREF> engager<V> é<ADJ_SUFF>",
+        "sub_words": "dés<PREF> en<PREF> gager<V> é<ADJ_SUFF>"
+    },
+    {
+        "lemma": "genre",
+        "surface_word": "cisgenre",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "cis-",
+        "prefix": "cis-",
+        "suffix": [],
+        "alternative_0": "cis<PREF> genre<N>",
+        "sub_words": "cis<PREF> genre<N>"
+    },
+    {
+        "lemma": "isoler",
+        "surface_word": "isolant",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-ant",
+        "prefix": [],
+        "suffix": "-ant",
+        "alternative_0": "isoler<V> ant<ADJ_SUFF>",
+        "sub_words": "isoler<V> ant<ADJ_SUFF>"
+    },
+    {
+        "lemma": "cosmographie",
+        "surface_word": "cosmographique",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-ique",
+        "prefix": [],
+        "suffix": "-ique",
+        "alternative_0": "cosmographie<N> ique<ADJ_SUFF>",
+        "alternative_1": "cosmos<N> graphie<N_SUFF> ique<ADJ_SUFF>",
+        "sub_words": "cosmos<N> graphie<N_SUFF> ique<ADJ_SUFF>"
+    }
+]

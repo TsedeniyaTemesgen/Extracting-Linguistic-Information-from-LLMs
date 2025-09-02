@@ -1,0 +1,410 @@
+[
+    {
+        "input": "Pajjiżna [jista'] jkollu ġejjieni sabiħ fit- turiżmu , imma ċertament li mhux fir- rotta li tefgħuna fiha l- gvernijiet tal- Partit Nazzjonalista u kif sejrin l- affarijiet illum .",
+        "output": "[Pajjiżna | subject] jista' jkollu ġejjieni sabiħ fit- turiżmu , imma ċertament li mhux fir- rotta li tefgħuna fiha l- gvernijiet tal- Partit Nazzjonalista u kif sejrin l- affarijiet illum ."
+    },
+    {
+        "input": "Pajjiżna jista' jkollu ġejjieni sabiħ fit- turiżmu , imma ċertament li mhux fir- rotta li [tefgħuna] fiha l- gvernijiet tal- Partit Nazzjonalista u kif sejrin l- affarijiet illum .",
+        "output": "Pajjiżna jista' jkollu ġejjieni sabiħ fit- turiżmu , imma ċertament li mhux fir- rotta li tefgħuna fiha l- [gvernijiet | subject] tal- Partit Nazzjonalista u kif sejrin l- affarijiet illum ."
+    },
+    {
+        "input": "Pajjiżna jista' jkollu ġejjieni sabiħ fit- turiżmu , imma ċertament li mhux fir- rotta li tefgħuna fiha l- gvernijiet tal- Partit Nazzjonalista u kif [sejrin] l- affarijiet illum .",
+        "output": "Pajjiżna jista' jkollu ġejjieni sabiħ fit- turiżmu , imma ċertament li mhux fir- rotta li tefgħuna fiha l- gvernijiet tal- Partit Nazzjonalista u kif sejrin l- [affarijiet | subject] illum ."
+    },
+    {
+        "input": "Dwar dan il- kelliem għas- Segretarjat [żvela] li hemm propost studju ieħor li għandu jidentifika metodi kif il- Gozo Channel tista' tiddiversifika u tibda toffri servizzi ġodda .",
+        "output": "Dwar dan il- [kelliem | subject] għas- Segretarjat żvela li hemm propost studju ieħor li għandu jidentifika metodi kif il- Gozo Channel tista' tiddiversifika u tibda toffri servizzi ġodda ."
+    },
+    {
+        "input": "Dwar dan il- kelliem għas- Segretarjat żvela li [hemm] propost studju ieħor li għandu jidentifika metodi kif il- Gozo Channel tista' tiddiversifika u tibda toffri servizzi ġodda .",
+        "output": "Dwar dan il- kelliem għas- Segretarjat żvela li hemm [propost | subject] studju ieħor li għandu jidentifika metodi kif il- Gozo Channel tista' tiddiversifika u tibda toffri servizzi ġodda ."
+    },
+    {
+        "input": "Dwar dan il- kelliem għas- Segretarjat żvela li hemm propost studju ieħor li għandu jidentifika metodi kif il- Gozo Channel [tista'] tiddiversifika u tibda toffri servizzi ġodda .",
+        "output": "Dwar dan il- kelliem għas- Segretarjat żvela li hemm propost studju ieħor li għandu jidentifika metodi kif il- [Gozo | subject] Channel tista' tiddiversifika u tibda toffri servizzi ġodda ."
+    },
+    {
+        "input": "Demicoli beda l- karriera tiegħu fil- pulizija imma mbaghad spiċċa wieħed mil- aktar nies fdati fl- apparat il- ġdid tal- PN li ħa s- sura wara li Eddie Fenech Adami [laħaq] kap .",
+        "output": "Demicoli beda l- karriera tiegħu fil- pulizija imma mbaghad spiċċa wieħed mil- aktar nies fdati fl- apparat il- ġdid tal- PN li ħa s- sura wara li [Eddie | subject] Fenech Adami laħaq kap ."
+    },
+    {
+        "input": "Meta l- eżistenza tagħha [saret] magħrufa , il- PN għamel sforz kbir biex jiċħad li kien hemm xi organizazzjoni speċjali li tagħmel il- funzjonijiet tal- grupp tal- Ġakketta blu .",
+        "output": "Meta l- [eżistenza | subject] tagħha saret magħrufa , il- PN għamel sforz kbir biex jiċħad li kien hemm xi organizazzjoni speċjali li tagħmel il- funzjonijiet tal- grupp tal- Ġakketta blu ."
+    },
+    {
+        "input": "Meta l- eżistenza tagħha saret magħrufa , il- PN għamel sforz kbir biex jiċħad li kien [hemm] xi organizazzjoni speċjali li tagħmel il- funzjonijiet tal- grupp tal- Ġakketta blu .",
+        "output": "Meta l- eżistenza tagħha saret magħrufa , il- PN għamel sforz kbir biex jiċħad li kien hemm xi [organizazzjoni | subject] speċjali li tagħmel il- funzjonijiet tal- grupp tal- Ġakketta blu ."
+    },
+    {
+        "input": "Minbarra dan , fil- Konfernza Ġenerali qabel l- aħħar elezzjoni ġenerali , Michael Falzon ukoll kien [irrifera] għad- diskors li jsir fil- MLP dwar l- Uffiċċju Elettorali Laburista .",
+        "output": "Minbarra dan , fil- Konfernza Ġenerali qabel l- aħħar elezzjoni ġenerali , [Michael | subject] Falzon ukoll kien irrifera għad- diskors li jsir fil- MLP dwar l- Uffiċċju Elettorali Laburista ."
+    },
+    {
+        "input": "Lejn tmiem l- intervista , waqt li Robert Abela kien qed [jilgħab] bl- ispaga tal- borża tat- tè li niżżel f' kikkra bil- misħun , staqsejtu : Temmen li kapaċi nirbħu l- Eurovision ?",
+        "output": "Lejn tmiem l- intervista , waqt li [Robert | subject] Abela kien qed jilgħab bl- ispaga tal- borża tat- tè li niżżel f' kikkra bil- misħun , staqsejtu : Temmen li kapaċi nirbħu l- Eurovision ?"
+    },
+    {
+        "input": "Xi nies li kellhom il- gazzetti f' idejhom [bdew] jgħidu ; \" Sewwa ġralhom \" , \" ħaqqhom agħar \" , \" messhom joqtluhom mill- ewwel \" u frażijiet oħra li mhux ta' min isemmihom hawn .",
+        "output": "Xi [nies | subject] li kellhom il- gazzetti f' idejhom bdew jgħidu ; \" Sewwa ġralhom \" , \" ħaqqhom agħar \" , \" messhom joqtluhom mill- ewwel \" u frażijiet oħra li mhux ta' min isemmihom hawn ."
+    },
+    {
+        "input": "Xi nies li kellhom il- gazzetti f' idejhom bdew jgħidu ; \" Sewwa ġralhom \" , \" ħaqqhom agħar \" , \" messhom joqtluhom mill- ewwel \" u frażijiet oħra li mhux ta' min [isemmihom] hawn .",
+        "output": "Xi nies li kellhom il- gazzetti f' idejhom bdew jgħidu ; \" Sewwa ġralhom \" , \" ħaqqhom agħar \" , \" messhom joqtluhom mill- ewwel \" u frażijiet oħra li mhux ta' [min | subject] isemmihom hawn ."
+    },
+    {
+        "input": "Fuq quddiem nett kien [hemm] Charles Demicoli , veteran minn tmiem is- snin sebgħin ta' kif il- PN kien organizza ruħu kważi b' mod militari ħalli jinkwadra lis- segwaċi tiegħu .",
+        "output": "Fuq quddiem nett kien hemm [Charles | subject] Demicoli , veteran minn tmiem is- snin sebgħin ta' kif il- PN kien organizza ruħu kważi b' mod militari ħalli jinkwadra lis- segwaċi tiegħu ."
+    },
+    {
+        "input": "\" Fabrizio ma [beżax] imur quddiem il- kameras tat- TV , jieħu l- kritika kollha li saritlu u jibqa' jitkellem mal- pubbliku Malti minkejja l- umiljazzjoni li ġarrab , \" sostna .",
+        "output": "\" [Fabrizio | subject] ma beżax imur quddiem il- kameras tat- TV , jieħu l- kritika kollha li saritlu u jibqa' jitkellem mal- pubbliku Malti minkejja l- umiljazzjoni li ġarrab , \" sostna ."
+    },
+    {
+        "input": "Jason Micallef fil- fatt kien bilqiegħda f' dik il- parti fejn is- siġġijiet kienu immarkati RESERVED u allura ċertament li din il- mossa [seħħet] bil- barka tat- tmexxija laburista .",
+        "output": "Jason Micallef fil- fatt kien bilqiegħda f' dik il- parti fejn is- siġġijiet kienu immarkati RESERVED u allura ċertament li din il- [mossa | subject] seħħet bil- barka tat- tmexxija laburista ."
+    },
+    {
+        "input": "Sant [wera] li l- politikant serju li jqis ir- rwol tiegħu bħala missjoni biex itejjeb il- ħajja tal- poplu tiegħu , ipoġġi l- prinċipji qabel il- karriera politika tiegħu personali .",
+        "output": "[Sant | subject] wera li l- politikant serju li jqis ir- rwol tiegħu bħala missjoni biex itejjeb il- ħajja tal- poplu tiegħu , ipoġġi l- prinċipji qabel il- karriera politika tiegħu personali ."
+    },
+    {
+        "input": "\" Konna nippretendu li Chris Said , għad għandu għal qalbu l- ' kawża ' u l- kontribut tal- Kunsilli Lokali fis- soċjetà , \" [saħaq] sindku Nazzjonalista fin- naħa t' isfel ta' Malta .",
+        "output": "\" Konna nippretendu li Chris Said , għad għandu għal qalbu l- ' kawża ' u l- kontribut tal- Kunsilli Lokali fis- soċjetà , \" saħaq [sindku | subject] Nazzjonalista fin- naħa t' isfel ta' Malta ."
+    },
+    {
+        "input": "Min- naħa l- oħra , huwa ferm diffiċli li tirrikonċilja dak li [qal] Gonzi meta hu ġie ffaċċjat minn sitwazzjoni parlamentari tixbaħ lil dik li ffaċċja Sant fl- 1998 , jekk mhux agħar .",
+        "output": "Min- naħa l- oħra , huwa ferm diffiċli li tirrikonċilja dak li qal [Gonzi | subject] meta hu ġie ffaċċjat minn sitwazzjoni parlamentari tixbaħ lil dik li ffaċċja Sant fl- 1998 , jekk mhux agħar ."
+    },
+    {
+        "input": "Min- naħa l- oħra , huwa ferm diffiċli li tirrikonċilja dak li qal Gonzi meta hu ġie ffaċċjat minn sitwazzjoni parlamentari tixbaħ lil dik li [ffaċċja] Sant fl- 1998 , jekk mhux agħar .",
+        "output": "Min- naħa l- oħra , huwa ferm diffiċli li tirrikonċilja dak li qal Gonzi meta hu ġie ffaċċjat minn sitwazzjoni parlamentari tixbaħ lil dik li ffaċċja [Sant | subject] fl- 1998 , jekk mhux agħar ."
+    },
+    {
+        "input": "Għal xi żmien il- komunità Maltija ta' Smyrna kienet tilħaq l- elfejn ruħ , iżda wara l- Armistizju ta' l- 1918 , ħafna mill- Maltin [xterdu] ma' naħat oħra fil- lvant tal- Mediterran .",
+        "output": "Għal xi żmien il- komunità Maltija ta' Smyrna kienet tilħaq l- elfejn ruħ , iżda wara l- Armistizju ta' l- 1918 , [ħafna | subject] mill- Maltin xterdu ma' naħat oħra fil- lvant tal- Mediterran ."
+    },
+    {
+        "input": "\" Dr Chris Said hu tal- fehma li wara l- pre- feasibility study , iridu [jsiru] għadd ta' studji xjentifiċi oħra biex jidħlu fil- fond ta' diversi aspetti relatati ma' proġett bħal dan .",
+        "output": "\" Dr Chris Said hu tal- fehma li wara l- pre- feasibility study , iridu jsiru [għadd | subject] ta' studji xjentifiċi oħra biex jidħlu fil- fond ta' diversi aspetti relatati ma' proġett bħal dan ."
+    },
+    {
+        "input": "Hekk [sostna] l- Viċi Prim Ministru u Ministru tal- Affarijiet Barranin Tonio Borg meta fetaħ il- laqgha tal- Core Group tal- Meusac , li kellu fuq l- aġenda is- sitwazzjoni fil- Libja .",
+        "output": "Hekk sostna l- Viċi Prim Ministru u Ministru tal- Affarijiet Barranin [Tonio | subject] Borg meta fetaħ il- laqgha tal- Core Group tal- Meusac , li kellu fuq l- aġenda is- sitwazzjoni fil- Libja ."
+    },
+    {
+        "input": "Enfasizza li t- tunnel m' [għandux] jitqies bħala servizz alternattiv għas- servizz tal- Gozo Channel , iżda skont hu , \" it- tnejn għandhom joffru servizzi kumplimentari \" .",
+        "output": "Enfasizza li t- [tunnel | subject] m' għandux jitqies bħala servizz alternattiv għas- servizz tal- Gozo Channel , iżda skont hu , \" it- tnejn għandhom joffru servizzi kumplimentari \" ."
+    },
+    {
+        "input": "Enfasizza li t- tunnel m' għandux jitqies bħala servizz alternattiv għas- servizz tal- Gozo Channel , iżda skont hu , \" it- tnejn [għandhom] joffru servizzi kumplimentari \" .",
+        "output": "Enfasizza li t- tunnel m' għandux jitqies bħala servizz alternattiv għas- servizz tal- Gozo Channel , iżda skont hu , \" it- [tnejn | subject] għandhom joffru servizzi kumplimentari \" ."
+    },
+    {
+        "input": "F' lejlet il- Milied marret tara l- ġenituri tagħha , avolja ma kellhiex aptit tisma' l- istess kantaliena ta' kull sena , u li aktar ma [jagħddi] ż- żmien aktar tkun agħar .",
+        "output": "F' lejlet il- Milied marret tara l- ġenituri tagħha , avolja ma kellhiex aptit tisma' l- istess kantaliena ta' kull sena , u li aktar ma jagħddi ż- [żmien | subject] aktar tkun agħar ."
+    },
+    {
+        "input": "U hija biss ħrafa u propaganda vojta li minn dak li se jsir f' dil- konferenza , mill- mijiet kbar ta' eluf li se jkunu qegħdin jintefqu se jkun [hemm] xi benefiċċju serju għat- turiżmu .",
+        "output": "U hija biss ħrafa u propaganda vojta li minn dak li se jsir f' dil- konferenza , mill- mijiet kbar ta' eluf li se jkunu qegħdin jintefqu se jkun hemm xi [benefiċċju | subject] serju għat- turiżmu ."
+    },
+    {
+        "input": "Hu mistenni wkoll li tul dawn is- seminars , Michael Falzon [jiffoka] fuq il- ħidma li jrid iwettaq il- MLP bl- iskop li jżomm l- istess organizzazzjoni elettorali li bena .",
+        "output": "Hu mistenni wkoll li tul dawn is- seminars , [Michael | subject] Falzon jiffoka fuq il- ħidma li jrid iwettaq il- MLP bl- iskop li jżomm l- istess organizzazzjoni elettorali li bena ."
+    },
+    {
+        "input": "Hu mistenni wkoll li tul dawn is- seminars , Michael Falzon jiffoka fuq il- ħidma li jrid [iwettaq] il- MLP bl- iskop li jżomm l- istess organizzazzjoni elettorali li bena .",
+        "output": "Hu mistenni wkoll li tul dawn is- seminars , Michael Falzon jiffoka fuq il- ħidma li jrid iwettaq il- [MLP | subject] bl- iskop li jżomm l- istess organizzazzjoni elettorali li bena ."
+    },
+    {
+        "input": "Hu mistenni wkoll li tul dawn is- seminars , Michael Falzon jiffoka fuq il- ħidma li jrid iwettaq il- MLP bl- iskop li [jżomm] l- istess organizzazzjoni elettorali li bena .",
+        "output": "Hu mistenni wkoll li tul dawn is- seminars , Michael Falzon jiffoka fuq il- ħidma li jrid iwettaq il- MLP bl- iskop li jżomm l- istess [organizzazzjoni | subject] elettorali li bena ."
+    },
+    {
+        "input": "\" Qed inbiddlu ħafna affarijiet u se nagħmluh isbaħ , \" [weġibna] Robert Abela li għażel li ma jiżvelax dettalji dwar x' inhu ġej fis- serati ta' l- 1 u t- 3 ta' Frar 2007 .",
+        "output": "\" Qed inbiddlu ħafna affarijiet u se nagħmluh isbaħ , \" weġibna [Robert | subject] Abela li għażel li ma jiżvelax dettalji dwar x' inhu ġej fis- serati ta' l- 1 u t- 3 ta' Frar 2007 ."
+    },
+    {
+        "input": "L- Assoċjazzjoni tal- Kunsilli Lokali ma [taqbilx] mal- mod kif il- Gvern waqqaf mill- ġdid il- Kumitat ta' Azzjoni bejn Malta u l- Unjoni Ewropea magħruf bħala l- MEUSAC .",
+        "output": "L- [Assoċjazzjoni | subject] tal- Kunsilli Lokali ma taqbilx mal- mod kif il- Gvern waqqaf mill- ġdid il- Kumitat ta' Azzjoni bejn Malta u l- Unjoni Ewropea magħruf bħala l- MEUSAC ."
+    },
+    {
+        "input": "Jien [nistaqsi] , kemm-il darba jrid jintqal dan il- kliem qabel nindunaw bil- ħsara li qed jagħmel kemm lin- nies li dwaru qed jintqal kif ukoll lis- soċjetà in ġenerali ?",
+        "output": "[Jien | subject] nistaqsi , kemm-il darba jrid jintqal dan il- kliem qabel nindunaw bil- ħsara li qed jagħmel kemm lin- nies li dwaru qed jintqal kif ukoll lis- soċjetà in ġenerali ?"
+    },
+    {
+        "input": "[Hemm] diġà diversi indikazzjonijiet li dawk li sal- lum kienu moħħhom fl- investiment fit- turiżmu f' pajjiżna qed iwarrbu minn hawn u jitfgħu saqajhom f' pajjiżi oħrajn .",
+        "output": "Hemm diġà diversi [indikazzjonijiet | subject] li dawk li sal- lum kienu moħħhom fl- investiment fit- turiżmu f' pajjiżna qed iwarrbu minn hawn u jitfgħu saqajhom f' pajjiżi oħrajn ."
+    },
+    {
+        "input": "Hemm diġà diversi indikazzjonijiet li dawk li sal- lum kienu moħħhom fl- investiment fit- turiżmu f' pajjiżna qed [iwarrbu] minn hawn u jitfgħu saqajhom f' pajjiżi oħrajn .",
+        "output": "Hemm diġà diversi indikazzjonijiet li [dawk | subject] li sal- lum kienu moħħhom fl- investiment fit- turiżmu f' pajjiżna qed iwarrbu minn hawn u jitfgħu saqajhom f' pajjiżi oħrajn ."
+    },
+    {
+        "input": "\" Dan hu li rrid nisma' u nara li qed jiġri fix- xena mużikali Maltija , \" [saħaq] Robert Abela li żied jikkummenta fuq dak li fisser bħala \" bir wiesa' ta' talent kbir \" .",
+        "output": "\" Dan hu li rrid nisma' u nara li qed jiġri fix- xena mużikali Maltija , \" saħaq [Robert | subject] Abela li żied jikkummenta fuq dak li fisser bħala \" bir wiesa' ta' talent kbir \" ."
+    },
+    {
+        "input": "Aktar minn hekk , sorsi fil- qalba tal- PL [qalu] li favur tiegħu Jason Micallef għandu wkoll lid- Deputy Leader l- ieħor , Toni Abela , u dan qed idejjaq ukoll lill- core group ta' Muscat .",
+        "output": "Aktar minn hekk , [sorsi | subject] fil- qalba tal- PL qalu li favur tiegħu Jason Micallef għandu wkoll lid- Deputy Leader l- ieħor , Toni Abela , u dan qed idejjaq ukoll lill- core group ta' Muscat ."
+    },
+    {
+        "input": "Ftit jiem wara s- Segretarju Parlamentari Dr Chris Said pubblikament sostna l- argument tas- Sur Borg u qal li skont stima li saru , dan il- proġett [għandu] jiġi jiswa madwar € 150 miljun .",
+        "output": "Ftit jiem wara s- Segretarju Parlamentari Dr Chris Said pubblikament sostna l- argument tas- Sur Borg u qal li skont stima li saru , dan il- [proġett | subject] għandu jiġi jiswa madwar € 150 miljun ."
+    },
+    {
+        "input": "Dawn il- persuni huma wkoll [involuti] fil- ħidma mal- uffiċċju elettorali tal- PN , l- ELCOM , fejn minkejja li m' għadux imexxih hu , għad għandu influwenza kbira l- ministru Austin Gatt .",
+        "output": "Dawn il- [persuni | subject] huma wkoll involuti fil- ħidma mal- uffiċċju elettorali tal- PN , l- ELCOM , fejn minkejja li m' għadux imexxih hu , għad għandu influwenza kbira l- ministru Austin Gatt ."
+    },
+    {
+        "input": "Dawn il- persuni huma wkoll involuti fil- ħidma mal- uffiċċju elettorali tal- PN , l- ELCOM , fejn minkejja li m' għadux [imexxih] hu , għad għandu influwenza kbira l- ministru Austin Gatt .",
+        "output": "Dawn il- persuni huma wkoll involuti fil- ħidma mal- uffiċċju elettorali tal- PN , l- ELCOM , fejn minkejja li m' għadux imexxih [hu | subject] , għad għandu influwenza kbira l- ministru Austin Gatt ."
+    },
+    {
+        "input": "L- ispjunaġġ mill- Partit Nazzjonalista ( PN ) fuq iċ- ċittadini Maltin u Għawdxin ma kienx se [jibda] taħt is- segretarju ġenerali l- ġdid tal- PN , Paul Borg Olivier .",
+        "output": "L- [ispjunaġġ | subject] mill- Partit Nazzjonalista ( PN ) fuq iċ- ċittadini Maltin u Għawdxin ma kienx se jibda taħt is- segretarju ġenerali l- ġdid tal- PN , Paul Borg Olivier ."
+    },
+    {
+        "input": "Il- Gvern ta' Lord Strickland ma [riedx] jissogra dak il- kapital , l- aktar meta l- Maltin saru jafu li viċin Margo kien hemm għadajjar li kienu l- kaġun tal- malarja .",
+        "output": "Il- [Gvern | subject] ta' Lord Strickland ma riedx jissogra dak il- kapital , l- aktar meta l- Maltin saru jafu li viċin Margo kien hemm għadajjar li kienu l- kaġun tal- malarja ."
+    },
+    {
+        "input": "Il- Gvern ta' Lord Strickland ma riedx jissogra dak il- kapital , l- aktar meta l- Maltin [saru] jafu li viċin Margo kien hemm għadajjar li kienu l- kaġun tal- malarja .",
+        "output": "Il- Gvern ta' Lord Strickland ma riedx jissogra dak il- kapital , l- aktar meta l- [Maltin | subject] saru jafu li viċin Margo kien hemm għadajjar li kienu l- kaġun tal- malarja ."
+    },
+    {
+        "input": "Il- Gvern ta' Lord Strickland ma riedx jissogra dak il- kapital , l- aktar meta l- Maltin saru jafu li viċin Margo kien [hemm] għadajjar li kienu l- kaġun tal- malarja .",
+        "output": "Il- Gvern ta' Lord Strickland ma riedx jissogra dak il- kapital , l- aktar meta l- Maltin saru jafu li viċin Margo kien hemm [għadajjar | subject] li kienu l- kaġun tal- malarja ."
+    },
+    {
+        "input": "Filwaqt li Malta qatt ma [setgħet] tinjora r- relazzjonijiet mal- Libja , pajjiż ġar tagħha , meta ġie l- mument tal- verita' ma qagħditx lura milli tgħid li hu abjad , abjad u iswed , iswed .",
+        "output": "Filwaqt li [Malta | subject] qatt ma setgħet tinjora r- relazzjonijiet mal- Libja , pajjiż ġar tagħha , meta ġie l- mument tal- verita' ma qagħditx lura milli tgħid li hu abjad , abjad u iswed , iswed ."
+    },
+    {
+        "input": "Filwaqt li Malta qatt ma setgħet tinjora r- relazzjonijiet mal- Libja , pajjiż ġar tagħha , meta [ġie] l- mument tal- verita' ma qagħditx lura milli tgħid li hu abjad , abjad u iswed , iswed .",
+        "output": "Filwaqt li Malta qatt ma setgħet tinjora r- relazzjonijiet mal- Libja , pajjiż ġar tagħha , meta ġie l- [mument | subject] tal- verita' ma qagħditx lura milli tgħid li hu abjad , abjad u iswed , iswed ."
+    },
+    {
+        "input": "Minkejja kull diskors kuntrarju , ħadd ma [jista'] jgħid li għall- ħabta tas- safra misħuta , il- Ministru ma kienx qed jikkontempla xi bidliet importanti fis- settur tal- logħob tal- azzard .",
+        "output": "Minkejja kull diskors kuntrarju , [ħadd | subject] ma jista' jgħid li għall- ħabta tas- safra misħuta , il- Ministru ma kienx qed jikkontempla xi bidliet importanti fis- settur tal- logħob tal- azzard ."
+    },
+    {
+        "input": "Kif [iddikjara] wkoll il- Prim Ministru Lawrence Gonzi , Malta hi 300 km biss 'il bogħod mill- Libja u l- prijorita' tibqa' s- sigurta' tal- pajjiż u tal- poplu Malti .",
+        "output": "Kif iddikjara wkoll il- Prim Ministru [Lawrence | subject] Gonzi , Malta hi 300 km biss 'il bogħod mill- Libja u l- prijorita' tibqa' s- sigurta' tal- pajjiż u tal- poplu Malti ."
+    },
+    {
+        "input": "Kif iddikjara wkoll il- Prim Ministru Lawrence Gonzi , Malta hi 300 km biss 'il bogħod mill- Libja u l- prijorita' [tibqa'] s- sigurta' tal- pajjiż u tal- poplu Malti .",
+        "output": "Kif iddikjara wkoll il- Prim Ministru Lawrence Gonzi , Malta hi 300 km biss 'il bogħod mill- Libja u l- [prijorita' | subject] tibqa' s- sigurta' tal- pajjiż u tal- poplu Malti ."
+    },
+    {
+        "input": "[Qabditni] l- kurżità , mort niftaħ il- gazzetta u kien hemm ritratt ta' Altaf u l- grupp , u bħala titlu kien hemm miktub , \" Diżgrazzja Oħra Fil- Baħar Mediterran \" .",
+        "output": "Qabditni l- [kurżità | subject] , mort niftaħ il- gazzetta u kien hemm ritratt ta' Altaf u l- grupp , u bħala titlu kien hemm miktub , \" Diżgrazzja Oħra Fil- Baħar Mediterran \" ."
+    },
+    {
+        "input": "Demicoli [beda] l- karriera tiegħu fil- pulizija imma mbaghad spiċċa wieħed mil- aktar nies fdati fl- apparat il- ġdid tal- PN li ħa s- sura wara li Eddie Fenech Adami laħaq kap .",
+        "output": "[Demicoli | subject] beda l- [karriera | object] tiegħu fil- pulizija imma mbaghad spiċċa wieħed mil- aktar nies fdati fl- apparat il- ġdid tal- PN li ħa s- sura wara li Eddie Fenech Adami laħaq kap ."
+    },
+    {
+        "input": "Meta l- eżistenza tagħha saret magħrufa , il- PN [għamel] sforz kbir biex jiċħad li kien hemm xi organizazzjoni speċjali li tagħmel il- funzjonijiet tal- grupp tal- Ġakketta blu .",
+        "output": "Meta l- eżistenza tagħha saret magħrufa , il- [PN | subject] għamel [sforz | object] kbir biex jiċħad li kien hemm xi organizazzjoni speċjali li tagħmel il- funzjonijiet tal- grupp tal- Ġakketta blu ."
+    },
+    {
+        "input": "Fuq quddiem nett kien hemm Charles Demicoli , veteran minn tmiem is- snin sebgħin ta' kif il- PN kien [organizza] ruħu kważi b' mod militari ħalli jinkwadra lis- segwaċi tiegħu .",
+        "output": "Fuq quddiem nett kien hemm Charles Demicoli , veteran minn tmiem is- snin sebgħin ta' kif il- [PN | subject] kien organizza [ruħu | object] kważi b' mod militari ħalli jinkwadra lis- segwaċi tiegħu ."
+    },
+    {
+        "input": "Sant wera li l- politikant serju li jqis ir- rwol tiegħu bħala missjoni biex itejjeb il- ħajja tal- poplu tiegħu , [ipoġġi] l- prinċipji qabel il- karriera politika tiegħu personali .",
+        "output": "Sant wera li l- [politikant | subject] serju li jqis ir- rwol tiegħu bħala missjoni biex itejjeb il- ħajja tal- poplu tiegħu , ipoġġi l- [prinċipji | object] qabel il- karriera politika tiegħu personali ."
+    },
+    {
+        "input": "Fl- istess żmien , tal- PN kienu [organizzaw] xibka ta' street leaders mat- toroq kollha ta' Malta u Għawdex biex jirrapportaw lura lill- partit dwar ir- residenti tat- triq tagħhom .",
+        "output": "Fl- istess żmien , tal- [PN | subject] kienu organizzaw [xibka | object] ta' street leaders mat- toroq kollha ta' Malta u Għawdex biex jirrapportaw lura lill- partit dwar ir- residenti tat- triq tagħhom ."
+    },
+    {
+        "input": "Madankollu , ż- żidiet tal- aħħar sigħat , jidher li [wasslu] lil Cameron biex jerġa' lura minn dak li qal ftit jiem ilu u issa qed iwissi lis- sewwieqa biex ma jittamawx wisq .",
+        "output": "Madankollu , ż- [żidiet | subject] tal- aħħar sigħat , jidher li wasslu lil [Cameron | object] biex jerġa' lura minn dak li qal ftit jiem ilu u issa qed iwissi lis- sewwieqa biex ma jittamawx wisq ."
+    },
+    {
+        "input": "\" Konna nippretendu li Chris Said , għad [għandu] għal qalbu l- ' kawża ' u l- kontribut tal- Kunsilli Lokali fis- soċjetà , \" saħaq sindku Nazzjonalista fin- naħa t' isfel ta' Malta .",
+        "output": "\" Konna nippretendu li [Chris | subject] Said , għad għandu għal qalbu l- ' [kawża | object] ' u l- kontribut tal- Kunsilli Lokali fis- soċjetà , \" saħaq sindku Nazzjonalista fin- naħa t' isfel ta' Malta ."
+    },
+    {
+        "input": "Għal xi żmien il- komunità Maltija ta' Smyrna kienet [tilħaq] l- elfejn ruħ , iżda wara l- Armistizju ta' l- 1918 , ħafna mill- Maltin xterdu ma' naħat oħra fil- lvant tal- Mediterran .",
+        "output": "Għal xi żmien il- [komunità | subject] Maltija ta' Smyrna kienet tilħaq l- elfejn [ruħ | object] , iżda wara l- Armistizju ta' l- 1918 , ħafna mill- Maltin xterdu ma' naħat oħra fil- lvant tal- Mediterran ."
+    },
+    {
+        "input": "L- Assoċjazzjoni tal- Kunsilli Lokali ma taqbilx mal- mod kif il- Gvern [waqqaf] mill- ġdid il- Kumitat ta' Azzjoni bejn Malta u l- Unjoni Ewropea magħruf bħala l- MEUSAC .",
+        "output": "L- Assoċjazzjoni tal- Kunsilli Lokali ma taqbilx mal- mod kif il- [Gvern | subject] waqqaf mill- ġdid il- [Kumitat | object] ta' Azzjoni bejn Malta u l- Unjoni Ewropea magħruf bħala l- MEUSAC ."
+    },
+    {
+        "input": "Għalhekk , kienet ħaġa kruċjali li l- grupp li ħadem fuq l- ispjunaġġ [ikollu] kemm informazzjoni personali jista' ħalli jasal għal ġudizzju dwar min kien joffri l- aħjar target għall- PN .",
+        "output": "Għalhekk , kienet ħaġa kruċjali li l- [grupp | subject] li ħadem fuq l- ispjunaġġ ikollu kemm [informazzjoni | object] personali jista' ħalli jasal għal ġudizzju dwar min kien joffri l- aħjar target għall- PN ."
+    },
+    {
+        "input": "Għalhekk , kienet ħaġa kruċjali li l- grupp li ħadem fuq l- ispjunaġġ ikollu kemm informazzjoni personali jista' ħalli jasal għal ġudizzju dwar min kien [joffri] l- aħjar target għall- PN .",
+        "output": "Għalhekk , kienet ħaġa kruċjali li l- grupp li ħadem fuq l- ispjunaġġ ikollu kemm informazzjoni personali jista' ħalli jasal għal ġudizzju dwar [min | subject] kien joffri l- aħjar [target | object] għall- PN ."
+    },
+    {
+        "input": "Aktar minn hekk , sorsi fil- qalba tal- PL qalu li favur tiegħu Jason Micallef [għandu] wkoll lid- Deputy Leader l- ieħor , Toni Abela , u dan qed idejjaq ukoll lill- core group ta' Muscat .",
+        "output": "Aktar minn hekk , sorsi fil- qalba tal- PL qalu li favur tiegħu [Jason | subject] Micallef għandu wkoll lid- Deputy [Leader | object] l- ieħor , Toni Abela , u dan qed idejjaq ukoll lill- core group ta' Muscat ."
+    },
+    {
+        "input": "Aktar minn hekk , sorsi fil- qalba tal- PL qalu li favur tiegħu Jason Micallef għandu wkoll lid- Deputy Leader l- ieħor , Toni Abela , u dan qed [idejjaq] ukoll lill- core group ta' Muscat .",
+        "output": "Aktar minn hekk , sorsi fil- qalba tal- PL qalu li favur tiegħu Jason Micallef għandu wkoll lid- Deputy Leader l- ieħor , Toni Abela , u [dan | subject] qed idejjaq ukoll lill- core [group | object] ta' Muscat ."
+    },
+    {
+        "input": "Ftit jiem wara s- Segretarju Parlamentari Dr Chris Said pubblikament [sostna] l- argument tas- Sur Borg u qal li skont stima li saru , dan il- proġett għandu jiġi jiswa madwar € 150 miljun .",
+        "output": "Ftit jiem wara s- Segretarju Parlamentari [Dr | subject] Chris Said pubblikament sostna l- [argument | object] tas- Sur Borg u qal li skont stima li saru , dan il- proġett għandu jiġi jiswa madwar € 150 miljun ."
+    },
+    {
+        "input": "Filwaqt li persuni eterosesswali [jsibu] l- milja tagħhom f' relazzjoni ta' mħabba ma' persuna tas- sess oppost , persuni omosesswali jagħmlu dan f' relazzjoni ma' persuna tal- istess sess .",
+        "output": "Filwaqt li [persuni | subject] eterosesswali jsibu l- [milja | object] tagħhom f' relazzjoni ta' mħabba ma' persuna tas- sess oppost , persuni omosesswali jagħmlu dan f' relazzjoni ma' persuna tal- istess sess ."
+    },
+    {
+        "input": "Filwaqt li persuni eterosesswali jsibu l- milja tagħhom f' relazzjoni ta' mħabba ma' persuna tas- sess oppost , persuni omosesswali [jagħmlu] dan f' relazzjoni ma' persuna tal- istess sess .",
+        "output": "Filwaqt li persuni eterosesswali jsibu l- milja tagħhom f' relazzjoni ta' mħabba ma' persuna tas- sess oppost , [persuni | subject] omosesswali jagħmlu [dan | object] f' relazzjoni ma' persuna tal- istess sess ."
+    },
+    {
+        "input": "Dawn il- persuni huma wkoll involuti fil- ħidma mal- uffiċċju elettorali tal- PN , l- ELCOM , fejn minkejja li m' għadux imexxih hu , għad [għandu] influwenza kbira l- ministru Austin Gatt .",
+        "output": "Dawn il- persuni huma wkoll involuti fil- ħidma mal- uffiċċju elettorali tal- PN , l- ELCOM , fejn minkejja li m' għadux imexxih hu , għad għandu [influwenza | object] kbira l- ministru [Austin | subject] Gatt ."
+    },
+    {
+        "input": "Minkejja kull diskors kuntrarju , ħadd ma jista' jgħid li għall- ħabta tas- safra misħuta , il- Ministru ma kienx qed [jikkontempla] xi bidliet importanti fis- settur tal- logħob tal- azzard .",
+        "output": "Minkejja kull diskors kuntrarju , ħadd ma jista' jgħid li għall- ħabta tas- safra misħuta , il- [Ministru | subject] ma kienx qed jikkontempla xi [bidliet | object] importanti fis- settur tal- logħob tal- azzard ."
+    },
+    {
+        "input": "Fil- 21 ta' Mejju 1934 il- president tar- repubblika Torka , Kemal Ataturk , [ħareġ] liġi li biha saret ħaġa tista' tgħid impossibbli għal min ma kienx ċittadin Tork li jibqa' jaħdem fit- Turkija .",
+        "output": "Fil- 21 ta' Mejju 1934 il- [president | subject] tar- repubblika Torka , Kemal Ataturk , ħareġ [liġi | object] li biha saret ħaġa tista' tgħid impossibbli għal min ma kienx ċittadin Tork li jibqa' jaħdem fit- Turkija ."
+    },
+    {
+        "input": "U dan meta gvernijiet oħrajn , ta' pajjiżi li aħna biċċa tikka ħdejhom , [naqqsu] s- salarji tal- ministri tagħhom b' sinjal ta' solidarjetà mal- poplu tagħhom .",
+        "output": "U dan meta [gvernijiet | subject] oħrajn , ta' pajjiżi li aħna biċċa tikka ħdejhom , naqqsu s- [salarji | object] tal- ministri tagħhom b' sinjal ta' solidarjetà mal- poplu tagħhom ."
+    },
+    {
+        "input": "Il- Prim Ministru Ingliż fl- aħħar sigħat [esprima] wkoll thassib dwar ir- rata dejjem tiżdied tal- għoli tal- ħajja , li qal li tiela' 'l fuq minħabba ż- żieda fil- prezz taż- żejt u ta' oġġetti oħra .",
+        "output": "Il- Prim [Ministru | subject] Ingliż fl- aħħar sigħat esprima wkoll [thassib | object] dwar ir- rata dejjem tiżdied tal- għoli tal- ħajja , li qal li tiela' 'l fuq minħabba ż- żieda fil- prezz taż- żejt u ta' oġġetti oħra ."
+    },
+    {
+        "input": "Grupp li ħadem mill- istamperija kien [jieħu] ħsieb ix- xogħol kollu , fosthom persuni li kienu nvoluti f' kampanja ta' spjunaġġ triq lura fis- snin tmenin .",
+        "output": "[Grupp | subject] li ħadem mill- istamperija kien jieħu ħsieb ix- [xogħol | object] kollu , fosthom persuni li kienu nvoluti f' kampanja ta' spjunaġġ triq lura fis- snin tmenin ."
+    },
+    {
+        "input": "Uħud minn dawk li kienu appoġġjaw lil Gonzi fit- tellieqa għat- tmexxija tal- PN wara li telaq Fenech Adami , kienu għamluhielu ċara li ma tantx jaqblu li nies bħal Demicoli [jkollhom] is- saħħa fil- PN .",
+        "output": "Uħud minn dawk li kienu appoġġjaw lil Gonzi fit- tellieqa għat- tmexxija tal- PN wara li telaq Fenech Adami , kienu għamluhielu ċara li ma tantx jaqblu li [nies | subject] bħal Demicoli jkollhom is- [saħħa | object] fil- PN ."
+    },
+    {
+        "input": "Ikkuntattjat minn din il- gazzetta Jimmy Magro , Segretarju Eżekuttiv tal- Assoċjazzjoni tal- Kunsilli Lokali , [ikkonferma] r- rabja tal- Assoċjazzoni .",
+        "output": "Ikkuntattjat minn din il- gazzetta [Jimmy | subject] Magro , Segretarju Eżekuttiv tal- Assoċjazzjoni tal- Kunsilli Lokali , ikkonferma r- [rabja | object] tal- Assoċjazzoni ."
+    },
+    {
+        "input": "Saħaq ukoll li bħalissa Transport Malta qed [tħejji] studju preliminari msejjaħ pre- feasibility study biex tevalwa jekk il- progett jistax isir jew le .",
+        "output": "Saħaq ukoll li bħalissa [Transport | subject] Malta qed tħejji [studju | object] preliminari msejjaħ pre- feasibility study biex tevalwa jekk il- progett jistax isir jew le ."
+    },
+    {
+        "input": "Fix- xhur ta' qabel il- kampanja elettorali ta' dis- sena il- PN [beda] proċess ta' spjunaġġ fuq individwi , l- aktar fuq dawk li jkunu qed jersqu lejn ministeri tal- gvern bl- ilmenti u bit- talbiet tagħhom .",
+        "output": "Fix- xhur ta' qabel il- kampanja elettorali ta' dis- sena il- [PN | subject] beda [proċess | object] ta' spjunaġġ fuq individwi , l- aktar fuq dawk li jkunu qed jersqu lejn ministeri tal- gvern bl- ilmenti u bit- talbiet tagħhom ."
+    },
+    {
+        "input": "Bħalma Ministru ma [jweġibx] lill- Prim Ministru dwar il- kondotta etika tiegħu iżda lejn il- votanti , l- istess Ministru ma jweġibx biss lejn l- operaturi l- oħra fis- settur meta jonqos fil- kondotta tiegħu .",
+        "output": "Bħalma [Ministru | subject] ma jweġibx lill- Prim [Ministru | object] dwar il- kondotta etika tiegħu iżda lejn il- votanti , l- istess Ministru ma jweġibx biss lejn l- operaturi l- oħra fis- settur meta jonqos fil- kondotta tiegħu ."
+    },
+    {
+        "input": "Li kelli favur tiegħi , li kont għamilt sitt snin nittrenja l- Bodybuilding u meta tagħmel bidla bħal din , tibda tinnota li hemm ħafna x' titgħallem għalkemm it- tnejn [għandhom] ħafna minn xulxin bħala sport .",
+        "output": "Li kelli favur tiegħi , li kont għamilt sitt snin nittrenja l- Bodybuilding u meta tagħmel bidla bħal din , tibda tinnota li hemm ħafna x' titgħallem għalkemm it- [tnejn | subject] għandhom [ħafna | object] minn xulxin bħala sport ."
+    },
+    {
+        "input": "Għaldaqstant nissuġġerixxi li l- kontributur [jiffoka] l- enerġiji tiegħu fuq nies li tassew qegħdin ikunu ta' piż għas- soċjetà bl- għemil tagħhom .",
+        "output": "Għaldaqstant nissuġġerixxi li l- [kontributur | subject] jiffoka l- [enerġiji | object] tiegħu fuq nies li tassew qegħdin ikunu ta' piż għas- soċjetà bl- għemil tagħhom ."
+    },
+    {
+        "input": "Filwaqt li nfaħħar il- mod li bih Fr Colin [tratta] s- sitwazzjoni , sfortunatament l- atteġġament pożittiv tiegħu mhux daqstant komuni fil- knisja .",
+        "output": "Filwaqt li nfaħħar il- mod li bih [Fr | subject] Colin tratta s- [sitwazzjoni | object] , sfortunatament l- atteġġament pożittiv tiegħu mhux daqstant komuni fil- knisja ."
+    },
+    {
+        "input": "Meta beda jidher ċar li l- maġġoranza parlamentari tiegħu kienet kundizzjonali u nstabbli , hu [poġġa] fil- ġemb kwalunkwe kalkolu ta' x' kien jaqbillu personalment u ta lura l- mandat tiegħu f' idejn il- poplu .",
+        "output": "Meta beda jidher ċar li l- maġġoranza parlamentari tiegħu kienet kundizzjonali u nstabbli , [hu | subject] poġġa fil- ġemb kwalunkwe [kalkolu | object] ta' x' kien jaqbillu personalment u ta lura l- mandat tiegħu f' idejn il- poplu ."
+    },
+    {
+        "input": "Dawn la [kellhom] qraba u lanqas ħbieb f' Malta u lanqas ma kellhom lil xi ħadd lest biex jaċċettahom fl- artijiet fejn kienu qed imorru l- Maltin .",
+        "output": "[Dawn | subject] la kellhom [qraba | object] u lanqas ħbieb f' Malta u lanqas ma kellhom lil xi ħadd lest biex jaċċettahom fl- artijiet fejn kienu qed imorru l- Maltin ."
+    },
+    {
+        "input": "Tonio Fenech hu l- Ministru responsabbli għas- settur tal- logħob tal- azzard fost oħrajn u Gorġ Fenech [għandu] interessi kbar f' dak is- settur .",
+        "output": "Tonio Fenech hu l- Ministru responsabbli għas- settur tal- logħob tal- azzard fost oħrajn u [Gorġ | subject] Fenech għandu [interessi | object] kbar f' dak is- settur ."
+    },
+    {
+        "input": "Fit- tieni parti tal- intervista li Newsbook . com . mt se jwasslilkom għada , Sean se [jispjega] d- differenza bejn Weightlifting u Powerlifting .",
+        "output": "Fit- tieni parti tal- intervista li Newsbook . com . mt se jwasslilkom għada , [Sean | subject] se jispjega d- [differenza | object] bejn Weightlifting u Powerlifting ."
+    },
+    {
+        "input": "U bl- akbar responsabbiltà ninsisti li għamilna sew għax hekk neħħejna l- piż li wieħed [jiffavorixxi] aktar lill- kantant milli l- kanzunetta \" .",
+        "output": "U bl- akbar responsabbiltà ninsisti li għamilna sew għax hekk neħħejna l- piż li [wieħed | subject] jiffavorixxi aktar lill- [kantant | object] milli l- kanzunetta \" ."
+    },
+    {
+        "input": "Jekk fil- fatt ġara hekk , Fenech [talab] id- dispensa papali mingħand Gonzi għaliex kien jaf li se jkun qed jikser regola kardinali tal- etika .",
+        "output": "Jekk fil- fatt ġara hekk , [Fenech | subject] talab id- [dispensa | object] papali mingħand Gonzi għaliex kien jaf li se jkun qed jikser regola kardinali tal- etika ."
+    },
+    {
+        "input": "Is- sitwazzjoni għall- ewwel sitt xhur tas- sena bl- ebda mod ma tindika li għandna fhiex inserrħu rasna , filwaqt li l- mod kif nattiraw it- turisti mis- swieq tas- soltu [jindika] dejjem aktar taħwid u inkonsistenza .",
+        "output": "Is- sitwazzjoni għall- ewwel sitt xhur tas- sena bl- ebda mod ma tindika li għandna fhiex inserrħu rasna , filwaqt li l- [mod | subject] kif nattiraw it- turisti mis- swieq tas- soltu jindika dejjem aktar [taħwid | object] u inkonsistenza ."
+    },
+    {
+        "input": "Fl- 1946 il- Gvern Ingliż [ħa] taħt il- ħarsien tiegħu seba' mitt persuna li kienu ta' nisel Malti u li kellhom passaport tar- Renju Unit .",
+        "output": "Fl- 1946 il- [Gvern | subject] Ingliż ħa taħt il- ħarsien tiegħu seba' mitt [persuna | object] li kienu ta' nisel Malti u li kellhom passaport tar- Renju Unit ."
+    },
+    {
+        "input": "Wara l- falliment ta' l- esperiment ta' l- 1880 ftit kien hemm interess Malti f' Ċipru iżda fl- 1927 ċertu Harman Grisewood [xtara] artijiet fl- inħawi ta' Margo u ried li f' din il- proprjetà jħaddem immigrati minn Malta .",
+        "output": "Wara l- falliment ta' l- esperiment ta' l- 1880 ftit kien hemm interess Malti f' Ċipru iżda fl- 1927 ċertu [Harman | subject] Grisewood xtara [artijiet | object] fl- inħawi ta' Margo u ried li f' din il- proprjetà jħaddem immigrati minn Malta ."
+    },
+    {
+        "input": "F' dan ir- rigward , il- Gvern Malti se jibqa' josserva u japplika is- sanzjonijiet kollha iżda Tonio Borg iddikjara li l- Gvern mhux se [jindaħal] lil min ikompli b' kummerċ mal- Libja li ma jkunx milqut mis- sanzjonijiet .",
+        "output": "F' dan ir- rigward , il- Gvern Malti se jibqa' josserva u japplika is- sanzjonijiet kollha iżda Tonio Borg iddikjara li l- [Gvern | subject] mhux se jindaħal lil [min | object] ikompli b' kummerċ mal- Libja li ma jkunx milqut mis- sanzjonijiet ."
+    },
+    {
+        "input": "Tenna li bħalissa Transport Malta qed [tiġbor] id- dokumentazzjoni kollha meħtieġa biex tkun tista' tħejji dan l- istudju preliminari .",
+        "output": "Tenna li bħalissa [Transport | subject] Malta qed tiġbor id- [dokumentazzjoni | object] kollha meħtieġa biex tkun tista' tħejji dan l- istudju preliminari ."
+    },
+    {
+        "input": "Il- Prim Ministru Ingliż David Cameron [biddel] fehmtu u mhux se jintervjeni dwar il- prezz dejjem jogħla tal- petrol fir- Renju Unit .",
+        "output": "Il- Prim Ministru Ingliż [David | subject] Cameron biddel [fehmtu | object] u mhux se jintervjeni dwar il- prezz dejjem jogħla tal- petrol fir- Renju Unit ."
+    },
+    {
+        "input": "Cameron [mar] pass lura fuq wegħda elettorali li kien għamel li jintervjeni biex inaqqas il- prezz tal- petrol jekk dan jogħla ħafna .",
+        "output": "[Cameron | subject] mar [pass | object] lura fuq wegħda elettorali li kien għamel li jintervjeni biex inaqqas il- prezz tal- petrol jekk dan jogħla ħafna ."
+    },
+    {
+        "input": "Fl- Ingilterra hu stmat li s- sewwieqa qed [jonfqu] mal- 10 miljun lira sterlina iktar kuljum fuq petrol milli kienu jonfqu sena ilu .",
+        "output": "Fl- Ingilterra hu stmat li s- [sewwieqa | subject] qed jonfqu mal- 10 miljun lira sterlina [iktar | object] kuljum fuq petrol milli kienu jonfqu sena ilu ."
+    },
+    {
+        "input": "Sadattant fost delegati u partitarji Laburisti , hemm min qed imexxi l- kelma li jista' jkun li l- Gvern [isejjaħ] elezzjoni bikrija .",
+        "output": "Sadattant fost delegati u partitarji Laburisti , hemm min qed imexxi l- kelma li jista' jkun li l- [Gvern | subject] isejjaħ [elezzjoni | object] bikrija ."
+    },
+    {
+        "input": "Din il- kampanja favur Alex Muscat kienet [dgħajfet] għal kollox lid- Deputat Laburista Anthony Agius Decelis li l- mara tiegħu kienet il- Viċi Sindku tal- kunsill diżastruż tal- Mosta u li ma tħallietx toħroġ għall- elezzjoni .",
+        "output": "Din il- [kampanja | subject] favur Alex Muscat kienet dgħajfet għal kollox lid- Deputat Laburista [Anthony | object] Agius Decelis li l- mara tiegħu kienet il- Viċi Sindku tal- kunsill diżastruż tal- Mosta u li ma tħallietx toħroġ għall- elezzjoni ."
+    },
+    {
+        "input": "Filwaqt li żied fuq il- konvinzjoni tiegħu li l- poplu Malti ma ħadhiex lanqas kontra Fabrizio Faniello , Robert Abela [sellem] l- irġulija tal- kantant li għaraf il- mument li jaffronta lill- pubbliku diżappuntat bir- riżultat .",
+        "output": "Filwaqt li żied fuq il- konvinzjoni tiegħu li l- poplu Malti ma ħadhiex lanqas kontra Fabrizio Faniello , [Robert | subject] Abela sellem l- [irġulija | object] tal- kantant li għaraf il- mument li jaffronta lill- pubbliku diżappuntat bir- riżultat ."
+    },
+    {
+        "input": "Dan kollu wassal biex litru petrol [irreġistra] l- akbar żieda f' ġurnata waħda , li qatt kienet irreġistrata f' perjodu ta' sena .",
+        "output": "Dan kollu wassal biex [litru | subject] petrol irreġistra l- akbar [żieda | object] f' ġurnata waħda , li qatt kienet irreġistrata f' perjodu ta' sena ."
+    },
+    {
+        "input": "F' moħħ Altaf bdew għaddejjin numru ta' ritratti , wieħed wara l- ieħor , u kull wieħed [kellu] l- istorja partikolari tiegħu .",
+        "output": "F' moħħ Altaf bdew għaddejjin numru ta' ritratti , wieħed wara l- ieħor , u kull [wieħed | subject] kellu l- [istorja | object] partikolari tiegħu ."
+    },
+    {
+        "input": "\" Il- Gvern [kellu] d- dmir li jara li l- Kunsilli jkunu proattivi billi jkunu preżenti fil- core group mhux biss f' sotto kumitat , \" sostniet Abela Baldacchino li fi ħdan l- Assoċjazzjoni hi responsabbli wkoll mill- qasam nazzjonali .",
+        "output": "\" Il- [Gvern | subject] kellu d- [dmir | object] li jara li l- Kunsilli jkunu proattivi billi jkunu preżenti fil- core group mhux biss f' sotto kumitat , \" sostniet Abela Baldacchino li fi ħdan l- Assoċjazzjoni hi responsabbli wkoll mill- qasam nazzjonali ."
+    },
+    {
+        "input": "Hekk [qal] lil IL- ĠENSillum online kelliem għas- Segretarjat Parlamentari għall- Kunsilli Lokali u Konsultazzjoni Pubblika dwar il- possibbiltà ta' bini ta' tunnel taħt il- baħar bejn Malta u Għawdex .",
+        "output": "Hekk qal lil IL- [ĠENSillum | indirect_object] online [kelliem | subject] għas- Segretarjat Parlamentari għall- Kunsilli Lokali u Konsultazzjoni Pubblika dwar il- possibbiltà ta' bini ta' tunnel taħt il- baħar bejn Malta u Għawdex ."
+    },
+    {
+        "input": "Hekk ma ra xejn ħażin billi f' xenarju ta' sitwazzjoni ekonomika diffiċli , jippriedka l- awsterità lili u lilek filwaqt li hu [żied] lilu nnifsu u lil sħabu € 500 fil- ġimgħa .",
+        "output": "Hekk ma ra xejn ħażin billi f' xenarju ta' sitwazzjoni ekonomika diffiċli , jippriedka l- awsterità lili u lilek filwaqt li [hu | subject] żied [lilu | indirect_object] nnifsu u lil sħabu [€ | object] 500 fil- ġimgħa ."
+    }
+]

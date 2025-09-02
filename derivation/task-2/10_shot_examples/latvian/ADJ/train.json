@@ -1,0 +1,117 @@
+[
+    {
+        "lemma": "bāls",
+        "surface_word": "bālgans",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "-gans",
+        "prefix": [],
+        "suffix": "-gans",
+        "alternative_0": "bāls<ADJ> gans<ADJ_SUFF>",
+        "sub_words": "bāls<ADJ> gans<ADJ_SUFF>"
+    },
+    {
+        "lemma": "simbolists",
+        "surface_word": "simbolistisks",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-isks",
+        "prefix": [],
+        "suffix": "-isks",
+        "alternative_0": "simbolists<N> isks<ADJ_SUFF>",
+        "alternative_1": "simbols<N> ists<N_SUFF> isks<ADJ_SUFF>",
+        "sub_words": "simbols<N> ists<N_SUFF> isks<ADJ_SUFF>"
+    },
+    {
+        "lemma": "arābs",
+        "surface_word": "arābisks",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-isks",
+        "prefix": [],
+        "suffix": "-isks",
+        "alternative_0": "arābs<N> isks<ADJ_SUFF>",
+        "sub_words": "arābs<N> isks<ADJ_SUFF>"
+    },
+    {
+        "lemma": "pērn",
+        "surface_word": "pērnējs",
+        "lemma_pos": "ADV",
+        "surface_word_tag": "ADJ",
+        "affix": "-ējs",
+        "prefix": [],
+        "suffix": "-ējs",
+        "alternative_0": "pērn<ADV> ējs<ADJ_SUFF>",
+        "sub_words": "pērn<ADV> ējs<ADJ_SUFF>"
+    },
+    {
+        "lemma": "kārt",
+        "surface_word": "atkarīgs",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "at-",
+        "prefix": "at-",
+        "suffix": [],
+        "alternative_0": "at<PREF> kārt<V>",
+        "sub_words": "at<PREF> kārt<V>"
+    },
+    {
+        "lemma": "vajadzēt",
+        "surface_word": "vajadzīgs",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "-īgs",
+        "prefix": [],
+        "suffix": "-īgs",
+        "alternative_0": "vajadzēt<V> īgs<ADJ_SUFF>",
+        "sub_words": "vajadzēt<V> īgs<ADJ_SUFF>"
+    },
+    {
+        "lemma": "racionālists",
+        "surface_word": "racionālistisks",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-isks",
+        "prefix": [],
+        "suffix": "-isks",
+        "alternative_0": "racionālists<N> isks<ADJ_SUFF>",
+        "alternative_1": "racionāls<ADJ> ists<N_SUFF> isks<ADJ_SUFF>",
+        "sub_words": "racionāls<ADJ> ists<N_SUFF> isks<ADJ_SUFF>"
+    },
+    {
+        "lemma": "seksuāls",
+        "surface_word": "homoseksuāls",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "homo-",
+        "prefix": "homo-",
+        "suffix": [],
+        "alternative_0": "homo<PREF> seksuāls<ADJ>",
+        "alternative_1": "homo<PREF> sekss<N> āls<ADJ_SUFF>",
+        "sub_words": "homo<PREF> sekss<N> āls<ADJ_SUFF>"
+    },
+    {
+        "lemma": "zils",
+        "surface_word": "iezils",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "ie-",
+        "prefix": "ie-",
+        "suffix": [],
+        "alternative_0": "ie<PREF> zils<ADJ>",
+        "sub_words": "ie<PREF> zils<ADJ>"
+    },
+    {
+        "lemma": "nacionālists",
+        "surface_word": "nacionālistisks",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-isks",
+        "prefix": [],
+        "suffix": "-isks",
+        "alternative_0": "nacionālists<N> isks<ADJ_SUFF>",
+        "alternative_1": "nacionāls<ADJ> ists<N_SUFF> isks<ADJ_SUFF>",
+        "alternative_2": "nācija<N> āls<ADJ_SUFF> ists<N_SUFF> isks<ADJ_SUFF>",
+        "sub_words": "nācija<N> āls<ADJ_SUFF> ists<N_SUFF> isks<ADJ_SUFF>"
+    }
+]

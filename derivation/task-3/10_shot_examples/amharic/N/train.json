@@ -1,0 +1,112 @@
+[
+  {
+    "surface_word": "ለመበየን",
+    "surface_word_tag": "N",
+    "sub_words": "ለ<ADP> መ<N_PREF> በየን<N> ",
+    "lemma": "መበየን",
+    "stem": "መ-በየን<N>",
+    "root": "ብይን:B",
+    "deriv": "*DAT;*INF;*OBL;*TEDERAGI;PASS;SG",
+    "freq": 3,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ለመረገምም",
+    "surface_word_tag": "N",
+    "sub_words": "ለ<ADP> መ<N_PREF> ረገም<N> ም<ADV>",
+    "lemma": "መረገም",
+    "stem": "መ-ረገም<N>",
+    "root": "ርግም:A",
+    "deriv": "*DAT;*INF;*OBL;*TEDERAGI;PASS;SG",
+    "freq": 17,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "የመዋደጃ",
+    "surface_word_tag": "N",
+    "sub_words": "የ<ADP> መ<N_PREF> ዋደድ<N> ኢያ<N_SUFF> ",
+    "lemma": "መዋደጃ",
+    "stem": "መ-ዋደድ-ኢያ<N>",
+    "root": "ውድድ:A",
+    "deriv": "*TEDARAGI;GEN;SG",
+    "freq": 541,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "መቆለሉን",
+    "surface_word_tag": "N",
+    "sub_words": " መ<N_PREF> ቆለል<N> ኡ<PRON> ን<ADP>",
+    "lemma": "መቈለል",
+    "stem": "መ-ቆለል<N>",
+    "root": "ቁልል:B",
+    "deriv": "*INF;*PRSPRO;*TEDERAGI;ACC;PASS;PSS3SM;SG",
+    "freq": 9,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ተደብዳቢ",
+    "surface_word_tag": "N",
+    "sub_words": " ተ<N_PREF> ደብዳብ<N> ኢ<N_SUFF> ",
+    "lemma": "ተደብዳቢ",
+    "stem": "ተ-ደብዳብ-ኢ<N>",
+    "root": "ድብድብ:E",
+    "deriv": "*AGT;*TEDERAGI;PASS;SG",
+    "freq": 24,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "የመወዳደሪያውን",
+    "surface_word_tag": "N",
+    "sub_words": "የ<ADP> መ<N_PREF> ወዳደር<N> ኢያ<N_SUFF> ኡ<PRON> ን<ADP>",
+    "lemma": "መወዳደሪያ",
+    "stem": "መ-ወዳደር-ኢያ<N>",
+    "root": "ውድር:B",
+    "deriv": "*PRSPRO;*TEDERARAGI;ACC+GEN;PSS3SM;RECP;SG",
+    "freq": 2,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "መመኪያዬ",
+    "surface_word_tag": "N",
+    "sub_words": " መ<N_PREF> መክ<N> ኢያ<N_SUFF> ኤ<PRON>",
+    "lemma": "መመኪያ",
+    "stem": "መ-መክ-ኢያ<N>",
+    "root": "ምክእ:A",
+    "deriv": "*PRSPRO;*TEDERAGI;PASS;PSS1S;SG",
+    "freq": 1,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "መቀጨጭም",
+    "surface_word_tag": "N",
+    "sub_words": " መ<N_PREF> ቀጨጭ<N> ም<ADV>",
+    "lemma": "መቀጨጭ",
+    "stem": "መ-ቀጨጭ<N>",
+    "root": "ቅጭጭ:B",
+    "deriv": "*DERAGI;*INF;SG",
+    "freq": 3,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "ለመፋለም",
+    "surface_word_tag": "N",
+    "sub_words": "ለ<ADP> መ<N_PREF> ፋለም<N> ",
+    "lemma": "መፋለም",
+    "stem": "መ-ፋለም<N>",
+    "root": "ፍልም:C",
+    "deriv": "*DAT;*INF;*OBL;*TEDERAGI;SG",
+    "freq": 1,
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "በመጠረዝ",
+    "surface_word_tag": "N",
+    "sub_words": "በ<ADP> መ<N_PREF> ጠረዝ<N> ",
+    "lemma": "መጠረዝ",
+    "stem": "መ-ጠረዝ<N>",
+    "root": "ጥርዝ:B",
+    "deriv": "*INF;*INS;*OBL;*TEDERAGI;PASS;SG",
+    "freq": 1,
+    "annotated": "ok"
+  }
+]

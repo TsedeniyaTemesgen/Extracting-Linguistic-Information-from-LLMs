@@ -1,0 +1,18 @@
+[
+    {
+        "input": "Da manche Güter begehrter sind als andere , kann sich der Spieler einen Vorteil [verschaffen] , wenn er eine solche Nachfrage befriedigt .",
+        "output": "Da manche Güter begehrter sind als andere , kann [sich | indirect_object] der [Spieler | subject] einen [Vorteil | object] verschaffen , wenn er eine solche Nachfrage befriedigt ."
+    },
+    {
+        "input": "Man muss dazu [sagen] , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe gesagt habe , dass ich nur eine neue Kette haben möchte .",
+        "output": "[Man | subject] muss dazu sagen , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe gesagt habe , dass ich nur eine neue Kette haben möchte ."
+    },
+    {
+        "input": "Man muss dazu sagen , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe gesagt habe , dass ich nur eine neue Kette [haben] möchte .",
+        "output": "Man muss dazu sagen , dass das Fahrrad 15 Jahre alt ist und ich bei der Abgabe gesagt habe , dass [ich | subject] nur eine neue [Kette | object] haben möchte ."
+    },
+    {
+        "input": "Ich möchte auf diesem Wege dem gesamtem Team der \" Hauptstadtschwestern \" für die tatkräftige Hilfe und die aufmunternden Worte [danken] .",
+        "output": "[Ich | subject] möchte auf diesem Wege dem gesamtem [Team | indirect_object] der \" Hauptstadtschwestern \" für die tatkräftige Hilfe und die aufmunternden Worte danken ."
+    }
+]

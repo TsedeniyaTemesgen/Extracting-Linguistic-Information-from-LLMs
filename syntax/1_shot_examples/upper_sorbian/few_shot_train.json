@@ -1,0 +1,14 @@
+[
+    {
+        "input": "Stat je politiski konstrukt , kotryž [wopřijmje] zhromadny , wobmjezowany teritorij , k tomu słušacy statny lud ( po staćanstwje ) a realne wukonjenje mocy ( statnu móc ) .",
+        "output": "Stat je politiski konstrukt , [kotryž | subject] wopřijmje zhromadny , wobmjezowany [teritorij | object] , k tomu słušacy statny lud ( po staćanstwje ) a realne wukonjenje mocy ( statnu móc ) ."
+    },
+    {
+        "input": "Historikarjo mjenuja tutu dobu zažnodynastisku periodu , kotraž so w 23 . lětstotku př . n . l . [skónči] .",
+        "output": "Historikarjo mjenuja tutu dobu zažnodynastisku periodu , [kotraž | subject] so w 23 . lětstotku př . n . l . skónči ."
+    },
+    {
+        "input": "1018 W Budyskim měrje mjez Bolesławom Chrobrym a němskim kejžorom Heinrichom II . so teritorijej Łužičanow a Milčanow pólskemu wjerchej za leno [přidźělitej] ( hač do lěta 1031 ) .",
+        "output": "1018 W Budyskim měrje mjez Bolesławom Chrobrym a němskim kejžorom Heinrichom II . so [teritorijej | subject] Łužičanow a Milčanow pólskemu [wjerchej | indirect_object] za leno přidźělitej ( hač do lěta 1031 ) ."
+    }
+]

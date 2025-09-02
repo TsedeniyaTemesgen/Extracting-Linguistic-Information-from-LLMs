@@ -1,0 +1,38 @@
+[
+    {
+        "lemma": "odurzyć",
+        "surface_word": "odurzenie",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-enie",
+        "prefix": [],
+        "suffix": "-enie",
+        "alternative_0": "odurzyć<V> enie<N_SUFF>",
+        "sub_words": "odurzyć<V> enie<N_SUFF>"
+    },
+    {
+        "lemma": "bezpieczny",
+        "surface_word": "bezpieczność",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-ość",
+        "prefix": [],
+        "suffix": "-ość",
+        "alternative_0": "bezpieczny<ADJ> ość<N_SUFF>",
+        "alternative_1": "bezpieka<N> ny<ADJ_SUFF> ość<N_SUFF>",
+        "sub_words": "bezpieka<N> ny<ADJ_SUFF> ość<N_SUFF>"
+    },
+    {
+        "lemma": "wystroić",
+        "surface_word": "wystrojenie",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-enie",
+        "prefix": [],
+        "suffix": "-enie",
+        "alternative_0": "wystroić<V> enie<N_SUFF>",
+        "alternative_1": "wy<PREF> stroić<V> enie<N_SUFF>",
+        "alternative_2": "wy<PREF> strój<N> ić<V_SUFF> enie<N_SUFF>",
+        "sub_words": "wy<PREF> strój<N> ić<V_SUFF> enie<N_SUFF>"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "input": "I [anticipate] completing the review of the Master Agreement form and submitting comments to you by Monday .",
+        "output": "[I | subject] anticipate completing the review of the Master Agreement form and submitting comments to you by Monday ."
+    },
+    {
+        "input": "I am [looking] for people who would like to play D & D 3.5 and live in or around the Chillicothe , OH area .",
+        "output": "[I | subject] am looking for people who would like to play D & D 3.5 and live in or around the Chillicothe , OH area ."
+    },
+    {
+        "input": "I am looking for people who would [like] to play D & D 3.5 and live in or around the Chillicothe , OH area .",
+        "output": "I am looking for people [who | subject] would like to play D & D 3.5 and live in or around the Chillicothe , OH area ."
+    },
+    {
+        "input": "In London , the price of Brent North Sea crude for November delivery [advanced] 53 cents to 64.73 dollars .",
+        "output": "In London , the [price | subject] of Brent North Sea crude for November delivery advanced 53 cents to 64.73 dollars ."
+    },
+    {
+        "input": "The one time I actually [booked] through a travel agent I did not get all of the amenities I had paid for .",
+        "output": "The one time [I | subject] actually booked through a travel agent I did not get all of the amenities I had paid for ."
+    },
+    {
+        "input": "The one time I actually booked through a travel agent I did not get all of the amenities I had [paid] for .",
+        "output": "The one time I actually booked through a travel agent I did not get all of the amenities [I | subject] had paid for ."
+    },
+    {
+        "input": "Now Iran [wants] to turn the tables and is inviting cartoonists to do their best by depicting the Holocaust .",
+        "output": "Now [Iran | subject] wants to turn the tables and is inviting cartoonists to do their best by depicting the Holocaust ."
+    },
+    {
+        "input": "\" ... there [is] no companion quite so devoted , so communicative , so loving and so mesmerizing as a rat . \"",
+        "output": "\" ... there is no [companion | subject] quite so devoted , so communicative , so loving and so mesmerizing as a rat . \""
+    },
+    {
+        "input": "In fact Peder and I were [remarking] on how agreeable they all are as the sucked on our balls last night .",
+        "output": "In fact [Peder | subject] and I were remarking on how agreeable they all are as the sucked on our balls last night ."
+    },
+    {
+        "input": "In fact Peder and I were remarking on how agreeable they all are as the [sucked] on our balls last night .",
+        "output": "In fact Peder and I were remarking on how agreeable they all are as [the | subject] sucked on our balls last night ."
+    },
+    {
+        "input": "US Marines [moved] into most of Fallujah on Wednesday , though they were still meeting pockets of resistance .",
+        "output": "US [Marines | subject] moved into most of Fallujah on Wednesday , though they were still meeting pockets of resistance ."
+    },
+    {
+        "input": "This section [pertains] to terminated employees who are paid out in the year following the termination event .",
+        "output": "This [section | subject] pertains to terminated employees who are paid out in the year following the termination event ."
+    },
+    {
+        "input": "Apart from these there [are] numerous cabs that ferry passengers between Sector - 37 crossing and Pari Chowk .",
+        "output": "Apart from these there are numerous [cabs | subject] that ferry passengers between Sector - 37 crossing and Pari Chowk ."
+    },
+    {
+        "input": "I have a male and female cockatiel , and there [are] 2 eggs in the bottom of the cage , will they hatch ?",
+        "output": "I have a male and female cockatiel , and there are 2 [eggs | subject] in the bottom of the cage , will they hatch ?"
+    },
+    {
+        "input": "I have a male and female cockatiel , and there are 2 eggs in the bottom of the cage , will they [hatch] ?",
+        "output": "I have a male and female cockatiel , and there are 2 eggs in the bottom of the cage , will [they | subject] hatch ?"
+    },
+    {
+        "input": "the easiest thing would be a fish - but u [need] to clean the tank weekly , feed it the right amt , etc x",
+        "output": "the easiest thing would be a fish - but [u | subject] need to clean the tank weekly , feed it the right amt , etc x"
+    },
+    {
+        "input": "2 ) I would [like] to say on a island with an a ) all inclusive resort ( if possible ) , and a beach front room",
+        "output": "2 ) [I | subject] would like to say on a island with an a ) all inclusive resort ( if possible ) , and a beach front room"
+    },
+    {
+        "input": "In the past there have [been] .. and maybe there still are many things that you have had to do without .",
+        "output": "In the past there have been .. and maybe there still are many [things | subject] that you have had to do without ."
+    },
+    {
+        "input": "In the past there have been .. and maybe there still are many things that you have [had] to do without .",
+        "output": "In the past there have been .. and maybe there still are many things that [you | subject] have had to do without ."
+    },
+    {
+        "input": "If you see a dark spot in the egg , that [means] it is fertilized and will hatch if cared for properly .",
+        "output": "If you see a dark spot in the egg , [that | subject] means it is fertilized and will hatch if cared for properly ."
+    },
+    {
+        "input": "You have received this BBC Breaking News Alert because you [subscribed] to it or , someone forwarded it to you .",
+        "output": "You have received this BBC Breaking News Alert because [you | subject] subscribed to it or , someone forwarded it to you ."
+    },
+    {
+        "input": "Valero [said] it was reducing rates at its 243,000 bpd Texas City refinery and its 85,000 bpd Houston refinery .",
+        "output": "[Valero | subject] said it was reducing rates at its 243,000 bpd Texas City refinery and its 85,000 bpd Houston refinery ."
+    },
+    {
+        "input": "NASA [intends] upon retiring the space shuttles in 2010 , which only leaves it with 18 flights towards the ISS .",
+        "output": "[NASA | subject] intends upon retiring the space shuttles in 2010 , which only leaves it with 18 flights towards the ISS ."
+    },
+    {
+        "input": "When my server [crashed] , Greg worked from 7 PM until 4 AM and had my company up and running the next morning .",
+        "output": "When my [server | subject] crashed , Greg worked from 7 PM until 4 AM and had my company up and running the next morning ."
+    },
+    {
+        "input": "When my server crashed , Greg [worked] from 7 PM until 4 AM and had my company up and running the next morning .",
+        "output": "When my server crashed , [Greg | subject] worked from 7 PM until 4 AM and had my company up and running the next morning ."
+    },
+    {
+        "input": "There has [been] random speculation about Google developiong a new browser and / or acquiring Firefox .",
+        "output": "There has been random [speculation | subject] about Google developiong a new browser and / or acquiring Firefox ."
+    },
+    {
+        "input": "Abbas also [pledged] to resolve the problem of millions of Palestinian refugees and their descendants .",
+        "output": "[Abbas | subject] also pledged to resolve the problem of millions of Palestinian refugees and their descendants ."
+    },
+    {
+        "input": "I [remain] devoted full - time to the advancement of Firefox , the Mozilla platform and web browsing in general .",
+        "output": "[I | subject] remain devoted full - time to the advancement of Firefox , the Mozilla platform and web browsing in general ."
+    },
+    {
+        "input": "Anthony Shadid of the Washington Post [reveals] that the warrants for the arrests had been issued months be for .",
+        "output": "[Anthony | subject] Shadid of the Washington Post reveals that the warrants for the arrests had been issued months be for ."
+    },
+    {
+        "input": "All you [have] to do is sign up for one free offer ( such as efax ) and then cancel within the offer time frame .",
+        "output": "All [you | subject] have to do is sign up for one free offer ( such as efax ) and then cancel within the offer time frame ."
+    },
+    {
+        "input": "can children [go] on the Eurostar train on there own to France and where about is the Eurostar located",
+        "output": "can [children | subject] go on the Eurostar train on there own to France and where about is the Eurostar located"
+    },
+    {
+        "input": "you get a really good view of the city and there [is] also attractions like simulator , short movies .",
+        "output": "you get a really good view of the city and there is also [attractions | subject] like simulator , short movies ."
+    },
+    {
+        "input": "After firing this company my next pool service [found] the filters had not been cleaned as they should have been .",
+        "output": "After firing this company my next pool [service | subject] found the filters had not been cleaned as they should have been ."
+    },
+    {
+        "input": "You have no interest in \" two - timing \" and all you [seek] is sincerity and \" straight - dealing \" .",
+        "output": "You have no interest in \" two - timing \" and all [you | subject] seek is sincerity and \" straight - dealing \" ."
+    },
+    {
+        "input": "Teachers good Diverse student body ( African - American , Asian , ect. ) [equals] kids staying here !",
+        "output": "Teachers good Diverse student [body | subject] ( African - American , Asian , ect. ) equals kids staying here !"
+    },
+    {
+        "input": "Teachers good Diverse student body ( African - American , Asian , ect. ) equals kids [staying] here !",
+        "output": "Teachers good Diverse student body ( African - American , Asian , ect. ) equals [kids | subject] staying here !"
+    },
+    {
+        "input": "I [enjoyed] working with all of you during the past five years at Enron / Azurix , and I wish you all of the best .",
+        "output": "[I | subject] enjoyed working with all of you during the past five years at Enron / Azurix , and I wish you all of the best ."
+    },
+    {
+        "input": "French women are the ones to say yes , the way we say it is not usually as straigthforward as you [propose] to do .",
+        "output": "French women are the ones to say yes , the way we say it is not usually as straigthforward as [you | subject] propose to do ."
+    },
+    {
+        "input": "Chahine [said] her immediate family spent about $ 20,000 to return to Detroit via Syria and Jordan .",
+        "output": "[Chahine | subject] said her immediate family spent about $ 20,000 to return to Detroit via Syria and Jordan ."
+    },
+    {
+        "input": "Until we have [come] up with those numbers it would be premature to make any offers for the summer .",
+        "output": "Until [we | subject] have come up with those numbers it would be premature to make any offers for the summer ."
+    },
+    {
+        "input": "Up to 40 rockets had been fired at Israel , weeks after its military [withdrew] from the territory .",
+        "output": "Up to 40 rockets had been fired at Israel , weeks after its [military | subject] withdrew from the territory ."
+    },
+    {
+        "input": "Food like the stuff they [eat] in Spanish countries like tacos , beans , rice , pork , steak , ect .",
+        "output": "Food like the stuff [they | subject] eat in Spanish countries like tacos , beans , rice , pork , steak , ect ."
+    },
+    {
+        "input": "Certain elements of the travelling community [engage] in this activity , but overall no not really .",
+        "output": "Certain [elements | subject] of the travelling community engage in this activity , but overall no not really ."
+    },
+    {
+        "input": "Resolving this conflict would be the most effective weapon the United States could [deploy] in its war on terror . \"",
+        "output": "Resolving this conflict would be the most effective weapon the United [States | subject] could deploy in its war on terror . \""
+    },
+    {
+        "input": "Amazingly , these idiots [think] a cartoon of Mohammed is comparable to what we can expect in this new fun contest :",
+        "output": "Amazingly , these [idiots | subject] think a cartoon of Mohammed is comparable to what we can expect in this new fun contest :"
+    },
+    {
+        "input": "Amazingly , these idiots think a cartoon of Mohammed is comparable to what we can [expect] in this new fun contest :",
+        "output": "Amazingly , these idiots think a cartoon of Mohammed is comparable to what [we | subject] can expect in this new fun contest :"
+    },
+    {
+        "input": "At the same time , an Iranian Opposition Group [released] what they call proof of a covert nuclear weapons program .",
+        "output": "At the same time , an Iranian Opposition [Group | subject] released what they call proof of a covert nuclear weapons program ."
+    },
+    {
+        "input": "This has [resulted] in a major rail accident in Pakistan involving three trains and involving more than 300 deaths .",
+        "output": "[This | subject] has resulted in a major rail accident in Pakistan involving three trains and involving more than 300 deaths ."
+    },
+    {
+        "input": "actually i have an project on it so please give me as much as you [have] information about migratory birds in punjab",
+        "output": "actually i have an project on it so please give me as much as [you | subject] have information about migratory birds in punjab"
+    },
+    {
+        "input": "When their precious cartoons are released I highly [doubt] it will look like the end of the world .",
+        "output": "When their precious cartoons are released [I | subject] highly doubt it will look like the end of the world ."
+    },
+    {
+        "input": "Jim Lobe [has] more on the political implications of the Fallujah assault , both in Iraq and in Washington .",
+        "output": "[Jim | subject] Lobe has [more | object] on the political implications of the Fallujah assault , both in Iraq and in Washington ."
+    },
+    {
+        "input": "Crap like this sure [makes] me want to rush right out and rescue people from dilemmas of their own making .",
+        "output": "[Crap | subject] like this sure makes [me | object] want to rush right out and rescue people from dilemmas of their own making ."
+    },
+    {
+        "input": "The one time I actually booked through a travel agent I did not [get] all of the amenities I had paid for .",
+        "output": "The one time I actually booked through a travel agent [I | subject] did not get [all | object] of the amenities I had paid for ."
+    },
+    {
+        "input": "Be more careful when you [write] reviews - this is an accounting group , not Hollister the clothing store .",
+        "output": "Be more careful when [you | subject] write [reviews | object] - this is an accounting group , not Hollister the clothing store ."
+    },
+    {
+        "input": "Perhaps you are willing to recommend this site and , if you [have] a website , place a link on your website .",
+        "output": "Perhaps you are willing to recommend this site and , if [you | subject] have a [website | object] , place a link on your website ."
+    },
+    {
+        "input": "America [cried] wolf in Iraq , and what’s scary is that sooner or later , that wolf will probably get us .",
+        "output": "[America | subject] cried [wolf | object] in Iraq , and what’s scary is that sooner or later , that wolf will probably get us ."
+    },
+    {
+        "input": "America cried wolf in Iraq , and what’s scary is that sooner or later , that wolf will probably [get] us .",
+        "output": "America cried wolf in Iraq , and what’s scary is that sooner or later , that [wolf | subject] will probably get [us | object] ."
+    },
+    {
+        "input": "If you [received] this in error , please contact the sender and delete the material from all computers . \"",
+        "output": "If [you | subject] received [this | object] in error , please contact the sender and delete the material from all computers . \""
+    },
+    {
+        "input": "US Marines moved into most of Fallujah on Wednesday , though they were still [meeting] pockets of resistance .",
+        "output": "US Marines moved into most of Fallujah on Wednesday , though [they | subject] were still meeting [pockets | object] of resistance ."
+    },
+    {
+        "input": "Apart from these there are numerous cabs that [ferry] passengers between Sector - 37 crossing and Pari Chowk .",
+        "output": "Apart from these there are numerous cabs [that | subject] ferry [passengers | object] between Sector - 37 crossing and Pari Chowk ."
+    },
+    {
+        "input": "I [have] a male and female cockatiel , and there are 2 eggs in the bottom of the cage , will they hatch ?",
+        "output": "[I | subject] have a male and female [cockatiel | object] , and there are 2 eggs in the bottom of the cage , will they hatch ?"
+    },
+    {
+        "input": "If you [see] a dark spot in the egg , that means it is fertilized and will hatch if cared for properly .",
+        "output": "If [you | subject] see a dark [spot | object] in the egg , that means it is fertilized and will hatch if cared for properly ."
+    },
+    {
+        "input": "Also , we have [attached] a pdf black - line of the Guarantee vs the form of guarantee in the Turbine Contract .",
+        "output": "Also , [we | subject] have attached a pdf black - [line | object] of the Guarantee vs the form of guarantee in the Turbine Contract ."
+    },
+    {
+        "input": "Based on specific intelligence inputs , Army [arrested] Ghulam Mohiuddin Lone , a LeT man , from Doda district .",
+        "output": "Based on specific intelligence inputs , [Army | subject] arrested [Ghulam | object] Mohiuddin Lone , a LeT man , from Doda district ."
+    },
+    {
+        "input": "You have [received] this BBC Breaking News Alert because you subscribed to it or , someone forwarded it to you .",
+        "output": "[You | subject] have received this BBC Breaking News [Alert | object] because you subscribed to it or , someone forwarded it to you ."
+    },
+    {
+        "input": "You have received this BBC Breaking News Alert because you subscribed to it or , someone [forwarded] it to you .",
+        "output": "You have received this BBC Breaking News Alert because you subscribed to it or , [someone | subject] forwarded [it | object] to you ."
+    },
+    {
+        "input": "The idea about this site is that the visitors can [send] in their own pictures and get them added to the album .",
+        "output": "The idea about this site is that the [visitors | subject] can send in their own [pictures | object] and get them added to the album ."
+    },
+    {
+        "input": "Some countries like Malaysia and Singapore [promote] trading for foreign visitors during some part of the year .",
+        "output": "Some [countries | subject] like Malaysia and Singapore promote [trading | object] for foreign visitors during some part of the year ."
+    },
+    {
+        "input": "Valero said it was [reducing] rates at its 243,000 bpd Texas City refinery and its 85,000 bpd Houston refinery .",
+        "output": "Valero said [it | subject] was reducing [rates | object] at its 243,000 bpd Texas City refinery and its 85,000 bpd Houston refinery ."
+    },
+    {
+        "input": "NASA intends upon retiring the space shuttles in 2010 , which only [leaves] it with 18 flights towards the ISS .",
+        "output": "NASA intends upon retiring the space shuttles in 2010 , [which | subject] only leaves [it | object] with 18 flights towards the ISS ."
+    },
+    {
+        "input": "Caldwell insurance has been [doing] our insurance for a couple years now and they have been extremely thorough .",
+        "output": "[Caldwell | subject] insurance has been doing our [insurance | object] for a couple years now and they have been extremely thorough ."
+    },
+    {
+        "input": "Arial photos , loose connections to AQ Kahn and Libya [make] up the evidence that the group presented .",
+        "output": "Arial [photos | subject] , loose connections to AQ Kahn and Libya make up the [evidence | object] that the group presented ."
+    },
+    {
+        "input": "Arial photos , loose connections to AQ Kahn and Libya make up the evidence that the group [presented] .",
+        "output": "Arial photos , loose connections to AQ Kahn and Libya make up the evidence [that | object] the [group | subject] presented ."
+    },
+    {
+        "input": "There has been random speculation about Google [developiong] a new browser and / or acquiring Firefox .",
+        "output": "There has been random speculation about [Google | subject] developiong a new [browser | object] and / or acquiring Firefox ."
+    },
+    {
+        "input": "Therefore I could not [estimate] the mean reversion rate as the estimated slope has the positive sign .",
+        "output": "Therefore [I | subject] could not estimate the mean reversion [rate | object] as the estimated slope has the positive sign ."
+    },
+    {
+        "input": "Therefore I could not estimate the mean reversion rate as the estimated slope [has] the positive sign .",
+        "output": "Therefore I could not estimate the mean reversion rate as the estimated [slope | subject] has the positive [sign | object] ."
+    },
+    {
+        "input": "In response to the rockets , Israel [resumed] its policy of targeting militant leaders in air strikes .",
+        "output": "In response to the rockets , [Israel | subject] resumed its [policy | object] of targeting militant leaders in air strikes ."
+    },
+    {
+        "input": "I [sent] a phone to Mobile Phone Exchange and it failed a test due to lost or stolen what should I do ?",
+        "output": "[I | subject] sent a [phone | object] to Mobile Phone Exchange and it failed a test due to lost or stolen what should I do ?"
+    },
+    {
+        "input": "I sent a phone to Mobile Phone Exchange and it [failed] a test due to lost or stolen what should I do ?",
+        "output": "I sent a phone to Mobile Phone Exchange and [it | subject] failed a [test | object] due to lost or stolen what should I do ?"
+    },
+    {
+        "input": "I sent a phone to Mobile Phone Exchange and it failed a test due to lost or stolen what should I [do] ?",
+        "output": "I sent a phone to Mobile Phone Exchange and it failed a test due to lost or stolen [what | object] should [I | subject] do ?"
+    },
+    {
+        "input": "I have [attached] a revised copy of the GISB Agreement and Special Provisions for your review and consideration .",
+        "output": "[I | subject] have attached a revised [copy | object] of the GISB Agreement and Special Provisions for your review and consideration ."
+    },
+    {
+        "input": "where can I [get] morcillas in tampa bay , I will like the argentinian type , but I will to try anothers please ?",
+        "output": "where can [I | subject] get [morcillas | object] in tampa bay , I will like the argentinian type , but I will to try anothers please ?"
+    },
+    {
+        "input": "where can I get morcillas in tampa bay , I will [like] the argentinian type , but I will to try anothers please ?",
+        "output": "where can I get morcillas in tampa bay , [I | subject] will like the argentinian [type | object] , but I will to try anothers please ?"
+    },
+    {
+        "input": "where can I get morcillas in tampa bay , I will like the argentinian type , but I will to [try] anothers please ?",
+        "output": "where can I get morcillas in tampa bay , I will like the argentinian type , but [I | subject] will to try [anothers | object] please ?"
+    },
+    {
+        "input": "She [has] a great way with children and is able to capture their personality as well as many spontaneous images .",
+        "output": "[She | subject] has a great [way | object] with children and is able to capture their personality as well as many spontaneous images ."
+    },
+    {
+        "input": "you [get] a really good view of the city and there is also attractions like simulator , short movies .",
+        "output": "[you | subject] get a really good [view | object] of the city and there is also attractions like simulator , short movies ."
+    },
+    {
+        "input": "I am [doing] a project and need to know what kind _ food Argentina people eat for breakfast , lunch , and dinner .",
+        "output": "[I | subject] am doing a [project | object] and need to know what kind _ food Argentina people eat for breakfast , lunch , and dinner ."
+    },
+    {
+        "input": "I am doing a project and need to know what kind _ food Argentina people [eat] for breakfast , lunch , and dinner .",
+        "output": "I am doing a project and need to know what [kind | object] _ food Argentina [people | subject] eat for breakfast , lunch , and dinner ."
+    },
+    {
+        "input": "I [had] so many strawberries right on the field ... strongly recomend ... dont forget to try their great ice cream",
+        "output": "[I | subject] had so many [strawberries | object] right on the field ... strongly recomend ... dont forget to try their great ice cream"
+    },
+    {
+        "input": "You [have] no interest in \" two - timing \" and all you seek is sincerity and \" straight - dealing \" .",
+        "output": "[You | subject] have no [interest | object] in \" two - timing \" and all you seek is sincerity and \" straight - dealing \" ."
+    },
+    {
+        "input": "Can you [post] a link that shows all the art works that were never found after the Natzi stole them ?",
+        "output": "Can [you | subject] post a [link | object] that shows all the art works that were never found after the Natzi stole them ?"
+    },
+    {
+        "input": "Can you post a link that [shows] all the art works that were never found after the Natzi stole them ?",
+        "output": "Can you post a link [that | subject] shows all the art [works | object] that were never found after the Natzi stole them ?"
+    },
+    {
+        "input": "Can you post a link that shows all the art works that were never found after the Natzi [stole] them ?",
+        "output": "Can you post a link that shows all the art works that were never found after the [Natzi | subject] stole [them | object] ?"
+    },
+    {
+        "input": "The police would [make] you take it down and you may face fines and imprisonment ( but definitely not execution . )",
+        "output": "The [police | subject] would make [you | object] take it down and you may face fines and imprisonment ( but definitely not execution . )"
+    },
+    {
+        "input": "The police would make you take it down and you may [face] fines and imprisonment ( but definitely not execution . )",
+        "output": "The police would make you take it down and [you | subject] may face [fines | object] and imprisonment ( but definitely not execution . )"
+    },
+    {
+        "input": "French women are the ones to say yes , the way we [say] it is not usually as straigthforward as you propose to do .",
+        "output": "French women are the ones to say yes , the way [we | subject] say [it | object] is not usually as straigthforward as you propose to do ."
+    },
+    {
+        "input": "Chahine said her immediate family [spent] about $ 20,000 to return to Detroit via Syria and Jordan .",
+        "output": "Chahine said her immediate [family | subject] spent about [$ | object] 20,000 to return to Detroit via Syria and Jordan ."
+    },
+    {
+        "input": "You are your own person ... and you [demand] freedom of thought ... to follow your own convictions .",
+        "output": "You are your own person ... and [you | subject] demand [freedom | object] of thought ... to follow your own convictions ."
+    },
+    {
+        "input": "I was able to secure a Duns # and Fed Tax ID however , I am [lacking] Fax and bank account numbers .",
+        "output": "I was able to secure a Duns # and Fed Tax ID however , [I | subject] am lacking Fax and bank account [numbers | object] ."
+    },
+    {
+        "input": "Frequent travelers and executives are among the masses that [get] a lot of discount in the airfare .",
+        "output": "Frequent travelers and executives are among the masses [that | subject] get a [lot | object] of discount in the airfare ."
+    },
+    {
+        "input": "I enjoyed working with all of you during the past five years at Enron / Azurix , and I [wish] you all of the best .",
+        "output": "I enjoyed working with all of you during the past five years at Enron / Azurix , and [I | subject] wish [you | indirect_object] [all | object] of the best ."
+    },
+    {
+        "input": "And I [gave] it all my heart , all my energy , based upon principles that did not change once I got into the Oval Office .",
+        "output": "And [I | subject] gave [it | indirect_object] all my [heart | object] , all my energy , based upon principles that did not change once I got into the Oval Office ."
+    },
+    {
+        "input": "I [faxed] you the promotional on 10300 Heritage Office Building with the Nimitz post office .",
+        "output": "[I | subject] faxed [you | indirect_object] the [promotional | object] on 10300 Heritage Office Building with the Nimitz post office ."
+    },
+    {
+        "input": "Alike ... both were fought for securities reasons by the US ( no matter what the liberal revisionist historians [tell] you ) .",
+        "output": "Alike ... both were fought for securities reasons by the US ( no matter [what | object] the liberal revisionist [historians | subject] tell [you | indirect_object] ) ."
+    },
+    {
+        "input": "... Nope and I am proud of it ... because my teacher havent [taught] us that yet ...",
+        "output": "... Nope and I am proud of it ... because my [teacher | subject] havent taught [us | indirect_object] [that | object] yet ..."
+    },
+    {
+        "input": "Maybe if you post the question again , someone will [give] you a good answer .",
+        "output": "Maybe if you post the question again , [someone | subject] will give [you | indirect_object] a good [answer | object] ."
+    },
+    {
+        "input": "would someone [give] me some information about migratory birds in punjab ?",
+        "output": "would [someone | subject] give [me | indirect_object] some [information | object] about migratory birds in punjab ?"
+    },
+    {
+        "input": "Can you [send] me the data you used : I shall take a look at it .",
+        "output": "Can [you | subject] send [me | indirect_object] the [data | object] you used : I shall take a look at it ."
+    },
+    {
+        "input": "You have now decided to set your sights on a position or situation that could [give] you greater prestige and which will afford you considerable self esteem .",
+        "output": "You have now decided to set your sights on a position or situation [that | subject] could give [you | indirect_object] greater [prestige | object] and which will afford you considerable self esteem ."
+    },
+    {
+        "input": "You have now decided to set your sights on a position or situation that could give you greater prestige and which will [afford] you considerable self esteem .",
+        "output": "You have now decided to set your sights on a position or situation that could give you greater prestige and [which | subject] will afford [you | indirect_object] considerable self [esteem | object] ."
+    },
+    {
+        "input": "And if you [send] me a story , that would be great to !",
+        "output": "And if [you | subject] send [me | indirect_object] a [story | object] , that would be great to !"
+    },
+    {
+        "input": "It clearly [gives] the Admin a very strong upper hand to control who when and where direct access can occur without having to say that they oppose direct access .",
+        "output": "[It | subject] clearly gives the [Admin | indirect_object] a very strong upper [hand | object] to control who when and where direct access can occur without having to say that they oppose direct access ."
+    },
+    {
+        "input": "Drop by my house , I can [get] you some real cheap .",
+        "output": "Drop by my house , [I | subject] can get [you | indirect_object] [some | object] real cheap ."
+    },
+    {
+        "input": "Anybody [give] me ideas like a trap or something ?",
+        "output": "[Anybody | subject] give [me | indirect_object] [ideas | object] like a trap or something ?"
+    },
+    {
+        "input": "Simplicity [gave] it that blessed , laudatory lack of clutter , the efficient and effective text - based ads , and the support of anyone with a dial - up connection .",
+        "output": "[Simplicity | subject] gave [it | indirect_object] that blessed , laudatory [lack | object] of clutter , the efficient and effective text - based ads , and the support of anyone with a dial - up connection ."
+    },
+    {
+        "input": "I used to e-mail Vince Kaminski about the advice on his article \" The Challenge of Pricing and Risk Managing Electricity Derivatives \" and he had [mailed] me the copy .",
+        "output": "I used to e-mail Vince Kaminski about the advice on his article \" The Challenge of Pricing and Risk Managing Electricity Derivatives \" and [he | subject] had mailed [me | indirect_object] the [copy | object] ."
+    },
+    {
+        "input": "If you do would you [send] me a copy ?",
+        "output": "If you do would [you | subject] send [me | indirect_object] a [copy | object] ?"
+    },
+    {
+        "input": "The current complaints allege that HANO has not [provided] qualified former St. Thomas residents a preference with respect to available public housing units at River Garden per the 2003 agreement .",
+        "output": "The current complaints allege that [HANO | subject] has not provided qualified former St. Thomas [residents | indirect_object] a [preference | object] with respect to available public housing units at River Garden per the 2003 agreement ."
+    },
+    {
+        "input": "You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those that [show] you a little affection ... but take care ... it would appear that you have been extremely hurt in the past ... and you keep leaving yourself wide open for punishment ..",
+        "output": "You wear your heart on your sleeve ... and since you are an emotional person you are apt to give your all ... heart and soul ... to all those [that | subject] show [you | indirect_object] a little [affection | object] ... but take care ... it would appear that you have been extremely hurt in the past ... and you keep leaving yourself wide open for punishment .."
+    },
+    {
+        "input": "Egypt had a role to play as they [convinced] Hamas to end the attacks , although the same can not be said of Islamic Jihad .",
+        "output": "Egypt had a role to play as [they | subject] convinced [Hamas | indirect_object] to end the attacks , although the same can not be said of Islamic Jihad ."
+    },
+    {
+        "input": "Our family has been [trusting] Doctor Hank with our teeth for the last seven years .",
+        "output": "Our [family | subject] has been trusting [Doctor | indirect_object] Hank with our teeth for the last seven years ."
+    },
+    {
+        "input": "However , you [ask] me to send a copy of resume and cover letter again .",
+        "output": "However , [you | subject] ask [me | indirect_object] to send a copy of resume and cover letter again ."
+    },
+    {
+        "input": "Can ssome oone please [tell] me where i can buy some weed in auckland .",
+        "output": "Can [ssome | subject] oone please tell [me | indirect_object] where i can buy some weed in auckland ."
+    },
+    {
+        "input": "Cloud has [instructed] me to call with any further questions .",
+        "output": "[Cloud | subject] has instructed [me | indirect_object] to call with any further questions ."
+    },
+    {
+        "input": "You are a clear thinker and all you demand from life , in a relationship , is a partner whom you can [trust] and with whom you can , together , develop a foundation of trust based on understanding .",
+        "output": "You are a clear thinker and all you demand from life , in a relationship , is a partner [whom | indirect_object] [you | subject] can trust and with whom you can , together , develop a foundation of trust based on understanding ."
+    },
+    {
+        "input": "On 3 November , NASA administrator Michael Griffin [told] the US house science committee that the agency expects to invest about $ 500 million in the commercial cargo and crew project over five years .",
+        "output": "On 3 November , NASA administrator [Michael | subject] Griffin told the US house science [committee | indirect_object] that the agency expects to invest about $ 500 million in the commercial cargo and crew project over five years ."
+    },
+    {
+        "input": "\" We were on the road and the first bridge was bombed and we drove home and all the other bridges were bombed and there was absolutely no way for us to get home , \" Chahine [told] reporters outside federal court in Detroit .",
+        "output": "\" We were on the road and the first bridge was bombed and we drove home and all the other bridges were bombed and there was absolutely no way for us to get home , \" [Chahine | subject] told [reporters | indirect_object] outside federal court in Detroit ."
+    },
+    {
+        "input": "Further , she [informed] me that Section 7 of the agreement , which reads in part : Gas is free from liens and adverse claims of every kind , should be changed because the gas that the counterparty will be transporting on HPL may and / or is subject to liens .",
+        "output": "Further , [she | subject] informed [me | indirect_object] that Section 7 of the agreement , which reads in part : Gas is free from liens and adverse claims of every kind , should be changed because the gas that the counterparty will be transporting on HPL may and / or is subject to liens ."
+    }
+]

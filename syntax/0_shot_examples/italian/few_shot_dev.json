@@ -1,0 +1,450 @@
+[
+    {
+        "input": "Negli anni 50 , un' ondata di nuovi approcci critici [rimpiazzò] il modernismo e spianò la strada agli studi \" post - moderni \" su Shakespeare .",
+        "output": "Negli anni 50 , un' [ondata | subject] di nuovi approcci critici rimpiazzò il [modernismo | object] e spianò la strada agli studi \" post - moderni \" su Shakespeare ."
+    },
+    {
+        "input": "Shakespeare era un poeta e un drammaturgo rispettato ai suoi giorni ma la sua reputazione non [raggiunse] il peso attuale fino al xix secolo .",
+        "output": "Shakespeare era un poeta e un drammaturgo rispettato ai suoi giorni ma la sua [reputazione | subject] non raggiunse il [peso | object] attuale fino al xix secolo ."
+    },
+    {
+        "input": "Il primo ministro Silajgic ha da poco [annunciato] le proprie dimissioni e si tratta ora di trovare un governo che sbarri la porta alla dittatura .",
+        "output": "Il primo [ministro | subject] Silajgic ha da poco annunciato le proprie [dimissioni | object] e si tratta ora di trovare un governo che sbarri la porta alla dittatura ."
+    },
+    {
+        "input": "Il primo ministro Silajgic ha da poco annunciato le proprie dimissioni e si tratta ora di trovare un governo che [sbarri] la porta alla dittatura .",
+        "output": "Il primo ministro Silajgic ha da poco annunciato le proprie dimissioni e si tratta ora di trovare un governo [che | subject] sbarri la [porta | object] alla dittatura ."
+    },
+    {
+        "input": "\" Due medici della Mayo , Edward C. Kendall e Philips S. Hench , hanno [ottenuto] nel 1950 il premio Nobel per avere scoperto il cortisone .",
+        "output": "\" Due [medici | subject] della Mayo , Edward C. Kendall e Philips S. Hench , hanno ottenuto nel 1950 il [premio | object] Nobel per avere scoperto il cortisone ."
+    },
+    {
+        "input": "Nessuno finora ha [mostrato] prove concrete contro di lui o contro il presidente Sali Berisha e altri membri del Governo o del Partito democratico .",
+        "output": "[Nessuno | subject] finora ha mostrato [prove | object] concrete contro di lui o contro il presidente Sali Berisha e altri membri del Governo o del Partito democratico ."
+    },
+    {
+        "input": "Nel 1599 , un partenariato di membri della compagnia [costruì] il proprio teatro , che chiamarono Globe sulla sponda sud del fiume Tamigi .",
+        "output": "Nel 1599 , un [partenariato | subject] di membri della compagnia costruì il proprio [teatro | object] , che chiamarono Globe sulla sponda sud del fiume Tamigi ."
+    },
+    {
+        "input": "Nel 1599 , un partenariato di membri della compagnia costruì il proprio teatro , che [chiamarono] Globe sulla sponda sud del fiume Tamigi .",
+        "output": "Nel 1599 , un partenariato di membri della compagnia costruì il proprio teatro , [che | subject] chiamarono [Globe | object] sulla sponda sud del fiume Tamigi ."
+    },
+    {
+        "input": "Nel 1612 , fu chiamato come testimone in Bellott v. Mountjoy , un processo che [riguardava] l' accordo matrimoniale della figlia di Mountjoy , Mary .",
+        "output": "Nel 1612 , fu chiamato come testimone in Bellott v. Mountjoy , un processo [che | subject] riguardava l' [accordo | object] matrimoniale della figlia di Mountjoy , Mary ."
+    },
+    {
+        "input": "Le donne che [hanno] un' istruzione secondaria o terziaria entrano e restano nel mercato del lavoro più facilmente delle loro colleghe meno istruite .",
+        "output": "Le donne [che | subject] hanno un' [istruzione | object] secondaria o terziaria entrano e restano nel mercato del lavoro più facilmente delle loro colleghe meno istruite ."
+    },
+    {
+        "input": "Questi [includono] due opere scritte da Giuseppe Verdi , Otello e Falstaff , la cui reputazione critica è paragonabile a quella delle opere originali .",
+        "output": "[Questi | subject] includono due [opere | object] scritte da Giuseppe Verdi , Otello e Falstaff , la cui reputazione critica è paragonabile a quella delle opere originali ."
+    },
+    {
+        "input": "Il sub [aveva] la regolare boa di avvistamento ma l' uomo che guidava la barca , Marco Paradisi , 33 anni , di Sesto San Giovanni non l' avrebbe vista .",
+        "output": "Il [sub | subject] aveva la regolare [boa | object] di avvistamento ma l' uomo che guidava la barca , Marco Paradisi , 33 anni , di Sesto San Giovanni non l' avrebbe vista ."
+    },
+    {
+        "input": "Il sub aveva la regolare boa di avvistamento ma l' uomo che [guidava] la barca , Marco Paradisi , 33 anni , di Sesto San Giovanni non l' avrebbe vista .",
+        "output": "Il sub aveva la regolare boa di avvistamento ma l' uomo [che | subject] guidava la [barca | object] , Marco Paradisi , 33 anni , di Sesto San Giovanni non l' avrebbe vista ."
+    },
+    {
+        "input": "Il sub aveva la regolare boa di avvistamento ma l' uomo che guidava la barca , Marco Paradisi , 33 anni , di Sesto San Giovanni non l' avrebbe [vista] .",
+        "output": "Il sub aveva la regolare boa di avvistamento ma l' [uomo | subject] che guidava la barca , Marco Paradisi , 33 anni , di Sesto San Giovanni non [l' | object] avrebbe vista ."
+    },
+    {
+        "input": "Chi vuol piantare alberi presso il confine deve [osservare] le distanze stabilite dai regolamenti e , in mancanza , dagli usi locali .",
+        "output": "[Chi | subject] vuol piantare alberi presso il confine deve osservare le [distanze | object] stabilite dai regolamenti e , in mancanza , dagli usi locali ."
+    },
+    {
+        "input": "Queste società [hanno] più difficoltà a reclutare laureati competenti quando le società finanziarie possono pagare stipendi più alti .",
+        "output": "Queste [società | subject] hanno più [difficoltà | object] a reclutare laureati competenti quando le società finanziarie possono pagare stipendi più alti ."
+    },
+    {
+        "input": "Queste società hanno più difficoltà a reclutare laureati competenti quando le società finanziarie possono [pagare] stipendi più alti .",
+        "output": "Queste società hanno più difficoltà a reclutare laureati competenti quando le [società | subject] finanziarie possono pagare [stipendi | object] più alti ."
+    },
+    {
+        "input": "mercoledì è stata la volta del ministro degli Esteri Moshe Arens di chiamare Baker e giovedì , infine , Shamir ha [inviato] una lettera alla Casa Bianca :",
+        "output": "mercoledì è stata la volta del ministro degli Esteri Moshe Arens di chiamare Baker e giovedì , infine , [Shamir | subject] ha inviato una [lettera | object] alla Casa Bianca :"
+    },
+    {
+        "input": "ma l' autorità giudiziaria può [disporre] una riduzione della somma , avuto riguardo alla durata della servitù e al danno sofferto .",
+        "output": "ma l' [autorità | subject] giudiziaria può disporre una [riduzione | object] della somma , avuto riguardo alla durata della servitù e al danno sofferto ."
+    },
+    {
+        "input": "Nicolas Sarkozy ha [ottenuto] il 31,11 % dei voti al primo turno , seguito dalla socialista Segolene Royal che ha preso il 25,84 % .",
+        "output": "[Nicolas | subject] Sarkozy ha ottenuto il 31,11 [% | object] dei voti al primo turno , seguito dalla socialista Segolene Royal che ha preso il 25,84 % ."
+    },
+    {
+        "input": "Nicolas Sarkozy ha ottenuto il 31,11 % dei voti al primo turno , seguito dalla socialista Segolene Royal che ha [preso] il 25,84 % .",
+        "output": "Nicolas Sarkozy ha ottenuto il 31,11 % dei voti al primo turno , seguito dalla socialista Segolene Royal [che | subject] ha preso il 25,84 [% | object] ."
+    },
+    {
+        "input": "E anche gli altri tipi di ossalati [catturano] la CO2 dai minerali che si sono formati e sono fuoriusciti dalla matrice rocciosa .",
+        "output": "E anche gli altri [tipi | subject] di ossalati catturano la [CO2 | object] dai minerali che si sono formati e sono fuoriusciti dalla matrice rocciosa ."
+    },
+    {
+        "input": "Elisabeth Cole , responsabile della corrispondenza con i clienti , ha [ricevuto] il mese scorso ben 547 lettere di obesi delusi .",
+        "output": "[Elisabeth | subject] Cole , responsabile della corrispondenza con i clienti , ha ricevuto il mese scorso ben 547 [lettere | object] di obesi delusi ."
+    },
+    {
+        "input": "Per questo ha annunciato la creazione di nuove zone franche esentasse che dovranno [attirare] i capitali salvati dai fallimenti .",
+        "output": "Per questo ha annunciato la creazione di nuove zone franche esentasse [che | subject] dovranno attirare i [capitali | object] salvati dai fallimenti ."
+    },
+    {
+        "input": "Roma è piena di gente che lavora , ma anche di persone che non [trovano] lavoro o svolgono lavori sottopagati e a volte indegni ;",
+        "output": "Roma è piena di gente che lavora , ma anche di persone [che | subject] non trovano [lavoro | object] o svolgono lavori sottopagati e a volte indegni ;"
+    },
+    {
+        "input": "In base alle stime , ci sarebbero poi 200 mila casi di febbre gialla all' anno che [causano] 30 mila decessi a livello mondiale .",
+        "output": "In base alle stime , ci sarebbero poi 200 mila casi di febbre gialla all' anno [che | subject] causano 30 mila [decessi | object] a livello mondiale ."
+    },
+    {
+        "input": "Parimenti si [fa] luogo alle dovute indennità in conseguenza delle modificazioni o limitazioni di turni , che siano state disposte dall' autorità giudiziaria .",
+        "output": "Parimenti [si | subject] fa [luogo | object] alle dovute indennità in conseguenza delle modificazioni o limitazioni di turni , che siano state disposte dall' autorità giudiziaria ."
+    },
+    {
+        "input": "Il primo [stacca] la mattina dal pomeriggio ed è fatto apposta per recuperare energia e spezzare in due il ritmo dello stress .",
+        "output": "Il [primo | subject] stacca la [mattina | object] dal pomeriggio ed è fatto apposta per recuperare energia e spezzare in due il ritmo dello stress ."
+    },
+    {
+        "input": "In carcere a Santa Maria Capua Vetere anche Tommaso Moretta , che [svolgeva] il ruolo di amministratore della società fallita .",
+        "output": "In carcere a Santa Maria Capua Vetere anche Tommaso Moretta , [che | subject] svolgeva il [ruolo | object] di amministratore della società fallita ."
+    },
+    {
+        "input": "Testimonianze degli acquisti immobiliari e degli investimenti di Shakespeare mostrano che la compagnia lo aveva [reso] ricco .",
+        "output": "Testimonianze degli acquisti immobiliari e degli investimenti di Shakespeare mostrano che la [compagnia | subject] [lo | object] aveva reso ricco ."
+    },
+    {
+        "input": "Il tessuto di lana non solo isola dal freddo ma anche dal caldo , alcune popolazioni africane la [usano] di giorno per ripararsi dal caldo e la sera _ dal freddo .",
+        "output": "Il tessuto di lana non solo isola dal freddo ma anche dal caldo , alcune [popolazioni | subject] africane [la | object] usano di giorno per ripararsi dal caldo e la sera _ dal freddo ."
+    },
+    {
+        "input": "Slot machine abusive in un bar di piazza San Giovanni dove hanno [fatto] irruzione gli agenti del commissariato Esquilino .",
+        "output": "Slot machine abusive in un bar di piazza San Giovanni dove hanno fatto [irruzione | object] gli [agenti | subject] del commissariato Esquilino ."
+    },
+    {
+        "input": "La truffa [riguardava] i finanziamenti erogati per il ritiro dal mercato delle produzioni eccedenti nel settore agricolo .",
+        "output": "La [truffa | subject] riguardava i [finanziamenti | object] erogati per il ritiro dal mercato delle produzioni eccedenti nel settore agricolo ."
+    },
+    {
+        "input": "a lanciare l' allarme è stato il custode dello stabile il quale ha [visto] uscire due uomini dal cortile con una valigia .",
+        "output": "a lanciare l' allarme è stato il custode dello stabile il [quale | subject] ha visto uscire due [uomini | object] dal cortile con una valigia ."
+    },
+    {
+        "input": "Il messaggio che l' economista italoamericano [manda] da Martha 's Vineyard , l' isoletta del Massachusetts dove da anni trascorre le vacanze estive , è chiarissimo :",
+        "output": "Il messaggio [che | object] l' [economista | subject] italoamericano manda da Martha 's Vineyard , l' isoletta del Massachusetts dove da anni trascorre le vacanze estive , è chiarissimo :"
+    },
+    {
+        "input": "Il Presidente della Repubblica [nomina] il Presidente del Consiglio dei ministri e , su proposta di questo , i ministri .",
+        "output": "Il [Presidente | subject] della Repubblica nomina il [Presidente | object] del Consiglio dei ministri e , su proposta di questo , i ministri ."
+    },
+    {
+        "input": "Un ricevitore - trasmettitore ( ricetrasmettitore ) che [genera] un segnale in risposta ad una specifica interrogazione .",
+        "output": "Un ricevitore - trasmettitore ( ricetrasmettitore ) [che | subject] genera un [segnale | object] in risposta ad una specifica interrogazione ."
+    },
+    {
+        "input": "Sono eleggibili a deputati tutti gli elettori che nel giorno della elezione hanno [compiuto] i venticinque anni di età .",
+        "output": "Sono eleggibili a deputati tutti gli elettori [che | subject] nel giorno della elezione hanno compiuto i venticinque [anni | object] di età ."
+    },
+    {
+        "input": "Le Cousin Pons ( 1847 ) e La Cousine Bette ( 1848 ) [raccontano] la storia de Les Parents Pauvres ( i parenti poveri ) .",
+        "output": "[Le | subject] Cousin Pons ( 1847 ) e La Cousine Bette ( 1848 ) raccontano la [storia | object] de Les Parents Pauvres ( i parenti poveri ) ."
+    },
+    {
+        "input": "Per la città , la Linea Yamanote [ha] un significato anche simbolico , poiché visto dall' alto il percorso assume la forma di mano di Buddha , come a proteggere Tokyo .",
+        "output": "Per la città , la [Linea | subject] Yamanote ha un [significato | object] anche simbolico , poiché visto dall' alto il percorso assume la forma di mano di Buddha , come a proteggere Tokyo ."
+    },
+    {
+        "input": "Per la città , la Linea Yamanote ha un significato anche simbolico , poiché visto dall' alto il percorso [assume] la forma di mano di Buddha , come a proteggere Tokyo .",
+        "output": "Per la città , la Linea Yamanote ha un significato anche simbolico , poiché visto dall' alto il [percorso | subject] assume la [forma | object] di mano di Buddha , come a proteggere Tokyo ."
+    },
+    {
+        "input": "Una tassa globale sul carbonio [attenuerebbe] i rischi sul clima alleviando al contempo il peso debitorio dei governi .",
+        "output": "Una [tassa | subject] globale sul carbonio attenuerebbe i [rischi | object] sul clima alleviando al contempo il peso debitorio dei governi ."
+    },
+    {
+        "input": "Per l' intossicamento fisiologico , segui una dieta equilibrata , povera di grassi e ricca di fibre grezze e alimenti integrali che [stimolano] le funzioni intestinali .",
+        "output": "Per l' intossicamento fisiologico , segui una dieta equilibrata , povera di grassi e ricca di fibre grezze e alimenti integrali [che | subject] stimolano le [funzioni | object] intestinali ."
+    },
+    {
+        "input": "Solo attraverso una normativa pragmatica e basata sui fatti il mondo potrà [comprendere] a fondo il potenziale dell' ingegneria genetica nella lotta contro le malattie .",
+        "output": "Solo attraverso una normativa pragmatica e basata sui fatti il [mondo | subject] potrà comprendere a fondo il [potenziale | object] dell' ingegneria genetica nella lotta contro le malattie ."
+    },
+    {
+        "input": "Il perimento della costruzione non [importa] , salvo patto contrario , l' estinzione del diritto di superficie ( 1 ) .",
+        "output": "Il [perimento | subject] della costruzione non importa , salvo patto contrario , l' [estinzione | object] del diritto di superficie ( 1 ) ."
+    },
+    {
+        "input": "Il primo \" apolide toscano \" poco più che quarantenne , ricorda di aver seguito , bambino , la madre per cineforum che [proiettavano] Dreyer , Bergman , Kazan , De Sica .",
+        "output": "Il primo \" apolide toscano \" poco più che quarantenne , ricorda di aver seguito , bambino , la madre per cineforum [che | subject] proiettavano [Dreyer | object] , Bergman , Kazan , De Sica ."
+    },
+    {
+        "input": "Quanto ha [speso] la commissione trasporti di una contea in California per acquistare telefoni per persone disabili ?",
+        "output": "[Quanto | object] ha speso la [commissione | subject] trasporti di una contea in California per acquistare telefoni per persone disabili ?"
+    },
+    {
+        "input": "E' ora che i leader indiani [riconoscano] il ruolo positivo che la proprietà intellettuale può svolgere nel sostenere la crescita e migliorare il benessere dei cittadini .",
+        "output": "E' ora che i [leader | subject] indiani riconoscano il [ruolo | object] positivo che la proprietà intellettuale può svolgere nel sostenere la crescita e migliorare il benessere dei cittadini ."
+    },
+    {
+        "input": "E' ora che i leader indiani riconoscano il ruolo positivo che la proprietà intellettuale può [svolgere] nel sostenere la crescita e migliorare il benessere dei cittadini .",
+        "output": "E' ora che i leader indiani riconoscano il ruolo positivo [che | object] la [proprietà | subject] intellettuale può svolgere nel sostenere la crescita e migliorare il benessere dei cittadini ."
+    },
+    {
+        "input": "Allora militanti serbi di Knin , [organizzarono] una rivolta contro il governo croato eletto nel maggio precedente .",
+        "output": "Allora [militanti | subject] serbi di Knin , organizzarono una [rivolta | object] contro il governo croato eletto nel maggio precedente ."
+    },
+    {
+        "input": "Qualora si [verifichi] un mutamento nelle condizioni originarie , la derivazione può essere soppressa su istanza dell' una o dell' altra parte .",
+        "output": "Qualora si verifichi un [mutamento | subject] nelle condizioni originarie , la derivazione può essere soppressa su istanza dell' una o dell' altra parte ."
+    },
+    {
+        "input": "Gianfranco Tornatore , che a sua volta aveva [locato] alla Gold Hotel s.p.a. , costituita poco prima e riferibile sempre allo stesso Tornatore .",
+        "output": "Gianfranco Tornatore , [che | subject] a sua volta aveva locato alla Gold Hotel s.p.a. , costituita poco prima e riferibile sempre allo stesso Tornatore ."
+    },
+    {
+        "input": "La domanda di riduzione del canone e la rinunzia al diritto non sono ammesse , [decorso] un anno dall' avvenuto perimento ( 2964 e seguenti ) .",
+        "output": "La domanda di riduzione del canone e la rinunzia al diritto non sono ammesse , decorso un [anno | subject] dall' avvenuto perimento ( 2964 e seguenti ) ."
+    },
+    {
+        "input": "La legge [provvede] all' ordinamento della Presidenza del Consiglio e determina il numero , le attribuzioni e l' organizzazione dei ministeri .",
+        "output": "La [legge | subject] provvede all' ordinamento della Presidenza del Consiglio e determina il numero , le attribuzioni e l' organizzazione dei ministeri ."
+    },
+    {
+        "input": "La servitù si [estingue] ( 853 , 2812 ) , quando in una sola persona si riunisce la proprietà del fondo dominante con quella del fondo servente .",
+        "output": "La [servitù | subject] si estingue ( 853 , 2812 ) , quando in una sola persona si riunisce la proprietà del fondo dominante con quella del fondo servente ."
+    },
+    {
+        "input": "La servitù si estingue ( 853 , 2812 ) , quando in una sola persona si [riunisce] la proprietà del fondo dominante con quella del fondo servente .",
+        "output": "La servitù si estingue ( 853 , 2812 ) , quando in una sola persona si riunisce la [proprietà | subject] del fondo dominante con quella del fondo servente ."
+    },
+    {
+        "input": "Per gli esperti del piano francese , lo scenario oggi più plausibile [è] l' approfondirsi del divario tra le regioni all' interno di ogni paese .",
+        "output": "Per gli esperti del piano francese , lo [scenario | subject] oggi più plausibile è l' approfondirsi del divario tra le regioni all' interno di ogni paese ."
+    },
+    {
+        "input": "Quindi , credo che l' invenzione di Internet sia un' inevitabile conseguenza di un modello che già si era [dimostrato] biologicamente valido .",
+        "output": "Quindi , credo che l' invenzione di Internet sia un' inevitabile conseguenza di un modello [che | subject] già si era dimostrato biologicamente valido ."
+    },
+    {
+        "input": "Sullo sfondo di tante torbide vicende c' [è] la \" città degradata \" , la mancanza di lavoro , il porto in declino , il contesto sociale difficile .",
+        "output": "Sullo sfondo di tante torbide vicende c' è la \" [città | subject] degradata \" , la mancanza di lavoro , il porto in declino , il contesto sociale difficile ."
+    },
+    {
+        "input": "il costruttore può [chiedere] al giudice di attribuirgli la proprietà del fondo occupato se il proprietario del fondo non si sia opposto .",
+        "output": "il [costruttore | subject] può chiedere al giudice di attribuirgli la proprietà del fondo occupato se il proprietario del fondo non si sia opposto ."
+    },
+    {
+        "input": "il costruttore può chiedere al giudice di attribuirgli la proprietà del fondo occupato se il proprietario del fondo non si sia [opposto] .",
+        "output": "il costruttore può chiedere al giudice di attribuirgli la proprietà del fondo occupato se il [proprietario | subject] del fondo non si sia opposto ."
+    },
+    {
+        "input": "Le donne che hanno un' istruzione secondaria o terziaria [entrano] e restano nel mercato del lavoro più facilmente delle loro colleghe meno istruite .",
+        "output": "Le [donne | subject] che hanno un' istruzione secondaria o terziaria entrano e restano nel mercato del lavoro più facilmente delle loro colleghe meno istruite ."
+    },
+    {
+        "input": "Se la spina dorsale non è proprio diritta , la prima a farne le spese è proprio la pancia che \" [spunta] in fuori \" a causa di un portamento sbagliato .",
+        "output": "Se la spina dorsale non è proprio diritta , la prima a farne le spese è proprio la pancia [che | subject] \" spunta in fuori \" a causa di un portamento sbagliato ."
+    },
+    {
+        "input": "Era la notte del 13 gennaio quando da qui è [partito] un motoscafo diretto verso la costa italiana con 130 milioni di dollari a bordo .",
+        "output": "Era la notte del 13 gennaio quando da qui è partito un [motoscafo | subject] diretto verso la costa italiana con 130 milioni di dollari a bordo ."
+    },
+    {
+        "input": "Eppure dietro la resa , dietro la netta sconfitta nel confronto con il suo compagno Hamilton , si [nascondono] scricchiolii sinistri :",
+        "output": "Eppure dietro la resa , dietro la netta sconfitta nel confronto con il suo compagno Hamilton , si nascondono [scricchiolii | subject] sinistri :"
+    },
+    {
+        "input": "L' Unione europea [comincerà] probabilmente a prendere le sue prime decisioni collettive mercoledì prossimo , quando si riunirà il suo Comitato politico .",
+        "output": "L' [Unione | subject] europea comincerà probabilmente a prendere le sue prime decisioni collettive mercoledì prossimo , quando si riunirà il suo Comitato politico ."
+    },
+    {
+        "input": "L' Unione europea comincerà probabilmente a prendere le sue prime decisioni collettive mercoledì prossimo , quando si [riunirà] il suo Comitato politico .",
+        "output": "L' Unione europea comincerà probabilmente a prendere le sue prime decisioni collettive mercoledì prossimo , quando si riunirà il suo [Comitato | subject] politico ."
+    },
+    {
+        "input": "Che tramite il manager e portavoce di Michael Schumacher , Sabine Kehm , [fa] sapere di apprezzare i tanti messaggi di supporto giunti da tutto il mondo .",
+        "output": "[Che | subject] tramite il manager e portavoce di Michael Schumacher , Sabine Kehm , fa sapere di apprezzare i tanti messaggi di supporto giunti da tutto il mondo ."
+    },
+    {
+        "input": "uno dei workshop ha [portato] all' elaborazione della proposta , da parte degli Stati membri , di una raccomandazione del Consiglio .",
+        "output": "[uno | subject] dei workshop ha portato all' elaborazione della proposta , da parte degli Stati membri , di una raccomandazione del Consiglio ."
+    },
+    {
+        "input": "\" Anche nella passata stagione - [dice] Vialli - siamo stati loro nemici , certi interventi sembrano fatti su misura contro di noi .",
+        "output": "\" Anche nella passata stagione - dice [Vialli | subject] - siamo stati loro nemici , certi interventi sembrano fatti su misura contro di noi ."
+    },
+    {
+        "input": "\" Anche nella passata stagione - dice Vialli - siamo stati loro nemici , certi interventi [sembrano] fatti su misura contro di noi .",
+        "output": "\" Anche nella passata stagione - dice Vialli - siamo stati loro nemici , certi [interventi | subject] sembrano fatti su misura contro di noi ."
+    },
+    {
+        "input": "\" È finito nel museo insieme ad altre cose \" , ci [assicura] il colonnello Roland Buchs Binz , il trentesimo comandante del Corpo .",
+        "output": "\" È finito nel museo insieme ad altre cose \" , ci assicura il [colonnello | subject] Roland Buchs Binz , il trentesimo comandante del Corpo ."
+    },
+    {
+        "input": "E anche gli altri tipi di ossalati catturano la CO2 dai minerali che si sono [formati] e sono fuoriusciti dalla matrice rocciosa .",
+        "output": "E anche gli altri tipi di ossalati catturano la CO2 dai minerali [che | subject] si sono formati e sono fuoriusciti dalla matrice rocciosa ."
+    },
+    {
+        "input": "Nel 1903 la parte principale dell' anello , che [va] dalla stazione di Ikebukuro a quella di Tabata , fu completata e prese il nome di Linea Toshima ( 豊島線 ) .",
+        "output": "Nel 1903 la parte principale dell' anello , [che | subject] va dalla stazione di Ikebukuro a quella di Tabata , fu completata e prese il nome di Linea Toshima ( 豊島線 ) ."
+    },
+    {
+        "input": "Da una , Luigi [sorride] con i due bambini Castiglioni , anche loro ammazzati ieri , mentre si avviavano a una giornata allegra .",
+        "output": "Da una , [Luigi | subject] sorride con i due bambini Castiglioni , anche loro ammazzati ieri , mentre si avviavano a una giornata allegra ."
+    },
+    {
+        "input": "Roma è piena di gente che [lavora] , ma anche di persone che non trovano lavoro o svolgono lavori sottopagati e a volte indegni ;",
+        "output": "Roma è piena di gente [che | subject] lavora , ma anche di persone che non trovano lavoro o svolgono lavori sottopagati e a volte indegni ;"
+    },
+    {
+        "input": "In base alle stime , ci [sarebbero] poi 200 mila casi di febbre gialla all' anno che causano 30 mila decessi a livello mondiale .",
+        "output": "In base alle stime , ci sarebbero poi 200 mila [casi | subject] di febbre gialla all' anno che causano 30 mila decessi a livello mondiale ."
+    },
+    {
+        "input": "Eppure , [prosegue] la lettera , a tutti è noto che il Costanzo decedette nel giorno stesso in cui a Livorno cogli amici aveva celebrato il raggiunto miliardo .",
+        "output": "Eppure , prosegue la [lettera | subject] , a tutti è noto che il Costanzo decedette nel giorno stesso in cui a Livorno cogli amici aveva celebrato il raggiunto miliardo ."
+    },
+    {
+        "input": "Eppure , prosegue la lettera , a tutti è noto che il Costanzo [decedette] nel giorno stesso in cui a Livorno cogli amici aveva celebrato il raggiunto miliardo .",
+        "output": "Eppure , prosegue la lettera , a tutti è noto che il [Costanzo | subject] decedette nel giorno stesso in cui a Livorno cogli amici aveva celebrato il raggiunto miliardo ."
+    },
+    {
+        "input": "Il suo nome [nasce] , in maniera abbastanza singolare , dall' estro di due umoristi svevi , Adolph Kussmaul e Ludwig Eichrodt .",
+        "output": "Il suo [nome | subject] nasce , in maniera abbastanza singolare , dall' estro di due umoristi svevi , Adolph Kussmaul e Ludwig Eichrodt ."
+    },
+    {
+        "input": "Nessuna clausola di questa licenza [esclude] o limita la responsabilità nel caso in cui questa dipenda da dolo o colpa grave .",
+        "output": "Nessuna [clausola | subject] di questa licenza esclude o limita la responsabilità nel caso in cui questa dipenda da dolo o colpa grave ."
+    },
+    {
+        "input": "Nessuna clausola di questa licenza esclude o limita la responsabilità nel caso in cui questa [dipenda] da dolo o colpa grave .",
+        "output": "Nessuna clausola di questa licenza esclude o limita la responsabilità nel caso in cui [questa | subject] dipenda da dolo o colpa grave ."
+    },
+    {
+        "input": "La sua vera data di nascita [rimane] sconosciuta , ma tradizionalmente la si colloca il 23 aprile , il giorno di san Giorgio .",
+        "output": "La sua vera [data | subject] di nascita rimane sconosciuta , ma tradizionalmente la si colloca il 23 aprile , il giorno di san Giorgio ."
+    },
+    {
+        "input": "Testimonianze degli acquisti immobiliari e degli investimenti di Shakespeare [mostrano] che la compagnia lo aveva reso ricco .",
+        "output": "[Testimonianze | subject] degli acquisti immobiliari e degli investimenti di Shakespeare mostrano che la compagnia lo aveva reso ricco ."
+    },
+    {
+        "input": "il filmetto che [va] al Filmstudio , piace ai compagni , viene visto da Moravia che ne scrive sull' \" Espresso \" , eccetera .",
+        "output": "il filmetto [che | subject] va al Filmstudio , piace ai compagni , viene visto da Moravia che ne scrive sull' \" Espresso \" , eccetera ."
+    },
+    {
+        "input": "il filmetto che va al Filmstudio , [piace] ai compagni , viene visto da Moravia che ne scrive sull' \" Espresso \" , eccetera .",
+        "output": "il [filmetto | subject] che va al Filmstudio , piace ai compagni , viene visto da Moravia che ne scrive sull' \" Espresso \" , eccetera ."
+    },
+    {
+        "input": "Il tessuto di lana non solo [isola] dal freddo ma anche dal caldo , alcune popolazioni africane la usano di giorno per ripararsi dal caldo e la sera _ dal freddo .",
+        "output": "Il [tessuto | subject] di lana non solo isola dal freddo ma anche dal caldo , alcune popolazioni africane la usano di giorno per ripararsi dal caldo e la sera _ dal freddo ."
+    },
+    {
+        "input": "Come parte dell' evoluzione del diciannovesimo secolo del romanzo come \" forma letteraria democratica \" , Balzac [scrisse] che \" i libri sono scritti per tutti \" .",
+        "output": "Come parte dell' evoluzione del diciannovesimo secolo del romanzo come \" forma letteraria democratica \" , [Balzac | subject] scrisse che \" i libri sono scritti per tutti \" ."
+    },
+    {
+        "input": "Dal punto di vista storico dunque il mercato capitalistico non si [presentava] necessariamente in contraddizione con lo Stato sociale e con l' intervento pubblico ;",
+        "output": "Dal punto di vista storico dunque il [mercato | subject] capitalistico non si presentava necessariamente in contraddizione con lo Stato sociale e con l' intervento pubblico ;"
+    },
+    {
+        "input": "a lanciare l' allarme è [stato] il custode dello stabile il quale ha visto uscire due uomini dal cortile con una valigia .",
+        "output": "a lanciare l' allarme è stato il [custode | subject] dello stabile il quale ha visto uscire due uomini dal cortile con una valigia ."
+    },
+    {
+        "input": "Nel 1613 , Sir Henry Wotton [scrisse] che l' Enrico VIII \" fu presentato con grande acclamazione fra fasti e cerimonie \" .",
+        "output": "Nel 1613 , [Sir | subject] Henry Wotton scrisse che l' Enrico VIII \" fu presentato con grande acclamazione fra fasti e cerimonie \" ."
+    },
+    {
+        "input": "Il codice [preferisce] che i proprietari contribuiscano alla spesa in proporzione dell' utilità che derivano da tali opere e non in base all' estensione del terreno .",
+        "output": "Il [codice | subject] preferisce che i proprietari contribuiscano alla spesa in proporzione dell' utilità che derivano da tali opere e non in base all' estensione del terreno ."
+    },
+    {
+        "input": "Il codice preferisce che i proprietari [contribuiscano] alla spesa in proporzione dell' utilità che derivano da tali opere e non in base all' estensione del terreno .",
+        "output": "Il codice preferisce che i [proprietari | subject] contribuiscano alla spesa in proporzione dell' utilità che derivano da tali opere e non in base all' estensione del terreno ."
+    },
+    {
+        "input": "Verso la fine della sua vita Balzac si [lasciò] attirare dall' idea di far abbattere 20.000 acri ( 81 Km2 ) di querce in Ucraina da trasportare e vendere in Francia .",
+        "output": "Verso la fine della sua vita [Balzac | subject] si lasciò attirare dall' idea di far abbattere 20.000 acri ( 81 Km2 ) di querce in Ucraina da trasportare e vendere in Francia ."
+    },
+    {
+        "input": "I carri armati , quando si muovevano , [andavano] a Budapest e a Praga , a spegnere i fuochi per prevenire l' incendio .",
+        "output": "I [carri | subject] armati , quando si muovevano , andavano a Budapest e a Praga , a spegnere i fuochi per prevenire l' incendio ."
+    },
+    {
+        "input": "Sembrava un amore destinato a finire subito , invece il rapporto [andò] avanti fino alle nozze , celebrate due anni fa .",
+        "output": "Sembrava un amore destinato a finire subito , invece il [rapporto | subject] andò avanti fino alle nozze , celebrate due anni fa ."
+    },
+    {
+        "input": "Non dobbiamo dimenticare che lo spazio rurale [rappresenta] quasi i quattro quinti del territorio dell' Unione Europea .",
+        "output": "Non dobbiamo dimenticare che lo [spazio | subject] rurale rappresenta quasi i quattro quinti del territorio dell' Unione Europea ."
+    },
+    {
+        "input": "Il mobiliere che le diede il proprio nome , chiamato a Vienna da Metternich per una serie di lavori importanti , vi [giunse] portando il legno di faggio della Moravia .",
+        "output": "Il [mobiliere | subject] che le diede il proprio nome , chiamato a Vienna da Metternich per una serie di lavori importanti , vi giunse portando il legno di faggio della Moravia ."
+    },
+    {
+        "input": "Ma il punto [è] che le idee tutelate dai diritti di proprietà intellettuale sono il motore della crescita sia per i paesi sviluppati che per i paesi in via di sviluppo .",
+        "output": "Ma il [punto | subject] è che le idee tutelate dai diritti di proprietà intellettuale sono il motore della crescita sia per i paesi sviluppati che per i paesi in via di sviluppo ."
+    },
+    {
+        "input": "Dietro le lenti affumicate gli occhi [luccicano] di contentezza e la bocca sottile si tende in un ghigno soddisfatto .",
+        "output": "Dietro le lenti affumicate gli [occhi | subject] luccicano di contentezza e la bocca sottile si tende in un ghigno soddisfatto ."
+    },
+    {
+        "input": "il nome che si sta [facendo] strada presso l' esecutivo per la poltrona di amministratore delegato è quello di Francesco Caio , ora al vertice di Avio .",
+        "output": "il nome [che | subject] [si | indirect_object] sta facendo strada presso l' esecutivo per la poltrona di amministratore delegato è quello di Francesco Caio , ora al vertice di Avio ."
+    },
+    {
+        "input": "Le sue ultime tre opere teatrali furono delle collaborazioni , probabilmente con John Fletcher , che gli [successe] come poeta drammatico presso i King 's Men .",
+        "output": "Le sue ultime tre opere teatrali furono delle collaborazioni , probabilmente con John Fletcher , [che | subject] [gli | indirect_object] successe come poeta drammatico presso i King 's Men ."
+    },
+    {
+        "input": "il filmetto che va al Filmstudio , piace ai compagni , viene visto da Moravia che ne [scrive] sull' \" Espresso \" , eccetera .",
+        "output": "il filmetto che va al Filmstudio , piace ai compagni , viene visto da Moravia [che | subject] [ne | indirect_object] scrive sull' \" Espresso \" , eccetera ."
+    },
+    {
+        "input": "Trascorrevo i giorni su una sedia a rotelle , mi [mancava] il fiato per riposare , pesavo 46 chili .",
+        "output": "Trascorrevo i giorni su una sedia a rotelle , [mi | indirect_object] mancava il [fiato | subject] per riposare , pesavo 46 chili ."
+    },
+    {
+        "input": "Quando gli [venne] l' idea , corse nell' appartamento della sorella e dichiarò :",
+        "output": "Quando [gli | indirect_object] venne l' [idea | subject] , corse nell' appartamento della sorella e dichiarò :"
+    },
+    {
+        "input": "Mi [pare] questa un' evoluzione estremamente positiva ;",
+        "output": "[Mi | indirect_object] pare [questa | subject] un' evoluzione estremamente positiva ;"
+    },
+    {
+        "input": "Il ginocchio mi [fa] sempre un po' male , ma gli ultimi test al Sestriere mi hanno dato molta sicurezza e l' ora della gara è ottima \" .",
+        "output": "Il [ginocchio | subject] [mi | indirect_object] fa sempre un po' [male | object] , ma gli ultimi test al Sestriere mi hanno dato molta sicurezza e l' ora della gara è ottima \" ."
+    },
+    {
+        "input": "Il ginocchio mi fa sempre un po' male , ma gli ultimi test al Sestriere mi hanno [dato] molta sicurezza e l' ora della gara è ottima \" .",
+        "output": "Il ginocchio mi fa sempre un po' male , ma gli ultimi [test | subject] al Sestriere [mi | indirect_object] hanno dato molta [sicurezza | object] e l' ora della gara è ottima \" ."
+    },
+    {
+        "input": "Il mobiliere che le [diede] il proprio nome , chiamato a Vienna da Metternich per una serie di lavori importanti , vi giunse portando il legno di faggio della Moravia .",
+        "output": "Il mobiliere [che | subject] [le | indirect_object] diede il proprio [nome | object] , chiamato a Vienna da Metternich per una serie di lavori importanti , vi giunse portando il legno di faggio della Moravia ."
+    },
+    {
+        "input": "Il terzo che , senza delegazione del debitore , ne [assume] verso il creditore il debito , è obbligato in solido col debitore originario , se il creditore non dichiara espressamente di liberare quest' ultimo .",
+        "output": "Il terzo [che | subject] , senza delegazione del debitore , [ne | indirect_object] assume verso il creditore il [debito | object] , è obbligato in solido col debitore originario , se il creditore non dichiara espressamente di liberare quest' ultimo ."
+    },
+    {
+        "input": "La legge ne [assicura] la ragionevole durata .",
+        "output": "La [legge | subject] [ne | indirect_object] assicura la ragionevole [durata | object] ."
+    },
+    {
+        "input": "Il proprietario di un fondo limitato o attraversato da un' acqua non pubblica , che corre naturalmente e sulla quale altri non ha diritto , può , mentre essa trascorre , [farne] uso per l' irrigazione dei suoi terreni e per l' esercizio delle sue industrie , ma deve restituire le colature e gli avanzi al corso ordinario ( 1 ) .",
+        "output": "Il [proprietario | subject] di un fondo limitato o attraversato da un' acqua non pubblica , che corre naturalmente e sulla quale altri non ha diritto , può , mentre essa trascorre , [farne | indirect_object] [uso | object] per l' irrigazione dei suoi terreni e per l' esercizio delle sue industrie , ma deve restituire le colature e gli avanzi al corso ordinario ( 1 ) ."
+    }
+]

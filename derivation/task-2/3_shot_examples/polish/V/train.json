@@ -1,0 +1,36 @@
+[
+    {
+        "lemma": "mieliśmy",
+        "surface_word": "niemieliśmy",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "nie-",
+        "prefix": "nie-",
+        "suffix": [],
+        "alternative_0": "nie<PREF> mieliśmy<V>",
+        "sub_words": "nie<PREF> mieliśmy<V>"
+    },
+    {
+        "lemma": "biegać",
+        "surface_word": "wbiegać",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "w-",
+        "prefix": "w-",
+        "suffix": [],
+        "alternative_0": "w<PREF> biegać<V>",
+        "alternative_1": "w<PREF> biec<V> ać<V_SUFF>",
+        "sub_words": "w<PREF> biec<V> ać<V_SUFF>"
+    },
+    {
+        "lemma": "maroda",
+        "surface_word": "marodować",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-ować",
+        "prefix": [],
+        "suffix": "-ować",
+        "alternative_0": "maroda<N> ować<V_SUFF>",
+        "sub_words": "maroda<N> ować<V_SUFF>"
+    }
+]

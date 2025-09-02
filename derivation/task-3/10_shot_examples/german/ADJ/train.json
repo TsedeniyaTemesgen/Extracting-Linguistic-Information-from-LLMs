@@ -1,0 +1,64 @@
+[
+  {
+    "surface_word": "anfängerhaft",
+    "sub_words": "an<VPART> fangen<V> er<NN_SUFF> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "berücksichtigbar",
+    "sub_words": "berücksichtigen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vielkammerig",
+    "sub_words": "viel<ADJ> Kammer<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "kurzfasrig",
+    "sub_words": "kurz<ADJ> Faser<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "vertraglos",
+    "sub_words": "Vertrag<NN> los<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "schreinermäßig",
+    "sub_words": "Schreiner<NN> mäßig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "hackbar",
+    "sub_words": "hacken<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "aphorismenhaft",
+    "sub_words": "Aphorismus<NN> haft<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "betätigbar",
+    "sub_words": "betätigen<V> bar<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "be<PREF> tätigen<V> bar<ADJ_SUFF>",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "irischsprachig",
+    "sub_words": "irisch<ADJ> Sprache<NN> ig<ADJ_SUFF>",
+    "surface_word_tag": "ADJ",
+    "alternative_0": "Ire<NN> isch<ADJ_SUFF> Sprache<NN> ig<ADJ_SUFF>",
+    "annotated": "ok"
+  }
+]

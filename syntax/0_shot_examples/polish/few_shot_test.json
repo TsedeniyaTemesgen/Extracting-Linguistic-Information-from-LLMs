@@ -1,0 +1,1646 @@
+[
+    {
+        "input": "W obliczu trudnej sytuacji na rynku pracy , 9-miesięczna przygoda w wojsku [wydaje] się dla nich niemiłą perspektywą .",
+        "output": "W obliczu trudnej sytuacji na rynku pracy , 9-miesięczna [przygoda | subject] w wojsku wydaje się dla nich niemiłą perspektywą ."
+    },
+    {
+        "input": "Kolejna sygnalizacja [pojawi] się u zbiegu ulic Okrężnej i Gdyńskiej i ułatwi wyjazd z osiedla 40-lecia w Czerwonaku .",
+        "output": "Kolejna [sygnalizacja | subject] pojawi się u zbiegu ulic Okrężnej i Gdyńskiej i ułatwi wyjazd z osiedla 40-lecia w Czerwonaku ."
+    },
+    {
+        "input": "Tadzio nagle [usiadł] , zgarnął wypłowiałe włosy i wypalił : - Faktycznie powiedz mi , co to się robi na tym świecie ?",
+        "output": "[Tadzio | subject] nagle usiadł , zgarnął wypłowiałe włosy i wypalił : - Faktycznie powiedz mi , co to się robi na tym świecie ?"
+    },
+    {
+        "input": "Tadzio nagle usiadł , zgarnął wypłowiałe włosy i wypalił : - Faktycznie powiedz mi , co to się [robi] na tym świecie ?",
+        "output": "Tadzio nagle usiadł , zgarnął wypłowiałe włosy i wypalił : - Faktycznie powiedz mi , [co | subject] to się robi na tym świecie ?"
+    },
+    {
+        "input": "Prezydent Rosji Borys Jelcyn odpowiedział Ardzinbie , że Moskwa nie będzie się [mieszać] w abchasko - gruziński spór .",
+        "output": "Prezydent Rosji Borys Jelcyn odpowiedział Ardzinbie , że [Moskwa | subject] nie będzie się mieszać w abchasko - gruziński spór ."
+    },
+    {
+        "input": "Obaj oficerowie [patrzą] z uwagą gdzieś w bok , na ukos , Piłsudski dobrotliwie , Wieniawa z lekkim grymasem pogardy .",
+        "output": "Obaj [oficerowie | subject] patrzą z uwagą gdzieś w bok , na ukos , Piłsudski dobrotliwie , Wieniawa z lekkim grymasem pogardy ."
+    },
+    {
+        "input": "Dziecko w kostiumie kąpielowym , czepku i dmuchanych rękawkach [skacze] do basenu , w którym kąpie się łysy mężczyzna .",
+        "output": "[Dziecko | subject] w kostiumie kąpielowym , czepku i dmuchanych rękawkach skacze do basenu , w którym kąpie się łysy mężczyzna ."
+    },
+    {
+        "input": "Dziecko w kostiumie kąpielowym , czepku i dmuchanych rękawkach skacze do basenu , w którym [kąpie] się łysy mężczyzna .",
+        "output": "Dziecko w kostiumie kąpielowym , czepku i dmuchanych rękawkach skacze do basenu , w którym kąpie się łysy [mężczyzna | subject] ."
+    },
+    {
+        "input": "To warunek pozwolenia mu na wyjazd na szczyt arabski w Bejrucie - [powiedział] wczoraj izraelski premier Ariel Szaron .",
+        "output": "To warunek pozwolenia mu na wyjazd na szczyt arabski w Bejrucie - powiedział wczoraj izraelski [premier | subject] Ariel Szaron ."
+    },
+    {
+        "input": "- Czy policjanci [powinni] ścigać złodzieja przyłapanego na gorącym uczynku , czy poprzestać na zabezpieczeniu mienia ?",
+        "output": "- Czy [policjanci | subject] powinni ścigać złodzieja przyłapanego na gorącym uczynku , czy poprzestać na zabezpieczeniu mienia ?"
+    },
+    {
+        "input": "Po wejściu w życie nowego prawa dewizowego , przedsiębiorstwa będą [mogły] kupować lub sprzedawać za granicą za złote .",
+        "output": "Po wejściu w życie nowego prawa dewizowego , [przedsiębiorstwa | subject] będą mogły kupować lub sprzedawać za granicą za złote ."
+    },
+    {
+        "input": "Taki stan rzeczy [powinien] być bodźcem dla rządzących do ochrony rodziny i zachęcania małżonków do posiadania dzieci .",
+        "output": "Taki [stan | subject] rzeczy powinien być bodźcem dla rządzących do ochrony rodziny i zachęcania małżonków do posiadania dzieci ."
+    },
+    {
+        "input": "Dziś pochłaniają ich inne obowiązki , albo jak [mówią] niektórzy z nich - są za starzy , żeby chałturzyć po imprezach .",
+        "output": "Dziś pochłaniają ich inne obowiązki , albo jak mówią [niektórzy | subject] z nich - są za starzy , żeby chałturzyć po imprezach ."
+    },
+    {
+        "input": "Śmierć na miejscu poniosła 36-letnia kobieta , która z mężem [przechodziła] przez Małą Fatrę w rejonie Niskich Tatr .",
+        "output": "Śmierć na miejscu poniosła 36-letnia kobieta , [która | subject] z mężem przechodziła przez Małą Fatrę w rejonie Niskich Tatr ."
+    },
+    {
+        "input": "Wtorkowy test humanistyczny można określić jako umiarkowanie łatwy , choć i tym razem [kryły] się pewne \" pułapki \" .",
+        "output": "Wtorkowy test humanistyczny można określić jako umiarkowanie łatwy , choć i tym razem kryły się pewne \" [pułapki | subject] \" ."
+    },
+    {
+        "input": "Kobieta w czarnym stroju [stoi] przed siedzącymi w rzędach ludźmi , a na ekranie za nią wyświetla się obraz z rzutnika .",
+        "output": "[Kobieta | subject] w czarnym stroju stoi przed siedzącymi w rzędach ludźmi , a na ekranie za nią wyświetla się obraz z rzutnika ."
+    },
+    {
+        "input": "Kobieta w czarnym stroju stoi przed siedzącymi w rzędach ludźmi , a na ekranie za nią [wyświetla] się obraz z rzutnika .",
+        "output": "Kobieta w czarnym stroju stoi przed siedzącymi w rzędach ludźmi , a na ekranie za nią wyświetla się [obraz | subject] z rzutnika ."
+    },
+    {
+        "input": "Czynszowi dłużnicy [mogą] na razie odetchnąć z ulgą , gdyż od wczoraj do końca marca nie wolno eksmitować ich na ulicę .",
+        "output": "Czynszowi [dłużnicy | subject] mogą na razie odetchnąć z ulgą , gdyż od wczoraj do końca marca nie wolno eksmitować ich na ulicę ."
+    },
+    {
+        "input": "Kobieta w czarnej bluzce i spódnicy w kratę [gra] na skrzypcach razem z muzykami grającymi na innych instrumentach .",
+        "output": "[Kobieta | subject] w czarnej bluzce i spódnicy w kratę gra na skrzypcach razem z muzykami grającymi na innych instrumentach ."
+    },
+    {
+        "input": "Maszyna ta [musi] w ciągu trzech lat się zamortyzować , by zarobić na następną , jeszcze nowocześniejszą i szybszą .",
+        "output": "[Maszyna | subject] ta musi w ciągu trzech lat się zamortyzować , by zarobić na następną , jeszcze nowocześniejszą i szybszą ."
+    },
+    {
+        "input": "- Miłość [jest] wtedy , gdy człowiek jest szczęśliwy z faktu , że z kimś jest - powiedziała Małgorzata Zierkiewicz .",
+        "output": "- [Miłość | subject] jest wtedy , gdy człowiek jest szczęśliwy z faktu , że z kimś jest - powiedziała Małgorzata Zierkiewicz ."
+    },
+    {
+        "input": "- Miłość jest wtedy , gdy człowiek jest szczęśliwy z faktu , że z kimś jest - [powiedziała] Małgorzata Zierkiewicz .",
+        "output": "- Miłość jest wtedy , gdy człowiek jest szczęśliwy z faktu , że z kimś jest - powiedziała [Małgorzata | subject] Zierkiewicz ."
+    },
+    {
+        "input": "Być może dlatego krewni nie [wiedzą] jeszcze , jaki spotkał ją los - mówi \" Super Expressowi \" jeden z policjantów .",
+        "output": "Być może dlatego [krewni | subject] nie wiedzą jeszcze , jaki spotkał ją los - mówi \" Super Expressowi \" jeden z policjantów ."
+    },
+    {
+        "input": "Koza [beknęła] przeciągle , a w dowód zupełnego braku zainteresowania sprawami młodych detektywów pokazała mu ogon .",
+        "output": "[Koza | subject] beknęła przeciągle , a w dowód zupełnego braku zainteresowania sprawami młodych detektywów pokazała mu ogon ."
+    },
+    {
+        "input": "Johnny Fontane [zachichotał] i odrzekł : - Nie mogę powiedzieć , to właśnie jest najmilsze w prezencie gwiazdkowym .",
+        "output": "[Johnny | subject] Fontane zachichotał i odrzekł : - Nie mogę powiedzieć , to właśnie jest najmilsze w prezencie gwiazdkowym ."
+    },
+    {
+        "input": "W części Pałacu od strony parku [powstaną] apartamenty gościnne z trzema sypialniami , pokojem stołowym i dużą łazienką .",
+        "output": "W części Pałacu od strony parku powstaną [apartamenty | subject] gościnne z trzema sypialniami , pokojem stołowym i dużą łazienką ."
+    },
+    {
+        "input": "Piszę o tym specjalnie , bo tyle się zawistni [nagadali] , że sobie pałac pobudował , porósł w piórka i pycha go wzdęła .",
+        "output": "Piszę o tym specjalnie , bo tyle się [zawistni | subject] nagadali , że sobie pałac pobudował , porósł w piórka i pycha go wzdęła ."
+    },
+    {
+        "input": "- Ale prokuratura umorzyła dochodzenie , bo \" społeczna szkodliwość tego czynu jest znikoma \" - [cytuje] pani Konstanty .",
+        "output": "- Ale prokuratura umorzyła dochodzenie , bo \" społeczna szkodliwość tego czynu jest znikoma \" - cytuje [pani | subject] Konstanty ."
+    },
+    {
+        "input": "Brigitte Bardot [zaczęła] bronić zwierząt histerycznie , szlachetne intencje popsuły się i pogniły jak robaczywe jabłka .",
+        "output": "[Brigitte | subject] Bardot zaczęła bronić zwierząt histerycznie , szlachetne intencje popsuły się i pogniły jak robaczywe jabłka ."
+    },
+    {
+        "input": "Brigitte Bardot zaczęła bronić zwierząt histerycznie , szlachetne intencje [popsuły] się i pogniły jak robaczywe jabłka .",
+        "output": "Brigitte Bardot zaczęła bronić zwierząt histerycznie , szlachetne [intencje | subject] popsuły się i pogniły jak robaczywe jabłka ."
+    },
+    {
+        "input": "Monitował mnie jeszcze Modecki , ale kiedy zobaczyłem reakcję premiera i służb , wiedziałem , że to dobrze nie [rokuje] .",
+        "output": "Monitował mnie jeszcze Modecki , ale kiedy zobaczyłem reakcję premiera i służb , wiedziałem , że [to | subject] dobrze nie rokuje ."
+    },
+    {
+        "input": "[Pojawiło] się zbyt wielu utalentowanych amatorów , a zmiana warunków finansowych wykazała absurdalność starego systemu .",
+        "output": "Pojawiło się zbyt wielu utalentowanych [amatorów | subject] , a zmiana warunków finansowych wykazała absurdalność starego systemu ."
+    },
+    {
+        "input": "W sobotę , 13 grudnia o godzinie 8.45 [nastąpi] uroczyste otwarcie sesji , a potem przedstawione zostaną referaty .",
+        "output": "W sobotę , 13 grudnia o godzinie 8.45 nastąpi uroczyste [otwarcie | subject] sesji , a potem przedstawione zostaną referaty ."
+    },
+    {
+        "input": "Liczymy , że województwo da nam na to środki - [mówi] pełniący funkcję prezydenta stolicy Kazimierz Marcinkiewicz .",
+        "output": "Liczymy , że województwo da nam na to środki - mówi pełniący funkcję prezydenta stolicy [Kazimierz | subject] Marcinkiewicz ."
+    },
+    {
+        "input": "[Oznacza] to , że również inwestorzy reprezentujący kapitał hybrydowy muszą uczestniczyć w restrukturyzacji banku .",
+        "output": "Oznacza [to | subject] , że również inwestorzy reprezentujący kapitał hybrydowy muszą uczestniczyć w restrukturyzacji banku ."
+    },
+    {
+        "input": "Oznacza to , że również inwestorzy reprezentujący kapitał hybrydowy [muszą] uczestniczyć w restrukturyzacji banku .",
+        "output": "Oznacza to , że również [inwestorzy | subject] reprezentujący kapitał hybrydowy muszą uczestniczyć w restrukturyzacji banku ."
+    },
+    {
+        "input": "Starszy mężczyzna , otyły mężczyzna i starsza kobieta w czerwonym stroju trzymająca kwiaty [siedzą] obok siebie na ławce .",
+        "output": "Starszy [mężczyzna | subject] , otyły mężczyzna i starsza kobieta w czerwonym stroju trzymająca kwiaty siedzą obok siebie na ławce ."
+    },
+    {
+        "input": "Wczoraj na ul . Gdańskiej przy wylocie ul . Dworcowej sporo ludzi [gromadziło] się wokół stojącego na chodniku samochodu .",
+        "output": "Wczoraj na ul . Gdańskiej przy wylocie ul . Dworcowej sporo [ludzi | subject] gromadziło się wokół stojącego na chodniku samochodu ."
+    },
+    {
+        "input": "- Walczą tylko o lekkoatletykę , bo są w niej mocni - [powiedział] o organizatorach były kenijski biegacz Kipchoge Keino .",
+        "output": "- Walczą tylko o lekkoatletykę , bo są w niej mocni - powiedział o organizatorach były kenijski [biegacz | subject] Kipchoge Keino ."
+    },
+    {
+        "input": "Bez uśmiechu , choć był to raczej grymas niż prawdziwy uśmiech , Joanna [wyglądała] na starzejącą się , zmęczoną kobietę .",
+        "output": "Bez uśmiechu , choć był to raczej grymas niż prawdziwy uśmiech , [Joanna | subject] wyglądała na starzejącą się , zmęczoną kobietę ."
+    },
+    {
+        "input": "Dziś znajomi [wychwalają] się nawzajem w niskonakładowych pismach , które docierają do rąk bezpośrednio zainteresowanych .",
+        "output": "Dziś [znajomi | subject] wychwalają się nawzajem w niskonakładowych pismach , które docierają do rąk bezpośrednio zainteresowanych ."
+    },
+    {
+        "input": "Dziś znajomi wychwalają się nawzajem w niskonakładowych pismach , które [docierają] do rąk bezpośrednio zainteresowanych .",
+        "output": "Dziś znajomi wychwalają się nawzajem w niskonakładowych pismach , [które | subject] docierają do rąk bezpośrednio zainteresowanych ."
+    },
+    {
+        "input": "Mężczyzna w czarnej koszulce [śmieje] się , siedząc przy stole , na którym leżą akcesoria do zwijania papierosów .",
+        "output": "[Mężczyzna | subject] w czarnej koszulce śmieje się , siedząc przy stole , na którym leżą akcesoria do zwijania papierosów ."
+    },
+    {
+        "input": "Mężczyzna w czarnej koszulce śmieje się , siedząc przy stole , na którym [leżą] akcesoria do zwijania papierosów .",
+        "output": "Mężczyzna w czarnej koszulce śmieje się , siedząc przy stole , na którym leżą [akcesoria | subject] do zwijania papierosów ."
+    },
+    {
+        "input": "Dziewczynka w papierowej czapeczce zdmuchuje świeczki na torcie , a obok [stoją] dwie inne dziewczynki i kobieta .",
+        "output": "Dziewczynka w papierowej czapeczce zdmuchuje świeczki na torcie , a obok stoją dwie inne [dziewczynki | subject] i kobieta ."
+    },
+    {
+        "input": "Gruba kobieta w granatowej bluzie i szczupły mężczyzna w okularach [siedzą] razem na ławce w pobliżu innych osób .",
+        "output": "Gruba [kobieta | subject] w granatowej bluzie i szczupły mężczyzna w okularach siedzą razem na ławce w pobliżu innych osób ."
+    },
+    {
+        "input": "Do gabinetu restauracyjnego [wpadło] kilkanaście osób - spieszyło im się bardzo , żądali natychmiastowej obsługi .",
+        "output": "Do gabinetu restauracyjnego wpadło kilkanaście [osób | subject] - spieszyło im się bardzo , żądali natychmiastowej obsługi ."
+    },
+    {
+        "input": "Nauczyciele , dzieci , policja [podkreślają] : wszystkie dziewczynki pochodziły z normalnych , porządnych rodzin .",
+        "output": "[Nauczyciele | subject] , dzieci , policja podkreślają : wszystkie dziewczynki pochodziły z normalnych , porządnych rodzin ."
+    },
+    {
+        "input": "Nauczyciele , dzieci , policja podkreślają : wszystkie dziewczynki [pochodziły] z normalnych , porządnych rodzin .",
+        "output": "Nauczyciele , dzieci , policja podkreślają : wszystkie [dziewczynki | subject] pochodziły z normalnych , porządnych rodzin ."
+    },
+    {
+        "input": "Zezwolenie [może] być udzielone w szczególności , gdy nie obowiązują ograniczenia wahań kursów określone w § 148 .",
+        "output": "[Zezwolenie | subject] może być udzielone w szczególności , gdy nie obowiązują ograniczenia wahań kursów określone w § 148 ."
+    },
+    {
+        "input": "Zezwolenie może być udzielone w szczególności , gdy nie [obowiązują] ograniczenia wahań kursów określone w § 148 .",
+        "output": "Zezwolenie może być udzielone w szczególności , gdy nie obowiązują [ograniczenia | subject] wahań kursów określone w § 148 ."
+    },
+    {
+        "input": "Po kilkudziesięciu minutach terrorysta [zgodził] się na przestawienie swego samochodu w mniej zaludnione miejsce .",
+        "output": "Po kilkudziesięciu minutach [terrorysta | subject] zgodził się na przestawienie swego samochodu w mniej zaludnione miejsce ."
+    },
+    {
+        "input": "Teraz to on [powinien] być przy wydawaniu reszty rzeczy - wyjaśnił nam dyżurny IV Komisariatu Policji w Kielcach .",
+        "output": "Teraz to [on | subject] powinien być przy wydawaniu reszty rzeczy - wyjaśnił nam dyżurny IV Komisariatu Policji w Kielcach ."
+    },
+    {
+        "input": "A organizatorzy [starają] się , by stworzyć dobrą atmosferę , w przerwie meczu częstowali nawet widzów grochówką .",
+        "output": "A [organizatorzy | subject] starają się , by stworzyć dobrą atmosferę , w przerwie meczu częstowali nawet widzów grochówką ."
+    },
+    {
+        "input": "Puzon [odetchnął] z ulgą , odwrócił się i zobaczył coś , co spowodowało , że jego trąba pokryła się gęsią skórką .",
+        "output": "[Puzon | subject] odetchnął z ulgą , odwrócił się i zobaczył coś , co spowodowało , że jego trąba pokryła się gęsią skórką ."
+    },
+    {
+        "input": "Puzon odetchnął z ulgą , odwrócił się i zobaczył coś , co [spowodowało] , że jego trąba pokryła się gęsią skórką .",
+        "output": "Puzon odetchnął z ulgą , odwrócił się i zobaczył coś , [co | subject] spowodowało , że jego trąba pokryła się gęsią skórką ."
+    },
+    {
+        "input": "- Zaryglowałem drzwi i powiedziałem , że nie wpuszczę - [opowiada] Andrzej Michaluk ( 54 l . ) , syn pani Janiny .",
+        "output": "- Zaryglowałem drzwi i powiedziałem , że nie wpuszczę - opowiada [Andrzej | subject] Michaluk ( 54 l . ) , syn pani Janiny ."
+    },
+    {
+        "input": "Z typowo wiosennych kolorów pozostaniemy przy odcieniach młodej zieleni - [będą] więc pistacje , seledyny i tonacje mięty .",
+        "output": "Z typowo wiosennych kolorów pozostaniemy przy odcieniach młodej zieleni - będą więc [pistacje | subject] , seledyny i tonacje mięty ."
+    },
+    {
+        "input": "Z ważnych powodów sąd [może] na żądanie poszkodowanego przyznać mu zamiast renty lub jej części odszkodowanie jednorazowe .",
+        "output": "Z ważnych powodów [sąd | subject] może na żądanie poszkodowanego przyznać mu zamiast renty lub jej części odszkodowanie jednorazowe ."
+    },
+    {
+        "input": "Z pewnością młodemu człowiekowi nie pomagają zainteresowania seksualne , które [koncentrują] się na doznaniach fizycznych .",
+        "output": "Z pewnością młodemu człowiekowi nie pomagają zainteresowania seksualne , [które | subject] koncentrują się na doznaniach fizycznych ."
+    },
+    {
+        "input": "Jan [stanie] przed Bogiem i będzie musiał świadomie odpowiedzieć za całe życie , cokolwiek w tym poprzednim się wydarzyło .",
+        "output": "[Jan | subject] stanie przed Bogiem i będzie musiał świadomie odpowiedzieć za całe życie , cokolwiek w tym poprzednim się wydarzyło ."
+    },
+    {
+        "input": "Jan stanie przed Bogiem i będzie musiał świadomie odpowiedzieć za całe życie , cokolwiek w tym poprzednim się [wydarzyło] .",
+        "output": "Jan stanie przed Bogiem i będzie musiał świadomie odpowiedzieć za całe życie , [cokolwiek | subject] w tym poprzednim się wydarzyło ."
+    },
+    {
+        "input": "Czy dlatego Pan tak twardo [opowiada] się przeciwko udziałowi aktorów w reklamie , że to też narusza ich godność zawodową ?",
+        "output": "Czy dlatego [Pan | subject] tak twardo opowiada się przeciwko udziałowi aktorów w reklamie , że to też narusza ich godność zawodową ?"
+    },
+    {
+        "input": "A gdy dziewczyna [przestała] mnie okładać na chwilę , jednym szarpnięciem ciała próbowałem się wyrwać spod niej .",
+        "output": "A gdy [dziewczyna | subject] przestała mnie okładać na chwilę , jednym szarpnięciem ciała próbowałem się wyrwać spod niej ."
+    },
+    {
+        "input": "Kiedy już senat uniwersytetu [zgodził] się wydelegować Victora do Toskanii , ten zaproponował mi dłuższy spacer .",
+        "output": "Kiedy już [senat | subject] uniwersytetu zgodził się wydelegować Victora do Toskanii , ten zaproponował mi dłuższy spacer ."
+    },
+    {
+        "input": "Oto na czym nasza psychozabawa [polega] : Oglądnij dokładnie te dziesięć portretów ( ponumerowanych od 1 - 10 ) .",
+        "output": "Oto na czym nasza [psychozabawa | subject] polega : Oglądnij dokładnie te dziesięć portretów ( ponumerowanych od 1 - 10 ) ."
+    },
+    {
+        "input": "W . M . : W dalszych odcinkach [będzie] znacznie więcej humoru , przecież to także jest immanentna cecha wojska .",
+        "output": "W . M . : W dalszych odcinkach będzie znacznie więcej [humoru | subject] , przecież to także jest immanentna cecha wojska ."
+    },
+    {
+        "input": "Aspirant wyartykułował nieokreślony dźwięk , co [miało] dawać do zrozumienia , że nie chce mieszać się do sporu .",
+        "output": "Aspirant wyartykułował nieokreślony dźwięk , [co | subject] miało dawać do zrozumienia , że nie chce mieszać się do sporu ."
+    },
+    {
+        "input": "Kontrast ten [może] nawet świadczyć o jakiejś obojętności czy martwocie religijnej panującej w czasach proroka .",
+        "output": "[Kontrast | subject] ten może nawet świadczyć o jakiejś obojętności czy martwocie religijnej panującej w czasach proroka ."
+    },
+    {
+        "input": "Przystupa odstawiła szklankę po whisky i skuliła się w fotelu , pan Cox [wyglądał] , jakby się właśnie obudził .",
+        "output": "Przystupa odstawiła szklankę po whisky i skuliła się w fotelu , [pan | subject] Cox wyglądał , jakby się właśnie obudził ."
+    },
+    {
+        "input": "Naukowcy [odkryli] , że FMR1 ( łamliwy gen chromosomu X ) był aktywny w komórkach ES , ale nie w komórkach iPS .",
+        "output": "[Naukowcy | subject] odkryli , że FMR1 ( łamliwy gen chromosomu X ) był aktywny w komórkach ES , ale nie w komórkach iPS ."
+    },
+    {
+        "input": "Chory lis [powinien] być niezwłocznie odstrzelony i dostarczony do stacji sanitarno - epidemiologicznej w plastikowym worku .",
+        "output": "Chory [lis | subject] powinien być niezwłocznie odstrzelony i dostarczony do stacji sanitarno - epidemiologicznej w plastikowym worku ."
+    },
+    {
+        "input": "Prokurator też nic nie wskórał - [skarży] się Józef Kalinowski , inspektor z terenowej stacji sanitarno - epidemiologicznej .",
+        "output": "Prokurator też nic nie wskórał - skarży się [Józef | subject] Kalinowski , inspektor z terenowej stacji sanitarno - epidemiologicznej ."
+    },
+    {
+        "input": "Kierowcy , jeżdżący krakowską obwodnicą , [alarmują] , że ostatnio coraz częściej - wbrew zakazom - pojawiają się tam piesi .",
+        "output": "[Kierowcy | subject] , jeżdżący krakowską obwodnicą , alarmują , że ostatnio coraz częściej - wbrew zakazom - pojawiają się tam piesi ."
+    },
+    {
+        "input": "Kierowcy , jeżdżący krakowską obwodnicą , alarmują , że ostatnio coraz częściej - wbrew zakazom - [pojawiają] się tam piesi .",
+        "output": "Kierowcy , jeżdżący krakowską obwodnicą , alarmują , że ostatnio coraz częściej - wbrew zakazom - pojawiają się tam [piesi | subject] ."
+    },
+    {
+        "input": "W związku z wyrażonym wotum nieufności , Ponikowski w imieniu całego gabinetu [poprosił] o dymisję , która została przyjęta .",
+        "output": "W związku z wyrażonym wotum nieufności , [Ponikowski | subject] w imieniu całego gabinetu poprosił o dymisję , która została przyjęta ."
+    },
+    {
+        "input": "- No właśnie , łatwiej ! - [zatriumfowała] moja siostra , a Julek odciągnięty od gąsiorowego korka , wydarł się wniebogłosy .",
+        "output": "- No właśnie , łatwiej ! - zatriumfowała moja [siostra | subject] , a Julek odciągnięty od gąsiorowego korka , wydarł się wniebogłosy ."
+    },
+    {
+        "input": "- No właśnie , łatwiej ! - zatriumfowała moja siostra , a Julek odciągnięty od gąsiorowego korka , [wydarł] się wniebogłosy .",
+        "output": "- No właśnie , łatwiej ! - zatriumfowała moja siostra , a [Julek | subject] odciągnięty od gąsiorowego korka , wydarł się wniebogłosy ."
+    },
+    {
+        "input": "Wróćmy jeszcze do krótkiego dialogu pomiędzy śniącym , a małym chłopcem : - Co ty tu robisz ? - [pyta] śniący .",
+        "output": "Wróćmy jeszcze do krótkiego dialogu pomiędzy śniącym , a małym chłopcem : - Co ty tu robisz ? - pyta [śniący | subject] ."
+    },
+    {
+        "input": "- Ostateczną decyzję podejmie prokuratura - [mówi] podkom . Tadeusz Kaczmarek , rzecznik mazowieckiej policji .",
+        "output": "- Ostateczną decyzję podejmie prokuratura - mówi [podkom | subject] . Tadeusz Kaczmarek , rzecznik mazowieckiej policji ."
+    },
+    {
+        "input": "Numer telefonu [miał] być za to w książce telefonicznej komórki , którą znaleziono w samochodzie Kościelniaka .",
+        "output": "[Numer | subject] telefonu miał być za to w książce telefonicznej komórki , którą znaleziono w samochodzie Kościelniaka ."
+    },
+    {
+        "input": "- Spółka ta cechuje się tym , że ma niskie koszty - [mówi] Mirosław Kruszyński , zastępca prezydenta Poznania .",
+        "output": "- Spółka ta cechuje się tym , że ma niskie koszty - mówi [Mirosław | subject] Kruszyński , zastępca prezydenta Poznania ."
+    },
+    {
+        "input": "Miałem właśnie odpowiedzieć , gdy ta niematerialna ściana znowu się [otworzyła] i do środka wszedł rabin Ezra .",
+        "output": "Miałem właśnie odpowiedzieć , gdy ta niematerialna [ściana | subject] znowu się otworzyła i do środka wszedł rabin Ezra ."
+    },
+    {
+        "input": "Miałem właśnie odpowiedzieć , gdy ta niematerialna ściana znowu się otworzyła i do środka [wszedł] rabin Ezra .",
+        "output": "Miałem właśnie odpowiedzieć , gdy ta niematerialna ściana znowu się otworzyła i do środka wszedł [rabin | subject] Ezra ."
+    },
+    {
+        "input": "2 . Według tabeli 36 dobiera się wariant badań ( metody I - IV ) w zależności od warunków , w jakich grunt będzie [pracował] .",
+        "output": "2 . Według tabeli 36 dobiera się wariant badań ( metody I - IV ) w zależności od warunków , w jakich [grunt | subject] będzie pracował ."
+    },
+    {
+        "input": "Przedmiotowe sprawozdanie także [potwierdza] , że powinniśmy zwiększyć możliwości w zakresie produkcji większej ilości mleka .",
+        "output": "Przedmiotowe [sprawozdanie | subject] także potwierdza , że powinniśmy zwiększyć możliwości w zakresie produkcji większej ilości mleka ."
+    },
+    {
+        "input": "Czworo dorosłych osób i dwójka dzieci [znajdują] się w pomieszczeniu z kolorowym obrazem wiszącym na ścianie .",
+        "output": "Czworo dorosłych [osób | subject] i dwójka dzieci znajdują się w pomieszczeniu z kolorowym obrazem wiszącym na ścianie ."
+    },
+    {
+        "input": "Bezradność [okazuje] się w pewnych sytuacjach skuteczniejsza niż opór , dlatego warto ją czasem manifestować .",
+        "output": "[Bezradność | subject] okazuje się w pewnych sytuacjach skuteczniejsza niż opór , dlatego warto ją czasem manifestować ."
+    },
+    {
+        "input": "Dotąd nie rozumiem , jak to się [stało] : dla ratowania skóry człowiek może się , widać , zdobyć na wszystko .",
+        "output": "Dotąd nie rozumiem , jak [to | subject] się stało : dla ratowania skóry człowiek może się , widać , zdobyć na wszystko ."
+    },
+    {
+        "input": "Dotąd nie rozumiem , jak to się stało : dla ratowania skóry człowiek [może] się , widać , zdobyć na wszystko .",
+        "output": "Dotąd nie rozumiem , jak to się stało : dla ratowania skóry [człowiek | subject] może się , widać , zdobyć na wszystko ."
+    },
+    {
+        "input": "By mąż stanu miary Churchilla [mógł] w świecie anglosaskim stać się wielkim przywódcą - konieczna jest wojna .",
+        "output": "By [mąż | subject] stanu miary Churchilla mógł w świecie anglosaskim stać się wielkim przywódcą - konieczna jest wojna ."
+    },
+    {
+        "input": "Tak to przynajmniej [wynika] z danych statystycznych zebranych przez Komendę Wojewódzką Policji w Szczecinie .",
+        "output": "Tak [to | subject] przynajmniej wynika z danych statystycznych zebranych przez Komendę Wojewódzką Policji w Szczecinie ."
+    },
+    {
+        "input": "[Trwają] czynności procesowe , Sąd Rejonowy w Mławie zadecyduje co do tymczasowego aresztowania podejrzanych .",
+        "output": "Trwają [czynności | subject] procesowe , Sąd Rejonowy w Mławie zadecyduje co do tymczasowego aresztowania podejrzanych ."
+    },
+    {
+        "input": "Trwają czynności procesowe , Sąd Rejonowy w Mławie [zadecyduje] co do tymczasowego aresztowania podejrzanych .",
+        "output": "Trwają czynności procesowe , [Sąd | subject] Rejonowy w Mławie zadecyduje co do tymczasowego aresztowania podejrzanych ."
+    },
+    {
+        "input": "Nauczyciele też są ludźmi , ale ona nie miała zbyt wielkiego pola manewru , gdyż nie [zgłosił] się nikt inny .",
+        "output": "Nauczyciele też są ludźmi , ale ona nie miała zbyt wielkiego pola manewru , gdyż nie zgłosił się [nikt | subject] inny ."
+    },
+    {
+        "input": "Urząd [uznaje] zatem , że żadne uzasadnione oczekiwania nie mogą być dowiedzione wspomnianymi stwierdzeniami .",
+        "output": "[Urząd | subject] uznaje zatem , że żadne uzasadnione oczekiwania nie mogą być dowiedzione wspomnianymi stwierdzeniami ."
+    },
+    {
+        "input": "Urząd uznaje zatem , że żadne uzasadnione oczekiwania nie [mogą] być dowiedzione wspomnianymi stwierdzeniami .",
+        "output": "Urząd uznaje zatem , że żadne uzasadnione [oczekiwania | subject] nie mogą być dowiedzione wspomnianymi stwierdzeniami ."
+    },
+    {
+        "input": "Rząd brytyjski rozważa możliwość wprowadzenia wiz dla obywateli polskich - [poinformowały] wczoraj telewizyjne \" Wiadomości \" .",
+        "output": "Rząd brytyjski rozważa możliwość wprowadzenia wiz dla obywateli polskich - poinformowały wczoraj telewizyjne \" [Wiadomości | subject] \" ."
+    },
+    {
+        "input": "- Wystawię kilkanaście moich prac oraz kilka rysunków mojego nieżyjącego już taty , artysty Romana Waszko - [zachęca] plastyk .",
+        "output": "- Wystawię kilkanaście moich prac oraz kilka rysunków mojego nieżyjącego już taty , artysty Romana Waszko - zachęca [plastyk | subject] ."
+    },
+    {
+        "input": "Ratownicy THS [dyżurowali] w sezonie zimowym w Szczyrbskim Jeziorze , na Siodełku , przy Łomnickim Stawie w Ździarze Średnicy .",
+        "output": "[Ratownicy | subject] THS dyżurowali w sezonie zimowym w Szczyrbskim Jeziorze , na Siodełku , przy Łomnickim Stawie w Ździarze Średnicy ."
+    },
+    {
+        "input": "Dziecko w kurtce [stoi] nad brzegiem wody i trzyma w ręku figurkę , a kobieta w czarnym stroju robi zdjęcie .",
+        "output": "[Dziecko | subject] w kurtce stoi nad brzegiem wody i trzyma w ręku figurkę , a kobieta w czarnym stroju robi zdjęcie ."
+    },
+    {
+        "input": "Gdy z kadrą [pracowali] profesor Jerzy Żołądź i doktor Jan Blecharz , o kłopotach z psychiką się nie mówiło .",
+        "output": "Gdy z kadrą pracowali [profesor | subject] Jerzy Żołądź i doktor Jan Blecharz , o kłopotach z psychiką się nie mówiło ."
+    },
+    {
+        "input": "Od 1852 [mieszkał] w nim Józef Łukaszewicz ( 1799 – 1873 ) , historyk , publicysta , bibliotekarz i wydawca .",
+        "output": "Od 1852 mieszkał w nim [Józef | subject] Łukaszewicz ( 1799 – 1873 ) , historyk , publicysta , bibliotekarz i wydawca ."
+    },
+    {
+        "input": "Dopóki Mock nie [stanie] w Königsbergu przed trybunałem , będą się pojawiać wśród dziennikarzy różne plotki .",
+        "output": "Dopóki [Mock | subject] nie stanie w Königsbergu przed trybunałem , będą się pojawiać wśród dziennikarzy różne plotki ."
+    },
+    {
+        "input": "Dopóki Mock nie stanie w Königsbergu przed trybunałem , będą się [pojawiać] wśród dziennikarzy różne plotki .",
+        "output": "Dopóki Mock nie stanie w Königsbergu przed trybunałem , będą się pojawiać wśród dziennikarzy różne [plotki | subject] ."
+    },
+    {
+        "input": "W pierwszej walce , w zeszłym roku , uchodzący za niezwyciężonego Żelazny Mike [padł] na deski w XI rundzie .",
+        "output": "W pierwszej walce , w zeszłym roku , uchodzący za niezwyciężonego Żelazny [Mike | subject] padł na deski w XI rundzie ."
+    },
+    {
+        "input": "Wikipedia to nie Wikinews - tutaj opisujemy fakty i zjawiska , ktore [zaistniały] , a nie dopiero się rodzą .",
+        "output": "Wikipedia to nie Wikinews - tutaj opisujemy fakty i zjawiska , [ktore | subject] zaistniały , a nie dopiero się rodzą ."
+    },
+    {
+        "input": "Umowy [wejdą] w życie , jeśli F-16 wygra przetarg , który powinien zostać rozstrzygnięty do końca tego roku .",
+        "output": "[Umowy | subject] wejdą w życie , jeśli F-16 wygra przetarg , który powinien zostać rozstrzygnięty do końca tego roku ."
+    },
+    {
+        "input": "Umowy wejdą w życie , jeśli F-16 wygra przetarg , który [powinien] zostać rozstrzygnięty do końca tego roku .",
+        "output": "Umowy wejdą w życie , jeśli F-16 wygra przetarg , [który | subject] powinien zostać rozstrzygnięty do końca tego roku ."
+    },
+    {
+        "input": "W ułamku czasu , zbyt krótkim , aby można było go zmierzyć , przestrzeń [skręciła] się i nałożyła na siebie .",
+        "output": "W ułamku czasu , zbyt krótkim , aby można było go zmierzyć , [przestrzeń | subject] skręciła się i nałożyła na siebie ."
+    },
+    {
+        "input": "Okres ten [powinien] umożliwiać cudzoziemcom powrót do ich kraju pochodzenia lub wjazd do państwa trzeciego .",
+        "output": "[Okres | subject] ten powinien umożliwiać cudzoziemcom powrót do ich kraju pochodzenia lub wjazd do państwa trzeciego ."
+    },
+    {
+        "input": "Trzy osoby z plecakami widziane od tyłu [stoją] na śniegu z nartami na nogach , a przed nimi idą na nartach dwie kolejne osoby .",
+        "output": "Trzy [osoby | subject] z plecakami widziane od tyłu stoją na śniegu z nartami na nogach , a przed nimi idą na nartach dwie kolejne osoby ."
+    },
+    {
+        "input": "Trzy osoby z plecakami widziane od tyłu stoją na śniegu z nartami na nogach , a przed nimi [idą] na nartach dwie kolejne osoby .",
+        "output": "Trzy osoby z plecakami widziane od tyłu stoją na śniegu z nartami na nogach , a przed nimi idą na nartach dwie kolejne [osoby | subject] ."
+    },
+    {
+        "input": "Chłopiec w szlafroku ze świecącym mieczem w ręku [stoi] w pobliżu świątecznej choinki wśród porozrzucanych kolorowych papierów .",
+        "output": "[Chłopiec | subject] w szlafroku ze świecącym mieczem w ręku stoi w pobliżu świątecznej choinki wśród porozrzucanych kolorowych papierów ."
+    },
+    {
+        "input": "Niewidzialny wpływ wielkich mistyków [trwa] i zostaje wzmocniony , kiedy nowa niezwykła dusza pojawi się w odpowiedniej chwili .",
+        "output": "Niewidzialny [wpływ | subject] wielkich mistyków trwa i zostaje wzmocniony , kiedy nowa niezwykła dusza pojawi się w odpowiedniej chwili ."
+    },
+    {
+        "input": "Niewidzialny wpływ wielkich mistyków trwa i zostaje wzmocniony , kiedy nowa niezwykła dusza [pojawi] się w odpowiedniej chwili .",
+        "output": "Niewidzialny wpływ wielkich mistyków trwa i zostaje wzmocniony , kiedy nowa niezwykła [dusza | subject] pojawi się w odpowiedniej chwili ."
+    },
+    {
+        "input": "Syn pana Bogdana raz sam się [przekonał] , jak wygląda opieka nad niepełnosprawnymi na porządnym zachodnioeuropejskim poziomie .",
+        "output": "[Syn | subject] pana Bogdana raz sam się przekonał , jak wygląda opieka nad niepełnosprawnymi na porządnym zachodnioeuropejskim poziomie ."
+    },
+    {
+        "input": "Syn pana Bogdana raz sam się przekonał , jak [wygląda] opieka nad niepełnosprawnymi na porządnym zachodnioeuropejskim poziomie .",
+        "output": "Syn pana Bogdana raz sam się przekonał , jak wygląda [opieka | subject] nad niepełnosprawnymi na porządnym zachodnioeuropejskim poziomie ."
+    },
+    {
+        "input": "W zamku Książąt Pomorskich [zebrał] się tłum uczniów i gości , którzy obejrzeli montaż poetycko - muzyczny w wykonaniu uczniów .",
+        "output": "W zamku Książąt Pomorskich zebrał się [tłum | subject] uczniów i gości , którzy obejrzeli montaż poetycko - muzyczny w wykonaniu uczniów ."
+    },
+    {
+        "input": "- Kobieta pełna ciepła , z łatwością zawierająca znajomości - [mówi] o Kaczyńskiej posłanka PiS Jolanta Szczypińska ( 49 l . ) .",
+        "output": "- Kobieta pełna ciepła , z łatwością zawierająca znajomości - mówi o Kaczyńskiej [posłanka | subject] PiS Jolanta Szczypińska ( 49 l . ) ."
+    },
+    {
+        "input": "Odpowiednio umocowane na ścianie czy przy listwie podłogowej , doskonale odgrywają swą rolę - problem niszczenia mebli [znika] .",
+        "output": "Odpowiednio umocowane na ścianie czy przy listwie podłogowej , doskonale odgrywają swą rolę - [problem | subject] niszczenia mebli znika ."
+    },
+    {
+        "input": "Dwóch mężczyzn [stoi] na polu golfowym w pobliżu dużego budynku , jeden podnosi rękę , a drugi unosi kijek .",
+        "output": "Dwóch [mężczyzn | subject] stoi na polu golfowym w pobliżu dużego budynku , jeden podnosi rękę , a drugi unosi kijek ."
+    },
+    {
+        "input": "Poseł Mirosław Pietrewicz [protestował] w jego imieniu przeciwko lekceważeniu w budżecie potrzeb rolnictwa .",
+        "output": "[Poseł | subject] Mirosław Pietrewicz protestował w jego imieniu przeciwko lekceważeniu w budżecie potrzeb rolnictwa ."
+    },
+    {
+        "input": "Na placu Wolności [wisiało] jeszcze wtedy kilka plakatów , zachęcających do głosowania na Tadeusza Zwiefkę .",
+        "output": "Na placu Wolności wisiało jeszcze wtedy kilka [plakatów | subject] , zachęcających do głosowania na Tadeusza Zwiefkę ."
+    },
+    {
+        "input": "- Zrobiliśmy program o wojsku i o lustracji - ten drugi [poszedł] w tydzień po obaleniu rządu Olszewskiego .",
+        "output": "- Zrobiliśmy program o wojsku i o lustracji - ten [drugi | subject] poszedł w tydzień po obaleniu rządu Olszewskiego ."
+    },
+    {
+        "input": "Prezydent Rosji Borys Jelcyn [odpowiedział] Ardzinbie , że Moskwa nie będzie się mieszać w abchasko - gruziński spór .",
+        "output": "[Prezydent | subject] Rosji Borys Jelcyn odpowiedział [Ardzinbie | indirect_object] , że Moskwa nie będzie się mieszać w abchasko - gruziński spór ."
+    },
+    {
+        "input": "[Radował] go ciemny i śliski grzbiet szczupaka , co bujną bryłę zielonej fali przeszył jak strzała wyrzucona z cięciwy .",
+        "output": "Radował [go | indirect_object] ciemny i śliski [grzbiet | subject] szczupaka , co bujną bryłę zielonej fali przeszył jak strzała wyrzucona z cięciwy ."
+    },
+    {
+        "input": "Być może dlatego krewni nie wiedzą jeszcze , jaki spotkał ją los - [mówi] \" Super Expressowi \" jeden z policjantów .",
+        "output": "Być może dlatego krewni nie wiedzą jeszcze , jaki spotkał ją los - mówi \" Super [Expressowi | indirect_object] \" [jeden | subject] z policjantów ."
+    },
+    {
+        "input": "Najbardziej [doskwiera] im to , że w Polsce sprzedaż wina z własnych zbiorów jest nie tylko trudna , ale i nieopłacalna .",
+        "output": "Najbardziej doskwiera [im | indirect_object] [to | subject] , że w Polsce sprzedaż wina z własnych zbiorów jest nie tylko trudna , ale i nieopłacalna ."
+    },
+    {
+        "input": "Teraz to on powinien być przy wydawaniu reszty rzeczy - [wyjaśnił] nam dyżurny IV Komisariatu Policji w Kielcach .",
+        "output": "Teraz to on powinien być przy wydawaniu reszty rzeczy - wyjaśnił [nam | indirect_object] [dyżurny | subject] IV Komisariatu Policji w Kielcach ."
+    },
+    {
+        "input": "Puzon odetchnął z ulgą , odwrócił się i zobaczył coś , co spowodowało , że jego trąba [pokryła] się gęsią skórką .",
+        "output": "Puzon odetchnął z ulgą , odwrócił się i zobaczył coś , co spowodowało , że jego [trąba | subject] pokryła się gęsią [skórką | indirect_object] ."
+    },
+    {
+        "input": "Wcześniej ciągle zagadywał do pani Hani i najwyraźniej nie [podobały] mu się konfidencjonalne szepty między nią a Antkiem .",
+        "output": "Wcześniej ciągle zagadywał do pani Hani i najwyraźniej nie podobały [mu | indirect_object] się konfidencjonalne [szepty | subject] między nią a Antkiem ."
+    },
+    {
+        "input": "\" Zibi \" skrytykował mistrza świata i Europy , a poproszony o uzasadnienie odparł : - Ten zespół nie [ma] słabych punktów .",
+        "output": "\" Zibi \" skrytykował mistrza świata i Europy , a poproszony o uzasadnienie odparł : - Ten [zespół | subject] nie ma słabych [punktów | indirect_object] ."
+    },
+    {
+        "input": "Z pewnością młodemu człowiekowi nie [pomagają] zainteresowania seksualne , które koncentrują się na doznaniach fizycznych .",
+        "output": "Z pewnością młodemu [człowiekowi | indirect_object] nie pomagają [zainteresowania | subject] seksualne , które koncentrują się na doznaniach fizycznych ."
+    },
+    {
+        "input": "[Zostały] mu tylko kontry - tłumaczył kolegę Krzesiński , obserwując jego walkę z Niemcem Wolfgangiem Wienandem .",
+        "output": "Zostały [mu | indirect_object] tylko [kontry | subject] - tłumaczył kolegę Krzesiński , obserwując jego walkę z Niemcem Wolfgangiem Wienandem ."
+    },
+    {
+        "input": "Zostały mu tylko kontry - [tłumaczył] kolegę Krzesiński , obserwując jego walkę z Niemcem Wolfgangiem Wienandem .",
+        "output": "Zostały mu tylko kontry - tłumaczył [kolegę | indirect_object] [Krzesiński | subject] , obserwując jego walkę z Niemcem Wolfgangiem Wienandem ."
+    },
+    {
+        "input": "- Spółka ta [cechuje] się tym , że ma niskie koszty - mówi Mirosław Kruszyński , zastępca prezydenta Poznania .",
+        "output": "- [Spółka | subject] ta cechuje się [tym | indirect_object] , że ma niskie koszty - mówi Mirosław Kruszyński , zastępca prezydenta Poznania ."
+    },
+    {
+        "input": "Związkowcom udało się przedłużyć okres przejściowy dla nauczycieli mianowanych , którzy nie [mają] odpowiednich kwalifikacji .",
+        "output": "Związkowcom udało się przedłużyć okres przejściowy dla nauczycieli mianowanych , [którzy | subject] nie mają odpowiednich [kwalifikacji | indirect_object] ."
+    },
+    {
+        "input": "- Dymisja jest przyjęta , a podpiszę ją po powrocie z Litwy - [mówi] nam prokurator krajowy Janusz Kaczmarek .",
+        "output": "- Dymisja jest przyjęta , a podpiszę ją po powrocie z Litwy - mówi [nam | indirect_object] [prokurator | subject] krajowy Janusz Kaczmarek ."
+    },
+    {
+        "input": "Nauczyciele też są ludźmi , ale ona nie [miała] zbyt wielkiego pola manewru , gdyż nie zgłosił się nikt inny .",
+        "output": "Nauczyciele też są ludźmi , ale [ona | subject] nie miała zbyt wielkiego [pola | indirect_object] manewru , gdyż nie zgłosił się nikt inny ."
+    },
+    {
+        "input": "Kłopoty z tożsamością Macieja i Mateusza [każą] mi tutaj przywołać jeszcze jedną parę imion , a mianowicie Szczepana i Stefana .",
+        "output": "[Kłopoty | subject] z tożsamością Macieja i Mateusza każą [mi | indirect_object] tutaj przywołać jeszcze jedną parę imion , a mianowicie Szczepana i Stefana ."
+    },
+    {
+        "input": "Pośród traktatów , pośród rozpraw świątobliwych ojców , [wpadła] mu w ręce książka , która zainteresowała go bardziej niż inne .",
+        "output": "Pośród traktatów , pośród rozpraw świątobliwych ojców , wpadła [mu | indirect_object] w ręce [książka | subject] , która zainteresowała go bardziej niż inne ."
+    },
+    {
+        "input": "Koszt przedsięwzięcia nie jest mały : kamera [kosztowała] około 2 tys . zł , 5 tys . zapłacono za komputer .",
+        "output": "Koszt przedsięwzięcia nie jest mały : [kamera | subject] kosztowała około 2 tys . [zł | indirect_object] , 5 tys . zapłacono za komputer ."
+    },
+    {
+        "input": "Demonstranci [mieli] flagi Liberalno - Demokratycznej Partii Rosji , organizacji politycznej znanego nacjonalisty Żyrinowskiego .",
+        "output": "[Demonstranci | subject] mieli [flagi | indirect_object] Liberalno - Demokratycznej Partii Rosji , organizacji politycznej znanego nacjonalisty Żyrinowskiego ."
+    },
+    {
+        "input": "Wszyscy jednak potwierdzają , że Buzek i Krzaklewski od lat [darzą] się absolutnym zaufaniem i przyjaźnią .",
+        "output": "Wszyscy jednak potwierdzają , że [Buzek | subject] i Krzaklewski od lat darzą się absolutnym [zaufaniem | indirect_object] i przyjaźnią ."
+    },
+    {
+        "input": "Miałby on wspierać uczniów uzdolnionych , którzy [mają] trudności z kontynuowaniem nauki z przyczyn rodzinnych czy ekonomicznych .",
+        "output": "Miałby on wspierać uczniów uzdolnionych , [którzy | subject] mają [trudności | indirect_object] z kontynuowaniem nauki z przyczyn rodzinnych czy ekonomicznych ."
+    },
+    {
+        "input": "Decyzji jednak nie było , więc Feliks Dzierżyński [rozkazał] swoim agentom , by poszukali najlepszych sposobów preparowania zwłok .",
+        "output": "Decyzji jednak nie było , więc [Feliks | subject] Dzierżyński rozkazał swoim [agentom | indirect_object] , by poszukali najlepszych sposobów preparowania zwłok ."
+    },
+    {
+        "input": "Decyzja o nominacji zdaje się już przesądzona - [mówi] nam jeden z pracowników Kancelarii Prezydenta RP .",
+        "output": "Decyzja o nominacji zdaje się już przesądzona - mówi [nam | indirect_object] [jeden | subject] z pracowników Kancelarii Prezydenta RP ."
+    },
+    {
+        "input": "Zarówno sam model , jak i sposób posługiwania się nim , [podlegają] zatwierdzeniu przez właściwe organy .",
+        "output": "Zarówno sam [model | subject] , jak i sposób posługiwania się nim , podlegają [zatwierdzeniu | indirect_object] przez właściwe organy ."
+    },
+    {
+        "input": "Kiedy jeden opowiada dowcip , drugi [wchodzi] mu w słowo odpowiednim komentarzem , podprowadza , a potem na zmianę puentują dowcip .",
+        "output": "Kiedy jeden opowiada dowcip , [drugi | subject] wchodzi [mu | indirect_object] w słowo odpowiednim [komentarzem | indirect_object] , podprowadza , a potem na zmianę puentują dowcip ."
+    },
+    {
+        "input": "Trzy dziewczynki [przyglądają] się chłopcu , który gra na harmonijce w towarzystwie mężczyzny z gitarą .",
+        "output": "Trzy [dziewczynki | subject] przyglądają się [chłopcu | indirect_object] , który gra na harmonijce w towarzystwie mężczyzny z gitarą ."
+    },
+    {
+        "input": "Funkcjonariusze [zajęli] się sprawą po tym , jak otrzymali anonimową informację o nielegalnej hodowli .",
+        "output": "[Funkcjonariusze | subject] zajęli się [sprawą | indirect_object] po tym , jak otrzymali anonimową informację o nielegalnej hodowli ."
+    },
+    {
+        "input": "Fakt , że uznawany za symbol niemieckiej solidności polityk [dopuszczał] się bezprawia , wywołał szok .",
+        "output": "Fakt , że uznawany za symbol niemieckiej solidności [polityk | subject] dopuszczał się [bezprawia | indirect_object] , wywołał szok ."
+    },
+    {
+        "input": "W sumie nie za bardzo się kolegowali , bo Jaśka [interesowały] zupełnie inne rzeczy niż Franka , ale postanowił jakoś Frankowi pomóc .",
+        "output": "W sumie nie za bardzo się kolegowali , bo [Jaśka | indirect_object] interesowały zupełnie inne [rzeczy | subject] niż Franka , ale postanowił jakoś Frankowi pomóc ."
+    },
+    {
+        "input": "Virginio , mówiłam Ci , Twój ojciec [ma] klucz do tej szafki . i jest teraz w pociągu do Nowego Jorku",
+        "output": "Virginio , mówiłam Ci , Twój [ojciec | subject] ma [klucz | indirect_object] do tej szafki . i jest teraz w pociągu do Nowego Jorku"
+    },
+    {
+        "input": "Długo by o tym zresztą opowiadać , ale to było już tak dawno . - [macha] ręką Artur Matys , inny przyjaciel Walendziaka z czasów Ruchu .",
+        "output": "Długo by o tym zresztą opowiadać , ale to było już tak dawno . - macha [ręką | indirect_object] [Artur | subject] Matys , inny przyjaciel Walendziaka z czasów Ruchu ."
+    },
+    {
+        "input": "Przychodzą na świat pokryte sierścią , po kilku godzinach [otwierają] się im oczy i ruchliwe maluchy zaczynają baraszkować w najlepsze .",
+        "output": "Przychodzą na świat pokryte sierścią , po kilku godzinach otwierają się [im | indirect_object] [oczy | subject] i ruchliwe maluchy zaczynają baraszkować w najlepsze ."
+    },
+    {
+        "input": "Na przykład nie płacić pensji przez 12 miesięcy , tylko przez tyle , ile [trwa] nauka - ale więcej .",
+        "output": "Na przykład nie płacić pensji przez 12 miesięcy , tylko przez tyle , [ile | indirect_object] trwa [nauka | subject] - ale więcej ."
+    },
+    {
+        "input": "Pytanie podejmują tłumy , wołanie przemienia się w skandowany grzmot : „ My – [chcemy] – Londynu ! ”",
+        "output": "Pytanie podejmują tłumy , wołanie przemienia się w skandowany grzmot : „ [My | subject] – chcemy – [Londynu | indirect_object] ! ”"
+    },
+    {
+        "input": "Jedni [podlegać] będą od przyszłego roku nowemu wojewodzie , inni marszałkom województwa i starostom , a jeszcze inni prezydentom miast .",
+        "output": "[Jedni | subject] podlegać będą od przyszłego roku nowemu [wojewodzie | indirect_object] , inni marszałkom województwa i starostom , a jeszcze inni prezydentom miast ."
+    },
+    {
+        "input": "Taka wersja [zadowoliłaby] tych wszystkich , którym miłość i śmierć wydają się najlepszym rozwiązaniem zarówno romansu , jak i tragedii .",
+        "output": "Taka [wersja | subject] zadowoliłaby tych [wszystkich | indirect_object] , którym miłość i śmierć wydają się najlepszym rozwiązaniem zarówno romansu , jak i tragedii ."
+    },
+    {
+        "input": "Taka wersja zadowoliłaby tych wszystkich , którym miłość i śmierć [wydają] się najlepszym rozwiązaniem zarówno romansu , jak i tragedii .",
+        "output": "Taka wersja zadowoliłaby tych wszystkich , [którym | indirect_object] [miłość | subject] i śmierć wydają się najlepszym rozwiązaniem zarówno romansu , jak i tragedii ."
+    },
+    {
+        "input": "Polubił Mike'a Boona , który prowadząc deskę [towarzyszył] mu przez dłuższy odcinek , chwalił go przed Pallusem za sprawność i starania .",
+        "output": "Polubił Mike'a Boona , [który | subject] prowadząc deskę towarzyszył [mu | indirect_object] przez dłuższy odcinek , chwalił go przed Pallusem za sprawność i starania ."
+    },
+    {
+        "input": "Osiemnastoletni Mateusz nigdy nie [miał] prawa jazdy , mimo to wsiadł za kółko samochodu rodziców .",
+        "output": "Osiemnastoletni [Mateusz | subject] nigdy nie miał [prawa | indirect_object] jazdy , mimo to wsiadł za kółko samochodu rodziców ."
+    },
+    {
+        "input": "Ochroniarze prezydenta dbali , by pannie Mullins nikt nie [przeszkadzał] w odpoczynku po wyścigu .",
+        "output": "Ochroniarze prezydenta dbali , by [pannie | indirect_object] Mullins [nikt | subject] nie przeszkadzał w odpoczynku po wyścigu ."
+    },
+    {
+        "input": "Budynek otrzymany od parafii wymaga remontu , a placówka nie [otrzymała] jeszcze żadnej dotacji .",
+        "output": "Budynek otrzymany od parafii wymaga remontu , a [placówka | subject] nie otrzymała jeszcze żadnej [dotacji | indirect_object] ."
+    },
+    {
+        "input": "Jak proces rozwoju fizycznego przebiega według ustalonych reguł i prawideł , tak proces rozwoju duchowego [ma] także swoją dynamikę i rytm .",
+        "output": "Jak proces rozwoju fizycznego przebiega według ustalonych reguł i prawideł , tak [proces | subject] rozwoju duchowego ma także swoją [dynamikę | indirect_object] i rytm ."
+    },
+    {
+        "input": "I tyle samo czasu [mają] ich matki , by zamiast nieustanną opieką nad dzieckiem zająć się sobą .",
+        "output": "I tyle samo [czasu | indirect_object] mają ich [matki | subject] , by zamiast nieustanną opieką nad dzieckiem zająć się sobą ."
+    },
+    {
+        "input": "Potem z rachunku zorientowałem się , że \" Rapsodia \" [kosztuje] znacznie więcej niż 22 tysiące .",
+        "output": "Potem z rachunku zorientowałem się , że \" [Rapsodia | subject] \" kosztuje znacznie [więcej | indirect_object] niż 22 tysiące ."
+    },
+    {
+        "input": "Mieszkańcy tych miejscowości nadal nie [mają] prądu i nikt nie umie powiedzieć , kiedy będzie .",
+        "output": "[Mieszkańcy | subject] tych miejscowości nadal nie mają [prądu | indirect_object] i nikt nie umie powiedzieć , kiedy będzie ."
+    },
+    {
+        "input": "- A kto nam [zagwarantuje] , że nie wylądujemy na jakimś drzewie . - ponuro zakrakał dyrektor .",
+        "output": "- A [kto | subject] [nam | indirect_object] zagwarantuje , że nie wylądujemy na jakimś drzewie . - ponuro zakrakał dyrektor ."
+    },
+    {
+        "input": "Kończę na tym etapie i połowa Polski [ma] Klaudię za puszczalską , żeby gorzej nie powiedzieć .",
+        "output": "Kończę na tym etapie i [połowa | subject] Polski ma [Klaudię | indirect_object] za puszczalską , żeby gorzej nie powiedzieć ."
+    },
+    {
+        "input": "Tak jakby ludzie z kręgów kulturalnych [bali] się Szuwara , jakby mając nieczyste sumienie , chcieli jednak go wysłuchać , dopuścić do głosu .",
+        "output": "Tak jakby [ludzie | subject] z kręgów kulturalnych bali się [Szuwara | indirect_object] , jakby mając nieczyste sumienie , chcieli jednak go wysłuchać , dopuścić do głosu ."
+    },
+    {
+        "input": "- To całkowity sukces ! - [powiedział] wczoraj \" Gazecie \" Andrzej Remin , niemiecki adwokat reprezentujący rodziny pomordowanych pocztowców .",
+        "output": "- To całkowity sukces ! - powiedział wczoraj \" [Gazecie | indirect_object] \" [Andrzej | subject] Remin , niemiecki adwokat reprezentujący rodziny pomordowanych pocztowców ."
+    },
+    {
+        "input": "Dziewczynka z nartami na nogach i chłopiec z deską snowboardową [jadą] wyciągiem narciarskim .",
+        "output": "[Dziewczynka | subject] z nartami na nogach i chłopiec z deską snowboardową jadą [wyciągiem | indirect_object] narciarskim ."
+    },
+    {
+        "input": "Człowiek nigdy nie będzie wolny , więc co mu [szkodzi] wychwalać wolność , że jest taka cudowna , i że ptaki mają cudownie ze swoją wolnością ?",
+        "output": "Człowiek nigdy nie będzie wolny , więc [co | subject] [mu | indirect_object] szkodzi wychwalać wolność , że jest taka cudowna , i że ptaki mają cudownie ze swoją wolnością ?"
+    },
+    {
+        "input": "Są showmani , którzy ten wzorzec [mają] opracowany do perfekcji i nieustannie rzucają stwierdzeniami , które burzą krew w żyłach wielu ludziom .",
+        "output": "Są showmani , [którzy | subject] ten [wzorzec | indirect_object] mają opracowany do perfekcji i nieustannie rzucają stwierdzeniami , które burzą krew w żyłach wielu ludziom ."
+    },
+    {
+        "input": "Zaangażowano mnie w celu udowodnienia , że Mojka [miał] wspólników w Banku Prowincjonalnym .",
+        "output": "Zaangażowano mnie w celu udowodnienia , że [Mojka | subject] miał [wspólników | indirect_object] w Banku Prowincjonalnym ."
+    },
+    {
+        "input": "Adam [podzielił] się swoim pierwszym wrażeniem na temat Klaudii , dodając , że się pomylił .",
+        "output": "[Adam | subject] podzielił się swoim pierwszym [wrażeniem | indirect_object] na temat Klaudii , dodając , że się pomylił ."
+    },
+    {
+        "input": "Ale tajemnica mocno jej [doskwierała] , jak i to , że nie znajdowała w swym doświadczeniu żadnej wskazówki , co począć w takich okolicznościach .",
+        "output": "Ale [tajemnica | subject] mocno [jej | indirect_object] doskwierała , jak i to , że nie znajdowała w swym doświadczeniu żadnej wskazówki , co począć w takich okolicznościach ."
+    },
+    {
+        "input": "Kobieta w niebieskim kasku i z plecakiem na plecach [jedzie] rowerem przed srebrnym autem .",
+        "output": "[Kobieta | subject] w niebieskim kasku i z plecakiem na plecach jedzie [rowerem | indirect_object] przed srebrnym autem ."
+    },
+    {
+        "input": "Cztery razy osiem [równa] się trzydzieści dwa , co nam nic nie mówi - odezwała się Lunzie .",
+        "output": "[Cztery | subject] razy osiem równa się [trzydzieści | indirect_object] dwa , co nam nic nie mówi - odezwała się Lunzie ."
+    },
+    {
+        "input": "Ważne jest , że ten cymes [ma] taką urodę , że trudno podnieść kawałek złapany za koniuszek , by nie ułamał się natychmiast pod własnym ciężarem .",
+        "output": "Ważne jest , że ten [cymes | subject] ma taką [urodę | indirect_object] , że trudno podnieść kawałek złapany za koniuszek , by nie ułamał się natychmiast pod własnym ciężarem ."
+    },
+    {
+        "input": "MacGyver , nie mogę wydawać pieniędzy Fundacji tylko dlatego , że Carrie [miała] koszmar .",
+        "output": "MacGyver , nie mogę wydawać pieniędzy Fundacji tylko dlatego , że [Carrie | subject] miała [koszmar | indirect_object] ."
+    },
+    {
+        "input": "Osoba w biało - czarnym stroju [wymachuje] mieczem w pobliżu siedzących na ławce kobiet .",
+        "output": "[Osoba | subject] w biało - czarnym stroju wymachuje [mieczem | indirect_object] w pobliżu siedzących na ławce kobiet ."
+    },
+    {
+        "input": "Zaledwie myśl ta [zakiełkowała] mu w głowie , uchwycił się jej kurczowo , albowiem nazwisko młodego łowcy od dawna wydawało mu się dziwnie znajome .",
+        "output": "Zaledwie [myśl | subject] ta zakiełkowała [mu | indirect_object] w głowie , uchwycił się jej kurczowo , albowiem nazwisko młodego łowcy od dawna wydawało mu się dziwnie znajome ."
+    },
+    {
+        "input": "Zaledwie myśl ta zakiełkowała mu w głowie , uchwycił się jej kurczowo , albowiem nazwisko młodego łowcy od dawna [wydawało] mu się dziwnie znajome .",
+        "output": "Zaledwie myśl ta zakiełkowała mu w głowie , uchwycił się jej kurczowo , albowiem [nazwisko | subject] młodego łowcy od dawna wydawało [mu | indirect_object] się dziwnie znajome ."
+    },
+    {
+        "input": "Gomperts : - Dane są jednoznaczne : aborcją [kończy] się 20 proc . ciąż w każdym kraju .",
+        "output": "Gomperts : - Dane są jednoznaczne : [aborcją | indirect_object] kończy się 20 [proc | subject] . ciąż w każdym kraju ."
+    },
+    {
+        "input": "3 . Nie zaczynaj rozmowy , kiedy dziecko [ma] kaca - jest rozdrażnione , źle się czuje .",
+        "output": "3 . Nie zaczynaj rozmowy , kiedy [dziecko | subject] ma [kaca | indirect_object] - jest rozdrażnione , źle się czuje ."
+    },
+    {
+        "input": "Liberalizm [stanowi] więc w swej istocie aprobatę różnych form ludzkiej wolności okazywanej w dziedzinie polityki i ekonomii , kultury i moralności .",
+        "output": "[Liberalizm | subject] stanowi więc w swej istocie [aprobatę | indirect_object] różnych form ludzkiej wolności okazywanej w dziedzinie polityki i ekonomii , kultury i moralności ."
+    },
+    {
+        "input": "Czy jej brak [ma] istotny wpływ na jakość amerykańskiego systemu szkolnictwa wyższego ?",
+        "output": "Czy jej [brak | subject] ma istotny [wpływ | indirect_object] na jakość amerykańskiego systemu szkolnictwa wyższego ?"
+    },
+    {
+        "input": "- Serce [waliło] mi jak młotem , kręciło mi się w głowie i traciłam kontrolę nad sobą .",
+        "output": "- [Serce | subject] waliło [mi | indirect_object] jak młotem , kręciło mi się w głowie i traciłam kontrolę nad sobą ."
+    },
+    {
+        "input": "Basia , czytając nieraz to , co piszę , [powiedziała] mi raz : \" Staraj się hamować , temperuj się - ty masz naturę pierwszego człowieka Renesansu \" .",
+        "output": "[Basia | subject] , czytając nieraz to , co piszę , powiedziała [mi | indirect_object] raz : \" Staraj się hamować , temperuj się - ty masz naturę pierwszego człowieka Renesansu \" ."
+    },
+    {
+        "input": "Basia , czytając nieraz to , co piszę , powiedziała mi raz : \" Staraj się hamować , temperuj się - ty [masz] naturę pierwszego człowieka Renesansu \" .",
+        "output": "Basia , czytając nieraz to , co piszę , powiedziała mi raz : \" Staraj się hamować , temperuj się - [ty | subject] masz [naturę | indirect_object] pierwszego człowieka Renesansu \" ."
+    },
+    {
+        "input": "Jedna osoba zmarła , a pięć ciężko [zatruło] się alkoholem niewiadomego pochodzenia .",
+        "output": "Jedna osoba zmarła , a [pięć | subject] ciężko zatruło się [alkoholem | indirect_object] niewiadomego pochodzenia ."
+    },
+    {
+        "input": "Każdy głupi zrozumiał , że reformatorzy nie [mieli] racji , bo nie przebudowywali gospodarki z socjalistycznej na rynkową , lecz tylko zaciągali długi .",
+        "output": "Każdy głupi zrozumiał , że [reformatorzy | subject] nie mieli [racji | indirect_object] , bo nie przebudowywali gospodarki z socjalistycznej na rynkową , lecz tylko zaciągali długi ."
+    },
+    {
+        "input": "A PKS również [ma] swoje przepisy , kierowca musi po pewnej ilości godzin odpocząć .",
+        "output": "A [PKS | subject] również ma swoje [przepisy | indirect_object] , kierowca musi po pewnej ilości godzin odpocząć ."
+    },
+    {
+        "input": "W osiągnięciu tych celów wymiar zewnętrzny [ma] kluczowe znaczenie z dwóch powodów .",
+        "output": "W osiągnięciu tych celów [wymiar | subject] zewnętrzny ma kluczowe [znaczenie | indirect_object] z dwóch powodów ."
+    },
+    {
+        "input": "Służący sprząta właśnie nakrycia , gdzieś na piętrze ktoś ćwiczy na klawesynie sarabandę Angleberta , wiatr [szeleści] stronicami niedoczytanej książki .",
+        "output": "Służący sprząta właśnie nakrycia , gdzieś na piętrze ktoś ćwiczy na klawesynie sarabandę Angleberta , [wiatr | subject] szeleści [stronicami | indirect_object] niedoczytanej książki ."
+    },
+    {
+        "input": "Co kto [miał] pod ręką , a właściwie kto na co natrafił w ciemności , tym tłukł .",
+        "output": "[Co | indirect_object] [kto | subject] miał pod ręką , a właściwie kto na co natrafił w ciemności , tym tłukł ."
+    },
+    {
+        "input": "Cieszę się , że w tej sprawie Parlament Europejski będzie [mówił] jednym głosem .",
+        "output": "Cieszę się , że w tej sprawie [Parlament | subject] Europejski będzie mówił jednym [głosem | indirect_object] ."
+    },
+    {
+        "input": "\" masa netto \" [oznacza] rzeczywistą masę towaru bez jakiegokolwiek opakowania .",
+        "output": "\" [masa | subject] netto \" oznacza rzeczywistą [masę | indirect_object] towaru bez jakiegokolwiek opakowania ."
+    },
+    {
+        "input": "Notabene temu , który przed laty jako siatkarz [wylansował] się grą w Resovii .",
+        "output": "Notabene temu , [który | subject] przed laty jako siatkarz wylansował się [grą | indirect_object] w Resovii ."
+    },
+    {
+        "input": "Cztery osoby [przejeżdżają] rowerami wzdłuż ogrodzenia w pobliżu wzniesienia .",
+        "output": "Cztery [osoby | subject] przejeżdżają [rowerami | indirect_object] wzdłuż ogrodzenia w pobliżu wzniesienia ."
+    },
+    {
+        "input": "Takie prawo [mają] wyłącznie partie polityczne i komitety wyborcze obywateli .",
+        "output": "Takie [prawo | indirect_object] mają wyłącznie [partie | subject] polityczne i komitety wyborcze obywateli ."
+    },
+    {
+        "input": "Dziewczynka trafiła do szpitala , jej życiu nie [zagraża] niebezpieczeństwo .",
+        "output": "Dziewczynka trafiła do szpitala , jej [życiu | indirect_object] nie zagraża [niebezpieczeństwo | subject] ."
+    },
+    {
+        "input": "- Będąc urzędnikiem mogę się czuć na tyle silny , na ile [pozwala] mi prawo .",
+        "output": "- Będąc urzędnikiem mogę się czuć na tyle silny , na ile pozwala [mi | indirect_object] [prawo | subject] ."
+    },
+    {
+        "input": "Ten okres minnesangu zakończył się w ostatniej dekadzie XII wieku , gdy naśladownictwa [ustąpiły] nowym tematom i formom wypracowanym przez miejscowych poetów .",
+        "output": "Ten okres minnesangu zakończył się w ostatniej dekadzie XII wieku , gdy [naśladownictwa | subject] ustąpiły nowym [tematom | indirect_object] i formom wypracowanym przez miejscowych poetów ."
+    },
+    {
+        "input": "Ponadto powinniśmy poświęcić więcej uwagi izolacji budynków , co [miałoby] istotne znaczenie nie tylko na szczeblu krajowym , ale także na szczeblu regionalnym .",
+        "output": "Ponadto powinniśmy poświęcić więcej uwagi izolacji budynków , [co | subject] miałoby istotne [znaczenie | indirect_object] nie tylko na szczeblu krajowym , ale także na szczeblu regionalnym ."
+    },
+    {
+        "input": "Dwie dziewczynki w białych strojach [biorą] udział w pokazie sztuki walki .",
+        "output": "Dwie [dziewczynki | subject] w białych strojach biorą [udział | indirect_object] w pokazie sztuki walki ."
+    },
+    {
+        "input": "Wydawało się , że jej życie [dobiegnie] końca bez większych niespodzianek .",
+        "output": "Wydawało się , że jej [życie | subject] dobiegnie [końca | indirect_object] bez większych niespodzianek ."
+    },
+    {
+        "input": "Zasadnicze znaczenie [ma] bilans cieplny powierzchni , dna i jego wnętrza .",
+        "output": "Zasadnicze [znaczenie | indirect_object] ma [bilans | subject] cieplny powierzchni , dna i jego wnętrza ."
+    },
+    {
+        "input": "W przyszłości organizatorom [marzy] się ustawienie kamer również w kilku innych miejscach oraz umieszczenie \" podzielonego \" ekranu przy dolnej stacji wodociągu .",
+        "output": "W przyszłości [organizatorom | indirect_object] marzy się [ustawienie | subject] kamer również w kilku innych miejscach oraz umieszczenie \" podzielonego \" ekranu przy dolnej stacji wodociągu ."
+    },
+    {
+        "input": "Największy chłopczyk [waży] prawie 4 kg - dokładnie 3,850 i mierzy 63 cm .",
+        "output": "Największy [chłopczyk | subject] waży prawie 4 [kg | indirect_object] - dokładnie 3,850 i mierzy 63 cm ."
+    },
+    {
+        "input": "Ogólnie rzecz biorąc , pani pytanie [dotyczy] wolności wyznania w Turcji .",
+        "output": "Ogólnie rzecz biorąc , pani [pytanie | subject] dotyczy [wolności | indirect_object] wyznania w Turcji ."
+    },
+    {
+        "input": "— Mam nadzieję , wierzę w to głęboko , że kiedyś sytuacja się ucywilizuje , że każdy Polak grzebany na koszt państwa będzie [miał] zagwarantowany ludzki pochówek .",
+        "output": "— Mam nadzieję , wierzę w to głęboko , że kiedyś sytuacja się ucywilizuje , że każdy [Polak | subject] grzebany na koszt państwa będzie miał zagwarantowany ludzki [pochówek | indirect_object] ."
+    },
+    {
+        "input": "– Spoko , dziecko , ja [wolę] kobiety w zbliżonym wieku – wyjaśnił Berg .",
+        "output": "– Spoko , dziecko , [ja | subject] wolę [kobiety | indirect_object] w zbliżonym wieku – wyjaśnił Berg ."
+    },
+    {
+        "input": "Co właściwie [znaczy] zwrot \" przestępstwa popełnione z winy umyślnej \" ?",
+        "output": "[Co | indirect_object] właściwie znaczy [zwrot | subject] \" przestępstwa popełnione z winy umyślnej \" ?"
+    },
+    {
+        "input": "Harry [odniósł] wrażenie , że Lupin pragnie odejść stąd jak najszybciej .",
+        "output": "[Harry | subject] odniósł [wrażenie | indirect_object] , że Lupin pragnie odejść stąd jak najszybciej ."
+    },
+    {
+        "input": "Najpierw operatorzy będą [mieli] miesiąc na poinformowanie klientów o nadchodzących zmianach i zadanie im rutynowego pytania , czy chcą obniżki opłat roamingowych .",
+        "output": "Najpierw [operatorzy | subject] będą mieli [miesiąc | indirect_object] na poinformowanie klientów o nadchodzących zmianach i zadanie im rutynowego pytania , czy chcą obniżki opłat roamingowych ."
+    },
+    {
+        "input": "Po zdaniu matury Dominika Kowalska [ma] zamiar studiować fizykoterapię .",
+        "output": "Po zdaniu matury [Dominika | subject] Kowalska ma [zamiar | indirect_object] studiować fizykoterapię ."
+    },
+    {
+        "input": "Hodowcy bydła mlecznego [potrzebują] natychmiastowej pomocy finansowej .",
+        "output": "[Hodowcy | subject] bydła mlecznego potrzebują natychmiastowej [pomocy | indirect_object] finansowej ."
+    },
+    {
+        "input": "Badanie tych korelacji [ma] swoje korzenie już w ostatniej dekadzie XIX wieku , gdy zauważono zależność pomiędzy subiektywną religijnością a atakami epileptycznymi .",
+        "output": "[Badanie | subject] tych korelacji ma swoje [korzenie | indirect_object] już w ostatniej dekadzie XIX wieku , gdy zauważono zależność pomiędzy subiektywną religijnością a atakami epileptycznymi ."
+    },
+    {
+        "input": "Kobieta w kamizelce [trzyma] się rękami płynącej po wodzie motorówki .",
+        "output": "[Kobieta | subject] w kamizelce trzyma się [rękami | indirect_object] płynącej po wodzie [motorówki | indirect_object] ."
+    },
+    {
+        "input": "- Ja też [mam] nadzieję - potwierdził , zmierzając do stolika Margit .",
+        "output": "- [Ja | subject] też mam [nadzieję | indirect_object] - potwierdził , zmierzając do stolika Margit ."
+    },
+    {
+        "input": "Drugoligowcy [ripostują] pytaniem – po co marnować jeszcze jeden rok ?",
+        "output": "[Drugoligowcy | subject] ripostują [pytaniem | indirect_object] – po co marnować jeszcze jeden rok ?"
+    },
+    {
+        "input": "\" Na statku przegrałem w \" Bingo \" ( b . dobra gra hazardowa ) 2 dolary i w tej chwili nie mam już nic , ale jutro dostajemy zaliczkę \" - [informował] Wacek rodziców .",
+        "output": "\" Na statku przegrałem w \" Bingo \" ( b . dobra gra hazardowa ) 2 dolary i w tej chwili nie mam już nic , ale jutro dostajemy zaliczkę \" - informował [Wacek | subject] [rodziców | indirect_object] ."
+    },
+    {
+        "input": "Inne środki [mają] na celu ochronę niektórych gatunków lub ekosystemów poprzez ograniczanie nakładu połowowego , na przykład w drodze wprowadzenia zamykania obszarów .",
+        "output": "Inne [środki | subject] mają na celu [ochronę | indirect_object] niektórych gatunków lub ekosystemów poprzez ograniczanie nakładu połowowego , na przykład w drodze wprowadzenia zamykania obszarów ."
+    },
+    {
+        "input": "Panowanie nad sytuacją w niewiarygodny sposób [wymyka] mu się z rąk .",
+        "output": "[Panowanie | subject] nad sytuacją w niewiarygodny sposób wymyka [mu | indirect_object] się z rąk ."
+    },
+    {
+        "input": "- Zastanowiło nas to , że VAT i subwencje [dostawały] zakłady pracy chronionej , których część powiązana była z tą samą osobą - Wiesławem M . - mówi prowadzący sprawę .",
+        "output": "- Zastanowiło nas to , że [VAT | indirect_object] i subwencje dostawały [zakłady | subject] pracy chronionej , których część powiązana była z tą samą osobą - Wiesławem M . - mówi prowadzący sprawę ."
+    },
+    {
+        "input": "Jednakże nie [dotyczą] tego uwagi B i C oraz pole 11 zaświadczenia .",
+        "output": "Jednakże nie dotyczą [tego | indirect_object] [uwagi | subject] B i C oraz pole 11 zaświadczenia ."
+    },
+    {
+        "input": "W ten sposób Sejm [miałby] szansę mieć prawdziwy mandat społeczny .",
+        "output": "W ten sposób [Sejm | subject] miałby [szansę | indirect_object] mieć prawdziwy mandat społeczny ."
+    },
+    {
+        "input": "Biegły seksuolog stwierdził , że mężczyzna [ma] skłonność do gerontofilii - cierpiący na tę dewiację czują zadowolenie seksualne tylko w kontaktach ze starszymi osobami .",
+        "output": "Biegły seksuolog stwierdził , że [mężczyzna | subject] ma [skłonność | indirect_object] do gerontofilii - cierpiący na tę dewiację czują zadowolenie seksualne tylko w kontaktach ze starszymi osobami ."
+    },
+    {
+        "input": "Biegły seksuolog stwierdził , że mężczyzna ma skłonność do gerontofilii - cierpiący na tę dewiację [czują] zadowolenie seksualne tylko w kontaktach ze starszymi osobami .",
+        "output": "Biegły seksuolog stwierdził , że mężczyzna ma skłonność do gerontofilii - [cierpiący | subject] na tę dewiację czują [zadowolenie | indirect_object] seksualne tylko w kontaktach ze starszymi osobami ."
+    },
+    {
+        "input": "Rada Europejska zebrana w Edynburgu w grudniu 1992 roku podkreśliła znaczenie , jakie dla Wspólnoty [ma] uczynienie prawa wspólnotowego bardziej dostępnym i zrozumiałym .",
+        "output": "Rada Europejska zebrana w Edynburgu w grudniu 1992 roku podkreśliła znaczenie , [jakie | indirect_object] dla Wspólnoty ma [uczynienie | subject] prawa wspólnotowego bardziej dostępnym i zrozumiałym ."
+    },
+    {
+        "input": "O \" wzniosłych i filantropijnych celach \" masonerji , mogą nam urzędowo i nieurzędowo blagować ile chcą , - my widzimy i \" środki \" i \" skutki \" - i to nam - [wystarcza] .",
+        "output": "O \" wzniosłych i filantropijnych celach \" masonerji , mogą nam urzędowo i nieurzędowo blagować ile chcą , - my widzimy i \" środki \" i \" skutki \" - i [to | subject] [nam | indirect_object] - wystarcza ."
+    },
+    {
+        "input": "Moja córka [ma] 7 lat i powiedziała , że miało kształt kwadratu .",
+        "output": "Moja [córka | subject] ma 7 [lat | indirect_object] i powiedziała , że miało kształt kwadratu ."
+    },
+    {
+        "input": "Czy światu prędzej czy później istotnie [grozi] klęska głodu ( według Malthusa liczba ludności rośnie w postępie geometrycznym , a ilość żywności - tylko w arytmetycznym ) ?",
+        "output": "Czy [światu | indirect_object] prędzej czy później istotnie grozi [klęska | subject] głodu ( według Malthusa liczba ludności rośnie w postępie geometrycznym , a ilość żywności - tylko w arytmetycznym ) ?"
+    },
+    {
+        "input": "Dziewczyna całą noc [asystowała] nieszczęśnikowi , gdy radiowozem przeczesywano z nim okolice , a także następnego dnia , kiedy Anglik miał przejrzeć kartoteki przestępców .",
+        "output": "[Dziewczyna | subject] całą noc asystowała [nieszczęśnikowi | indirect_object] , gdy radiowozem przeczesywano z nim okolice , a także następnego dnia , kiedy Anglik miał przejrzeć kartoteki przestępców ."
+    },
+    {
+        "input": "Dieta ta [ma] wiele wad , jeśli chodzi o jej wpływ na zdrowie .",
+        "output": "[Dieta | subject] ta ma wiele [wad | indirect_object] , jeśli chodzi o jej wpływ na zdrowie ."
+    },
+    {
+        "input": "Jak udało się nam ustalić , żwirownia [ma] nowego właściciela .",
+        "output": "Jak udało się nam ustalić , [żwirownia | subject] ma nowego [właściciela | indirect_object] ."
+    },
+    {
+        "input": "To pierwszy przypadek , kiedy zwierzę [miało] objawy choroby .",
+        "output": "To pierwszy przypadek , kiedy [zwierzę | subject] miało [objawy | indirect_object] choroby ."
+    },
+    {
+        "input": "Nigdy nie uwierzysz , co mój ukochany mąż [ma] zamiar zrobić .",
+        "output": "Nigdy nie uwierzysz , co mój ukochany [mąż | subject] ma [zamiar | indirect_object] zrobić ."
+    },
+    {
+        "input": "Jest to bezpośrednim rezultatem subwencjonowania węgla przez polski rząd , rocznie subwencje [sięgają] 200 mln funtów szterlingów - twierdzi rzecznik brytyjskiego ministerstwa .",
+        "output": "Jest to bezpośrednim rezultatem subwencjonowania węgla przez polski rząd , rocznie [subwencje | subject] sięgają 200 mln [funtów | indirect_object] szterlingów - twierdzi rzecznik brytyjskiego ministerstwa ."
+    },
+    {
+        "input": "Pomoc otrzymuje od Daniela Faradaya , który w ukryciu prowadził badania nad paradoksem czasowym na Uniwersytecie w Oxfordzie i który [doradza] mu znaleźć stałą dla obu światów .",
+        "output": "Pomoc otrzymuje od Daniela Faradaya , który w ukryciu prowadził badania nad paradoksem czasowym na Uniwersytecie w Oxfordzie i [który | subject] doradza [mu | indirect_object] znaleźć stałą dla obu światów ."
+    },
+    {
+        "input": "To [miało] bezpośrednie przełożenie na roszczenia polskie .",
+        "output": "[To | subject] miało bezpośrednie [przełożenie | indirect_object] na roszczenia polskie ."
+    },
+    {
+        "input": "Jeżeli tak było , [grozi] im kara do pięciu lat więzienia .",
+        "output": "Jeżeli tak było , grozi [im | indirect_object] [kara | subject] do pięciu lat więzienia ."
+    },
+    {
+        "input": "Sztywne od wapna włosy [rozmierzwiły] mu się nad czołem .",
+        "output": "Sztywne od wapna [włosy | subject] rozmierzwiły [mu | indirect_object] się nad czołem ."
+    },
+    {
+        "input": "- Jakie napoje [towarzyszą] najczęściej naszym posiłkom ?",
+        "output": "- Jakie [napoje | subject] towarzyszą najczęściej naszym [posiłkom | indirect_object] ?"
+    },
+    {
+        "input": "Zwierze [broczyło] krwią z paskudnej rany na podbrzuszu .",
+        "output": "[Zwierze | subject] broczyło [krwią | indirect_object] z paskudnej rany na podbrzuszu ."
+    },
+    {
+        "input": "- Chcę też powiedzieć , że tę opinię [wspierają] analizy ekspertów niezależnych , profesorów : Fedorowicza i Owsiaka .",
+        "output": "- Chcę też powiedzieć , że tę [opinię | object] wspierają [analizy | subject] ekspertów niezależnych , profesorów : Fedorowicza i Owsiaka ."
+    },
+    {
+        "input": "30 osób [negocjuje] w imieniu dealerów warunki dostaw , ułatwia kredytowanie towaru , prowadzi księgowość i szkolenia .",
+        "output": "30 [osób | subject] negocjuje w imieniu dealerów [warunki | object] dostaw , ułatwia kredytowanie towaru , prowadzi księgowość i szkolenia ."
+    },
+    {
+        "input": "Dziś [pochłaniają] ich inne obowiązki , albo jak mówią niektórzy z nich - są za starzy , żeby chałturzyć po imprezach .",
+        "output": "Dziś pochłaniają [ich | object] inne [obowiązki | subject] , albo jak mówią niektórzy z nich - są za starzy , żeby chałturzyć po imprezach ."
+    },
+    {
+        "input": "Śmierć na miejscu [poniosła] 36-letnia kobieta , która z mężem przechodziła przez Małą Fatrę w rejonie Niskich Tatr .",
+        "output": "[Śmierć | object] na miejscu poniosła 36-letnia [kobieta | subject] , która z mężem przechodziła przez Małą Fatrę w rejonie Niskich Tatr ."
+    },
+    {
+        "input": "Wadium osób , które nie [wygrają] przetargu , zostanie wypłacone z kasy w dniu przetargu w godz . od 12.00 do 14.00 .",
+        "output": "Wadium osób , [które | subject] nie wygrają [przetargu | object] , zostanie wypłacone z kasy w dniu przetargu w godz . od 12.00 do 14.00 ."
+    },
+    {
+        "input": "W tym roku inkasenci Zakładu Gazowniczego w Białymstoku będą [wystawiać] rachunki za gaz w blokach co trzy miesiące .",
+        "output": "W tym roku [inkasenci | subject] Zakładu Gazowniczego w Białymstoku będą wystawiać [rachunki | object] za gaz w blokach co trzy miesiące ."
+    },
+    {
+        "input": "Na stadionie WP w Warszawie w towarzyskim międzypaństwowym meczu piłkarskim Polska [pokonała] Słowenię 2 : 0 ( 1 : 0 ) .",
+        "output": "Na stadionie WP w Warszawie w towarzyskim międzypaństwowym meczu piłkarskim [Polska | subject] pokonała [Słowenię | object] 2 : 0 ( 1 : 0 ) ."
+    },
+    {
+        "input": "Czknęło mu się potężnie , odruchowo zasłonił ręką usta i powiedział przepraszam , co [pobudziło] czabanów do wesołości .",
+        "output": "Czknęło mu się potężnie , odruchowo zasłonił ręką usta i powiedział przepraszam , [co | subject] pobudziło [czabanów | object] do wesołości ."
+    },
+    {
+        "input": "Być może dlatego krewni nie wiedzą jeszcze , jaki [spotkał] ją los - mówi \" Super Expressowi \" jeden z policjantów .",
+        "output": "Być może dlatego krewni nie wiedzą jeszcze , jaki spotkał [ją | object] [los | subject] - mówi \" Super Expressowi \" jeden z policjantów ."
+    },
+    {
+        "input": "Jeśli również tę rozmowę Michał Zieliński [uważa] za halucynację , pozostaje mi zalecić mu \" Tygodnik Powszechny \" .",
+        "output": "Jeśli również tę [rozmowę | object] [Michał | subject] Zieliński uważa za halucynację , pozostaje mi zalecić mu \" Tygodnik Powszechny \" ."
+    },
+    {
+        "input": "Piszę o tym specjalnie , bo tyle się zawistni nagadali , że sobie pałac pobudował , porósł w piórka i pycha go [wzdęła] .",
+        "output": "Piszę o tym specjalnie , bo tyle się zawistni nagadali , że sobie pałac pobudował , porósł w piórka i [pycha | subject] [go | object] wzdęła ."
+    },
+    {
+        "input": "- Ale prokuratura [umorzyła] dochodzenie , bo \" społeczna szkodliwość tego czynu jest znikoma \" - cytuje pani Konstanty .",
+        "output": "- Ale [prokuratura | subject] umorzyła [dochodzenie | object] , bo \" społeczna szkodliwość tego czynu jest znikoma \" - cytuje pani Konstanty ."
+    },
+    {
+        "input": "Podpisu Millera pod listem ośmiu Schröder nie [przyjął] ze spokojem - według świadka zareagował furią i niedowierzaniem .",
+        "output": "[Podpisu | object] Millera pod listem ośmiu [Schröder | subject] nie przyjął ze spokojem - według świadka zareagował furią i niedowierzaniem ."
+    },
+    {
+        "input": "[Monitował] mnie jeszcze Modecki , ale kiedy zobaczyłem reakcję premiera i służb , wiedziałem , że to dobrze nie rokuje .",
+        "output": "Monitował [mnie | object] jeszcze [Modecki | subject] , ale kiedy zobaczyłem reakcję premiera i służb , wiedziałem , że to dobrze nie rokuje ."
+    },
+    {
+        "input": "Pojawiło się zbyt wielu utalentowanych amatorów , a zmiana warunków finansowych [wykazała] absurdalność starego systemu .",
+        "output": "Pojawiło się zbyt wielu utalentowanych amatorów , a [zmiana | subject] warunków finansowych wykazała [absurdalność | object] starego systemu ."
+    },
+    {
+        "input": "W 1836 [otrzymał] ją od cara gen . Kreutz , zdobywca rozsławionej poematem A . Mickiewicza reduty Ordona ( 1831 ) .",
+        "output": "W 1836 otrzymał [ją | object] od cara [gen | subject] . Kreutz , zdobywca rozsławionej poematem A . Mickiewicza reduty Ordona ( 1831 ) ."
+    },
+    {
+        "input": "Towarzysz jego [wzywał] Jezusa i jego Matkę , a tacy ludzie jak Esteban wołają te słowa tylko twarzą w twarz ze śmiercią .",
+        "output": "[Towarzysz | subject] jego wzywał [Jezusa | object] i jego Matkę , a tacy ludzie jak Esteban wołają te słowa tylko twarzą w twarz ze śmiercią ."
+    },
+    {
+        "input": "Towarzysz jego wzywał Jezusa i jego Matkę , a tacy ludzie jak Esteban [wołają] te słowa tylko twarzą w twarz ze śmiercią .",
+        "output": "Towarzysz jego wzywał Jezusa i jego Matkę , a tacy [ludzie | subject] jak Esteban wołają te [słowa | object] tylko twarzą w twarz ze śmiercią ."
+    },
+    {
+        "input": "- Dzieci [wypełniały] ankiety z pytaniami dotyczącymi bezpiecznego korzystania z dróg i stosowania znaczków odblaskowych .",
+        "output": "- [Dzieci | subject] wypełniały [ankiety | object] z pytaniami dotyczącymi bezpiecznego korzystania z dróg i stosowania znaczków odblaskowych ."
+    },
+    {
+        "input": "Dziewczynka w papierowej czapeczce [zdmuchuje] świeczki na torcie , a obok stoją dwie inne dziewczynki i kobieta .",
+        "output": "[Dziewczynka | subject] w papierowej czapeczce zdmuchuje [świeczki | object] na torcie , a obok stoją dwie inne dziewczynki i kobieta ."
+    },
+    {
+        "input": "\" Zibi \" [skrytykował] mistrza świata i Europy , a poproszony o uzasadnienie odparł : - Ten zespół nie ma słabych punktów .",
+        "output": "\" [Zibi | subject] \" skrytykował [mistrza | object] świata i Europy , a poproszony o uzasadnienie odparł : - Ten zespół nie ma słabych punktów ."
+    },
+    {
+        "input": "Czy dlatego Pan tak twardo opowiada się przeciwko udziałowi aktorów w reklamie , że to też [narusza] ich godność zawodową ?",
+        "output": "Czy dlatego Pan tak twardo opowiada się przeciwko udziałowi aktorów w reklamie , że [to | subject] też narusza ich [godność | object] zawodową ?"
+    },
+    {
+        "input": "Rzecznik australijskiego koncernu Chris Codrington [wyraził] przekonanie , że przyczyną zatrucia wód Cisy nie był cyjanek .",
+        "output": "[Rzecznik | subject] australijskiego koncernu Chris Codrington wyraził [przekonanie | object] , że przyczyną zatrucia wód Cisy nie był cyjanek ."
+    },
+    {
+        "input": "Włoski rząd na nadzwyczajnym posiedzeniu [przeznaczył] wczoraj 50 milionów euro dla dotkniętego trzęsieniem ziemi regionu .",
+        "output": "Włoski [rząd | subject] na nadzwyczajnym posiedzeniu przeznaczył wczoraj 50 milionów [euro | object] dla dotkniętego trzęsieniem ziemi regionu ."
+    },
+    {
+        "input": "Mężczyzna w basenie [obserwuje] skaczące do wody dziecko , które ubrane jest w pomarańczowe rękawki do pływania .",
+        "output": "[Mężczyzna | subject] w basenie obserwuje skaczące do wody [dziecko | object] , które ubrane jest w pomarańczowe rękawki do pływania ."
+    },
+    {
+        "input": "Z kolei konkordat [sankcjonuje] zasadę niezależności Kościoła i państwa równoznaczną z zasadą ich rozdzielności .",
+        "output": "Z kolei [konkordat | subject] sankcjonuje [zasadę | object] niezależności Kościoła i państwa równoznaczną z zasadą ich rozdzielności ."
+    },
+    {
+        "input": "Aspirant [wyartykułował] nieokreślony dźwięk , co miało dawać do zrozumienia , że nie chce mieszać się do sporu .",
+        "output": "[Aspirant | subject] wyartykułował nieokreślony [dźwięk | object] , co miało dawać do zrozumienia , że nie chce mieszać się do sporu ."
+    },
+    {
+        "input": "Na przykład w tym roku spośród 4,4 tys . autobusów , jakie [otrzyma] PKS , zaledwie 600 będą to wozy o większej pojemności .",
+        "output": "Na przykład w tym roku spośród 4,4 tys . autobusów , [jakie | object] otrzyma [PKS | subject] , zaledwie 600 będą to wozy o większej pojemności ."
+    },
+    {
+        "input": "- Czy jednak rząd [podejmie] ryzyko , skoro postulat obniżenia tempa wzrostu płac jest źle przyjmowany przez społeczeństwo ?",
+        "output": "- Czy jednak [rząd | subject] podejmie [ryzyko | object] , skoro postulat obniżenia tempa wzrostu płac jest źle przyjmowany przez społeczeństwo ?"
+    },
+    {
+        "input": "Po raz kolejny Port Lotniczy Szczecin - Goleniów [zanotował] dwucyfrowy przyrost ilości odprawionych pasażerów .",
+        "output": "Po raz kolejny [Port | subject] Lotniczy Szczecin - Goleniów zanotował dwucyfrowy [przyrost | object] ilości odprawionych pasażerów ."
+    },
+    {
+        "input": "Przystupa [odstawiła] szklankę po whisky i skuliła się w fotelu , pan Cox wyglądał , jakby się właśnie obudził .",
+        "output": "[Przystupa | subject] odstawiła [szklankę | object] po whisky i skuliła się w fotelu , pan Cox wyglądał , jakby się właśnie obudził ."
+    },
+    {
+        "input": "Prokurator też nic nie [wskórał] - skarży się Józef Kalinowski , inspektor z terenowej stacji sanitarno - epidemiologicznej .",
+        "output": "[Prokurator | subject] też [nic | object] nie wskórał - skarży się Józef Kalinowski , inspektor z terenowej stacji sanitarno - epidemiologicznej ."
+    },
+    {
+        "input": "Będzie to [wymagać] uwzględnienia porozumienia kopenhaskiego w negocjacjach ONZ i zajęcia się niedomogami protokołu z Kioto .",
+        "output": "Będzie [to | subject] wymagać [uwzględnienia | object] porozumienia kopenhaskiego w negocjacjach ONZ i zajęcia się niedomogami protokołu z Kioto ."
+    },
+    {
+        "input": "Wróćmy jeszcze do krótkiego dialogu pomiędzy śniącym , a małym chłopcem : - Co ty tu [robisz] ? - pyta śniący .",
+        "output": "Wróćmy jeszcze do krótkiego dialogu pomiędzy śniącym , a małym chłopcem : - [Co | object] [ty | subject] tu robisz ? - pyta śniący ."
+    },
+    {
+        "input": "- Ostateczną decyzję [podejmie] prokuratura - mówi podkom . Tadeusz Kaczmarek , rzecznik mazowieckiej policji .",
+        "output": "- Ostateczną [decyzję | object] podejmie [prokuratura | subject] - mówi podkom . Tadeusz Kaczmarek , rzecznik mazowieckiej policji ."
+    },
+    {
+        "input": "Od rozpoczęcia eksploatacji concordy British Airways [przebyły] ponad 177 mln km , czyli trasę dłuższą niż z Ziemi do Słońca .",
+        "output": "Od rozpoczęcia eksploatacji [concordy | subject] British Airways przebyły ponad 177 mln [km | object] , czyli trasę dłuższą niż z Ziemi do Słońca ."
+    },
+    {
+        "input": "Oprócz tysięcy traktorów \" Ursus \" [wyprodukował] \" dwie istotne dla opozycji postacie : Zbigniewa Janasa i Zbigniewa Bujaka .",
+        "output": "Oprócz tysięcy traktorów \" [Ursus | subject] \" wyprodukował \" dwie istotne dla opozycji [postacie | object] : Zbigniewa Janasa i Zbigniewa Bujaka ."
+    },
+    {
+        "input": "Wniosek [określa] powody uzasadniające pilną odpowiedź oraz okres , w którego ramach oczekuje się odpowiedzi .",
+        "output": "[Wniosek | subject] określa [powody | object] uzasadniające pilną odpowiedź oraz okres , w którego ramach oczekuje się odpowiedzi ."
+    },
+    {
+        "input": "Rząd brytyjski [rozważa] możliwość wprowadzenia wiz dla obywateli polskich - poinformowały wczoraj telewizyjne \" Wiadomości \" .",
+        "output": "[Rząd | subject] brytyjski rozważa [możliwość | object] wprowadzenia wiz dla obywateli polskich - poinformowały wczoraj telewizyjne \" Wiadomości \" ."
+    },
+    {
+        "input": "Na seminarium naukowym władze miasta [przedstawiły] dokument pod nazwą \" Koncepcja technicznej ochrony Opola przed powodzią \" .",
+        "output": "Na seminarium naukowym [władze | subject] miasta przedstawiły [dokument | object] pod nazwą \" Koncepcja technicznej ochrony Opola przed powodzią \" ."
+    },
+    {
+        "input": "Działacze Startu mocno [przebudowali] zespół przed tegorocznymi startami , bo zakontraktowali aż dziewięciu nowych zawodników .",
+        "output": "[Działacze | subject] Startu mocno przebudowali [zespół | object] przed tegorocznymi startami , bo zakontraktowali aż dziewięciu nowych zawodników ."
+    },
+    {
+        "input": "Dziecko w kurtce stoi nad brzegiem wody i trzyma w ręku figurkę , a kobieta w czarnym stroju [robi] zdjęcie .",
+        "output": "Dziecko w kurtce stoi nad brzegiem wody i trzyma w ręku figurkę , a [kobieta | subject] w czarnym stroju robi [zdjęcie | object] ."
+    },
+    {
+        "input": "Tendencje jin zostały oznaczone znakiem \" - \" , a jego wielokrotność ( - ) [wyraża] nasilenie tendencji jin .",
+        "output": "Tendencje jin zostały oznaczone znakiem \" - \" , a jego [wielokrotność | subject] ( - ) wyraża [nasilenie | object] tendencji jin ."
+    },
+    {
+        "input": "43 . , Niepowodzenia nie [zrażają] mnie łatwo , nie szukam ciągłych pochwał i zachęt ze strony innych ludzi .",
+        "output": "43 . , [Niepowodzenia | subject] nie zrażają [mnie | object] łatwo , nie szukam ciągłych pochwał i zachęt ze strony innych ludzi ."
+    },
+    {
+        "input": "Umowy wejdą w życie , jeśli F-16 [wygra] przetarg , który powinien zostać rozstrzygnięty do końca tego roku .",
+        "output": "Umowy wejdą w życie , jeśli [F-16 | subject] wygra [przetarg | object] , który powinien zostać rozstrzygnięty do końca tego roku ."
+    },
+    {
+        "input": "Do zdarzenia doszło najprawdopodobniej w efekcie nienawiści jaką od dłuższego czasu [żywią] do siebie panie .",
+        "output": "Do zdarzenia doszło najprawdopodobniej w efekcie nienawiści [jaką | object] od dłuższego czasu żywią do siebie [panie | subject] ."
+    },
+    {
+        "input": "Im w świecie Michnika głośniej od polowań na straszliwych \" ksenofobów \" , tym świat Rydzyka pewniej [rozszerza] swe królestwo .",
+        "output": "Im w świecie Michnika głośniej od polowań na straszliwych \" ksenofobów \" , tym [świat | subject] Rydzyka pewniej rozszerza swe [królestwo | object] ."
+    },
+    {
+        "input": "W zamku Książąt Pomorskich zebrał się tłum uczniów i gości , którzy [obejrzeli] montaż poetycko - muzyczny w wykonaniu uczniów .",
+        "output": "W zamku Książąt Pomorskich zebrał się tłum uczniów i gości , [którzy | subject] obejrzeli [montaż | object] poetycko - muzyczny w wykonaniu uczniów ."
+    },
+    {
+        "input": "Pośród traktatów , pośród rozpraw świątobliwych ojców , wpadła mu w ręce książka , która [zainteresowała] go bardziej niż inne .",
+        "output": "Pośród traktatów , pośród rozpraw świątobliwych ojców , wpadła mu w ręce książka , [która | subject] zainteresowała [go | object] bardziej niż inne ."
+    },
+    {
+        "input": "Dwóch mężczyzn stoi na polu golfowym w pobliżu dużego budynku , jeden [podnosi] rękę , a drugi unosi kijek .",
+        "output": "Dwóch mężczyzn stoi na polu golfowym w pobliżu dużego budynku , [jeden | subject] podnosi [rękę | object] , a drugi unosi kijek ."
+    },
+    {
+        "input": "Dwóch mężczyzn stoi na polu golfowym w pobliżu dużego budynku , jeden podnosi rękę , a drugi [unosi] kijek .",
+        "output": "Dwóch mężczyzn stoi na polu golfowym w pobliżu dużego budynku , jeden podnosi rękę , a [drugi | subject] unosi [kijek | object] ."
+    },
+    {
+        "input": "Na morskiej jednostce mogą być zatrudnione tylko te osoby , które [posiadają] aktualne świadectwo zdrowia .",
+        "output": "Na morskiej jednostce mogą być zatrudnione tylko te osoby , [które | subject] posiadają aktualne [świadectwo | object] zdrowia ."
+    },
+    {
+        "input": "W ramach działalności ACFA Komisja [zorganizowała] 49 spotkań grup roboczych oraz 12 posiedzeń plenarnych .",
+        "output": "W ramach działalności ACFA [Komisja | subject] zorganizowała 49 [spotkań | object] grup roboczych oraz 12 posiedzeń plenarnych ."
+    },
+    {
+        "input": "Japończycy [stwierdzili] także obecność w części badanych pigułek fenfluraminy - środka niegdyś stosowanego w leczeniu anoreksji .",
+        "output": "[Japończycy | subject] stwierdzili także [obecność | object] w części badanych pigułek fenfluraminy - środka niegdyś stosowanego w leczeniu anoreksji ."
+    },
+    {
+        "input": "Powód był prosty - prezesi giełdowych spółek często większość swoich dochodów [czerpią] ze sprzedaży akcji firm , którym szefują .",
+        "output": "Powód był prosty - [prezesi | subject] giełdowych spółek często [większość | object] swoich dochodów czerpią ze sprzedaży akcji firm , którym szefują ."
+    },
+    {
+        "input": "W licznych wywiadach społeczeństwo [pytało] prezesa : \" Jak długo będzie pan zwlekał ? \" , \" Ile jeszcze będzie się pan cackał ? \"",
+        "output": "W licznych wywiadach [społeczeństwo | subject] pytało [prezesa | object] : \" Jak długo będzie pan zwlekał ? \" , \" Ile jeszcze będzie się pan cackał ? \""
+    },
+    {
+        "input": "Jej wprowadzenie [ograniczy] starania państw członkowskich o optymalizowanie opodatkowania przedsiębiorstw wbrew celom z Lizbony .",
+        "output": "Jej [wprowadzenie | subject] ograniczy [starania | object] państw członkowskich o optymalizowanie opodatkowania przedsiębiorstw wbrew celom z Lizbony ."
+    },
+    {
+        "input": "Nowe przepisy – miejmy nadzieję [ucywilizują] wzajemne relacje między ubezpieczonymi i ubezpieczycielami .",
+        "output": "Nowe [przepisy | subject] – miejmy nadzieję ucywilizują wzajemne [relacje | object] między ubezpieczonymi i ubezpieczycielami ."
+    },
+    {
+        "input": "Jeszcze 100 lat temu astronomowie [wiązali] z nim nadzieje na istnienie inteligentnych istot poza Ziemią .",
+        "output": "Jeszcze 100 lat temu [astronomowie | subject] wiązali z nim [nadzieje | object] na istnienie inteligentnych istot poza Ziemią ."
+    },
+    {
+        "input": "Podobny los [spotyka] najbardziej znanych przedstawicieli abstrakcji geometrycznej : Henryka Stażewskiego i Ryszarda Winiarskiego .",
+        "output": "Podobny [los | subject] spotyka najbardziej znanych [przedstawicieli | object] abstrakcji geometrycznej : Henryka Stażewskiego i Ryszarda Winiarskiego ."
+    },
+    {
+        "input": "Czy jakikolwiek inny członek rodziny posiadacza , wykonujący pracę na roli w gospodarstwie , [posiada] inną działalność dochodową ?",
+        "output": "Czy jakikolwiek inny [członek | subject] rodziny posiadacza , wykonujący pracę na roli w gospodarstwie , posiada inną [działalność | object] dochodową ?"
+    },
+    {
+        "input": "Deficyt handlowy za ubiegły rok [pobił] niedobry rekord : był niemal dwa razy większy niż rok wcześniej .",
+        "output": "[Deficyt | subject] handlowy za ubiegły rok pobił niedobry [rekord | object] : był niemal dwa razy większy niż rok wcześniej ."
+    },
+    {
+        "input": "W 18 . min Rząsa [przeprowadził] kolejną akcję lewą stroną , dośrodkował , a Janiak zdobył drugą bramkę .",
+        "output": "W 18 . min [Rząsa | subject] przeprowadził kolejną [akcję | object] lewą stroną , dośrodkował , a Janiak zdobył drugą bramkę ."
+    },
+    {
+        "input": "W 18 . min Rząsa przeprowadził kolejną akcję lewą stroną , dośrodkował , a Janiak [zdobył] drugą bramkę .",
+        "output": "W 18 . min Rząsa przeprowadził kolejną akcję lewą stroną , dośrodkował , a [Janiak | subject] zdobył drugą [bramkę | object] ."
+    },
+    {
+        "input": "Kiedy jeden [opowiada] dowcip , drugi wchodzi mu w słowo odpowiednim komentarzem , podprowadza , a potem na zmianę puentują dowcip .",
+        "output": "Kiedy [jeden | subject] opowiada [dowcip | object] , drugi wchodzi mu w słowo odpowiednim komentarzem , podprowadza , a potem na zmianę puentują dowcip ."
+    },
+    {
+        "input": "Grupa osób [fotografuje] przejeżdżające obok sportowe auto , które pozostawia za sobą dużą ilość kurzu .",
+        "output": "[Grupa | subject] osób fotografuje przejeżdżające obok sportowe [auto | object] , które pozostawia za sobą dużą ilość kurzu ."
+    },
+    {
+        "input": "Grupa osób fotografuje przejeżdżające obok sportowe auto , które [pozostawia] za sobą dużą ilość kurzu .",
+        "output": "Grupa osób fotografuje przejeżdżające obok sportowe auto , [które | subject] pozostawia za sobą dużą [ilość | object] kurzu ."
+    },
+    {
+        "input": "Dziewczynka o ciemnych włosach [trzyma] w rękach aparat z dużym obiektywem , przykładając go do twarzy .",
+        "output": "[Dziewczynka | subject] o ciemnych włosach trzyma w rękach [aparat | object] z dużym obiektywem , przykładając go do twarzy ."
+    },
+    {
+        "input": "Jednym z elementów tych przygotowań są reformy podjęte w kraju : - Silna Polska [wzmocni] Unię - mówił .",
+        "output": "Jednym z elementów tych przygotowań są reformy podjęte w kraju : - Silna [Polska | subject] wzmocni [Unię | object] - mówił ."
+    },
+    {
+        "input": "Plany zakładają , że w 2000 r . Rosja będzie [zarabiać] na wysyłaniu satelitów miliard dolarów rocznie .",
+        "output": "Plany zakładają , że w 2000 r . [Rosja | subject] będzie zarabiać na wysyłaniu satelitów [miliard | object] dolarów rocznie ."
+    },
+    {
+        "input": "Przy możliwościach , jakie [niesie] współczesna medycyna , nikt nie powinien ślepnąć z powodu cukrzycy .",
+        "output": "Przy możliwościach , [jakie | object] niesie współczesna [medycyna | subject] , nikt nie powinien ślepnąć z powodu cukrzycy ."
+    },
+    {
+        "input": "W nowych warunkach musimy uelastycznić nasze systemy pomocy społecznej ; [wymaga] tego obecna sytuacja .",
+        "output": "W nowych warunkach musimy uelastycznić nasze systemy pomocy społecznej ; wymaga [tego | object] obecna [sytuacja | subject] ."
+    },
+    {
+        "input": "Jeśli spojrzymy na inicjatywę polityczną liderów pierwszej dziesiątki , to okaże się , że aż szóstka [zaczynała] swą karierę w PZPR .",
+        "output": "Jeśli spojrzymy na inicjatywę polityczną liderów pierwszej dziesiątki , to okaże się , że aż [szóstka | subject] zaczynała swą [karierę | object] w PZPR ."
+    },
+    {
+        "input": "Fakt , że uznawany za symbol niemieckiej solidności polityk dopuszczał się bezprawia , [wywołał] szok .",
+        "output": "[Fakt | subject] , że uznawany za symbol niemieckiej solidności polityk dopuszczał się bezprawia , wywołał [szok | object] ."
+    },
+    {
+        "input": "Toteż Kościół katolicki nie [kwestionuje] tak radykalnie , jak niektórzy protestanci , duchowej wartości religii niechrześcijańskich .",
+        "output": "Toteż [Kościół | subject] katolicki nie kwestionuje tak radykalnie , jak niektórzy protestanci , duchowej [wartości | object] religii niechrześcijańskich ."
+    },
+    {
+        "input": "Niedobory pozostałych składników , które [biorą] aktywny udział w przemianie białkowej , mogą powodować schorzenia włosów i paznokci .",
+        "output": "Niedobory pozostałych składników , [które | subject] biorą aktywny [udział | object] w przemianie białkowej , mogą powodować schorzenia włosów i paznokci ."
+    },
+    {
+        "input": "Do ostatniego meczu toczyła się ostra sportowa rywalizacja i dopiero mecze ostatniej kolejki [ukształtowały] ostateczny układ tabeli .",
+        "output": "Do ostatniego meczu toczyła się ostra sportowa rywalizacja i dopiero [mecze | subject] ostatniej kolejki ukształtowały ostateczny [układ | object] tabeli ."
+    },
+    {
+        "input": "Serce - mięsień sercowy włóknieje , spada częstotliwość uderzeń , przez co tkanki [otrzymują] mniej tlenu dostarczanego im przez krew .",
+        "output": "Serce - mięsień sercowy włóknieje , spada częstotliwość uderzeń , przez co [tkanki | subject] otrzymują mniej [tlenu | object] dostarczanego im przez krew ."
+    },
+    {
+        "input": "Oskarżona , podając się za inną osobę , [podjęła] z cudzego konta 3 tys . dolarów USA na szkodę białostockiego oddziału Banku PKO S.A .",
+        "output": "[Oskarżona | subject] , podając się za inną osobę , podjęła z cudzego konta 3 tys . [dolarów | object] USA na szkodę białostockiego oddziału Banku PKO S.A ."
+    },
+    {
+        "input": "Długa lista proponowanych cięć w subwencjach i przywilejach [uprzytamnia] dzisiejszą rozległość i komfort osłony socjalnej we Francji .",
+        "output": "Długa [lista | subject] proponowanych cięć w subwencjach i przywilejach uprzytamnia dzisiejszą [rozległość | object] i komfort osłony socjalnej we Francji ."
+    },
+    {
+        "input": "Przechodzący przed budynkiem mężczyzna w garniturze [obserwuje] skok młodego człowieka z deskorolką .",
+        "output": "Przechodzący przed budynkiem [mężczyzna | subject] w garniturze obserwuje [skok | object] młodego człowieka z deskorolką ."
+    },
+    {
+        "input": "Dziecko w kamizelce ochronnej patrzy na mężczyznę w ciemnych okularach , który [trzyma] w ręce rybę .",
+        "output": "Dziecko w kamizelce ochronnej patrzy na mężczyznę w ciemnych okularach , [który | subject] trzyma w ręce [rybę | object] ."
+    },
+    {
+        "input": "Ich rodzaj , stopień przyswojenia , zakres znaczeniowy [charakteryzują] tekst pod względem stylowym .",
+        "output": "Ich [rodzaj | subject] , stopień przyswojenia , zakres znaczeniowy charakteryzują [tekst | object] pod względem stylowym ."
+    },
+    {
+        "input": "- Stara , jakbyś chodziła do kościoła , to byś coś wiedziała , a teraz nie udawaj przed księżulem , że coś czytałaś - [karci] żonę mąż .",
+        "output": "- Stara , jakbyś chodziła do kościoła , to byś coś wiedziała , a teraz nie udawaj przed księżulem , że coś czytałaś - karci [żonę | object] [mąż | subject] ."
+    },
+    {
+        "input": "Bo to był okrutny i niesprawiedliwy wyrok , a to , że tego nie rozumiałam , [dyskredytuje] mnie jako sędziego , a także jako człowieka .",
+        "output": "Bo to był okrutny i niesprawiedliwy wyrok , a [to | subject] , że tego nie rozumiałam , dyskredytuje [mnie | object] jako sędziego , a także jako człowieka ."
+    },
+    {
+        "input": "Jest to podstawowe źródło finansowania - inne [wymagają] analizy stosownych przepisów o fundacjach .",
+        "output": "Jest to podstawowe źródło finansowania - [inne | subject] wymagają [analizy | object] stosownych przepisów o fundacjach ."
+    },
+    {
+        "input": "- Co spowodowało , że [podjęła] Pani decyzję o wyjeździe i dlaczego wybór padł właśnie na ten kraj ?",
+        "output": "- Co spowodowało , że podjęła [Pani | subject] [decyzję | object] o wyjeździe i dlaczego wybór padł właśnie na ten kraj ?"
+    },
+    {
+        "input": "Pytanie [podejmują] tłumy , wołanie przemienia się w skandowany grzmot : „ My – chcemy – Londynu ! ”",
+        "output": "[Pytanie | object] podejmują [tłumy | subject] , wołanie przemienia się w skandowany grzmot : „ My – chcemy – Londynu ! ”"
+    },
+    {
+        "input": "Ciepła woda [obmywała] go przyjemnie , likwidując odrętwienie członków , ale od momentu , kiedy wszedł pod prysznic , dręczyła go zmora .",
+        "output": "Ciepła [woda | subject] obmywała [go | object] przyjemnie , likwidując odrętwienie członków , ale od momentu , kiedy wszedł pod prysznic , dręczyła go zmora ."
+    },
+    {
+        "input": "Ciepła woda obmywała go przyjemnie , likwidując odrętwienie członków , ale od momentu , kiedy wszedł pod prysznic , [dręczyła] go zmora .",
+        "output": "Ciepła woda obmywała go przyjemnie , likwidując odrętwienie członków , ale od momentu , kiedy wszedł pod prysznic , dręczyła [go | object] [zmora | subject] ."
+    },
+    {
+        "input": "Wziąć , mamo , a nie wziąść , [poprawia] ją mądrala , włączać , a nie włanczać , sobie , a nie se .",
+        "output": "Wziąć , mamo , a nie wziąść , poprawia [ją | object] [mądrala | subject] , włączać , a nie włanczać , sobie , a nie se ."
+    },
+    {
+        "input": "Ostatnio Grzegorz Turnau [zrobił] \" Kutno \" w takiej aranżacji , jakby na nowo oszlifował diament .",
+        "output": "Ostatnio [Grzegorz | subject] Turnau zrobił \" [Kutno | object] \" w takiej aranżacji , jakby na nowo oszlifował diament ."
+    },
+    {
+        "input": "- Zdarzało się , że uderzyłem butnego Niemca z Wehrwolfu , ale tego nie [obejmuje] akt oskarżenia .",
+        "output": "- Zdarzało się , że uderzyłem butnego Niemca z Wehrwolfu , ale [tego | object] nie obejmuje [akt | subject] oskarżenia ."
+    },
+    {
+        "input": "Niemcy rzeczywiście go [uwięzili] podczas wojny , ale za kradzież świni , którą buchnął sąsiadowi .",
+        "output": "[Niemcy | subject] rzeczywiście [go | object] uwięzili podczas wojny , ale za kradzież świni , którą buchnął sąsiadowi ."
+    },
+    {
+        "input": "W I połowie VIII wieku benedyktyński mnich , Anglosas Winfryd-Bonifacy [chrystianizował] Germanów .",
+        "output": "W I połowie VIII wieku benedyktyński [mnich | subject] , Anglosas Winfryd-Bonifacy chrystianizował [Germanów | object] ."
+    },
+    {
+        "input": "Na ich temat nic również nie [powiedzieli] płatni informatorzy , do których w tej sprawie zwrócili się policjanci prowadzący dochodzenie .",
+        "output": "Na ich temat [nic | object] również nie powiedzieli płatni [informatorzy | subject] , do których w tej sprawie zwrócili się policjanci prowadzący dochodzenie ."
+    },
+    {
+        "input": "Tak premier Jerzy Buzek [skomentował] poniedziałkowe spotkanie z prymasem Polski Józefem Glempem .",
+        "output": "Tak [premier | subject] Jerzy Buzek skomentował poniedziałkowe [spotkanie | object] z prymasem Polski Józefem Glempem ."
+    },
+    {
+        "input": "Jednak główną rolę w pracy nad brzmieniem płyty [odegrały] gitarzystka Wendy Melvoin i grająca na instrumentach klawiszowych Lisa Coleman .",
+        "output": "Jednak główną [rolę | object] w pracy nad brzmieniem płyty odegrały [gitarzystka | subject] Wendy Melvoin i grająca na instrumentach klawiszowych Lisa Coleman ."
+    },
+    {
+        "input": "Murman nie zawsze [zatrzymywał] swego łaza przy przydrożnych kapliczkach - zazwyczaj w podróży za mało było czasu na wspominanie zmarłych .",
+        "output": "[Murman | subject] nie zawsze zatrzymywał swego [łaza | object] przy przydrożnych kapliczkach - zazwyczaj w podróży za mało było czasu na wspominanie zmarłych ."
+    },
+    {
+        "input": "Budynek otrzymany od parafii [wymaga] remontu , a placówka nie otrzymała jeszcze żadnej dotacji .",
+        "output": "[Budynek | subject] otrzymany od parafii wymaga [remontu | object] , a placówka nie otrzymała jeszcze żadnej dotacji ."
+    },
+    {
+        "input": "Następne pytanie : - Jakie działania [podjął] urząd prezydenta w sprawie konfliktu na Białorusi ?",
+        "output": "Następne pytanie : - Jakie [działania | object] podjął [urząd | subject] prezydenta w sprawie konfliktu na Białorusi ?"
+    },
+    {
+        "input": "Na pociechę powiem Ci , że moja historia jest raczej nietypowa , większość kobiet po jednym poronieniu szczęśliwie [donasza] kolejną ciążę .",
+        "output": "Na pociechę powiem Ci , że moja historia jest raczej nietypowa , [większość | subject] kobiet po jednym poronieniu szczęśliwie donasza kolejną [ciążę | object] ."
+    },
+    {
+        "input": "Premier Marcinkiewicz [odwołał] wczoraj ze stanowiska wiceministra rolnictwa Lecha Różańskiego .",
+        "output": "[Premier | subject] Marcinkiewicz odwołał wczoraj ze stanowiska [wiceministra | object] rolnictwa Lecha Różańskiego ."
+    },
+    {
+        "input": "Andrzej Chronowski , dotychczasowy minister skarbu , [złożył] wczoraj dymisję na ręce premiera .",
+        "output": "[Andrzej | subject] Chronowski , dotychczasowy minister skarbu , złożył wczoraj [dymisję | object] na ręce premiera ."
+    },
+    {
+        "input": "- Wiele tysięcy osób w Polsce udaje , że zajmuje się sprawowaniem władzy za pieniądze podatników - [uzasadnia] konieczność cięć Donald Tusk .",
+        "output": "- Wiele tysięcy osób w Polsce udaje , że zajmuje się sprawowaniem władzy za pieniądze podatników - uzasadnia [konieczność | object] cięć [Donald | subject] Tusk ."
+    },
+    {
+        "input": "W praktyce oznacza to , że zamiast powiedzieć na przykład : On znowu nie [przysłał] pieniędzy .",
+        "output": "W praktyce oznacza to , że zamiast powiedzieć na przykład : [On | subject] znowu nie przysłał [pieniędzy | object] ."
+    },
+    {
+        "input": "[Męczy] i wkurza mnie to , że od paru miesięcy muszę cię prosić o wykonywanie tego , co spodziewam się , że mógłbyś robić nadal sam z siebie .",
+        "output": "Męczy i wkurza [mnie | object] [to | subject] , że od paru miesięcy muszę cię prosić o wykonywanie tego , co spodziewam się , że mógłbyś robić nadal sam z siebie ."
+    },
+    {
+        "input": "Ciemnoskóry koszykarz z tatuażami na ciele [odbija] piłkę obok niższego od siebie koszykarza .",
+        "output": "Ciemnoskóry [koszykarz | subject] z tatuażami na ciele odbija [piłkę | object] obok niższego od siebie koszykarza ."
+    },
+    {
+        "input": "– Już panu mówiłem , kapitanie – Schmoll [założył] nogę na nogę – że nie udzielam informacji .",
+        "output": "– Już panu mówiłem , kapitanie – [Schmoll | subject] założył [nogę | object] na nogę – że nie udzielam informacji ."
+    },
+    {
+        "input": "W kontekście emocjonalnych , osobistych wypowiedzi ta [budzi] podejrzenie o nieautentyczność .",
+        "output": "W kontekście emocjonalnych , osobistych wypowiedzi [ta | subject] budzi [podejrzenie | object] o nieautentyczność ."
+    },
+    {
+        "input": "Spora część delegatów , reprezentujących zwłaszcza środowiska młodzieżowe , [zaprezentowała] alternatywny wobec projektu kierownictwa program .",
+        "output": "Spora [część | subject] delegatów , reprezentujących zwłaszcza środowiska młodzieżowe , zaprezentowała alternatywny wobec projektu kierownictwa [program | object] ."
+    },
+    {
+        "input": "Badani [utrzymują] bliskie kontakty z czterokrotnie mniejszą liczbą przyjaciół niż krewnych .",
+        "output": "[Badani | subject] utrzymują bliskie [kontakty | object] z czterokrotnie mniejszą liczbą przyjaciół niż krewnych ."
+    },
+    {
+        "input": "Nie mogłam dłużej znieść spojrzeń sąsiadów , gdy się dowiedzieli , że David mnie [zostawił] .",
+        "output": "Nie mogłam dłużej znieść spojrzeń sąsiadów , gdy się dowiedzieli , że [David | subject] [mnie | object] zostawił ."
+    },
+    {
+        "input": "Pani sędzia [wymusiła] na niej odstąpienie od pozwu , grożąc natychmiastowym wezwaniem pogotowia i przewiezieniem do szpitala psychiatrycznego .",
+        "output": "[Pani | subject] sędzia wymusiła na niej [odstąpienie | object] od pozwu , grożąc natychmiastowym wezwaniem pogotowia i przewiezieniem do szpitala psychiatrycznego ."
+    },
+    {
+        "input": "Zakończenie pięknej piłkarskiej kariery wcale nie [oznaczało] końca przygody z piłką nożną .",
+        "output": "[Zakończenie | subject] pięknej piłkarskiej kariery wcale nie oznaczało [końca | object] przygody z piłką nożną ."
+    },
+    {
+        "input": "Jazda [przeszywała] lasy , okrążała błota , wdzierała się na pagóry i przeszukiwała wąwozy .",
+        "output": "[Jazda | subject] przeszywała [lasy | object] , okrążała błota , wdzierała się na pagóry i przeszukiwała wąwozy ."
+    },
+    {
+        "input": "Nieźle tam zarabia , ale niejednokrotnie chwali się drogimi rzeczami kupionymi za pieniądze , które syn tego pana [zostawia] na utrzymanie ojca .",
+        "output": "Nieźle tam zarabia , ale niejednokrotnie chwali się drogimi rzeczami kupionymi za pieniądze , [które | object] [syn | subject] tego pana zostawia na utrzymanie ojca ."
+    },
+    {
+        "input": "Doktor Warrell [przetestował] arszenik - oczywiście w określonych dawkach - na 10 pacjentach cierpiących na ostre przypadki białaczki szpikowej .",
+        "output": "[Doktor | subject] Warrell przetestował [arszenik | object] - oczywiście w określonych dawkach - na 10 pacjentach cierpiących na ostre przypadki białaczki szpikowej ."
+    },
+    {
+        "input": "Człowiek w marynarce , oznakowany liczbą na ręce , [prowadzi] konia z kolorowymi ozdobami .",
+        "output": "[Człowiek | subject] w marynarce , oznakowany liczbą na ręce , prowadzi [konia | object] z kolorowymi ozdobami ."
+    },
+    {
+        "input": "Kobieta z warkoczem [trzyma] w rękach wiosło i unosi się na wodzie na przechylonym kajaku .",
+        "output": "[Kobieta | subject] z warkoczem trzyma w rękach [wiosło | object] i unosi się na wodzie na przechylonym kajaku ."
+    },
+    {
+        "input": "Odtąd spory o utrwalenie takich czy innych spraw ludzkich na płótnie [straciły] znaczenie .",
+        "output": "Odtąd [spory | subject] o utrwalenie takich czy innych spraw ludzkich na płótnie straciły [znaczenie | object] ."
+    },
+    {
+        "input": "Reforma kalendarza [wywoływała] bunty - ludziom zdawało się , że odebrano im 10 dni życia .",
+        "output": "[Reforma | subject] kalendarza wywoływała [bunty | object] - ludziom zdawało się , że odebrano im 10 dni życia ."
+    },
+    {
+        "input": "Przed kościołem dzieci [liczą] na sobie falbanki , zamiast skupić się na tym , co duchowe .",
+        "output": "Przed kościołem [dzieci | subject] liczą na sobie [falbanki | object] , zamiast skupić się na tym , co duchowe ."
+    },
+    {
+        "input": "W Pruszkowie gang [zorganizowali] wychowankowie słynnego w czasach PRL bandyty Barabasza .",
+        "output": "W Pruszkowie [gang | object] zorganizowali [wychowankowie | subject] słynnego w czasach PRL bandyty Barabasza ."
+    },
+    {
+        "input": "Szkodniki te nie tylko [niszczą] opakowania i artykuły spożywcze , ale również je zanieczyszczają - powodując obniżenie wartości handlowej towaru .",
+        "output": "[Szkodniki | subject] te nie tylko niszczą [opakowania | object] i artykuły spożywcze , ale również je zanieczyszczają - powodując obniżenie wartości handlowej towaru ."
+    },
+    {
+        "input": "Goście prezentujący znacznie słabsze umiejętności piłkarskie nie [sprawiali] naszym obrońcom zbyt wielu trudności .",
+        "output": "[Goście | subject] prezentujący znacznie słabsze umiejętności piłkarskie nie sprawiali naszym [obrońcom | indirect_object] zbyt wielu [trudności | object] ."
+    },
+    {
+        "input": "Liczymy , że województwo [da] nam na to środki - mówi pełniący funkcję prezydenta stolicy Kazimierz Marcinkiewicz .",
+        "output": "Liczymy , że [województwo | subject] da [nam | indirect_object] na to [środki | object] - mówi pełniący funkcję prezydenta stolicy Kazimierz Marcinkiewicz ."
+    },
+    {
+        "input": "Kiedy już senat uniwersytetu zgodził się wydelegować Victora do Toskanii , ten [zaproponował] mi dłuższy spacer .",
+        "output": "Kiedy już senat uniwersytetu zgodził się wydelegować Victora do Toskanii , [ten | subject] zaproponował [mi | indirect_object] dłuższy [spacer | object] ."
+    },
+    {
+        "input": "Ci jednak z łatwością [forsowali] je \" górą \" i nadal dokuczali nocnymi hałasami mieszkańcom okolicznych bloków .",
+        "output": "[Ci | subject] jednak z łatwością forsowali [je | object] \" [górą | indirect_object] \" i nadal dokuczali nocnymi hałasami mieszkańcom okolicznych bloków ."
+    },
+    {
+        "input": "Zajęcia \" uniwersytetu \" [zaczynał] swoim wykładem o nauce społecznej Kościoła - Michał Boni , wtedy młody , mądry polonista .",
+        "output": "[Zajęcia | object] \" uniwersytetu \" zaczynał swoim [wykładem | indirect_object] o nauce społecznej Kościoła - [Michał | subject] Boni , wtedy młody , mądry polonista ."
+    },
+    {
+        "input": "Smith [zrobił] nieokreślony ruch ręką - nie możemy odmówić , przedstawił wypis aktu urodzenia , w którym figuruje jako ojciec .",
+        "output": "[Smith | subject] zrobił nieokreślony [ruch | object] [ręką | indirect_object] - nie możemy odmówić , przedstawił wypis aktu urodzenia , w którym figuruje jako ojciec ."
+    },
+    {
+        "input": "Andrzej [dokarmia] swoje rodziny cukrem i okrywa ule specjalnymi poduchami , by owady zimą nie zmarzły .",
+        "output": "[Andrzej | subject] dokarmia swoje [rodziny | object] [cukrem | indirect_object] i okrywa ule specjalnymi poduchami , by owady zimą nie zmarzły ."
+    },
+    {
+        "input": "Małgorzata Tusk , mama Kasi : - Uważamy z mężem , że Kasia powinna robić w życiu to , co lubi i co będzie [sprawiać] jej przyjemność .",
+        "output": "Małgorzata Tusk , mama Kasi : - Uważamy z mężem , że Kasia powinna robić w życiu to , co lubi i [co | subject] będzie sprawiać [jej | indirect_object] [przyjemność | object] ."
+    },
+    {
+        "input": "Ile i komu zaległych należności podatkowych naprawdę [umorzył] wójt gminy Śliwice Jerzy Bogusławski ?",
+        "output": "Ile i [komu | indirect_object] zaległych [należności | object] podatkowych naprawdę umorzył [wójt | subject] gminy Śliwice Jerzy Bogusławski ?"
+    },
+    {
+        "input": "Teofil [zmiótł] je jednym spojrzeniem i jak ubogie zawiniątko poniósł ze sobą w swój niesyty czas .",
+        "output": "[Teofil | subject] zmiótł [je | object] jednym [spojrzeniem | indirect_object] i jak ubogie zawiniątko poniósł ze sobą w swój niesyty czas ."
+    },
+    {
+        "input": "Premier [nazwał] pieniądze przeznaczone na utrzymanie Kancelarii Prezydenta i swojej wartościami .",
+        "output": "[Premier | subject] nazwał [pieniądze | object] przeznaczone na utrzymanie Kancelarii Prezydenta i swojej [wartościami | indirect_object] ."
+    },
+    {
+        "input": "Są showmani , którzy ten wzorzec mają opracowany do perfekcji i nieustannie rzucają stwierdzeniami , które [burzą] krew w żyłach wielu ludziom .",
+        "output": "Są showmani , którzy ten wzorzec mają opracowany do perfekcji i nieustannie rzucają stwierdzeniami , [które | subject] burzą [krew | object] w żyłach wielu [ludziom | indirect_object] ."
+    },
+    {
+        "input": "Cztery razy osiem równa się trzydzieści dwa , co nam nic nie [mówi] - odezwała się Lunzie .",
+        "output": "Cztery razy osiem równa się trzydzieści dwa , [co | subject] [nam | indirect_object] [nic | object] nie mówi - odezwała się Lunzie ."
+    },
+    {
+        "input": "Głównie chodzi o wybryki wandali , którzy [dewastują] nam urządzenia na placu manewrowym .",
+        "output": "Głównie chodzi o wybryki wandali , [którzy | subject] dewastują [nam | indirect_object] [urządzenia | object] na placu manewrowym ."
+    },
+    {
+        "input": "\" Neues Deutschland \" artykuł o przekazaniu daru [zatytułowało] cytatem z \" Ody do radości \" kończącej IX Symfonię : \" Wszyscy ludzie będą braćmi \" .",
+        "output": "\" [Neues | subject] Deutschland \" [artykuł | object] o przekazaniu daru zatytułowało [cytatem | indirect_object] z \" Ody do radości \" kończącej IX Symfonię : \" Wszyscy ludzie będą braćmi \" ."
+    },
+    {
+        "input": "Wracał z sesji , na której lampką szampana radni i sołtysi [pożegnali] stary rok .",
+        "output": "Wracał z sesji , na której [lampką | indirect_object] szampana [radni | subject] i sołtysi pożegnali stary [rok | object] ."
+    },
+    {
+        "input": "Mściwi sąsiedzi [ogolili] jej głowę do gołej skóry za to , że sypiała z Niemcami .",
+        "output": "Mściwi [sąsiedzi | subject] ogolili [jej | indirect_object] [głowę | object] do gołej skóry za to , że sypiała z Niemcami ."
+    },
+    {
+        "input": "Wydawało się , że fiskus nie będzie dłużej gnębił Waldemara Gronowskiego , legnickiego piekarza , który przez ponad 10 lat [rozdawał] pieczywo najuboższym .",
+        "output": "Wydawało się , że fiskus nie będzie dłużej gnębił Waldemara Gronowskiego , legnickiego piekarza , [który | subject] przez ponad 10 lat rozdawał [pieczywo | object] [najuboższym | indirect_object] ."
+    },
+    {
+        "input": "Mężczyzna w niebieskiej koszulce [robi] zdjęcie aparatem fotograficznym .",
+        "output": "[Mężczyzna | subject] w niebieskiej koszulce robi [zdjęcie | object] [aparatem | indirect_object] fotograficznym ."
+    },
+    {
+        "input": "- Będziemy występować do kolegiów ds . wykroczeń o ukaranie płatników , którzy nie [prześlą] nam tych danych - zapowiedziała podczas wczorajszej konferencji prasowej .",
+        "output": "- Będziemy występować do kolegiów ds . wykroczeń o ukaranie płatników , [którzy | subject] nie prześlą [nam | indirect_object] tych [danych | object] - zapowiedziała podczas wczorajszej konferencji prasowej ."
+    },
+    {
+        "input": "I przyszedł , aby sądzić , gdy barman [powiedział] mi kim jesteś .",
+        "output": "I przyszedł , aby sądzić , gdy [barman | subject] powiedział [mi | indirect_object] [kim | object] jesteś ."
+    },
+    {
+        "input": "To on - według prokuratury - [zadał] mu śmiertelne ciosy nożem .",
+        "output": "To [on | subject] - według prokuratury - zadał [mu | indirect_object] śmiertelne [ciosy | object] [nożem | indirect_object] ."
+    },
+    {
+        "input": "Urodzajność swoją [zawdzięcza] Podole czarnoziemnej glebie .",
+        "output": "[Urodzajność | object] swoją zawdzięcza [Podole | subject] czarnoziemnej [glebie | indirect_object] ."
+    },
+    {
+        "input": "Prof . Di Pazma [narzucił] nam straszliwe tempo zwiedzania .",
+        "output": "[Prof | subject] . Di Pazma narzucił [nam | indirect_object] straszliwe [tempo | object] zwiedzania ."
+    },
+    {
+        "input": "Europejski system zarządzania ruchem kolejowym ( ERTMS ) nie [daje] tak naprawdę przedsiębiorstwom możliwości inwestowania w bezpieczeństwo w sposób skoordynowany i interoperacyjny .",
+        "output": "Europejski [system | subject] zarządzania ruchem kolejowym ( ERTMS ) nie daje tak naprawdę [przedsiębiorstwom | indirect_object] [możliwości | object] inwestowania w bezpieczeństwo w sposób skoordynowany i interoperacyjny ."
+    },
+    {
+        "input": "Ten fizyczny ból [sprawiał] mu nawet przyjemność .",
+        "output": "Ten fizyczny [ból | subject] sprawiał [mu | indirect_object] nawet [przyjemność | object] ."
+    },
+    {
+        "input": "Program sztokholmski [umożliwia] nam rozwinięcie dotychczasowych osiągnięć i stawienie czoła nowym wyzwaniom , przy wykorzystaniu nowych możliwości prezentowanych przez traktat lizboński .",
+        "output": "[Program | subject] sztokholmski umożliwia [nam | indirect_object] [rozwinięcie | object] dotychczasowych osiągnięć i stawienie czoła nowym wyzwaniom , przy wykorzystaniu nowych możliwości prezentowanych przez traktat lizboński ."
+    },
+    {
+        "input": "W Strzelcach pomnikowa wdzięczność była chyba najbardziej uzasadniona , bo Armia Radziecka – ponoć w odwecie za ustrzelenie na miejscu jakiegoś generała – [wyburzyła] granatami pół miasta .",
+        "output": "W Strzelcach pomnikowa wdzięczność była chyba najbardziej uzasadniona , bo [Armia | subject] Radziecka – ponoć w odwecie za ustrzelenie na miejscu jakiegoś generała – wyburzyła [granatami | indirect_object] pół [miasta | object] ."
+    },
+    {
+        "input": "Jego ciocia [zaśpiewała] mu nawet piosenkę .",
+        "output": "Jego [ciocia | subject] zaśpiewała [mu | indirect_object] nawet [piosenkę | object] ."
+    },
+    {
+        "input": "Kelner [przyniósł] jej zamówione capuccino .",
+        "output": "[Kelner | subject] przyniósł [jej | indirect_object] zamówione [capuccino | object] ."
+    },
+    {
+        "input": "Wittgenstein , jeśli coś panu to [mówi] ?",
+        "output": "Wittgenstein , jeśli [coś | object] [panu | indirect_object] [to | subject] mówi ?"
+    },
+    {
+        "input": "Zaproszenie [wręczy] pan jej osobiście .",
+        "output": "[Zaproszenie | object] wręczy [pan | subject] [jej | indirect_object] osobiście ."
+    },
+    {
+        "input": "Cóż , to mi [da] mały dystans .",
+        "output": "Cóż , [to | subject] [mi | indirect_object] da mały [dystans | object] ."
+    },
+    {
+        "input": "Pod koniec wojny , po utracie tych źródeł , Japończycy metodami chałupniczymi [destylowali] benzynę lotniczą z korzeni sosny , co obrazuje w jak dramatycznej sytuacji stawiało ich pozbawienie materiałów pędnych .",
+        "output": "Pod koniec wojny , po utracie tych źródeł , [Japończycy | subject] [metodami | indirect_object] chałupniczymi destylowali [benzynę | object] lotniczą z korzeni sosny , co obrazuje w jak dramatycznej sytuacji stawiało ich pozbawienie materiałów pędnych ."
+    },
+    {
+        "input": "Trzynastu Polakom prokurator [przedstawił] zarzuty udziału w organizacji przerzutów nielegalnych migrantów - informuje nas kpt . Grzegorz Klejnowski , rzecznik prasowy Śląskiego Oddziału Straży Granicznej w Raciborzu .",
+        "output": "Trzynastu [Polakom | indirect_object] [prokurator | subject] przedstawił [zarzuty | object] udziału w organizacji przerzutów nielegalnych migrantów - informuje nas kpt . Grzegorz Klejnowski , rzecznik prasowy Śląskiego Oddziału Straży Granicznej w Raciborzu ."
+    },
+    {
+        "input": "Być może bowiem właśnie w tym momencie gdy idąc polną ścieżką mijamy stos kamieni usypany na pograniczu pól , gdy zapatrzeni w horyzont ledwie [omiatamy] go zmęczonym spojrzeniem , tam właśnie na swego odkrywcę od stuleci wyczekuje niecierpliwie i z nie gasnącą nadzieją staropruska baba , pogański idol , który tak wiele ma nam do powiedzenia .",
+        "output": "Być może bowiem właśnie w tym momencie gdy idąc polną ścieżką mijamy stos kamieni usypany na pograniczu pól , gdy [zapatrzeni | subject] w horyzont ledwie omiatamy [go | object] zmęczonym [spojrzeniem | indirect_object] , tam właśnie na swego odkrywcę od stuleci wyczekuje niecierpliwie i z nie gasnącą nadzieją staropruska baba , pogański idol , który tak wiele ma nam do powiedzenia ."
+    }
+]

@@ -1,0 +1,263 @@
+[
+    {
+        "surface_word": "unvernehmbar",
+        "sub_words": "un<PREF> vernehmen<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "un<PREF> ver<VPREF> nehmen<V> bar<ADJ_SUFF>"
+    },
+    {
+        "surface_word": "erbbar",
+        "sub_words": "erben<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "artlich",
+        "sub_words": "Art<NN> lich<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "erspürbar",
+        "sub_words": "erspüren<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "er<VPREF> spüren<V> bar<ADJ_SUFF>"
+    },
+    {
+        "surface_word": "unionistisch",
+        "sub_words": "Unionist<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "verwandlungsfähig",
+        "sub_words": "verwandeln<V> ung<NN_SUFF> fähig<ADJ>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "ver<VPREF> wandeln<V> ung<NN_SUFF> fähig<ADJ>"
+    },
+    {
+        "surface_word": "rezyklierbar",
+        "sub_words": "rezyklieren<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "bündisch",
+        "sub_words": "Bund<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "gliederungstechnisch",
+        "sub_words": "gliedern<V> ung<NN_SUFF> technisch<ADJ>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "wurzelhaft",
+        "sub_words": "Wurzel<NN> haft<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "hartstrahlig",
+        "sub_words": "hart<ADJ> Strahl<NN> ig<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "imperativisch",
+        "sub_words": "Imperativ<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "lagerlos",
+        "sub_words": "Lager<NN> los<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "hysteroskopisch",
+        "sub_words": "Hysteroskop<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "chlorierbar",
+        "sub_words": "chlorieren<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "titellos",
+        "sub_words": "Titel<NN> los<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "benetzbar",
+        "sub_words": "benetzen<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "be<VPREF> netzen<V> bar<ADJ_SUFF>"
+    },
+    {
+        "surface_word": "radfahrerisch",
+        "sub_words": "Radfahrer<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "entleerbar",
+        "sub_words": "entleeren<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "ent<VPREF> leeren<V> bar<ADJ_SUFF>"
+    },
+    {
+        "surface_word": "lehrgangsmäßig",
+        "sub_words": "Lehrgang<NN> mäßig<ADJ_SUFF>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "lehren<V> Gang<NN> mäßig<ADJ_SUFF>"
+    },
+    {
+        "surface_word": "entladbar",
+        "sub_words": "entladen<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "ventilatorisch",
+        "sub_words": "Ventilator<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "artilleristisch",
+        "sub_words": "Artillerist<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "turmhaft",
+        "sub_words": "Turm<NN> haft<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "pomologisch",
+        "sub_words": "Pomologe<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "polynomisch",
+        "sub_words": "polynom<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "spätbiedermeierlich",
+        "sub_words": "spät<ADJ> Biedermeier<NN> lich<ADJ_SUFF>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "spät<ADJ> bieder<ADJ> Meier<NN> lich<ADJ_SUFF>"
+    },
+    {
+        "surface_word": "gospelhaft",
+        "sub_words": "Gospel<NN> haft<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "reiterlos",
+        "sub_words": "Reiter<NN> los<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "standardisierbar",
+        "sub_words": "standardisieren<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "interessenmäßig",
+        "sub_words": "Interesse<NN> mäßig<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "symphonisch",
+        "sub_words": "Symphon<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "betrefflich",
+        "sub_words": "Betreff<NN> lich<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "vornämlich",
+        "sub_words": "Vorname<NN> lich<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "phenolisch",
+        "sub_words": "Phenol<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "akzeptierbar",
+        "sub_words": "akzeptieren<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "fetisch",
+        "sub_words": "Fete<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "überwinterungsfähig",
+        "sub_words": "überwintern<V> ung<NN_SUFF> fähig<ADJ>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "über<VPREF> wintern<V> ung<NN_SUFF> fähig<ADJ>",
+        "alternative_1": "über<VPART> wintern<V> ung<NN_SUFF> fähig<ADJ>"
+    },
+    {
+        "surface_word": "flachtonnig",
+        "sub_words": "flach<ADJ> Tonne<NN> ig<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "klamottenhaft",
+        "sub_words": "Klamotte<NN> haft<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "instrumentallastig",
+        "sub_words": "instrumental<ADJ> Last<NN> ig<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "diskriminierungsfrei",
+        "sub_words": "diskriminieren<V> ung<NN_SUFF> frei<ADJ>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "matronenhaft",
+        "sub_words": "Matrone<NN> haft<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "undurchsetzbar",
+        "sub_words": "un<PREF> durchsetzen<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ",
+        "alternative_0": "un<PREF> durch<VPREF> setzen<V> bar<ADJ_SUFF>",
+        "alternative_1": "un<PREF> durch<VPART> setzen<V> bar<ADJ_SUFF>"
+    },
+    {
+        "surface_word": "kämmbar",
+        "sub_words": "kämmen<V> bar<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "komparativisch",
+        "sub_words": "Komparativ<NN> isch<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "kolbig",
+        "sub_words": "Kolben<NN> ig<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "vorabendlich",
+        "sub_words": "Vorabend<NN> lich<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "niederohmig",
+        "sub_words": "nieder<ADJ> Ohm<NN> ig<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    },
+    {
+        "surface_word": "schlackig",
+        "sub_words": "Schlacke<NN> ig<ADJ_SUFF>",
+        "surface_word_tag": "ADJ"
+    }
+]

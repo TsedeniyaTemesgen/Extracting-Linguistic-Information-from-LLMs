@@ -1,0 +1,59 @@
+[
+    {
+        "lemma": "combiner",
+        "surface_word": "décombiner",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "dé-",
+        "prefix": "dé-",
+        "suffix": [],
+        "alternative_0": "dé<PREF> combiner<V>",
+        "sub_words": "dé<PREF> combiner<V>"
+    },
+    {
+        "lemma": "ferraille",
+        "surface_word": "ferrailler",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-er",
+        "prefix": [],
+        "suffix": "-er",
+        "alternative_0": "ferraille<N> er<V_SUFF>",
+        "alternative_1": "fer<N> aille<N_SUFF> er<V_SUFF>",
+        "sub_words": "fer<N> aille<N_SUFF> er<V_SUFF>"
+    },
+    {
+        "lemma": "numéroter",
+        "surface_word": "renuméroter",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "re-",
+        "prefix": "re-",
+        "suffix": [],
+        "alternative_0": "re<PREF> numéroter<V>",
+        "alternative_1": "re<PREF> numéro<N> er<V_SUFF>",
+        "sub_words": "re<PREF> numéro<N> er<V_SUFF>"
+    },
+    {
+        "lemma": "fluide",
+        "surface_word": "fluidifier",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-ifier",
+        "prefix": [],
+        "suffix": "-ifier",
+        "alternative_0": "fluide<ADJ> ifier<V_SUFF>",
+        "sub_words": "fluide<ADJ> ifier<V_SUFF>"
+    },
+    {
+        "lemma": "pigeon",
+        "surface_word": "pigeonner",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-er",
+        "prefix": [],
+        "suffix": "-er",
+        "alternative_0": "pigeon<N> er<V_SUFF>",
+        "sub_words": "pigeon<N> er<V_SUFF>"
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "lemma": "governate",
+        "surface_word": "subgovernate",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "sub-",
+        "prefix": "sub-",
+        "suffix": [],
+        "alternative_0": "sub<PREF> governate<N>",
+        "alternative_1": "sub<PREF> govern<V> ate<N_SUFF>",
+        "sub_words": "sub<PREF> govern<V> ate<N_SUFF>"
+    },
+    {
+        "lemma": "mosque",
+        "surface_word": "mosqueing",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-ing",
+        "prefix": [],
+        "suffix": "-ing",
+        "alternative_0": "mosque<N> ing<N_SUFF>",
+        "sub_words": "mosque<N> ing<N_SUFF>"
+    },
+    {
+        "lemma": "contrastive",
+        "surface_word": "contrastivist",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-ist",
+        "prefix": [],
+        "suffix": "-ist",
+        "alternative_0": "contrastive<ADJ> ist<N_SUFF>",
+        "alternative_1": "contrast<N> ive<ADJ_SUFF> ist<N_SUFF>",
+        "sub_words": "contrast<N> ive<ADJ_SUFF> ist<N_SUFF>"
+    },
+    {
+        "lemma": "radian",
+        "surface_word": "hectoradian",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "hecto-",
+        "prefix": "hecto-",
+        "suffix": [],
+        "alternative_0": "hecto<PREF> radian<N>",
+        "alternative_1": "hecto<PREF> radius<N> an<N_SUFF>",
+        "sub_words": "hecto<PREF> radius<N> an<N_SUFF>"
+    },
+    {
+        "lemma": "aniline",
+        "surface_word": "methoxyaniline",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "methoxy-",
+        "prefix": "methoxy-",
+        "suffix": [],
+        "alternative_0": "methoxy<PREF> aniline<N>",
+        "sub_words": "methoxy<PREF> aniline<N>"
+    },
+    {
+        "lemma": "leery",
+        "surface_word": "leeriness",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-ness",
+        "prefix": [],
+        "suffix": "-ness",
+        "alternative_0": "leery<ADJ> ness<N_SUFF>",
+        "sub_words": "leery<ADJ> ness<N_SUFF>"
+    },
+    {
+        "lemma": "play",
+        "surface_word": "playwear",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-wear",
+        "prefix": [],
+        "suffix": "-wear",
+        "alternative_0": "play<V> wear<N_SUFF>",
+        "sub_words": "play<V> wear<N_SUFF>"
+    },
+    {
+        "lemma": "venerable",
+        "surface_word": "venerability",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-ity",
+        "prefix": [],
+        "suffix": "-ity",
+        "alternative_0": "venerable<ADJ> ity<N_SUFF>",
+        "alternative_1": "venerate<V> able<ADJ_SUFF> ity<N_SUFF>",
+        "sub_words": "venerate<V> able<ADJ_SUFF> ity<N_SUFF>"
+    },
+    {
+        "lemma": "remineralize",
+        "surface_word": "remineralizer",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-er",
+        "prefix": [],
+        "suffix": "-er",
+        "alternative_0": "remineralize<V> er<N_SUFF>",
+        "alternative_1": "re<PREF> mineral<N> ize<V_SUFF> er<N_SUFF>",
+        "alternative_2": "re<PREF> mineralize<V> er<N_SUFF>",
+        "sub_words": "re<PREF> mineral<N> ize<V_SUFF> er<N_SUFF>"
+    },
+    {
+        "lemma": "forlorn",
+        "surface_word": "forlornling",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-ling",
+        "prefix": [],
+        "suffix": "-ling",
+        "alternative_0": "forlorn<ADJ> ling<N_SUFF>",
+        "alternative_1": "for<PREF> lorn<ADJ> ling<N_SUFF>",
+        "sub_words": "for<PREF> lorn<ADJ> ling<N_SUFF>"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "lemma": "smilšains",
+        "surface_word": "smilšaine",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-e",
+        "prefix": [],
+        "suffix": "-e",
+        "alternative_0": "smilšains<ADJ> e<N_SUFF>",
+        "alternative_1": "smiltis<N> ains<ADJ_SUFF> e<N_SUFF>",
+        "sub_words": "smiltis<N> ains<ADJ_SUFF> e<N_SUFF>"
+    },
+    {
+        "lemma": "slidot",
+        "surface_word": "slidotāja",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-āja",
+        "prefix": [],
+        "suffix": "-āja",
+        "alternative_0": "slidot<V> āja<N_SUFF>",
+        "sub_words": "slidot<V> āja<N_SUFF>"
+    },
+    {
+        "lemma": "svainis",
+        "surface_word": "svaine",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-e",
+        "prefix": [],
+        "suffix": "-e",
+        "alternative_0": "svainis<N> e<N_SUFF>",
+        "sub_words": "svainis<N> e<N_SUFF>"
+    },
+    {
+        "lemma": "objektīvs",
+        "surface_word": "objektivitāte",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-itāte",
+        "prefix": [],
+        "suffix": "-itāte",
+        "alternative_0": "objektīvs<ADJ> itāte<N_SUFF>",
+        "sub_words": "objektīvs<ADJ> itāte<N_SUFF>"
+    },
+    {
+        "lemma": "pārstāvēt",
+        "surface_word": "pārstāvība",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-ība",
+        "prefix": [],
+        "suffix": "-ība",
+        "alternative_0": "pārstāvēt<V> ība<N_SUFF>",
+        "alternative_1": "pār<PREF> stāvēt<V> ība<N_SUFF>",
+        "sub_words": "pār<PREF> stāvēt<V> ība<N_SUFF>"
+    },
+    {
+        "lemma": "gaiss",
+        "surface_word": "negaiss",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "ne-",
+        "prefix": "ne-",
+        "suffix": [],
+        "alternative_0": "ne<PREF> gaiss<N>",
+        "sub_words": "ne<PREF> gaiss<N>"
+    },
+    {
+        "lemma": "caurredzams",
+        "surface_word": "necaurredzamība",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "ne-",
+        "prefix": "ne-",
+        "suffix": [],
+        "alternative_0": "ne<PREF> caurredzams<ADJ>",
+        "sub_words": "ne<PREF> caurredzams<ADJ>"
+    },
+    {
+        "lemma": "ārstnieks",
+        "surface_word": "ārstniecība",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-ība",
+        "prefix": [],
+        "suffix": "-ība",
+        "alternative_0": "ārstnieks<N> ība<N_SUFF>",
+        "alternative_1": "ārsts<N> nieks<N_SUFF> ība<N_SUFF>",
+        "sub_words": "ārsts<N> nieks<N_SUFF> ība<N_SUFF>"
+    },
+    {
+        "lemma": "skaidrot",
+        "surface_word": "skaidrojums",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-ums",
+        "prefix": [],
+        "suffix": "-ums",
+        "alternative_0": "skaidrot<V> ums<N_SUFF>",
+        "alternative_1": "skaidrs<ADJ> ot<V_SUFF> ums<N_SUFF>",
+        "sub_words": "skaidrs<ADJ> ot<V_SUFF> ums<N_SUFF>"
+    },
+    {
+        "lemma": "trūcīgs",
+        "surface_word": "trūcīgums",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-ums",
+        "prefix": [],
+        "suffix": "-ums",
+        "alternative_0": "trūcīgs<ADJ> ums<N_SUFF>",
+        "alternative_1": "trūkt<V> īgs<ADJ_SUFF> ums<N_SUFF>",
+        "sub_words": "trūkt<V> īgs<ADJ_SUFF> ums<N_SUFF>"
+    }
+]

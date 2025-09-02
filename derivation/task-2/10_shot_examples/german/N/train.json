@@ -1,0 +1,121 @@
+[
+    {
+        "lemma": "übermitteln",
+        "surface_word": "Übermittlung",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-ung",
+        "prefix": [],
+        "suffix": "-ung",
+        "alternative_0": "übermitteln<V> ung<N_SUFF>",
+        "alternative_1": "über<PREF> mitteln<V> ung<N_SUFF>",
+        "sub_words": "über<PREF> mitteln<V> ung<N_SUFF>"
+    },
+    {
+        "lemma": "Brotbäcker",
+        "surface_word": "Brotbäckerin",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-in",
+        "prefix": [],
+        "suffix": "-in",
+        "alternative_0": "Brotbäcker<N> in<N_SUFF>",
+        "sub_words": "Brotbäcker<N> in<N_SUFF>"
+    },
+    {
+        "lemma": "vergleichen",
+        "surface_word": "Vergleichung",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-ung",
+        "prefix": [],
+        "suffix": "-ung",
+        "alternative_0": "vergleichen<V> ung<N_SUFF>",
+        "alternative_1": "ver<PREF> gleich<ADJ> en<V_SUFF> ung<N_SUFF>",
+        "alternative_2": "ver<PREF> gleichen<ADJ> ung<N_SUFF>",
+        "sub_words": "ver<PREF> gleich<ADJ> en<V_SUFF> ung<N_SUFF>"
+    },
+    {
+        "lemma": "schwächen",
+        "surface_word": "Schwächung",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-ung",
+        "prefix": [],
+        "suffix": "-ung",
+        "alternative_0": "schwächen<V> ung<N_SUFF>",
+        "sub_words": "schwächen<V> ung<N_SUFF>"
+    },
+    {
+        "lemma": "Verschwender",
+        "surface_word": "Verschwenderin",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-in",
+        "prefix": [],
+        "suffix": "-in",
+        "alternative_0": "Verschwender<N> in<N_SUFF>",
+        "alternative_1": "verschwenden<V> er<N_SUFF> in<N_SUFF>",
+        "sub_words": "verschwenden<V> er<N_SUFF> in<N_SUFF>"
+    },
+    {
+        "lemma": "Theologe",
+        "surface_word": "Theologin",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-in",
+        "prefix": [],
+        "suffix": "-in",
+        "alternative_0": "Theologe<N> in<N_SUFF>",
+        "alternative_1": "Theologie<N> e<N_SUFF> in<N_SUFF>",
+        "sub_words": "Theologie<N> e<N_SUFF> in<N_SUFF>"
+    },
+    {
+        "lemma": "Lux",
+        "surface_word": "Pikolux",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "piko-",
+        "prefix": "piko-",
+        "suffix": [],
+        "alternative_0": "piko<PREF> Lux<N>",
+        "sub_words": "piko<PREF> Lux<N>"
+    },
+    {
+        "lemma": "unvollkommen",
+        "surface_word": "Unvollkommenheit",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-heit",
+        "prefix": [],
+        "suffix": "-heit",
+        "alternative_0": "unvollkommen<ADJ> heit<N_SUFF>",
+        "alternative_1": "un<PREF> vollkommen<ADJ> heit<N_SUFF>",
+        "sub_words": "un<PREF> vollkommen<ADJ> heit<N_SUFF>"
+    },
+    {
+        "lemma": "liberalisieren",
+        "surface_word": "Liberalisierung",
+        "lemma_pos": "V",
+        "surface_word_tag": "N",
+        "affix": "-ung",
+        "prefix": [],
+        "suffix": "-ung",
+        "alternative_0": "liberalisieren<V> ung<N_SUFF>",
+        "alternative_1": "liberal<ADJ> isieren<V_SUFF> ung<N_SUFF>",
+        "sub_words": "liberal<ADJ> isieren<V_SUFF> ung<N_SUFF>"
+    },
+    {
+        "lemma": "Anhänger",
+        "surface_word": "Anhängerin",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-in",
+        "prefix": [],
+        "suffix": "-in",
+        "alternative_0": "Anhänger<N> in<N_SUFF>",
+        "alternative_1": "an<PREF> hängen<V> er<N_SUFF> in<N_SUFF>",
+        "alternative_2": "anhängen<V> er<N_SUFF> in<N_SUFF>",
+        "sub_words": "an<PREF> hängen<V> er<N_SUFF> in<N_SUFF>"
+    }
+]

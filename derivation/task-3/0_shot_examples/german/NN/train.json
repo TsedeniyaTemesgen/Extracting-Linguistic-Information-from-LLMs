@@ -1,0 +1,21 @@
+[
+  {
+    "surface_word": "Unverträglichkeitspotential",
+    "sub_words": "un<PREF> verträglich<ADJ> keit<NN_SUFF> Potential<NN>",
+    "surface_word_tag": "NN",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "Selbsteinladung",
+    "sub_words": "selbst<ADJ> ein<VPART> laden<V> ung<NN_SUFF>",
+    "surface_word_tag": "NN",
+    "annotated": "ok"
+  },
+  {
+    "surface_word": "Herstellungshandlungen",
+    "sub_words": "her<VPART> stellen<V> ung<NN_SUFF> Handlung<NN>",
+    "surface_word_tag": "NN",
+    "alternative_0": "her<VPART> stellen<V> ung<NN_SUFF> handeln<V> ung<NN_SUFF>",
+    "annotated": "ok"
+  }
+]

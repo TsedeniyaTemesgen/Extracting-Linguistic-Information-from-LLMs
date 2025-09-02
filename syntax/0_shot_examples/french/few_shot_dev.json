@@ -1,0 +1,434 @@
+[
+    {
+        "input": "Aclasta a [réduit] significativement l' incidence d' une nouvelle fracture vertébrale ou plus , sur une période de trois ans , et ceci dès la première année ( voir Tableau 2 ) .",
+        "output": "[Aclasta | subject] a réduit significativement l' [incidence | object] d' une nouvelle fracture vertébrale ou plus , sur une période de trois ans , et ceci dès la première année ( voir Tableau 2 ) ."
+    },
+    {
+        "input": "En effet , Alfred Sirven , son officier traitant chez Elf Thomson CSF a [contesté] la réalité de l' intervention du réseau Elf et a porté plainte pour tentative d' escroquerie .",
+        "output": "En effet , [Alfred | subject] Sirven , son officier traitant chez Elf Thomson CSF a contesté la [réalité | object] de l' intervention du réseau Elf et a porté plainte pour tentative d' escroquerie ."
+    },
+    {
+        "input": "Il [contestera] son appartenance supposée à l' extrême droite affirmée par VGE dans son livre et le fera condamner à un franc de dommages et intérêts pour diffamation en 1991 .",
+        "output": "[Il | subject] contestera son [appartenance | object] supposée à l' extrême droite affirmée par VGE dans son livre et le fera condamner à un franc de dommages et intérêts pour diffamation en 1991 ."
+    },
+    {
+        "input": "L' association a [changé] les décors et avec l' aide de plusieurs bénévoles , établi différents tableaux sur le thème de \" Cinq siècles d' activité économique de la région d' Ancerville \" .",
+        "output": "L' [association | subject] a changé les [décors | object] et avec l' aide de plusieurs bénévoles , établi différents tableaux sur le thème de \" Cinq siècles d' activité économique de la région d' Ancerville \" ."
+    },
+    {
+        "input": "Jacques Dominati a menacé à l' audience de produire une liste d' élus qui auraient [eu] recours à ces pratiques irrégulières , soutenant que la pratique était généralisée .",
+        "output": "Jacques Dominati a menacé à l' audience de produire une liste d' élus [qui | subject] auraient eu [recours | object] à ces pratiques irrégulières , soutenant que la pratique était généralisée ."
+    },
+    {
+        "input": "L' affaire Dumas [concerne] un possible trafic d' influence vers Roland Dumas orchestré par Alfred Sirven par le biais de Christine Deviers-Joncour , maîtresse du premier .",
+        "output": "L' [affaire | subject] Dumas concerne un possible [trafic | object] d' influence vers Roland Dumas orchestré par Alfred Sirven par le biais de Christine Deviers-Joncour , maîtresse du premier ."
+    },
+    {
+        "input": "Et c' est précisément l' acceptation de ce principe qui l' a [conduite] aux succès dont nous pouvons faire état , comme nous le faisons tous assurément de temps à autre .",
+        "output": "Et c' est précisément l' acceptation de ce principe [qui | subject] [l' | object] a conduite aux succès dont nous pouvons faire état , comme nous le faisons tous assurément de temps à autre ."
+    },
+    {
+        "input": "Et c' est précisément l' acceptation de ce principe qui l' a conduite aux succès dont nous pouvons faire état , comme nous le [faisons] tous assurément de temps à autre .",
+        "output": "Et c' est précisément l' acceptation de ce principe qui l' a conduite aux succès dont nous pouvons faire état , comme [nous | subject] [le | object] faisons tous assurément de temps à autre ."
+    },
+    {
+        "input": "La construction de deux parcelles en-dessous de la place du bas du village [nécessite] l' implantation des réseaux nécessaires pour l' eau , l' assainissement , l' électricité et le téléphone .",
+        "output": "La [construction | subject] de deux parcelles en-dessous de la place du bas du village nécessite l' [implantation | object] des réseaux nécessaires pour l' eau , l' assainissement , l' électricité et le téléphone ."
+    },
+    {
+        "input": "Des études effectuées chez l' animal avec l' acide zolédronique ont [mis] en évidence une toxicité sur la reproduction , dont des malformations ( voir rubrique 5.3 ) .",
+        "output": "Des [études | subject] effectuées chez l' animal avec l' acide zolédronique ont mis en évidence une [toxicité | object] sur la reproduction , dont des malformations ( voir rubrique 5.3 ) ."
+    },
+    {
+        "input": "à peu près au même moment que Gutenberg [inventait] l' imprimerie , Gillet Bonnemire créait en 1450 la première forge à Saint-Dizier , à l' actuel emplacement du CHS .",
+        "output": "à peu près au même moment que [Gutenberg | subject] inventait l' [imprimerie | object] , Gillet Bonnemire créait en 1450 la première forge à Saint-Dizier , à l' actuel emplacement du CHS ."
+    },
+    {
+        "input": "à peu près au même moment que Gutenberg inventait l' imprimerie , Gillet Bonnemire [créait] en 1450 la première forge à Saint-Dizier , à l' actuel emplacement du CHS .",
+        "output": "à peu près au même moment que Gutenberg inventait l' imprimerie , [Gillet | subject] Bonnemire créait en 1450 la première [forge | object] à Saint-Dizier , à l' actuel emplacement du CHS ."
+    },
+    {
+        "input": "Il explique comment le comité des médicaments à usage humain ( CHMP ) a [évalué] les études réalisées afin d' aboutir à ses recommandations relatives aux conditions d' utilisation du médicament .",
+        "output": "Il explique comment le [comité | subject] des médicaments à usage humain ( CHMP ) a évalué les [études | object] réalisées afin d' aboutir à ses recommandations relatives aux conditions d' utilisation du médicament ."
+    },
+    {
+        "input": "Cette association de jardiniers amateurs créée en 2000 à l' initiative de J.-P. Bruneau , passionné de jardinage et correspondant local des Jardiniers de France , [comptait] 17 adhérents en 2002 .",
+        "output": "Cette [association | subject] de jardiniers amateurs créée en 2000 à l' initiative de J.-P. Bruneau , passionné de jardinage et correspondant local des Jardiniers de France , comptait 17 [adhérents | object] en 2002 ."
+    },
+    {
+        "input": "Le RPR était un parti politique créé par Jacques Chirac , et dont il était à l' époque le président , en même temps qu' il [exerçait] la fonction de maire de Paris .",
+        "output": "Le RPR était un parti politique créé par Jacques Chirac , et dont il était à l' époque le président , en même temps qu' [il | subject] exerçait la [fonction | object] de maire de Paris ."
+    },
+    {
+        "input": "Donc l' Autriche [a] tout à fait le droit de former un gouvernement et le Président de la Commission a parfaitement le droit , et a même le devoir , de présenter ses meilleurs voeux à l' Autriche .",
+        "output": "Donc l' [Autriche | subject] a tout à fait le [droit | object] de former un gouvernement et le Président de la Commission a parfaitement le droit , et a même le devoir , de présenter ses meilleurs voeux à l' Autriche ."
+    },
+    {
+        "input": "Donc l' Autriche a tout à fait le droit de former un gouvernement et le Président de la Commission [a] parfaitement le droit , et a même le devoir , de présenter ses meilleurs voeux à l' Autriche .",
+        "output": "Donc l' Autriche a tout à fait le droit de former un gouvernement et le [Président | subject] de la Commission a parfaitement le [droit | object] , et a même le devoir , de présenter ses meilleurs voeux à l' Autriche ."
+    },
+    {
+        "input": "La gare routière [attend] toujours ses illuminations , pas des guirlandes , mais des lampadaires pour que scolaires , usagés et conducteurs se sentent en sécurité .",
+        "output": "La [gare | subject] routière attend toujours ses [illuminations | object] , pas des guirlandes , mais des lampadaires pour que scolaires , usagés et conducteurs se sentent en sécurité ."
+    },
+    {
+        "input": "La gare routière attend toujours ses illuminations , pas des guirlandes , mais des lampadaires pour que scolaires , usagés et conducteurs se [sentent] en sécurité .",
+        "output": "La gare routière attend toujours ses illuminations , pas des guirlandes , mais des lampadaires pour que [scolaires | subject] , usagés et conducteurs [se | object] sentent en sécurité ."
+    },
+    {
+        "input": "Sur Jean-Paul Schimpf , les enquêteurs [trouvent] un contrat de prêt de 1 million de francs destiné à l' achat de l' appartement de la compagne de Didier Schuller .",
+        "output": "Sur Jean-Paul Schimpf , les [enquêteurs | subject] trouvent un [contrat | object] de prêt de 1 million de francs destiné à l' achat de l' appartement de la compagne de Didier Schuller ."
+    },
+    {
+        "input": "Environ 30 % des patients recevant de la bivalirudine ont [présenté] au moins un événement indésirable et 3 % ont présenté une réaction indésirable au médicament .",
+        "output": "Environ 30 [% | subject] des patients recevant de la bivalirudine ont présenté au moins un [événement | object] indésirable et 3 % ont présenté une réaction indésirable au médicament ."
+    },
+    {
+        "input": "Environ 30 % des patients recevant de la bivalirudine ont présenté au moins un événement indésirable et 3 % ont [présenté] une réaction indésirable au médicament .",
+        "output": "Environ 30 % des patients recevant de la bivalirudine ont présenté au moins un événement indésirable et 3 [% | subject] ont présenté une [réaction | object] indésirable au médicament ."
+    },
+    {
+        "input": "Pour les européennes , il [prévoit] huit grandes régions mais avec des sous-sections par régions administratives qui n' éliraient qu' un , deux ou trois députés .",
+        "output": "Pour les européennes , [il | subject] prévoit huit grandes [régions | object] mais avec des sous-sections par régions administratives qui n' éliraient qu' un , deux ou trois députés ."
+    },
+    {
+        "input": "Pour les européennes , il prévoit huit grandes régions mais avec des sous-sections par régions administratives qui n' [éliraient] qu' un , deux ou trois députés .",
+        "output": "Pour les européennes , il prévoit huit grandes régions mais avec des sous-sections par régions administratives [qui | subject] n' éliraient qu' un , deux ou trois [députés | object] ."
+    },
+    {
+        "input": "Je le [remercie] également pour la collaboration qui a pu s' établir entre les groupes , ce qui nous a permis d' aboutir à des compromis , qui sont , selon moi , responsables , adéquats et appropriés .",
+        "output": "[Je | subject] [le | object] remercie également pour la collaboration qui a pu s' établir entre les groupes , ce qui nous a permis d' aboutir à des compromis , qui sont , selon moi , responsables , adéquats et appropriés ."
+    },
+    {
+        "input": "Peut-être a -t-elle [eu] le tort , la veille , de faire installer des poubelles fixes , synonymes , à priori , de propreté , ce qui a eu probablement pour effet d' inciter les gens à rester à domicile .",
+        "output": "Peut-être a [-t-elle | subject] eu le [tort | object] , la veille , de faire installer des poubelles fixes , synonymes , à priori , de propreté , ce qui a eu probablement pour effet d' inciter les gens à rester à domicile ."
+    },
+    {
+        "input": "Je ne comprends pas que les instances du pouvoir européen se taisent , laissent faire et , en travaillant avec les Russes comme si de rien n' était , cautionnent ce gouvernement qui [fait] cette guerre .",
+        "output": "Je ne comprends pas que les instances du pouvoir européen se taisent , laissent faire et , en travaillant avec les Russes comme si de rien n' était , cautionnent ce gouvernement [qui | subject] fait cette [guerre | object] ."
+    },
+    {
+        "input": "Nous croyons que le droit au développement [constitue] une priorité mondiale et une condition essentielle pour que la politique en matière de droits de l' homme dans ces pays soit réellement praticable .",
+        "output": "Nous croyons que le [droit | subject] au développement constitue une [priorité | object] mondiale et une condition essentielle pour que la politique en matière de droits de l' homme dans ces pays soit réellement praticable ."
+    },
+    {
+        "input": "La majorité de ces patients ont [reçu] une dose de 4 mg toutes les 3 à 4 semaines , mais une anomalie de la fonction rénale a également été observée chez les patients ayant reçu une seule administration .",
+        "output": "La [majorité | subject] de ces patients ont reçu une [dose | object] de 4 mg toutes les 3 à 4 semaines , mais une anomalie de la fonction rénale a également été observée chez les patients ayant reçu une seule administration ."
+    },
+    {
+        "input": "Nous [approuvons] le point 9 du rapport qui considère que la Commission doit suivre fidèlement les orientations budgétaires établies pour les projets RTE .",
+        "output": "[Nous | subject] approuvons le [point | object] 9 du rapport qui considère que la Commission doit suivre fidèlement les orientations budgétaires établies pour les projets RTE ."
+    },
+    {
+        "input": "La proposition de résolution , qui insiste , entre autres , pour que le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué , [constitue] un pas en avant dans la bonne direction .",
+        "output": "La [proposition | subject] de résolution , qui insiste , entre autres , pour que le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué , constitue un [pas | object] en avant dans la bonne direction ."
+    },
+    {
+        "input": "Le conducteur [présente] des signes d' ivresse et est conduit au commissariat central où son taux d' alcoolémie est fixé à 1,74 gramme par litre de sang .",
+        "output": "Le [conducteur | subject] présente des [signes | object] d' ivresse et est conduit au commissariat central où son taux d' alcoolémie est fixé à 1,74 gramme par litre de sang ."
+    },
+    {
+        "input": "Pour les patients nécessitant des interventions dentaires , il n' y a pas de donnée disponible suggérant que l' arrêt du traitement par bisphosphonates [diminuerait] le risque d' ostéonécrose de la mâchoire .",
+        "output": "Pour les patients nécessitant des interventions dentaires , il n' y a pas de donnée disponible suggérant que l' [arrêt | subject] du traitement par bisphosphonates diminuerait le [risque | object] d' ostéonécrose de la mâchoire ."
+    },
+    {
+        "input": "L' argent pourrait alors servir au règlement du litige civil avec Taïwan qui exige que la France [rembourse] les commissions occultes que le contrat signé en 1991 interdisait formellement par son article 18 .",
+        "output": "L' argent pourrait alors servir au règlement du litige civil avec Taïwan qui exige que la [France | subject] rembourse les [commissions | object] occultes que le contrat signé en 1991 interdisait formellement par son article 18 ."
+    },
+    {
+        "input": "L' argent pourrait alors servir au règlement du litige civil avec Taïwan qui exige que la France rembourse les commissions occultes que le contrat signé en 1991 [interdisait] formellement par son article 18 .",
+        "output": "L' argent pourrait alors servir au règlement du litige civil avec Taïwan qui exige que la France rembourse les commissions occultes [que | object] le [contrat | subject] signé en 1991 interdisait formellement par son article 18 ."
+    },
+    {
+        "input": "Sur des critères très stricts de compétence et d' accueil , c' est le premier établissement en France qui [reçoit] cette promotion selon la toute nouvelle loi du 16 décembre 1998 sur les Offices de tourisme .",
+        "output": "Sur des critères très stricts de compétence et d' accueil , c' est le premier établissement en France [qui | subject] reçoit cette [promotion | object] selon la toute nouvelle loi du 16 décembre 1998 sur les Offices de tourisme ."
+    },
+    {
+        "input": "\" Pérouse amitié \" , qui [utilise] la grande salle deux mercredis après-midi par mois , voit également sa contribution aux frais diminuer ( 150 par an )",
+        "output": "\" Pérouse amitié \" , [qui | subject] utilise la grande [salle | object] deux mercredis après-midi par mois , voit également sa contribution aux frais diminuer ( 150 par an )"
+    },
+    {
+        "input": "\" Pérouse amitié \" , qui utilise la grande salle deux mercredis après-midi par mois , [voit] également sa contribution aux frais diminuer ( 150 par an )",
+        "output": "\" [Pérouse | subject] amitié \" , qui utilise la grande salle deux mercredis après-midi par mois , voit également sa [contribution | object] aux frais diminuer ( 150 par an )"
+    },
+    {
+        "input": "- 25 avril 2001 : le juge Éric Halphen se [déclare] incompétent pour instruire le cas du président Chirac , en raison de son immunité présidentielle .",
+        "output": "- 25 avril 2001 : le [juge | subject] Éric Halphen [se | object] déclare incompétent pour instruire le cas du président Chirac , en raison de son immunité présidentielle ."
+    },
+    {
+        "input": "Les Petits Princes , au nombre de cinq , le roi Pierre ... ont [réveillé] chez le public des souvenirs d' enfance , le temps d' une représentation .",
+        "output": "Les Petits [Princes | subject] , au nombre de cinq , le roi Pierre ... ont réveillé chez le public des [souvenirs | object] d' enfance , le temps d' une représentation ."
+    },
+    {
+        "input": "Il est fort probable , vu qu' ils sont accusés d' espionnage en faveur des États-Unis et d' Israël - lesquels ont par ailleurs [démenti] tout lien avec ces personnes - qu' ils soient condamnés à la peine capitale .",
+        "output": "Il est fort probable , vu qu' ils sont accusés d' espionnage en faveur des États-Unis et d' Israël - [lesquels | subject] ont par ailleurs démenti tout [lien | object] avec ces personnes - qu' ils soient condamnés à la peine capitale ."
+    },
+    {
+        "input": "En attendant la création d' un syndicat intercommunal de gestion , il est nécessaire que des délégués du conseil [suivent] de près l' opération .",
+        "output": "En attendant la création d' un syndicat intercommunal de gestion , il est nécessaire que des [délégués | subject] du conseil suivent de près l' [opération | object] ."
+    },
+    {
+        "input": "Il s' agirait bien de la même situation que si le facteur devait payer des droits d' auteur lorsqu' il [apporte] un livre au client qui le lira .",
+        "output": "Il s' agirait bien de la même situation que si le facteur devait payer des droits d' auteur lorsqu' [il | subject] apporte un [livre | object] au client qui le lira ."
+    },
+    {
+        "input": "Il s' agirait bien de la même situation que si le facteur devait payer des droits d' auteur lorsqu' il apporte un livre au client qui le [lira] .",
+        "output": "Il s' agirait bien de la même situation que si le facteur devait payer des droits d' auteur lorsqu' il apporte un livre au client [qui | subject] [le | object] lira ."
+    },
+    {
+        "input": "L' élimination [suit] un processus de premier ordre avec une demi-vie terminale de 25 ± 12 minutes chez les patients à fonction rénale normale .",
+        "output": "L' [élimination | subject] suit un [processus | object] de premier ordre avec une demi-vie terminale de 25 ± 12 minutes chez les patients à fonction rénale normale ."
+    },
+    {
+        "input": "Aux législatives de 2002 , le scrutin uninominal majoritaire à deux tours ne [permettait] que des mesures incitatives , à savoir des pénalités financières portant sur l' aide publique de l' Etat aux partis politiques .",
+        "output": "Aux législatives de 2002 , le [scrutin | subject] uninominal majoritaire à deux tours ne permettait que des [mesures | object] incitatives , à savoir des pénalités financières portant sur l' aide publique de l' Etat aux partis politiques ."
+    },
+    {
+        "input": "L' un des volets de ce dossier [concerne] les voyages payés en espèces par Jacques Chirac ( Affaire des billets d' avion de Jacques Chirac ) .",
+        "output": "L' [un | subject] des volets de ce dossier concerne les [voyages | object] payés en espèces par Jacques Chirac ( Affaire des billets d' avion de Jacques Chirac ) ."
+    },
+    {
+        "input": "M. Rivasseau a [réaffirmé] l' \" exigence absolue du respect des droits de l' Homme \" pour Paris alors que des témoignages de réfugiés font état d' exactions , viols , et pillages par des éléments semble -t-il libériens .",
+        "output": "[M. | subject] Rivasseau a réaffirmé l' \" [exigence | object] absolue du respect des droits de l' Homme \" pour Paris alors que des témoignages de réfugiés font état d' exactions , viols , et pillages par des éléments semble -t-il libériens ."
+    },
+    {
+        "input": "M. Rivasseau a réaffirmé l' \" exigence absolue du respect des droits de l' Homme \" pour Paris alors que des témoignages de réfugiés [font] état d' exactions , viols , et pillages par des éléments semble -t-il libériens .",
+        "output": "M. Rivasseau a réaffirmé l' \" exigence absolue du respect des droits de l' Homme \" pour Paris alors que des [témoignages | subject] de réfugiés font [état | object] d' exactions , viols , et pillages par des éléments semble -t-il libériens ."
+    },
+    {
+        "input": "Dans l' étude RFT , la majorité des patients a [reçu] une dose de charge en vitamine D avant l' administration d' Aclasta bien que le taux de vitamine D n' ait pas été mesuré de façon systématique ( voir rubrique 4.2 ) .",
+        "output": "Dans l' étude RFT , la [majorité | subject] des patients a reçu une [dose | object] de charge en vitamine D avant l' administration d' Aclasta bien que le taux de vitamine D n' ait pas été mesuré de façon systématique ( voir rubrique 4.2 ) ."
+    },
+    {
+        "input": "Je me [réjouis] de la concentration proposée sur la promotion de nouveaux moyens de lutte contre la discrimination et toute autre forme d' inégalité au sein du marché de l' emploi .",
+        "output": "[Je | subject] me réjouis de la concentration proposée sur la promotion de nouveaux moyens de lutte contre la discrimination et toute autre forme d' inégalité au sein du marché de l' emploi ."
+    },
+    {
+        "input": "Afin de diminuer le risque de faibles valeurs d' ACT , le produit reconstitué et dilué [doit] être bien mélangé puis doit être administré en bolus par poussée intraveineuse rapide .",
+        "output": "Afin de diminuer le risque de faibles valeurs d' ACT , le [produit | subject] reconstitué et dilué doit être bien mélangé puis doit être administré en bolus par poussée intraveineuse rapide ."
+    },
+    {
+        "input": "- Cette procédure [risque] de conduire l' État français à payer une amende d' un montant évalué en l' état de l' enquête à 599 millions de dollars ( près de 500 millions d' euros ) .",
+        "output": "- Cette [procédure | subject] risque de conduire l' État français à payer une amende d' un montant évalué en l' état de l' enquête à 599 millions de dollars ( près de 500 millions d' euros ) ."
+    },
+    {
+        "input": "Après avoir exploré le volet parisien de ce dossier ( affaire des HLM de Paris ) , le magistrat du tribunal de Créteil s' [intéresse] à ses ramifications dans les Hauts-de-Seine .",
+        "output": "Après avoir exploré le volet parisien de ce dossier ( affaire des HLM de Paris ) , le [magistrat | subject] du tribunal de Créteil s' intéresse à ses ramifications dans les Hauts-de-Seine ."
+    },
+    {
+        "input": "C' est pourquoi nous [pensons] qu' il est utile d' insérer dans cette résolution la demande à l' adresse des États membres de favoriser l' annulation de la dette des pays du tiers-monde .",
+        "output": "C' est pourquoi [nous | subject] pensons qu' il est utile d' insérer dans cette résolution la demande à l' adresse des États membres de favoriser l' annulation de la dette des pays du tiers-monde ."
+    },
+    {
+        "input": "Mais , pour ce faire , il faut tenir compte du fait qu' il [existe] une corrélation entre le rendement issu de l' activité de pêche et l' augmentation de l' effort de pêche .",
+        "output": "Mais , pour ce faire , il faut tenir compte du fait qu' il existe une [corrélation | subject] entre le rendement issu de l' activité de pêche et l' augmentation de l' effort de pêche ."
+    },
+    {
+        "input": "Selon la ligne directrice CHMP sur les Systèmes de Gestion des risques pour les médicaments à usage humain , le PGR mis à jour [devra] être soumis en même temps que le PSUR .",
+        "output": "Selon la ligne directrice CHMP sur les Systèmes de Gestion des risques pour les médicaments à usage humain , le [PGR | subject] mis à jour devra être soumis en même temps que le PSUR ."
+    },
+    {
+        "input": "Les patients [doivent] être informés sur les symptômes caractérisant l' hypocalcémie et faire l' objet d' une surveillance clinique appropriée pendant la période à risque .",
+        "output": "Les [patients | subject] doivent être informés sur les symptômes caractérisant l' hypocalcémie et faire l' objet d' une surveillance clinique appropriée pendant la période à risque ."
+    },
+    {
+        "input": "Jacques Dominati a [menacé] à l' audience de produire une liste d' élus qui auraient eu recours à ces pratiques irrégulières , soutenant que la pratique était généralisée .",
+        "output": "[Jacques | subject] Dominati a menacé à l' audience de produire une liste d' élus qui auraient eu recours à ces pratiques irrégulières , soutenant que la pratique était généralisée ."
+    },
+    {
+        "input": "Je [termine] , Monsieur le Président , en disant que cela revient à dire que , sans écarter les produits d' assurances , nous devons favoriser les produits couvrant les risques biométriques .",
+        "output": "[Je | subject] termine , Monsieur le Président , en disant que cela revient à dire que , sans écarter les produits d' assurances , nous devons favoriser les produits couvrant les risques biométriques ."
+    },
+    {
+        "input": "Je termine , Monsieur le Président , en disant que cela [revient] à dire que , sans écarter les produits d' assurances , nous devons favoriser les produits couvrant les risques biométriques .",
+        "output": "Je termine , Monsieur le Président , en disant que [cela | subject] revient à dire que , sans écarter les produits d' assurances , nous devons favoriser les produits couvrant les risques biométriques ."
+    },
+    {
+        "input": "Je termine , Monsieur le Président , en disant que cela revient à dire que , sans écarter les produits d' assurances , nous [devons] favoriser les produits couvrant les risques biométriques .",
+        "output": "Je termine , Monsieur le Président , en disant que cela revient à dire que , sans écarter les produits d' assurances , [nous | subject] devons favoriser les produits couvrant les risques biométriques ."
+    },
+    {
+        "input": "Convaincue de l' existence de rétrocommissions , Thales [pourrait] demander que les millions de dollars saisies sur les comptes suisses d' Andrew Wang soient séquestrés .",
+        "output": "Convaincue de l' existence de rétrocommissions , [Thales | subject] pourrait demander que les millions de dollars saisies sur les comptes suisses d' Andrew Wang soient séquestrés ."
+    },
+    {
+        "input": "Et c' est précisément l' acceptation de ce principe qui l' a conduite aux succès dont nous [pouvons] faire état , comme nous le faisons tous assurément de temps à autre .",
+        "output": "Et c' est précisément l' acceptation de ce principe qui l' a conduite aux succès dont [nous | subject] pouvons faire état , comme nous le faisons tous assurément de temps à autre ."
+    },
+    {
+        "input": "C' est donc toute la vie industrielle du bassin de Saint-Dizier , sans oublier les papeteries de Jeand'Heurs , les carrières de Savonnières , que les visiteurs du lavoir [pourront] découvrir .",
+        "output": "C' est donc toute la vie industrielle du bassin de Saint-Dizier , sans oublier les papeteries de Jeand'Heurs , les carrières de Savonnières , que les [visiteurs | subject] du lavoir pourront découvrir ."
+    },
+    {
+        "input": "Ceci ne [doit] pas obligatoirement affecter les comptes de l' exercice , c'est-à-dire le deuxième acte , qui peuvent être clôturés même si le premier acte est refusé .",
+        "output": "[Ceci | subject] ne doit pas obligatoirement affecter les comptes de l' exercice , c'est-à-dire le deuxième acte , qui peuvent être clôturés même si le premier acte est refusé ."
+    },
+    {
+        "input": "Ceci ne doit pas obligatoirement affecter les comptes de l' exercice , c'est-à-dire le deuxième acte , qui [peuvent] être clôturés même si le premier acte est refusé .",
+        "output": "Ceci ne doit pas obligatoirement affecter les comptes de l' exercice , c'est-à-dire le deuxième acte , [qui | subject] peuvent être clôturés même si le premier acte est refusé ."
+    },
+    {
+        "input": "Il [explique] comment le comité des médicaments à usage humain ( CHMP ) a évalué les études réalisées afin d' aboutir à ses recommandations relatives aux conditions d' utilisation du médicament .",
+        "output": "[Il | subject] explique comment le comité des médicaments à usage humain ( CHMP ) a évalué les études réalisées afin d' aboutir à ses recommandations relatives aux conditions d' utilisation du médicament ."
+    },
+    {
+        "input": "La note [ajoutait] que , \" au cours du voyage d' octobre 1990 à Pékin , une réponse positive avait été obtenue des responsables chinois rencontrés dans le contexte difficile d' après Tiananmen \" .",
+        "output": "La [note | subject] ajoutait que , \" au cours du voyage d' octobre 1990 à Pékin , une réponse positive avait été obtenue des responsables chinois rencontrés dans le contexte difficile d' après Tiananmen \" ."
+    },
+    {
+        "input": "À cause des difficultés naturelles concernant l' endroit où se [déroulent] les rencontres de l' Euro 2000 , le groupe PPE-DE a décidé en bloc de ne pas soutenir cette résolution et de la retirer .",
+        "output": "À cause des difficultés naturelles concernant l' endroit où se déroulent les [rencontres | subject] de l' Euro 2000 , le groupe PPE-DE a décidé en bloc de ne pas soutenir cette résolution et de la retirer ."
+    },
+    {
+        "input": "À cause des difficultés naturelles concernant l' endroit où se déroulent les rencontres de l' Euro 2000 , le groupe PPE-DE a [décidé] en bloc de ne pas soutenir cette résolution et de la retirer .",
+        "output": "À cause des difficultés naturelles concernant l' endroit où se déroulent les rencontres de l' Euro 2000 , le [groupe | subject] PPE-DE a décidé en bloc de ne pas soutenir cette résolution et de la retirer ."
+    },
+    {
+        "input": "en effet , avec la criminalité croissante , transnationale qui s' [exerce] au détriment du budget UE , la coopération entre les États membres n' est pas suffisante au niveau policier et judiciaire .",
+        "output": "en effet , avec la criminalité croissante , transnationale [qui | subject] s' exerce au détriment du budget UE , la coopération entre les États membres n' est pas suffisante au niveau policier et judiciaire ."
+    },
+    {
+        "input": "Cette demande a été rejetée et il [est] en prison parce qu' il a osé , il y a quelque temps , proposer la recherche d' une solution politique au problème kurde .",
+        "output": "Cette demande a été rejetée et [il | subject] est en prison parce qu' il a osé , il y a quelque temps , proposer la recherche d' une solution politique au problème kurde ."
+    },
+    {
+        "input": "Cette demande a été rejetée et il est en prison parce qu' il a [osé] , il y a quelque temps , proposer la recherche d' une solution politique au problème kurde .",
+        "output": "Cette demande a été rejetée et il est en prison parce qu' [il | subject] a osé , il y a quelque temps , proposer la recherche d' une solution politique au problème kurde ."
+    },
+    {
+        "input": "Je le remercie également pour la collaboration qui a [pu] s' établir entre les groupes , ce qui nous a permis d' aboutir à des compromis , qui sont , selon moi , responsables , adéquats et appropriés .",
+        "output": "Je le remercie également pour la collaboration [qui | subject] a pu s' établir entre les groupes , ce qui nous a permis d' aboutir à des compromis , qui sont , selon moi , responsables , adéquats et appropriés ."
+    },
+    {
+        "input": "Il se serait notamment [occupé] pour le compte de Thomson des \" affaires parisiennes \" de l' intermédiaire : appartement , loyers , relations avec le syndic ...",
+        "output": "[Il | subject] se serait notamment occupé pour le compte de Thomson des \" affaires parisiennes \" de l' intermédiaire : appartement , loyers , relations avec le syndic ..."
+    },
+    {
+        "input": "Peut-être a -t-elle eu le tort , la veille , de faire installer des poubelles fixes , synonymes , à priori , de propreté , ce qui a [eu] probablement pour effet d' inciter les gens à rester à domicile .",
+        "output": "Peut-être a -t-elle eu le tort , la veille , de faire installer des poubelles fixes , synonymes , à priori , de propreté , ce [qui | subject] a eu probablement pour effet d' inciter les gens à rester à domicile ."
+    },
+    {
+        "input": "Je ne [comprends] pas que les instances du pouvoir européen se taisent , laissent faire et , en travaillant avec les Russes comme si de rien n' était , cautionnent ce gouvernement qui fait cette guerre .",
+        "output": "[Je | subject] ne comprends pas que les instances du pouvoir européen se taisent , laissent faire et , en travaillant avec les Russes comme si de rien n' était , cautionnent ce gouvernement qui fait cette guerre ."
+    },
+    {
+        "input": "Je ne comprends pas que les instances du pouvoir européen se [taisent] , laissent faire et , en travaillant avec les Russes comme si de rien n' était , cautionnent ce gouvernement qui fait cette guerre .",
+        "output": "Je ne comprends pas que les [instances | subject] du pouvoir européen se taisent , laissent faire et , en travaillant avec les Russes comme si de rien n' était , cautionnent ce gouvernement qui fait cette guerre ."
+    },
+    {
+        "input": "Nous [croyons] que le droit au développement constitue une priorité mondiale et une condition essentielle pour que la politique en matière de droits de l' homme dans ces pays soit réellement praticable .",
+        "output": "[Nous | subject] croyons que le droit au développement constitue une priorité mondiale et une condition essentielle pour que la politique en matière de droits de l' homme dans ces pays soit réellement praticable ."
+    },
+    {
+        "input": "Les patients [doivent] être informés des symptômes d' une hypocalcémie et faire l' objet d' une surveillance clinique appropriée pendant la période à risque .",
+        "output": "Les [patients | subject] doivent être informés des symptômes d' une hypocalcémie et faire l' objet d' une surveillance clinique appropriée pendant la période à risque ."
+    },
+    {
+        "input": "\" Ce ne sera pas un cours magistral , mais plutôt un partage de connaissances \" , [souligne] Dominique Richard , responsable des animations dans le village .",
+        "output": "\" Ce ne sera pas un cours magistral , mais plutôt un partage de connaissances \" , souligne [Dominique | subject] Richard , responsable des animations dans le village ."
+    },
+    {
+        "input": "Nous approuvons le point 9 du rapport qui [considère] que la Commission doit suivre fidèlement les orientations budgétaires établies pour les projets RTE .",
+        "output": "Nous approuvons le point 9 du rapport [qui | subject] considère que la Commission doit suivre fidèlement les orientations budgétaires établies pour les projets RTE ."
+    },
+    {
+        "input": "Nous approuvons le point 9 du rapport qui considère que la Commission [doit] suivre fidèlement les orientations budgétaires établies pour les projets RTE .",
+        "output": "Nous approuvons le point 9 du rapport qui considère que la [Commission | subject] doit suivre fidèlement les orientations budgétaires établies pour les projets RTE ."
+    },
+    {
+        "input": "Thierry Imbot , fils de l' ancien directeur de la DGSE René Imbot , est [décédé] en octobre 2000 à Paris en chutant du quatrième étage de son appartement .",
+        "output": "[Thierry | subject] Imbot , fils de l' ancien directeur de la DGSE René Imbot , est décédé en octobre 2000 à Paris en chutant du quatrième étage de son appartement ."
+    },
+    {
+        "input": "Dans tous les cas , lorsque la bivalirudine est associée à un inhibiteur plaquettaire ou à un anticoagulant , les paramètres cliniques et biologiques de l' hémostase [doivent] être régulièrement surveillés .",
+        "output": "Dans tous les cas , lorsque la bivalirudine est associée à un inhibiteur plaquettaire ou à un anticoagulant , les [paramètres | subject] cliniques et biologiques de l' hémostase doivent être régulièrement surveillés ."
+    },
+    {
+        "input": "- Un bolus intraveineux de 0,75 mg / kg , suivi d' une perfusion ( solution en goutte à goutte ) de 1,75 mg / kg / heure ( la perfusion [peut] être poursuivie pendant une période allant jusqu' à 4 heures ) .",
+        "output": "- Un bolus intraveineux de 0,75 mg / kg , suivi d' une perfusion ( solution en goutte à goutte ) de 1,75 mg / kg / heure ( la [perfusion | subject] peut être poursuivie pendant une période allant jusqu' à 4 heures ) ."
+    },
+    {
+        "input": "La première étude a [porté] sur près de 8 000 femmes âgées souffrant d' ostéoporose et a tenu compte du nombre de fractures de la colonne vertébrale et de la hanche intervenues sur une période de trois ans .",
+        "output": "La première [étude | subject] a porté sur près de 8 000 femmes âgées souffrant d' ostéoporose et a tenu compte du nombre de fractures de la colonne vertébrale et de la hanche intervenues sur une période de trois ans ."
+    },
+    {
+        "input": "La proposition de résolution , qui [insiste] , entre autres , pour que le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction .",
+        "output": "La proposition de résolution , [qui | subject] insiste , entre autres , pour que le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction ."
+    },
+    {
+        "input": "Si des signes manifestes nous permettent de conclure à une fraude majeure et si Mugabe [reste] illégalement au pouvoir , l' aide prévue en vertu des dispositions de la convention de Lomé doit être supprimée .",
+        "output": "Si des signes manifestes nous permettent de conclure à une fraude majeure et si [Mugabe | subject] reste illégalement au pouvoir , l' aide prévue en vertu des dispositions de la convention de Lomé doit être supprimée ."
+    },
+    {
+        "input": "Si des signes manifestes nous permettent de conclure à une fraude majeure et si Mugabe reste illégalement au pouvoir , l' aide prévue en vertu des dispositions de la convention de Lomé [doit] être supprimée .",
+        "output": "Si des signes manifestes nous permettent de conclure à une fraude majeure et si Mugabe reste illégalement au pouvoir , l' [aide | subject] prévue en vertu des dispositions de la convention de Lomé doit être supprimée ."
+    },
+    {
+        "input": "L' argent [pourrait] alors servir au règlement du litige civil avec Taïwan qui exige que la France rembourse les commissions occultes que le contrat signé en 1991 interdisait formellement par son article 18 .",
+        "output": "L' [argent | subject] pourrait alors servir au règlement du litige civil avec Taïwan qui exige que la France rembourse les commissions occultes que le contrat signé en 1991 interdisait formellement par son article 18 ."
+    },
+    {
+        "input": "L' argent pourrait alors servir au règlement du litige civil avec Taïwan qui [exige] que la France rembourse les commissions occultes que le contrat signé en 1991 interdisait formellement par son article 18 .",
+        "output": "L' argent pourrait alors servir au règlement du litige civil avec Taïwan [qui | subject] exige que la France rembourse les commissions occultes que le contrat signé en 1991 interdisait formellement par son article 18 ."
+    },
+    {
+        "input": "En conclusion , je [voudrais] rappeler que , d' une manière ou d' une autre , les retraités doivent aussi être concernés par cette recherche spatiale .",
+        "output": "En conclusion , [je | subject] voudrais rappeler que , d' une manière ou d' une autre , les retraités doivent aussi être concernés par cette recherche spatiale ."
+    },
+    {
+        "input": "En conclusion , je voudrais rappeler que , d' une manière ou d' une autre , les retraités [doivent] aussi être concernés par cette recherche spatiale .",
+        "output": "En conclusion , je voudrais rappeler que , d' une manière ou d' une autre , les [retraités | subject] doivent aussi être concernés par cette recherche spatiale ."
+    },
+    {
+        "input": "Elle n' est pas la seule : d' autres chefs d' entreprise [semblent] , eux aussi , avoir dû verser leur écot sous peine de ne pas empocher de contrats .",
+        "output": "Elle n' est pas la seule : d' autres [chefs | subject] d' entreprise semblent , eux aussi , avoir dû verser leur écot sous peine de ne pas empocher de contrats ."
+    },
+    {
+        "input": "La majorité des effets indésirables , tels que fièvre et frissons , douleurs dans les muscles ou articulations et maux de tête , [surviennent] lors des trois premiers jours suivant l' administration d' Aclasta .",
+        "output": "La [majorité | subject] des effets indésirables , tels que fièvre et frissons , douleurs dans les muscles ou articulations et maux de tête , surviennent lors des trois premiers jours suivant l' administration d' Aclasta ."
+    },
+    {
+        "input": "Le programme \" pétrole contre nourriture \" , [dit] cette délégation , ne suffit absolument pas à subvenir aux besoins physiques urgents des Irakiens .",
+        "output": "Le programme \" pétrole contre nourriture \" , dit cette [délégation | subject] , ne suffit absolument pas à subvenir aux besoins physiques urgents des Irakiens ."
+    },
+    {
+        "input": "Le programme \" pétrole contre nourriture \" , dit cette délégation , ne [suffit] absolument pas à subvenir aux besoins physiques urgents des Irakiens .",
+        "output": "Le [programme | subject] \" pétrole contre nourriture \" , dit cette délégation , ne suffit absolument pas à subvenir aux besoins physiques urgents des Irakiens ."
+    },
+    {
+        "input": "L' ostéoporose est une maladie qui [apparaît] lorsque la croissance d' os nouveau est insuffisante pour remplacer l' os qui se résorbe naturellement .",
+        "output": "L' ostéoporose est une maladie [qui | subject] apparaît lorsque la croissance d' os nouveau est insuffisante pour remplacer l' os qui se résorbe naturellement ."
+    },
+    {
+        "input": "Je le remercie également pour la collaboration qui a pu s' établir entre les groupes , ce qui nous a [permis] d' aboutir à des compromis , qui sont , selon moi , responsables , adéquats et appropriés .",
+        "output": "Je le remercie également pour la collaboration qui a pu s' établir entre les groupes , ce [qui | subject] [nous | indirect_object] a permis d' aboutir à des compromis , qui sont , selon moi , responsables , adéquats et appropriés ."
+    },
+    {
+        "input": "Si des signes manifestes nous [permettent] de conclure à une fraude majeure et si Mugabe reste illégalement au pouvoir , l' aide prévue en vertu des dispositions de la convention de Lomé doit être supprimée .",
+        "output": "Si des [signes | subject] manifestes [nous | indirect_object] permettent de conclure à une fraude majeure et si Mugabe reste illégalement au pouvoir , l' aide prévue en vertu des dispositions de la convention de Lomé doit être supprimée ."
+    },
+    {
+        "input": "Madame la Présidente , j' interviendrai contre , en effet , pour une raison de principe qui me [paraît] tout à fait essentielle et qui a trait au respect des Traités , et notamment de l' article 7 du traité d' Amsterdam .",
+        "output": "Madame la Présidente , j' interviendrai contre , en effet , pour une raison de principe [qui | subject] [me | indirect_object] paraît tout à fait essentielle et qui a trait au respect des Traités , et notamment de l' article 7 du traité d' Amsterdam ."
+    },
+    {
+        "input": "Il y a un problème général de sécurité , dont je sais que le Haut Représentant s' [occupe] comme il le faut .",
+        "output": "Il y a un problème général de sécurité , [dont | indirect_object] je sais que le Haut [Représentant | subject] s' occupe comme il le faut ."
+    },
+    {
+        "input": "En revanche , les propos du député d' Euskal Herritarrok me [semblent] indécents .",
+        "output": "En revanche , les [propos | subject] du député d' Euskal Herritarrok [me | indirect_object] semblent indécents ."
+    },
+    {
+        "input": "Nul ne sait où la piste [conduisait] ensuite .",
+        "output": "Nul ne sait [où | indirect_object] la [piste | subject] conduisait ensuite ."
+    },
+    {
+        "input": "Si vous me [demandez] cette liste , je vais être obligé de la fournir \" .",
+        "output": "Si [vous | subject] [me | indirect_object] demandez cette [liste | object] , je vais être obligé de la fournir \" ."
+    },
+    {
+        "input": "Quant au premier point , j' espère vivement que nous pourrons résoudre ces questions à l' amiable , et je suis sûr , Messieurs les Députés , que si vous soumettez tous deux la question que vous m' avez [posée] avec autant de vigueur à vos cousins germains du gouvernement du Royaume-Uni , cela facilitera beaucoup la résolution de ces problèmes , sans que cela prenne trop de temps .",
+        "output": "Quant au premier point , j' espère vivement que nous pourrons résoudre ces questions à l' amiable , et je suis sûr , Messieurs les Députés , que si vous soumettez tous deux la question [que | object] [vous | subject] [m' | indirect_object] avez posée avec autant de vigueur à vos cousins germains du gouvernement du Royaume-Uni , cela facilitera beaucoup la résolution de ces problèmes , sans que cela prenne trop de temps ."
+    }
+]

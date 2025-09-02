@@ -1,0 +1,18 @@
+[
+    {
+        "input": "Savarankiškas , nieko neribojamas valstybingumas [laikomas] absoliučia ir pirmąja vertybe , nepalyginti svarbesne už demokratiją , žmogiškumą ar sveiką protą .",
+        "output": "Savarankiškas , nieko neribojamas [valstybingumas | subject] laikomas absoliučia ir pirmąja [vertybe | indirect_object] , nepalyginti svarbesne už demokratiją , žmogiškumą ar sveiką protą ."
+    },
+    {
+        "input": "Šių dienų valstybės remia savo teisę egzistuoti ne protėvių žygdarbiais ir kančiomis , o tuo , kaip [funkcionuoja] jų ekonomika , teisė , administracija , savivalda .",
+        "output": "Šių dienų valstybės remia savo teisę egzistuoti ne protėvių žygdarbiais ir kančiomis , o tuo , kaip funkcionuoja jų [ekonomika | subject] , teisė , administracija , savivalda ."
+    },
+    {
+        "input": "Komedijos centre – sodietis Strepsiadas , šalia kurio namų [įsirengė] „ mąstyklą “ filosofas Sokratas ( tada jis dar buvo gyvas ir greičiausiai matė spektaklį ) .",
+        "output": "Komedijos centre – sodietis Strepsiadas , šalia kurio namų įsirengė „ [mąstyklą | object] “ filosofas [Sokratas | subject] ( tada jis dar buvo gyvas ir greičiausiai matė spektaklį ) ."
+    },
+    {
+        "input": "Mes irgi dažnai netikime , kad Lietuva gali išlikti laisvės sąlygomis , neturėdama ir pati [nesikurdama] sau priešų .",
+        "output": "Mes irgi dažnai netikime , kad Lietuva gali išlikti laisvės sąlygomis , neturėdama ir [pati | subject] nesikurdama [sau | indirect_object] [priešų | object] ."
+    }
+]

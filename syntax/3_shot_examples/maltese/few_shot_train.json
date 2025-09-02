@@ -1,0 +1,50 @@
+[
+    {
+        "input": "Sonia Camilleri kienet [qalet] ukoll li l- problema l- oħra li fixklitha milli twettaq xogħolha bl- aħjar mod possibbli kienet in- nuqqas ta' riżorsi li sabet biex taħdem bihom .",
+        "output": "[Sonia | subject] Camilleri kienet qalet ukoll li l- problema l- oħra li fixklitha milli twettaq xogħolha bl- aħjar mod possibbli kienet in- nuqqas ta' riżorsi li sabet biex taħdem bihom ."
+    },
+    {
+        "input": "Fi Fjuri ta' l- Arzell , in- narratur [jistagħġeb] bir- ritratt antik taz- zija Sor Mansweta li ta' anqas minn erbatax-il sena \" donnha ġa kienet ħasbet għas- santa tal- mewt \" .",
+        "output": "Fi Fjuri ta' l- Arzell , in- [narratur | subject] jistagħġeb bir- ritratt antik taz- zija Sor Mansweta li ta' anqas minn erbatax-il sena \" donnha ġa kienet ħasbet għas- santa tal- mewt \" ."
+    },
+    {
+        "input": "IL- PARTIT NAZZJONALISTA [ddeċieda] li l- Professur Guido de Marco għandu jinħatar President tar- Repubblika meta nhar Ħadd il- Għid , Dr Ugo Mifsud Bonnici jispiċċa mill- ħatra .",
+        "output": "IL- [PARTIT | subject] NAZZJONALISTA ddeċieda li l- Professur Guido de Marco għandu jinħatar President tar- Repubblika meta nhar Ħadd il- Għid , Dr Ugo Mifsud Bonnici jispiċċa mill- ħatra ."
+    },
+    {
+        "input": "Kważigrupp [għandu] l- proprjetà li kull element jista' jinbidel f' kull ieħor bi pre- jew post- operazzjoni unika ; imma l- operazzjoni binarja jista' jkun li mhux assoċjattiva .",
+        "output": "[Kważigrupp | subject] għandu l- [proprjetà | object] li kull element jista' jinbidel f' kull ieħor bi pre- jew post- operazzjoni unika ; imma l- operazzjoni binarja jista' jkun li mhux assoċjattiva ."
+    },
+    {
+        "input": "Fl- 1933 l- astronomu Fritz Zwicky kien qiegħed [jistudja] l- mixi tal- ġemgħat ta' galassji tal- bogħod u ta' massa kbira , fil- każ partikolari tal- ġabra ta' Coma u ta' Virgo .",
+        "output": "Fl- 1933 l- astronomu [Fritz | subject] Zwicky kien qiegħed jistudja l- [mixi | object] tal- ġemgħat ta' galassji tal- bogħod u ta' massa kbira , fil- każ partikolari tal- ġabra ta' Coma u ta' Virgo ."
+    },
+    {
+        "input": "Hija [għandha] ċertifikat fl- immaniġġjar tax- xogħol fil- qasam soċjali mill- Università ta' Malta kif ukoll diploma fl- għajnuna soċjali minn istituzzjoni għolja fl- Italja .",
+        "output": "[Hija | subject] għandha [ċertifikat | object] fl- immaniġġjar tax- xogħol fil- qasam soċjali mill- Università ta' Malta kif ukoll diploma fl- għajnuna soċjali minn istituzzjoni għolja fl- Italja ."
+    },
+    {
+        "input": "Ix- xhud qal li huwa [qal] lil Mallia li kien se jkellem lil ħutu dwar dan u fil- fatt dawn qablu li seta jmexxi bl- arranġament ma' Mallia fejn il- ħlas kien se jkun ta' 12 ċ kull tunellata kull xahar fuq il- ħażna tat- Total .",
+        "output": "Ix- xhud qal li [huwa | subject] qal lil [Mallia | indirect_object] li kien se jkellem lil ħutu dwar dan u fil- fatt dawn qablu li seta jmexxi bl- arranġament ma' Mallia fejn il- ħlas kien se jkun ta' 12 ċ kull tunellata kull xahar fuq il- ħażna tat- Total ."
+    },
+    {
+        "input": "Se nissospendi l- laqgħa għal ftit minuti sakemm [isiru] l- kopji tal- kuntratt u tal- emenda lill- Membri tal- Kumitat .",
+        "output": "Se nissospendi l- laqgħa għal ftit minuti sakemm isiru l- [kopji | subject] tal- kuntratt u tal- emenda lill- [Membri | indirect_object] tal- Kumitat ."
+    },
+    {
+        "input": "Jeħtieġ li ma jitħallewx f' post li fih kurrent ta' arja għax dan [jagħmel] ħażin lil dawn il- pjanti .",
+        "output": "Jeħtieġ li ma jitħallewx f' post li fih kurrent ta' arja għax [dan | subject] jagħmel ħażin lil dawn il- [pjanti | indirect_object] ."
+    },
+    {
+        "input": "Ix- xhud qal li huwa [offra] lil Sammut nofs il- \" commission \" , li kienet ekwivalenti għal 50 ċ ta' Dollaru Amerikan fuq kull tunellata , u nforma lil ħutu dwar dan .",
+        "output": "Ix- xhud qal li [huwa | subject] offra lil [Sammut | indirect_object] [nofs | object] il- \" commission \" , li kienet ekwivalenti għal 50 ċ ta' Dollaru Amerikan fuq kull tunellata , u nforma lil ħutu dwar dan ."
+    },
+    {
+        "input": "Aħna konna [rriferejna] l- materja lill- Ministeru għall- Finanzi u l- Ministeru għall- Finanzi qed jgħidilna li ħa nota u se jagħmel l- analiżi tiegħu .",
+        "output": "[Aħna | subject] konna rriferejna l- [materja | object] lill- [Ministeru | indirect_object] għall- Finanzi u l- Ministeru għall- Finanzi qed jgħidilna li ħa nota u se jagħmel l- analiżi tiegħu ."
+    },
+    {
+        "input": "Issa hu fatt magħruf u fid- dominju pubbliku fl- 2014 il- GWU [kriet] parti mill- bini tagħha fil- Belt Valletta , l- istess bini li hu milqut bil- kondizzjoni msemmija fil- kuntratt pubbliku ta' Diċembru 1997 , lil ARMS Ltd .",
+        "output": "Issa hu fatt magħruf u fid- dominju pubbliku fl- 2014 il- [GWU | subject] kriet [parti | object] mill- bini tagħha fil- Belt Valletta , l- istess bini li hu milqut bil- kondizzjoni msemmija fil- kuntratt pubbliku ta' Diċembru 1997 , lil [ARMS | indirect_object] Ltd ."
+    }
+]

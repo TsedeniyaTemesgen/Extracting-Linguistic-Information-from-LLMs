@@ -1,0 +1,18 @@
+[
+    {
+        "input": "Sonia Camilleri kienet [qalet] ukoll li l- problema l- oħra li fixklitha milli twettaq xogħolha bl- aħjar mod possibbli kienet in- nuqqas ta' riżorsi li sabet biex taħdem bihom .",
+        "output": "[Sonia | subject] Camilleri kienet qalet ukoll li l- problema l- oħra li fixklitha milli twettaq xogħolha bl- aħjar mod possibbli kienet in- nuqqas ta' riżorsi li sabet biex taħdem bihom ."
+    },
+    {
+        "input": "Kważigrupp [għandu] l- proprjetà li kull element jista' jinbidel f' kull ieħor bi pre- jew post- operazzjoni unika ; imma l- operazzjoni binarja jista' jkun li mhux assoċjattiva .",
+        "output": "[Kważigrupp | subject] għandu l- [proprjetà | object] li kull element jista' jinbidel f' kull ieħor bi pre- jew post- operazzjoni unika ; imma l- operazzjoni binarja jista' jkun li mhux assoċjattiva ."
+    },
+    {
+        "input": "Ix- xhud qal li huwa [qal] lil Mallia li kien se jkellem lil ħutu dwar dan u fil- fatt dawn qablu li seta jmexxi bl- arranġament ma' Mallia fejn il- ħlas kien se jkun ta' 12 ċ kull tunellata kull xahar fuq il- ħażna tat- Total .",
+        "output": "Ix- xhud qal li [huwa | subject] qal lil [Mallia | indirect_object] li kien se jkellem lil ħutu dwar dan u fil- fatt dawn qablu li seta jmexxi bl- arranġament ma' Mallia fejn il- ħlas kien se jkun ta' 12 ċ kull tunellata kull xahar fuq il- ħażna tat- Total ."
+    },
+    {
+        "input": "Ix- xhud qal li huwa [offra] lil Sammut nofs il- \" commission \" , li kienet ekwivalenti għal 50 ċ ta' Dollaru Amerikan fuq kull tunellata , u nforma lil ħutu dwar dan .",
+        "output": "Ix- xhud qal li [huwa | subject] offra lil [Sammut | indirect_object] [nofs | object] il- \" commission \" , li kienet ekwivalenti għal 50 ċ ta' Dollaru Amerikan fuq kull tunellata , u nforma lil ħutu dwar dan ."
+    }
+]

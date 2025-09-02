@@ -1,0 +1,119 @@
+[
+    {
+        "lemma": "combiner",
+        "surface_word": "décombiner",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "dé-",
+        "prefix": "dé-",
+        "suffix": [],
+        "alternative_0": "dé<PREF> combiner<V>",
+        "sub_words": "dé<PREF> combiner<V>"
+    },
+    {
+        "lemma": "ferraille",
+        "surface_word": "ferrailler",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-er",
+        "prefix": [],
+        "suffix": "-er",
+        "alternative_0": "ferraille<N> er<V_SUFF>",
+        "alternative_1": "fer<N> aille<N_SUFF> er<V_SUFF>",
+        "sub_words": "fer<N> aille<N_SUFF> er<V_SUFF>"
+    },
+    {
+        "lemma": "numéroter",
+        "surface_word": "renuméroter",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "re-",
+        "prefix": "re-",
+        "suffix": [],
+        "alternative_0": "re<PREF> numéroter<V>",
+        "alternative_1": "re<PREF> numéro<N> er<V_SUFF>",
+        "sub_words": "re<PREF> numéro<N> er<V_SUFF>"
+    },
+    {
+        "lemma": "fluide",
+        "surface_word": "fluidifier",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "V",
+        "affix": "-ifier",
+        "prefix": [],
+        "suffix": "-ifier",
+        "alternative_0": "fluide<ADJ> ifier<V_SUFF>",
+        "sub_words": "fluide<ADJ> ifier<V_SUFF>"
+    },
+    {
+        "lemma": "pigeon",
+        "surface_word": "pigeonner",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "-er",
+        "prefix": [],
+        "suffix": "-er",
+        "alternative_0": "pigeon<N> er<V_SUFF>",
+        "sub_words": "pigeon<N> er<V_SUFF>"
+    },
+    {
+        "lemma": "fertiliser",
+        "surface_word": "défertiliser",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "dé-",
+        "prefix": "dé-",
+        "suffix": [],
+        "alternative_0": "dé<PREF> fertiliser<V>",
+        "alternative_1": "dé<PREF> fertile<ADJ> iser<V_SUFF>",
+        "sub_words": "dé<PREF> fertile<ADJ> iser<V_SUFF>"
+    },
+    {
+        "lemma": "surfacer",
+        "surface_word": "resurfacer",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "re-",
+        "prefix": "re-",
+        "suffix": [],
+        "alternative_0": "re<PREF> surfacer<V>",
+        "alternative_1": "re<PREF> sur<PREF> face<N> er<V_SUFF>",
+        "alternative_2": "re<PREF> surface<N> er<V_SUFF>",
+        "sub_words": "re<PREF> sur<PREF> face<N> er<V_SUFF>"
+    },
+    {
+        "lemma": "licou",
+        "surface_word": "se délicoter",
+        "lemma_pos": "N",
+        "surface_word_tag": "V",
+        "affix": "dé-",
+        "prefix": "dé-",
+        "suffix": [],
+        "alternative_0": "dé<PREF> licou<N>",
+        "sub_words": "dé<PREF> licou<N>"
+    },
+    {
+        "lemma": "convenir",
+        "surface_word": "reconvenir",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "re-",
+        "prefix": "re-",
+        "suffix": [],
+        "alternative_0": "re<PREF> convenir<V>",
+        "alternative_1": "re<PREF> con<PREF> venir<V>",
+        "sub_words": "re<PREF> con<PREF> venir<V>"
+    },
+    {
+        "lemma": "assainir",
+        "surface_word": "rassainir",
+        "lemma_pos": "V",
+        "surface_word_tag": "V",
+        "affix": "re-",
+        "prefix": "re-",
+        "suffix": [],
+        "alternative_0": "re<PREF> assainir<V>",
+        "alternative_1": "re<PREF> a<PREF> sain<ADJ>",
+        "sub_words": "re<PREF> a<PREF> sain<ADJ>"
+    }
+]

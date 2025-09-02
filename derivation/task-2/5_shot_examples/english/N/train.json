@@ -1,0 +1,60 @@
+[
+    {
+        "lemma": "governate",
+        "surface_word": "subgovernate",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "sub-",
+        "prefix": "sub-",
+        "suffix": [],
+        "alternative_0": "sub<PREF> governate<N>",
+        "alternative_1": "sub<PREF> govern<V> ate<N_SUFF>",
+        "sub_words": "sub<PREF> govern<V> ate<N_SUFF>"
+    },
+    {
+        "lemma": "mosque",
+        "surface_word": "mosqueing",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "-ing",
+        "prefix": [],
+        "suffix": "-ing",
+        "alternative_0": "mosque<N> ing<N_SUFF>",
+        "sub_words": "mosque<N> ing<N_SUFF>"
+    },
+    {
+        "lemma": "contrastive",
+        "surface_word": "contrastivist",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "N",
+        "affix": "-ist",
+        "prefix": [],
+        "suffix": "-ist",
+        "alternative_0": "contrastive<ADJ> ist<N_SUFF>",
+        "alternative_1": "contrast<N> ive<ADJ_SUFF> ist<N_SUFF>",
+        "sub_words": "contrast<N> ive<ADJ_SUFF> ist<N_SUFF>"
+    },
+    {
+        "lemma": "radian",
+        "surface_word": "hectoradian",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "hecto-",
+        "prefix": "hecto-",
+        "suffix": [],
+        "alternative_0": "hecto<PREF> radian<N>",
+        "alternative_1": "hecto<PREF> radius<N> an<N_SUFF>",
+        "sub_words": "hecto<PREF> radius<N> an<N_SUFF>"
+    },
+    {
+        "lemma": "aniline",
+        "surface_word": "methoxyaniline",
+        "lemma_pos": "N",
+        "surface_word_tag": "N",
+        "affix": "methoxy-",
+        "prefix": "methoxy-",
+        "suffix": [],
+        "alternative_0": "methoxy<PREF> aniline<N>",
+        "sub_words": "methoxy<PREF> aniline<N>"
+    }
+]

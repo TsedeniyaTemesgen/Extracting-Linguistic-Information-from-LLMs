@@ -1,0 +1,82 @@
+[
+    {
+        "input": "Come se la lontananza da quel giorno , la presenza sulla stessa pista di Mike Marsh e Yuji Nakamura , [rammentasse] solo un brutto sogno dell' umanità .",
+        "output": "Come se la [lontananza | subject] da quel giorno , la presenza sulla stessa pista di Mike Marsh e Yuji Nakamura , rammentasse solo un brutto [sogno | object] dell' umanità ."
+    },
+    {
+        "input": "Probabilmente Vialli non ha [dimenticato] le voci sulla sua presunta vita allegra durante i Mondiali del 1990 , rivelate su Italia 1 da Maurizio Mosca .",
+        "output": "Probabilmente [Vialli | subject] non ha dimenticato le [voci | object] sulla sua presunta vita allegra durante i Mondiali del 1990 , rivelate su Italia 1 da Maurizio Mosca ."
+    },
+    {
+        "input": "in basso , il centro elettronico che [controlla] lo smistamento delle migliaia di cartelle cliniche che ogni giorno devono essere esaminate dai medici .",
+        "output": "in basso , il centro elettronico [che | subject] controlla lo [smistamento | object] delle migliaia di cartelle cliniche che ogni giorno devono essere esaminate dai medici ."
+    },
+    {
+        "input": "Per garantire una migliore sistemazione e sfruttamento dei terreni agricoli il codice ha [previsto] l' istituto dell' ingrossamento dei fondi agricoli .",
+        "output": "Per garantire una migliore sistemazione e sfruttamento dei terreni agricoli il [codice | subject] ha previsto l' [istituto | object] dell' ingrossamento dei fondi agricoli ."
+    },
+    {
+        "input": "La legge [assicura] ai figli nati fuori del matrimonio ogni tutela giuridica e sociale , compatibile con i diritti dei membri della famiglia legittima .",
+        "output": "La [legge | subject] assicura ai figli nati fuori del matrimonio ogni [tutela | object] giuridica e sociale , compatibile con i diritti dei membri della famiglia legittima ."
+    },
+    {
+        "input": "C' [è] sicuramente una maggioranza favorevole in Parlamento , però questa minoranza viscerale potrebbe cercare in qualche modo di fermare la riforma \" .",
+        "output": "C' è sicuramente una [maggioranza | subject] favorevole in Parlamento , però questa minoranza viscerale potrebbe cercare in qualche modo di fermare la riforma \" ."
+    },
+    {
+        "input": "C' è sicuramente una maggioranza favorevole in Parlamento , però questa minoranza viscerale potrebbe [cercare] in qualche modo di fermare la riforma \" .",
+        "output": "C' è sicuramente una maggioranza favorevole in Parlamento , però questa [minoranza | subject] viscerale potrebbe cercare in qualche modo di fermare la riforma \" ."
+    },
+    {
+        "input": "Un uomo politico che , come un antico romano , si [suicida] per non arrendersi a un militare golpista , è meno rispettabile di un Presidente ammazzato ?",
+        "output": "Un uomo politico [che | subject] , come un antico romano , si suicida per non arrendersi a un militare golpista , è meno rispettabile di un Presidente ammazzato ?"
+    },
+    {
+        "input": "Il proprietario può [agire] per far dichiarare l' inesistenza di diritti affermati da altri sulla cosa , quando ha motivo di temerne pregiudizio ( 1 ) .",
+        "output": "Il [proprietario | subject] può agire per far dichiarare l' inesistenza di diritti affermati da altri sulla cosa , quando ha motivo di temerne pregiudizio ( 1 ) ."
+    },
+    {
+        "input": "Broglio [procedette] con la campagna di ricerca \" Nube di Sodio \" nella quale vennero impiegati i vettori statunitensi Nike ottenendo diversi successi .",
+        "output": "[Broglio | subject] procedette con la campagna di ricerca \" Nube di Sodio \" nella quale vennero impiegati i vettori statunitensi Nike ottenendo diversi successi ."
+    },
+    {
+        "input": "\" Il ministro Susanna Agnelli ci ha [telefonato] di persona - dice Colombo - , ma dalla Farnesina la collaborazione all' inizio è stata scarsissima \" .",
+        "output": "\" Il [ministro | subject] Susanna Agnelli [ci | indirect_object] ha telefonato di persona - dice Colombo - , ma dalla Farnesina la collaborazione all' inizio è stata scarsissima \" ."
+    },
+    {
+        "input": "\" Fino a Palombella rossa i film di Nanni mi [sembravano] molto generosi di esibizionismo , di individualismo , ma soprattutto di precisione sociologica :",
+        "output": "\" Fino a Palombella rossa i [film | subject] di Nanni [mi | indirect_object] sembravano molto generosi di esibizionismo , di individualismo , ma soprattutto di precisione sociologica :"
+    },
+    {
+        "input": "Ed avrebbe voluto strapparsi gli occhi per non vedere quelli della Lupa , che quando gli si ficcavano nei suoi gli [facevano] perdere l' anima e il corpo .",
+        "output": "Ed avrebbe voluto strapparsi gli occhi per non vedere quelli della Lupa , [che | subject] quando gli si ficcavano nei suoi [gli | indirect_object] facevano perdere l' anima e il corpo ."
+    },
+    {
+        "input": "Per parare il colpo , Galeazzo scrisse una patetica lettera a Badoglio in cui elencò puntigliosamente quanto , a sua detta , gli aveva [lasciato] il padre :",
+        "output": "Per parare il colpo , Galeazzo scrisse una patetica lettera a Badoglio in cui elencò puntigliosamente quanto , a sua detta , [gli | indirect_object] aveva lasciato il [padre | subject] :"
+    },
+    {
+        "input": "L' altro ieri si è avuto un primo incontro tra le parti , che ufficialmente non si parlano da tempo , e oggi ce ne [sarà] probabilmente un secondo .",
+        "output": "L' altro ieri si è avuto un primo incontro tra le parti , che ufficialmente non si parlano da tempo , e oggi ce [ne | indirect_object] sarà probabilmente un [secondo | subject] ."
+    },
+    {
+        "input": "Sul fronte romanista , invece , la squadra di Mazzone si è [concessa] due giorni di riposo dopo le tre settimane di preparazione effettuate a Lavarone .",
+        "output": "Sul fronte romanista , invece , la [squadra | subject] di Mazzone [si | indirect_object] è concessa due [giorni | object] di riposo dopo le tre settimane di preparazione effettuate a Lavarone ."
+    },
+    {
+        "input": "Vinta dallo sconforto una donna ha tentato il suicidio dopo che , al telefono , il convivente le ha [annunciato] l' intenzione di troncare la relazione .",
+        "output": "Vinta dallo sconforto una donna ha tentato il suicidio dopo che , al telefono , il [convivente | subject] [le | indirect_object] ha annunciato l' [intenzione | object] di troncare la relazione ."
+    },
+    {
+        "input": "Se le Camere , ciascuna a maggioranza assoluta dei propri componenti , ne [dichiarano] l' urgenza , la legge è promulgata nel termine da essa stabilito .",
+        "output": "Se le [Camere | subject] , ciascuna a maggioranza assoluta dei propri componenti , [ne | indirect_object] dichiarano l' [urgenza | object] , la legge è promulgata nel termine da essa stabilito ."
+    },
+    {
+        "input": "Questo fu il primo libro che Balzac pubblicò sotto il suo nome , e questo fatto gli [diede] ciò che un critico chiamò \" accesso alla Terra promessa \" .",
+        "output": "Questo fu il primo libro che Balzac pubblicò sotto il suo nome , e questo [fatto | subject] [gli | indirect_object] diede [ciò | object] che un critico chiamò \" accesso alla Terra promessa \" ."
+    },
+    {
+        "input": "le due punte sono andate in gol e Ganz ne ha [sfiorato] un terzo , su lancio di Fresi , evitato da Gattuso sulla riga a portiere scartato e battuto .",
+        "output": "le due punte sono andate in gol e [Ganz | subject] [ne | indirect_object] ha sfiorato un [terzo | object] , su lancio di Fresi , evitato da Gattuso sulla riga a portiere scartato e battuto ."
+    }
+]

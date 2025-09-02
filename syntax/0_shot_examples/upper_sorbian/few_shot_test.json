@@ -1,0 +1,1026 @@
+[
+    {
+        "input": "Słowniki sanskrita , kotrež su zwjetša po korjenjach natwarjene , [wobsahuje] zwjetša zhubjenski schodźenk jako hesło .",
+        "output": "[Słowniki | subject] sanskrita , kotrež su zwjetša po korjenjach natwarjene , wobsahuje zwjetša zhubjenski [schodźenk | object] jako hesło ."
+    },
+    {
+        "input": "Dobywanska žadosć [namaka] swój wjeršk w dobywanju Egyptowskeje přez Aššur - ahhe - iddina ( 681 - 669 př . n . l . ) .",
+        "output": "Dobywanska [žadosć | subject] namaka swój [wjeršk | object] w dobywanju Egyptowskeje přez Aššur - ahhe - iddina ( 681 - 669 př . n . l . ) ."
+    },
+    {
+        "input": "To [zmóžni] narod literatury , kaž so tež na př . w Gilgamešowym eposu wotbłyšćowaše , kotryž je w cyłym region znaty był .",
+        "output": "[To | subject] zmóžni [narod | object] literatury , kaž so tež na př . w Gilgamešowym eposu wotbłyšćowaše , kotryž je w cyłym region znaty był ."
+    },
+    {
+        "input": "Něhdy kulojte bydlišća [přeměnjachu] so do róžkatych domow , kotrež nětko tež nad wjacorymi rumnosćemi disponowachu .",
+        "output": "Něhdy kulojte [bydlišća | subject] přeměnjachu so do róžkatych [domow | object] , kotrež nětko tež nad wjacorymi rumnosćemi disponowachu ."
+    },
+    {
+        "input": "Něhdy kulojte bydlišća přeměnjachu so do róžkatych domow , kotrež nětko tež nad wjacorymi rumnosćemi [disponowachu] .",
+        "output": "Něhdy kulojte bydlišća přeměnjachu so do róžkatych domow , [kotrež | subject] nětko tež nad wjacorymi [rumnosćemi | object] disponowachu ."
+    },
+    {
+        "input": "Objekty [pokazuja] měnjace so motiwy a techniki , kotrež pokazuja na dołhi wuwiwanski proces přez wjacore lětstotki .",
+        "output": "[Objekty | subject] pokazuja měnjace so [motiwy | object] a techniki , kotrež pokazuja na dołhi wuwiwanski proces přez wjacore lětstotki ."
+    },
+    {
+        "input": "Objekty pokazuja měnjace so motiwy a techniki , kotrež [pokazuja] na dołhi wuwiwanski proces přez wjacore lětstotki .",
+        "output": "Objekty pokazuja měnjace so motiwy a techniki , [kotrež | subject] pokazuja na dołhi wuwiwanski [proces | object] přez wjacore lětstotki ."
+    },
+    {
+        "input": "Jeli wobraz nima so pokazać , potom móže so wotkazować na tutu stronu , z tym zo ty [dodaš] před słowom Wobraz dwójny dypk .",
+        "output": "Jeli wobraz nima so pokazać , potom móže so wotkazować na tutu stronu , z tym zo [ty | subject] dodaš před słowom Wobraz dwójny [dypk | object] ."
+    },
+    {
+        "input": "18 lět po smjerći Assurbanipala [dobychu] zjednoćeni Medojo a Babylonjenjo wójska Assyriskeje ( 609 př . n . l . ) .",
+        "output": "18 lět po smjerći Assurbanipala dobychu zjednoćeni [Medojo | subject] a Babylonjenjo [wójska | object] Assyriskeje ( 609 př . n . l . ) ."
+    },
+    {
+        "input": "Salzburgske stare město ( Altstadt ) z barokowu architekturu [słuša] wot lěta 1997 oficielnje k swětowemu namrěwstwu UNESCO .",
+        "output": "Salzburgske stare [město | subject] ( Altstadt ) z barokowu architekturu słuša wot lěta 1997 oficielnje k swětowemu [namrěwstwu | object] UNESCO ."
+    },
+    {
+        "input": "Ablawt ( tež apofonija ) [mjenuje] so změnu wokalow mjez rozdźělnymi morfami , kotrež samsny morphem reprezentuja .",
+        "output": "[Ablawt | subject] ( tež apofonija ) mjenuje so [změnu | object] wokalow mjez rozdźělnymi morfami , kotrež samsny morphem reprezentuja ."
+    },
+    {
+        "input": "Ablawt ( tež apofonija ) mjenuje so změnu wokalow mjez rozdźělnymi morfami , kotrež samsny morphem [reprezentuja] .",
+        "output": "Ablawt ( tež apofonija ) mjenuje so změnu wokalow mjez rozdźělnymi morfami , [kotrež | subject] samsny [morphem | object] reprezentuja ."
+    },
+    {
+        "input": "Wón [zběra] a archiwěruje k tomu trěbne materialije , přihotuje je za wědomostne slědźenje a spřistupnja je zdobom zjawnosći .",
+        "output": "[Wón | subject] zběra a archiwěruje k tomu trěbne [materialije | object] , přihotuje je za wědomostne slědźenje a spřistupnja je zdobom zjawnosći ."
+    },
+    {
+        "input": "Jeli někotři wužiwarjo listowany namjet [podpěruja] , to so dyrbi předłohu { Ekscelentny } z nastawka wotstronić .",
+        "output": "Jeli někotři [wužiwarjo | subject] listowany [namjet | object] podpěruja , to so dyrbi předłohu { Ekscelentny } z nastawka wotstronić ."
+    },
+    {
+        "input": "Dawe tež kraje , kotrež de jure žanu stolicu [nimaja] , a to su Monaco , Nauru , Šwicarska , Liechtenstein a Vatikanske město .",
+        "output": "Dawe tež kraje , [kotrež | subject] de jure žanu [stolicu | object] nimaja , a to su Monaco , Nauru , Šwicarska , Liechtenstein a Vatikanske město ."
+    },
+    {
+        "input": "W 3 . lěttysacu ( za Sumeričanow ) knježachu měšniscy wjerchojo , kotřiž politisku a nabožnu móc w swojich rukach [dźeržachu] .",
+        "output": "W 3 . lěttysacu ( za Sumeričanow ) knježachu měšniscy wjerchojo , [kotřiž | subject] politisku a nabožnu [móc | object] w swojich rukach dźeržachu ."
+    },
+    {
+        "input": "Jeli namakaš nastawk , kotryž [wobsahuje] wobrazy z prostej wulkosću , je zdwórliwe najprjedy diskutować před wulkimi změnami .",
+        "output": "Jeli namakaš nastawk , [kotryž | subject] wobsahuje [wobrazy | object] z prostej wulkosću , je zdwórliwe najprjedy diskutować před wulkimi změnami ."
+    },
+    {
+        "input": "Dalše namakanki , kotrež [mějachu] za hospodarstwo rozsudny wuznam , běštej koleso a hornčerska tačel ( pózdnja Uruk - doba ) .",
+        "output": "Dalše namakanki , [kotrež | subject] mějachu za hospodarstwo rozsudny [wuznam | object] , běštej koleso a hornčerska tačel ( pózdnja Uruk - doba ) ."
+    },
+    {
+        "input": "Tutón ablawt najskerje [dźe] hižo na protoindoeuropsku prarěč a pokazuje hišće swoje wuskutki w najwjace indoeuropskich rěčach .",
+        "output": "Tutón [ablawt | subject] najskerje dźe hižo na protoindoeuropsku [prarěč | object] a pokazuje hišće swoje wuskutki w najwjace indoeuropskich rěčach ."
+    },
+    {
+        "input": "Ležownosće běchu we wobsydstwje zemjanskich swójbow , kotrež małych ratarjow dale bóle k wotwisnym [činjachu] .",
+        "output": "Ležownosće běchu we wobsydstwje zemjanskich swójbow , [kotrež | subject] małych [ratarjow | object] dale bóle k wotwisnym činjachu ."
+    },
+    {
+        "input": "W lěće 2006 bu wunamakował nowy šleski alfabet , kotryž [bazuje] na wšěch ze šleskich pismow ( je 10 pismow ) .",
+        "output": "W lěće 2006 bu wunamakował nowy šleski alfabet , [kotryž | subject] bazuje na [wšěch | object] ze šleskich pismow ( je 10 pismow ) ."
+    },
+    {
+        "input": "Wona nětko so [zmjeńšuje] ; něhdźe 4300 budźe srjedźnu hódnotu wot 23 ° 06 ' docpěwać a něhdźe w lěće 25 . 000 minimalnu hódnotu .",
+        "output": "[Wona | subject] nětko [so | object] zmjeńšuje ; něhdźe 4300 budźe srjedźnu hódnotu wot 23 ° 06 ' docpěwać a něhdźe w lěće 25 . 000 minimalnu hódnotu ."
+    },
+    {
+        "input": "Karawany najprjedy swoje wikowanske twory z wosołami [transportowachu] , wot 1 . lěttysaca př . n . l . wjelbłudy twory njesechu .",
+        "output": "[Karawany | subject] najprjedy swoje wikowanske [twory | object] z wosołami transportowachu , wot 1 . lěttysaca př . n . l . wjelbłudy twory njesechu ."
+    },
+    {
+        "input": "Karawany najprjedy swoje wikowanske twory z wosołami transportowachu , wot 1 . lěttysaca př . n . l . wjelbłudy twory [njesechu] .",
+        "output": "Karawany najprjedy swoje wikowanske twory z wosołami transportowachu , wot 1 . lěttysaca př . n . l . [wjelbłudy | subject] [twory | object] njesechu ."
+    },
+    {
+        "input": "Tuta doba [wuznamjeni] so přez krute zarjadnistwo a přez wudawanje prawniskich wukazow ( Kodeks Ur - Nammu ) .",
+        "output": "Tuta [doba | subject] wuznamjeni so přez krute [zarjadnistwo | object] a přez wudawanje prawniskich wukazow ( Kodeks Ur - Nammu ) ."
+    },
+    {
+        "input": "Jeli někotři wužiwarjo listowany namjet [podpěruja] , to so móže předłohu { Ekscelentny } k nastawkej přidać .",
+        "output": "Jeli někotři [wužiwarjo | subject] listowany [namjet | object] podpěruja , to so móže předłohu { Ekscelentny } k nastawkej přidać ."
+    },
+    {
+        "input": "Posledni rozmach [dožiwi] mócnarstwo z kralom Aššur - danom III . ( 935 - 912 př . n . l . ) , kiž wjele aramejske města dobywaše .",
+        "output": "Posledni [rozmach | object] dožiwi [mócnarstwo | subject] z kralom Aššur - danom III . ( 935 - 912 př . n . l . ) , kiž wjele aramejske města dobywaše ."
+    },
+    {
+        "input": "Posledni rozmach dožiwi mócnarstwo z kralom Aššur - danom III . ( 935 - 912 př . n . l . ) , kiž wjele aramejske města [dobywaše] .",
+        "output": "Posledni rozmach dožiwi mócnarstwo z kralom Aššur - danom III . ( 935 - 912 př . n . l . ) , [kiž | subject] wjele aramejske [města | object] dobywaše ."
+    },
+    {
+        "input": "Ratarjo w 2 . a 1 . lěttysacu př . n . l . wšak [wuměnjachu] swoje produkty za trěbne žiwidła a tekstilije .",
+        "output": "[Ratarjo | subject] w 2 . a 1 . lěttysacu př . n . l . wšak wuměnjachu swoje [produkty | object] za trěbne žiwidła a tekstilije ."
+    },
+    {
+        "input": "Pola Sumeričanow jednotliwe znamješka najprjedy cyłe słowa [předstajichu] , kotrež móžachu tež woznamy měć .",
+        "output": "Pola Sumeričanow jednotliwe [znamješka | subject] najprjedy cyłe [słowa | object] předstajichu , kotrež móžachu tež woznamy měć ."
+    },
+    {
+        "input": "Něhdźe wot 7700 př . n . l . [pokazuja] wšě domy , w kotrychž buchu čłowjeske nopy namkane , róžkaty stil .",
+        "output": "Něhdźe wot 7700 př . n . l . pokazuja wšě [domy | subject] , w kotrychž buchu čłowjeske nopy namkane , róžkaty [stil | object] ."
+    },
+    {
+        "input": "Pod wjednistwom Hitlera su nacionalsocialisća [zawjedowali] w Němskim reichu diktaturu \" Třećeho reicha \" .",
+        "output": "Pod wjednistwom Hitlera su [nacionalsocialisća | subject] zawjedowali w Němskim reichu [diktaturu | object] \" Třećeho reicha \" ."
+    },
+    {
+        "input": "Přiběrace žadanja na organizaciju a tež templowe hospodarstwo [wuměnjachu] a spěchowaštej wuwiwanje pisma .",
+        "output": "Přiběrace [žadanja | subject] na organizaciju a tež templowe hospodarstwo wuměnjachu a spěchowaštej [wuwiwanje | object] pisma ."
+    },
+    {
+        "input": "Bywša doktorandka Serbskeho insituta Katharina Elina [předstaji] slědźerske wuslědki swojeje disertacije .",
+        "output": "Bywša doktorandka Serbskeho insituta [Katharina | subject] Elina předstaji slědźerske [wuslědki | object] swojeje disertacije ."
+    },
+    {
+        "input": "Šwed Carl Wilhelm Scheele a Jendźelčan Joseph Priestley stej element kislik wokoło lěta 1775 [wotkryłoj] .",
+        "output": "Šwed [Carl | subject] Wilhelm Scheele a Jendźelčan Joseph Priestley stej element [kislik | object] wokoło lěta 1775 wotkryłoj ."
+    },
+    {
+        "input": "Dokelž woda je trěbna za čłowjekowe , zwěrjatkowe a rostlinowe žiwjenje , jeje disponujomnosć [ma] wulku wažnosć sociusku a politisku .",
+        "output": "Dokelž woda je trěbna za čłowjekowe , zwěrjatkowe a rostlinowe žiwjenje , jeje [disponujomnosć | subject] ma wulku [wažnosć | object] sociusku a politisku ."
+    },
+    {
+        "input": "Do 4 . lěttysaca př . n . l . [wužiwachu] wobydlerjo Mezopotamiskeje tak mjenowane ličenske kamuški za ličenske nadawki wšědneho dnja .",
+        "output": "Do 4 . lěttysaca př . n . l . wužiwachu [wobydlerjo | subject] Mezopotamiskeje tak mjenowane ličenske [kamuški | object] za ličenske nadawki wšědneho dnja ."
+    },
+    {
+        "input": "Ameriski časopis Fiction Fix [wozjewi] krótkopowědančko Vilnius , kotrež bu za Pushcart myto nominowane .",
+        "output": "Ameriski časopis [Fiction | subject] Fix wozjewi [krótkopowědančko | object] Vilnius , kotrež bu za Pushcart myto nominowane ."
+    },
+    {
+        "input": "Serbja we Łužicomaj [słyšachu] k połobskosłowjanskim kmjenam , kotrež so wot 6 . lětstotka sem mjez Wódru a Łobjom / Solawu zasydlichu .",
+        "output": "[Serbja | subject] we Łužicomaj słyšachu k połobskosłowjanskim [kmjenam | object] , kotrež so wot 6 . lětstotka sem mjez Wódru a Łobjom / Solawu zasydlichu ."
+    },
+    {
+        "input": "Swój mócnarski narok [pokazachu] knježićeljo tež přez swoje rowy , dajo so z swojej družbinu pohrjebać .",
+        "output": "Swój mócnarski [narok | object] pokazachu [knježićeljo | subject] tež přez swoje rowy , dajo so z swojej družbinu pohrjebać ."
+    },
+    {
+        "input": "Za markěrowanje nastawkow eksistuje předłoha { Namjet za pohódnoćenje } , kotraž [trjeba] 2 parametraj .",
+        "output": "Za markěrowanje nastawkow eksistuje předłoha { Namjet za pohódnoćenje } , [kotraž | subject] trjeba 2 [parametraj | object] ."
+    },
+    {
+        "input": "[Padnje] - li 29 . , 30 . abo 31 . december na póndźelu , da přiliča so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta .",
+        "output": "Padnje - li 29 . , 30 . abo 31 . [december | subject] na [póndźelu | object] , da přiliča so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta ."
+    },
+    {
+        "input": "Přeměnjenja kultury - kajke wone we Łužicy wupadaja , kak so wone [formuja] a kak so z nimi wobchadźa ?",
+        "output": "Přeměnjenja kultury - kajke wone we Łužicy wupadaja , kak [so | object] [wone | subject] formuja a kak so z nimi wobchadźa ?"
+    },
+    {
+        "input": "Bazalne ćělesa šwikacych prućikow [wobsedźa] charakteristisku wjeleworštowu strukturu z mikrotubulijow ale tež zakótwjenje w cytoskeleće .",
+        "output": "Bazalne [ćělesa | subject] šwikacych prućikow wobsedźa charakteristisku wjeleworštowu [strukturu | object] z mikrotubulijow ale tež zakótwjenje w cytoskeleće ."
+    },
+    {
+        "input": "Litawska dźiwadźelnica Edita Niciūtė a režiser Raimundas Eimontas staj dwaj widejoklipaj z recitacijemi Klemenowych basnjow [nahrawałoj] .",
+        "output": "Litawska [dźiwadźelnica | subject] Edita Niciūtė a režiser Raimundas Eimontas staj dwaj [widejoklipaj | object] z recitacijemi Klemenowych basnjow nahrawałoj ."
+    },
+    {
+        "input": "Poda nam wjele rozsudźenjow jednotliwych padow , kotrež so často přez wulku krutosć [wuznamjenjachu] .",
+        "output": "Poda nam wjele rozsudźenjow jednotliwych padow , [kotrež | subject] so často přez wulku [krutosć | object] wuznamjenjachu ."
+    },
+    {
+        "input": "Francoz Lavoisier je wono oxygen [mjenował] ( grjeksce oxys : kisilina ; a grjeksce gignomai : činju )",
+        "output": "Francoz [Lavoisier | subject] je [wono | object] oxygen mjenował ( grjeksce oxys : kisilina ; a grjeksce gignomai : činju )"
+    },
+    {
+        "input": "Zelene rostliny , wšelake algi , ale tež někotre jednobańkowcy [płodźa] jón přez rozpačenje wot wody .",
+        "output": "Zelene [rostliny | subject] , wšelake algi , ale tež někotre jednobańkowcy płodźa [jón | object] přez rozpačenje wot wody ."
+    },
+    {
+        "input": "To su předewšěm wodrjewjane rostliny , kotrež eteriske wolije [tworja] ( fenylpropanoidy a terpeny ) .",
+        "output": "To su předewšěm wodrjewjane rostliny , [kotrež | subject] eteriske [wolije | object] tworja ( fenylpropanoidy a terpeny ) ."
+    },
+    {
+        "input": "Tež w Babylonje běchu wliwapołni překupcy , kotřiž ze swojimi swójbami hotowe dynastije [tworjachu] .",
+        "output": "Tež w Babylonje běchu wliwapołni překupcy , [kotřiž | subject] ze swojimi swójbami hotowe [dynastije | object] tworjachu ."
+    },
+    {
+        "input": "Pódlanska mapa [pokaza] přez čerwjenu barbu kraje , kotrež kóždolětnje wobsedźeja mjeńše hač 500 m ³ wobnowjeneje wody na wšeho wobydlerja .",
+        "output": "Pódlanska [mapa | subject] pokaza přez čerwjenu barbu [kraje | object] , kotrež kóždolětnje wobsedźeja mjeńše hač 500 m ³ wobnowjeneje wody na wšeho wobydlerja ."
+    },
+    {
+        "input": "Nadawki stata su so w běhu časa zdźěla \" priwatizowali \" , t . r . najenk [přewza] dźěła a dyrbješe za to wukon ( na př . slěbro ) přinjesć .",
+        "output": "Nadawki stata su so w běhu časa zdźěla \" priwatizowali \" , t . r . [najenk | subject] přewza [dźěła | object] a dyrbješe za to wukon ( na př . slěbro ) přinjesć ."
+    },
+    {
+        "input": "5 . Wupožčenski čas [wučinja] za knihi w zasadźe 4 njedźele , za nowiny a druhe medije 2 njedźeli .",
+        "output": "5 . Wupožčenski [čas | subject] wučinja za knihi w zasadźe 4 [njedźele | object] , za nowiny a druhe medije 2 njedźeli ."
+    },
+    {
+        "input": "Recentne ( njewotemrěne ) zastupnicy rostlinow [tworja] štyri jasnje mjez sobu rozdźělene skupiny .",
+        "output": "Recentne ( njewotemrěne ) [zastupnicy | subject] rostlinow tworja štyri jasnje mjez sobu rozdźělene [skupiny | object] ."
+    },
+    {
+        "input": "Seksuelna generacija , gametofyty , [wutwori] specielne , wjacebańkowe seksualne organy , kotrež wot wjacorych sterilnymi bańkami su wobdate .",
+        "output": "Seksuelna [generacija | subject] , gametofyty , wutwori specielne , wjacebańkowe seksualne [organy | object] , kotrež wot wjacorych sterilnymi bańkami su wobdate ."
+    },
+    {
+        "input": "W dwulětnym rytmusu [poskićuje] Serbski institut na wěstym dnju w nalěću hornjołužiskej zjawnosći koncentrowany dohlad do swojich slědźenjow .",
+        "output": "W dwulětnym rytmusu poskićuje Serbski [institut | subject] na wěstym dnju w nalěću hornjołužiskej zjawnosći koncentrowany [dohlad | object] do swojich slědźenjow ."
+    },
+    {
+        "input": "Wužiwar so [posłužić] nastajeneho kopěraka hdyž zakónske postajenja awtorskeho prawa wobkedźbuje .",
+        "output": "[Wužiwar | subject] so posłužić nastajeneho [kopěraka | object] hdyž zakónske postajenja awtorskeho prawa wobkedźbuje ."
+    },
+    {
+        "input": "Etat stata bě identiski z tym knježićela , tutón hospodarski system [rěka] oikosowe hospodarstwo .",
+        "output": "Etat stata bě identiski z tym knježićela , tutón hospodarski [system | subject] rěka oikosowe [hospodarstwo | object] ."
+    },
+    {
+        "input": "Jeli 100x200px so pisa , potom wobraz bu skalěrowane , zo wón [wužiwa] praworóžk ze šěrokosću wot 100 pikselow a z wysokosću wot 200 pikselow .",
+        "output": "Jeli 100x200px so pisa , potom wobraz bu skalěrowane , zo [wón | subject] wužiwa [praworóžk | object] ze šěrokosću wot 100 pikselow a z wysokosću wot 200 pikselow ."
+    },
+    {
+        "input": "Pismowy wobraz husto starše formy dołho [wobchowuje] , kotrež su so w rěčanej rěči hižo změnili .",
+        "output": "Pismowy [wobraz | subject] husto starše [formy | object] dołho wobchowuje , kotrež su so w rěčanej rěči hižo změnili ."
+    },
+    {
+        "input": "Tutón so při zrałoće do płoda [přetworjuje] , při čimž so dalše dźěle kćenja móžeja wobdźělować .",
+        "output": "[Tutón | subject] [so | object] při zrałoće do płoda přetworjuje , při čimž so dalše dźěle kćenja móžeja wobdźělować ."
+    },
+    {
+        "input": "Bańkowe membrany [wužiwaja] tutu kajkosć z by starosćiwje kontrolowali wzajomne skutkowanje mjez swojimi wobsahami a eksternymi chemiskimi wěcami .",
+        "output": "Bańkowe [membrany | subject] wužiwaja tutu [kajkosć | object] z by starosćiwje kontrolowali wzajomne skutkowanje mjez swojimi wobsahami a eksternymi chemiskimi wěcami ."
+    },
+    {
+        "input": "Tute [pochadźeja] zwjetša wot europskeho dobreho winowca ( Vitis vinifera subsp . vinifera ) , kotryž pak njeje rezistentny přećiwo winowej šmicy .",
+        "output": "[Tute | subject] pochadźeja zwjetša wot europskeho dobreho [winowca | object] ( Vitis vinifera subsp . vinifera ) , kotryž pak njeje rezistentny přećiwo winowej šmicy ."
+    },
+    {
+        "input": "Kóžde druhe lěto [wuhotuje] institut mjezynarodny prózdninski kurs za serbsku rěč a kulturu .",
+        "output": "Kóžde druhe lěto wuhotuje [institut | subject] mjezynarodny prózdninski [kurs | object] za serbsku rěč a kulturu ."
+    },
+    {
+        "input": "Sobudźěłaćerjo [dźerža] 4 - 5 přednoškow k wšelakim temam , po tym sćěhuje krótka diskusija .",
+        "output": "[Sobudźěłaćerjo | subject] dźerža 4 - 5 [přednoškow | object] k wšelakim temam , po tym sćěhuje krótka diskusija ."
+    },
+    {
+        "input": "Chronologija [zepěra] so na assyrisku lisćinu kralow , lisćinu eponymow a chroniku eponymow .",
+        "output": "[Chronologija | subject] zepěra so na assyrisku [lisćinu | object] kralow , lisćinu eponymow a chroniku eponymow ."
+    },
+    {
+        "input": "Serbski institut / Sorbisches Institut w Budyšinje [přepytuje] rěč , stawizny a kulturu Serbow w Hornjej a Delnjej Łužicy w zašłosći a přitomnosći .",
+        "output": "Serbski [institut | subject] / Sorbisches Institut w Budyšinje přepytuje [rěč | object] , stawizny a kulturu Serbow w Hornjej a Delnjej Łužicy w zašłosći a přitomnosći ."
+    },
+    {
+        "input": "Sumeriska rěč [wosta] hač k přewrótej časow rěč zdźěłanych ludźi , podobnje kaž bě to grjekšćina za Romske mócnarstwo abo łaćonšćina w srjedźowěku .",
+        "output": "Sumeriska [rěč | subject] wosta hač k přewrótej časow [rěč | object] zdźěłanych ludźi , podobnje kaž bě to grjekšćina za Romske mócnarstwo abo łaćonšćina w srjedźowěku ."
+    },
+    {
+        "input": "Ratarjo [wobsydlachu] kraj mjez Babylonom a Persiskim golfom , wjedźechu prěnje ratarstwo .",
+        "output": "[Ratarjo | subject] wobsydlachu [kraj | object] mjez Babylonom a Persiskim golfom , wjedźechu prěnje ratarstwo ."
+    },
+    {
+        "input": "Karnataka [ma] drawidsku rěč Kannada jako jeničku zarjadnisku rěč , ale tam so tež Urdu ( 10 , 5 % ) , Telugu ( 7 , 0 % ) a wjele druhich rěčow rěči .",
+        "output": "[Karnataka | subject] ma drawidsku [rěč | object] Kannada jako jeničku zarjadnisku rěč , ale tam so tež Urdu ( 10 , 5 % ) , Telugu ( 7 , 0 % ) a wjele druhich rěčow rěči ."
+    },
+    {
+        "input": "Rjemjesło a wikowanje [nabywaštej] dale a bóle wuznam a města buchu dale a bóle zamóžite .",
+        "output": "[Rjemjesło | subject] a wikowanje nabywaštej dale a bóle [wuznam | object] a města buchu dale a bóle zamóžite ."
+    },
+    {
+        "input": "Mnoholičbne zběžki a předewšěm přupućowacy hórski lud Gutejčanow [skónčichu] tutu epochu .",
+        "output": "Mnoholičbne [zběžki | subject] a předewšěm přupućowacy hórski lud Gutejčanow skónčichu tutu [epochu | object] ."
+    },
+    {
+        "input": "Pod Aššur - uballit I . om ( 1353 - 1318 př . n . l . ) [naby] Assyriska swój wliw wróćo .",
+        "output": "Pod Aššur - uballit I . om ( 1353 - 1318 př . n . l . ) naby [Assyriska | subject] swój [wliw | object] wróćo ."
+    },
+    {
+        "input": "Nimo pódy [wobsedźechu] tute zemjanske swójby zwjetša hišće wulke wikowanske předewzaća .",
+        "output": "Nimo pódy wobsedźechu tute zemjanske [swójby | subject] zwjetša hišće wulke wikowanske [předewzaća | object] ."
+    },
+    {
+        "input": "Nimo pódy [wobsedźechu] tute zemjanske swójby zwjetša hišće wulke wikowanske předewzaća .",
+        "output": "Nimo pódy wobsedźechu tute zemjanske [swójby | subject] zwjetša hišće wulke wikowanske [předewzaća | object] ."
+    },
+    {
+        "input": "Tu přestajowana systematika [bazuje] na w oktobrje 2009 předstajenej třećej wersiji APG .",
+        "output": "Tu přestajowana [systematika | subject] bazuje na w oktobrje 2009 předstajenej třećej [wersiji | object] APG ."
+    },
+    {
+        "input": "Ale tež eksistuja žiwochi , kotřiž [njetrjebaja] kislik , předewšěm při jednobańkowcach .",
+        "output": "Ale tež eksistuja žiwochi , [kotřiž | subject] njetrjebaja [kislik | object] , předewšěm při jednobańkowcach ."
+    },
+    {
+        "input": "Akkadska rěč [wutłóči] sumerišćinu jako rěčanu rěč ; sumerišćinu wšak wužiwachu dale jako sakralnu , ceremonialnu , literarnu rěc a jako rěč wědomosće .",
+        "output": "Akkadska [rěč | subject] wutłóči [sumerišćinu | object] jako rěčanu rěč ; sumerišćinu wšak wužiwachu dale jako sakralnu , ceremonialnu , literarnu rěc a jako rěč wědomosće ."
+    },
+    {
+        "input": "Španišćina [ma] dwaj genusaj a numerusaj , ale nima žadyn pad , ze wuwzaćom pronomenow .",
+        "output": "[Španišćina | subject] ma dwaj [genusaj | object] a numerusaj , ale nima žadyn pad , ze wuwzaćom pronomenow ."
+    },
+    {
+        "input": "Wosebitu rólu [hraješe] w 4 . a 3 . lěttysacomaj př . n . l . tež sewjerna Mezopotamiska , kotrež so wobchadnje druhdy tež Hornja Mezopotamiska mjenuje .",
+        "output": "Wosebitu [rólu | object] hraješe w 4 . a 3 . lěttysacomaj př . n . l . tež sewjerna [Mezopotamiska | subject] , kotrež so wobchadnje druhdy tež Hornja Mezopotamiska mjenuje ."
+    },
+    {
+        "input": "Zamołwitosć za tute požčonki [njese] stajnje jedyn wot wotrjadnika pomjenowany kolega .",
+        "output": "[Zamołwitosć | object] za tute požčonki njese stajnje jedyn wot wotrjadnika pomjenowany [kolega | subject] ."
+    },
+    {
+        "input": "11 . Tutón wužiwarski porjad [nabudźe] płaćiwosć 1 . januara 2007 a naruna dotalny .",
+        "output": "11 . Tutón wužiwarski [porjad | subject] nabudźe [płaćiwosć | object] 1 . januara 2007 a naruna dotalny ."
+    },
+    {
+        "input": "Dokelž woda [ma] wysoku specifisku ćopłotu kotraž stabilizuje klimu na cyłym swěće .",
+        "output": "Dokelž [woda | subject] ma wysoku specifisku [ćopłotu | object] kotraž stabilizuje klimu na cyłym swěće ."
+    },
+    {
+        "input": "Dokelž woda ma wysoku specifisku ćopłotu kotraž [stabilizuje] klimu na cyłym swěće .",
+        "output": "Dokelž woda ma wysoku specifisku ćopłotu [kotraž | subject] stabilizuje [klimu | object] na cyłym swěće ."
+    },
+    {
+        "input": "Potajkim [wotpowěduja] plantae embryofytam , wopřijmju tuž mochi a žiłowe rostliny .",
+        "output": "Potajkim wotpowěduja [plantae | subject] [embryofytam | object] , wopřijmju tuž mochi a žiłowe rostliny ."
+    },
+    {
+        "input": "Tutón nastawk resp . wotrězk hišće [ma] wobsahowe mjezoty : faluje wjele družinow .",
+        "output": "Tutón [nastawk | subject] resp . wotrězk hišće ma wobsahowe [mjezoty | object] : faluje wjele družinow ."
+    },
+    {
+        "input": "Njewólnicy , kotřiž za měšniskich wjerchow dźěłachu , [dóstachu] za to naturalije .",
+        "output": "[Njewólnicy | subject] , kotřiž za měšniskich wjerchow dźěłachu , dóstachu za to [naturalije | object] ."
+    },
+    {
+        "input": "Wuchodny přibrjóh Andreho Pradeša a Tamil Nadu kaž tež južna Kerala [dožiwja] mjez oktobrom a decembrom dla sewjerozapadneho monsuna hišće druhi dešćowy čas .",
+        "output": "Wuchodny [přibrjóh | subject] Andreho Pradeša a Tamil Nadu kaž tež južna Kerala dožiwja mjez oktobrom a decembrom dla sewjerozapadneho monsuna hišće druhi dešćowy [čas | object] ."
+    },
+    {
+        "input": "Na čole Assyričanow steješe kral , kiž so tež za zastupjerja bóha Aššur [měješe] .",
+        "output": "Na čole Assyričanow steješe kral , [kiž | subject] [so | object] tež za zastupjerja bóha Aššur měješe ."
+    },
+    {
+        "input": "Assyriski stat [dopušći] priwatne swójstwo a financowaše so přez tributy a dawki .",
+        "output": "Assyriski [stat | subject] dopušći priwatne [swójstwo | object] a financowaše so přez tributy a dawki ."
+    },
+    {
+        "input": "Wodowy molekul [wobsteji] z dweju wodźikoweju atomow a jedneho kislikoweho atoma .",
+        "output": "Wodowy [molekul | subject] wobsteji z dweju wodźikoweju [atomow | object] a jedneho kislikoweho atoma ."
+    },
+    {
+        "input": "Město [ma] wokoło 500 . 000 wobydlerjow , z předměstami wjace hač 2 , 8 milionow .",
+        "output": "[Město | subject] ma wokoło 500 . 000 [wobydlerjow | object] , z předměstami wjace hač 2 , 8 milionow ."
+    },
+    {
+        "input": "Temple a jich měšnicy [mějachu] w Assyriskej wjele mjenje wliwa na hospodarstwo .",
+        "output": "[Temple | subject] a jich měšnicy mějachu w Assyriskej wjele mjenje [wliwa | object] na hospodarstwo ."
+    },
+    {
+        "input": "Wšě nastawki w tutym kapitlu [maja] markěrowanje přez předłohu { Ekscelentny } .",
+        "output": "Wšě [nastawki | subject] w tutym kapitlu maja [markěrowanje | object] přez předłohu { Ekscelentny } ."
+    },
+    {
+        "input": "Tak mjenowany Wulki London ( jendźelsce Greater London ) [ma] cirka sydom a poł miliona wobydlerjow , cyła aglomeracija ma nimale štyrnaće milionow wobydlerjow .",
+        "output": "Tak mjenowany Wulki [London | subject] ( jendźelsce Greater London ) ma cirka sydom a poł [miliona | object] wobydlerjow , cyła aglomeracija ma nimale štyrnaće milionow wobydlerjow ."
+    },
+    {
+        "input": "Tak mjenowany Wulki London ( jendźelsce Greater London ) ma cirka sydom a poł miliona wobydlerjow , cyła aglomeracija [ma] nimale štyrnaće milionow wobydlerjow .",
+        "output": "Tak mjenowany Wulki London ( jendźelsce Greater London ) ma cirka sydom a poł miliona wobydlerjow , cyła [aglomeracija | subject] ma nimale štyrnaće [milionow | object] wobydlerjow ."
+    },
+    {
+        "input": "Tuta družina so jako korjenjowu zeleninu abo picowansku rostlinu [kultiwuje] .",
+        "output": "Tuta [družina | subject] so jako korjenjowu [zeleninu | object] abo picowansku rostlinu kultiwuje ."
+    },
+    {
+        "input": "Jeli nastawk [ma] wjace hač jedyn njedostatk , wužiwaj prošu předłohu { Rq } .",
+        "output": "Jeli [nastawk | subject] ma wjace hač jedyn [njedostatk | object] , wužiwaj prošu předłohu { Rq } ."
+    },
+    {
+        "input": "Samotar [narysowa] na pěskojte dno smuhu a praji : » Přez tu smuhu njesměš . «",
+        "output": "[Samotar | subject] narysowa na pěskojte dno [smuhu | object] a praji : » Přez tu smuhu njesměš . «"
+    },
+    {
+        "input": "W Babylonje [zawostaji] Cyrus II . 539 př . n . l . swoju proklamaciju na Cyrusowym cylindrje a Mezopotamiska bu dźěl mócnje ekspandowaceho Persiskeho mócnarstwa .",
+        "output": "W Babylonje zawostaji [Cyrus | subject] II . 539 př . n . l . swoju [proklamaciju | object] na Cyrusowym cylindrje a Mezopotamiska bu dźěl mócnje ekspandowaceho Persiskeho mócnarstwa ."
+    },
+    {
+        "input": "Na bazy wulkeje masoweje diferency mjez protiumom a deuteriumom a tritiumom , ( kotrejž [matej] dwójnu a trójnu masu ) , kinetiski izotopowy efekt je jara akutny .",
+        "output": "Na bazy wulkeje masoweje diferency mjez protiumom a deuteriumom a tritiumom , ( [kotrejž | subject] matej dwójnu a trójnu [masu | object] ) , kinetiski izotopowy efekt je jara akutny ."
+    },
+    {
+        "input": "Jeho fachowcy [spjelnjeja] wučbne nadawki na uniwersitach a wysokich šulach .",
+        "output": "Jeho [fachowcy | subject] spjelnjeja wučbne [nadawki | object] na uniwersitach a wysokich šulach ."
+    },
+    {
+        "input": "Nimo toho [zběra] wona tu - a wukrajnu fachowu literaturu z duchowno a socialnowědneho wobłuka wotpowědnje wotrjadam a slědźerskim předewzaćam Serbskeho instituta .",
+        "output": "Nimo toho zběra [wona | subject] tu - a wukrajnu fachowu [literaturu | object] z duchowno a socialnowědneho wobłuka wotpowědnje wotrjadam a slědźerskim předewzaćam Serbskeho instituta ."
+    },
+    {
+        "input": "Lětstotki dołhe zasydlowanje a rozšěrjowanje najrozdźělnišich aramejskich kmjenow po cyłym Płódnym měsačku [činjachu] aramejšćinu k nawodnej rěči Bliskeho wuchoda .",
+        "output": "Lětstotki dołhe [zasydlowanje | subject] a rozšěrjowanje najrozdźělnišich aramejskich kmjenow po cyłym Płódnym měsačku činjachu [aramejšćinu | object] k nawodnej rěči Bliskeho wuchoda ."
+    },
+    {
+        "input": "Rysowanka na titlowej stronje je dźěło słowjenskeho molerja Arjana Pregelja , kotryž je hižo Klemenowu třeću zběrkow basnjow Mišter w spowědnym stole [ilustrował] .",
+        "output": "Rysowanka na titlowej stronje je dźěło słowjenskeho molerja Arjana Pregelja , [kotryž | subject] je hižo Klemenowu třeću [zběrkow | object] basnjow Mišter w spowědnym stole ilustrował ."
+    },
+    {
+        "input": "Ale namakane dokumenty wo tutej wikowanskej formje ničo [njerozprawjeja] .",
+        "output": "Ale namakane [dokumenty | subject] wo tutej wikowanskej formje [ničo | object] njerozprawjeja ."
+    },
+    {
+        "input": "Achejmenidźa [dobywachu] wot 550 př . n . l . Bliski wuchod a Mału Aziju .",
+        "output": "[Achejmenidźa | subject] dobywachu wot 550 př . n . l . Bliski [wuchod | object] a Mału Aziju ."
+    },
+    {
+        "input": "W lěće 330 př . n . l . [dobywaše] Aleksander Wulki persiske mócnarstwo a po jeho smjerći přewza jeho něhdyši wójnski wjednik Seleukos móc a załoži dynastiju Seleukidow .",
+        "output": "W lěće 330 př . n . l . dobywaše [Aleksander | subject] Wulki persiske [mócnarstwo | object] a po jeho smjerći přewza jeho něhdyši wójnski wjednik Seleukos móc a załoži dynastiju Seleukidow ."
+    },
+    {
+        "input": "W lěće 330 př . n . l . dobywaše Aleksander Wulki persiske mócnarstwo a po jeho smjerći [přewza] jeho něhdyši wójnski wjednik Seleukos móc a załoži dynastiju Seleukidow .",
+        "output": "W lěće 330 př . n . l . dobywaše Aleksander Wulki persiske mócnarstwo a po jeho smjerći přewza jeho něhdyši wójnski wjednik [Seleukos | subject] [móc | object] a załoži dynastiju Seleukidow ."
+    },
+    {
+        "input": "Wutrusowa sćěna [wobsahuje] sporopolenin , sporofyty tworja kutikulu .",
+        "output": "Wutrusowa [sćěna | subject] wobsahuje [sporopolenin | object] , sporofyty tworja kutikulu ."
+    },
+    {
+        "input": "Wutrusowa sćěna wobsahuje sporopolenin , sporofyty [tworja] kutikulu .",
+        "output": "Wutrusowa sćěna wobsahuje sporopolenin , [sporofyty | subject] tworja [kutikulu | object] ."
+    },
+    {
+        "input": "Tuta strona [wobsahuje] lisćinu z nastawkami , kotrež su ekscelentne .",
+        "output": "Tuta [strona | subject] wobsahuje [lisćinu | object] z nastawkami , kotrež su ekscelentne ."
+    },
+    {
+        "input": "Hodźi so z wěstotu předpokładować , zo běchu podobne poměry w susodnych regionach , dokelž družina namakankow typiske znamjenja cyłkowneje Mezopotamiskeje [reprezentuja] .",
+        "output": "Hodźi so z wěstotu předpokładować , zo běchu podobne poměry w susodnych regionach , dokelž [družina | subject] namakankow typiske [znamjenja | object] cyłkowneje Mezopotamiskeje reprezentuja ."
+    },
+    {
+        "input": "Dokelž někotre rěki , kotrež su wažne za wodowe zastaranje ( na př . Jordan , Kolorado ) , [přeprěkuja] krajowe hranicy , su móžne mjezykrajowe konflikty wo pitnej wodźe .",
+        "output": "Dokelž někotre [rěki | subject] , kotrež su wažne za wodowe zastaranje ( na př . Jordan , Kolorado ) , přeprěkuja krajowe [hranicy | object] , su móžne mjezykrajowe konflikty wo pitnej wodźe ."
+    },
+    {
+        "input": "Kralej Aššur - nasir - apli II . ( 883 - 859 př . n . l . ) a Šulmanu - ašared III . ( 858 - 824 př . n . l . ) [rozšěrištaj] assyriski mócnarski wobwod hač do Syriskeje .",
+        "output": "Kralej [Aššur | subject] - nasir - apli II . ( 883 - 859 př . n . l . ) a Šulmanu - ašared III . ( 858 - 824 př . n . l . ) rozšěrištaj assyriski mócnarski [wobwod | object] hač do Syriskeje ."
+    },
+    {
+        "input": "Cirkulacija wody mjez oceanami a powětrom zwjetša [kreěruje] wjedro .",
+        "output": "[Cirkulacija | subject] wody mjez oceanami a powětrom zwjetša kreěruje [wjedro | object] ."
+    },
+    {
+        "input": "Za cuzych wosebje zajimawa swojoraznosć Łužicy [wobsteji] w tym , zo so tu nimo němskeje dalša awtochtona rěč rěči : serbšćina , kotraž słuša do swójby słowjanskich rěčow .",
+        "output": "Za cuzych wosebje zajimawa [swojoraznosć | subject] Łužicy wobsteji w [tym | object] , zo so tu nimo němskeje dalša awtochtona rěč rěči : serbšćina , kotraž słuša do swójby słowjanskich rěčow ."
+    },
+    {
+        "input": "Obsidian w małych mnóstwach [pokazuje] na wikowanje z Kapadociskej .",
+        "output": "[Obsidian | subject] w małych mnóstwach pokazuje na [wikowanje | object] z Kapadociskej ."
+    },
+    {
+        "input": "Wužiwarjo [njesu] sami zamołwitosć při zranjenju awtorskich prawow .",
+        "output": "[Wužiwarjo | subject] njesu sami [zamołwitosć | object] při zranjenju awtorskich prawow ."
+    },
+    {
+        "input": "Wulku lěpšinu [měješe] wobsydstwo na pódźe - wono bě bjezdawkowe .",
+        "output": "Wulku [lěpšinu | object] měješe [wobsydstwo | subject] na pódźe - wono bě bjezdawkowe ."
+    },
+    {
+        "input": "Wulku lěpšinu [měješe] wobsydstwo na pódźe - wono bě bjezdawkowe .",
+        "output": "Wulku [lěpšinu | object] měješe [wobsydstwo | subject] na pódźe - wono bě bjezdawkowe ."
+    },
+    {
+        "input": "Pomhaj Wikipediju , z tym ty jón [rozšěriš] a nětko wudospołniš .",
+        "output": "Pomhaj Wikipediju , z tym [ty | subject] [jón | object] rozšěriš a nětko wudospołniš ."
+    },
+    {
+        "input": "Nuhel , kotryž dwaj O - H - wjazbaj [začinitej] , je 104 , 45 ° .",
+        "output": "Nuhel , [kotryž | object] dwaj O - H - [wjazbaj | subject] začinitej , je 104 , 45 ° ."
+    },
+    {
+        "input": "Specialny porjad [pokazuje] podobnosće na kult mortwych Jericha .",
+        "output": "Specialny [porjad | subject] pokazuje [podobnosće | object] na kult mortwych Jericha ."
+    },
+    {
+        "input": "Substantiwy [maja] tři genusy na rozdźěl wot romaniskich rěčow .",
+        "output": "[Substantiwy | subject] maja tři [genusy | object] na rozdźěl wot romaniskich rěčow ."
+    },
+    {
+        "input": "Wuznamne města su tam [nastali] , kaž Mari , Ebla , Hama , Hamukar , Tell Halaf / Aleppo , Nabada , Niniwa a tež Assur .",
+        "output": "Wuznamne [města | subject] su tam nastali , kaž Mari , Ebla , Hama , Hamukar , Tell Halaf / Aleppo , Nabada , Niniwa a tež Assur ."
+    },
+    {
+        "input": "Sporofyt so najprjedy jako wjacebańkowy embryo [załoži] , kotryž na maćerskej rostlinje zawostawa a so wot teje zežiwja .",
+        "output": "[Sporofyt | subject] so najprjedy jako wjacebańkowy embryo załoži , kotryž na maćerskej rostlinje zawostawa a so wot teje zežiwja ."
+    },
+    {
+        "input": "Sporofyt so najprjedy jako wjacebańkowy embryo załoži , kotryž na maćerskej rostlinje [zawostawa] a so wot teje zežiwja .",
+        "output": "Sporofyt so najprjedy jako wjacebańkowy embryo załoži , [kotryž | subject] na maćerskej rostlinje zawostawa a so wot teje zežiwja ."
+    },
+    {
+        "input": "Rozpušćomnosć płunow [wotewza] z přiběracu temperaturu , mjeztym zo rozpušćomnosć selow přiběra z přiběracu temperaturu .",
+        "output": "[Rozpušćomnosć | subject] płunow wotewza z přiběracu temperaturu , mjeztym zo rozpušćomnosć selow přiběra z přiběracu temperaturu ."
+    },
+    {
+        "input": "K dnjej archiwow [přeprošuje] Serbski kulturny archiw w Budyšinje na Dwórnišćowu 6 - sobotu , dnja 6 . měrca wot 14 hodź .",
+        "output": "K dnjej archiwow přeprošuje Serbski kulturny [archiw | subject] w Budyšinje na Dwórnišćowu 6 - sobotu , dnja 6 . měrca wot 14 hodź ."
+    },
+    {
+        "input": "W dólnych runinach srjedźneje Mezopotamiskeje [ležachu] jako najwuznamniše městnosće Sippar , Dur - Kurigalzu a Opis .",
+        "output": "W dólnych runinach srjedźneje Mezopotamiskeje ležachu jako najwuznamniše městnosće [Sippar | subject] , Dur - Kurigalzu a Opis ."
+    },
+    {
+        "input": "Wot 6 . lěttysaca př . n . l . [hodźi] so prěni raz palena hlina z prehistoriskimi modelemi hornčerskeje tačele dopokazać .",
+        "output": "Wot 6 . lěttysaca př . n . l . hodźi so prěni raz palena [hlina | subject] z prehistoriskimi modelemi hornčerskeje tačele dopokazać ."
+    },
+    {
+        "input": "Hižo w lěće 1887 [počachu] někotři spisowaćeljo knihi w rěči Esperanto spisować abo literaturu z druhich rěčow přełožować .",
+        "output": "Hižo w lěće 1887 počachu někotři [spisowaćeljo | subject] knihi w rěči Esperanto spisować abo literaturu z druhich rěčow přełožować ."
+    },
+    {
+        "input": "Slědowace epochi z jich nowymi politiskimi statnymi wutworami tohodla pod historiske mjeno Mezopotamiska [njesłuša] .",
+        "output": "Slědowace [epochi | subject] z jich nowymi politiskimi statnymi wutworami tohodla pod historiske mjeno Mezopotamiska njesłuša ."
+    },
+    {
+        "input": "Po Druhej swětowej wójnje [bě] francoski protektorat , doniž je skónčnje w lětu 1957 Zwjazkowu republiku přistupiła .",
+        "output": "Po Druhej swětowej wójnje bě francoski [protektorat | subject] , doniž je skónčnje w lětu 1957 Zwjazkowu republiku přistupiła ."
+    },
+    {
+        "input": "Jeli wobraz [nima] so pokazać , potom móže so wotkazować na tutu stronu , z tym zo ty dodaš před słowom Wobraz dwójny dypk .",
+        "output": "Jeli [wobraz | subject] nima so pokazać , potom móže so wotkazować na tutu stronu , z tym zo ty dodaš před słowom Wobraz dwójny dypk ."
+    },
+    {
+        "input": "Assur , geografisce ležo při wažnych wikowanskich pućach , [wikowaše] z Babylonom , Anatolskej a dźensnišim Iranom .",
+        "output": "[Assur | subject] , geografisce ležo při wažnych wikowanskich pućach , wikowaše z Babylonom , Anatolskej a dźensnišim Iranom ."
+    },
+    {
+        "input": "Wot 1959 [wuchadźa] wona prawidłownje we wjacelětnych zwjazkach w Ludowym nakładnistwje Domowina w ćišćanej formje .",
+        "output": "Wot 1959 wuchadźa [wona | subject] prawidłownje we wjacelětnych zwjazkach w Ludowym nakładnistwje Domowina w ćišćanej formje ."
+    },
+    {
+        "input": "Sukcesiwnje [zadźěła] so do njeje tež wobsah zažnišich bibliografijow ( dotal : w Budyšinje wušłe knihi wot 1958 ) .",
+        "output": "Sukcesiwnje zadźěła so do njeje tež [wobsah | subject] zažnišich bibliografijow ( dotal : w Budyšinje wušłe knihi wot 1958 ) ."
+    },
+    {
+        "input": "W lěće 153 do Krystusa wšak so spočatk lěta wo dwaj měsacaj doprědka [sćahny] , tak zo poćah mjez mjenom a ličenjom wotpadny .",
+        "output": "W lěće 153 do Krystusa wšak so [spočatk | subject] lěta wo dwaj měsacaj doprědka sćahny , tak zo poćah mjez mjenom a ličenjom wotpadny ."
+    },
+    {
+        "input": "W lěće 153 do Krystusa wšak so spočatk lěta wo dwaj měsacaj doprědka sćahny , tak zo poćah mjez mjenom a ličenjom [wotpadny] .",
+        "output": "W lěće 153 do Krystusa wšak so spočatk lěta wo dwaj měsacaj doprědka sćahny , tak zo [poćah | subject] mjez mjenom a ličenjom wotpadny ."
+    },
+    {
+        "input": "Z opcijami left , right , center a none móžeš wusměrić wobrazy , ale rezultat [wotwisuje] z wužiwaneho syćoweho wobhladowaka .",
+        "output": "Z opcijami left , right , center a none móžeš wusměrić wobrazy , ale [rezultat | subject] wotwisuje z wužiwaneho syćoweho wobhladowaka ."
+    },
+    {
+        "input": "Encyklopedije [hodźa] so z pomocu kajkosćow předmjet , zaměr , metoda , rozrjadowanje a proces nastaća definować .",
+        "output": "[Encyklopedije | subject] hodźa so z pomocu kajkosćow předmjet , zaměr , metoda , rozrjadowanje a proces nastaća definować ."
+    },
+    {
+        "input": "Po nic cyle 100 lětach buchu Gutejčenjo wuhnaći , a sumeriske měšćanske staty [dóńdźechu] zaso k mocy a wulkosći .",
+        "output": "Po nic cyle 100 lětach buchu Gutejčenjo wuhnaći , a sumeriske měšćanske [staty | subject] dóńdźechu zaso k mocy a wulkosći ."
+    },
+    {
+        "input": "W 3 . lěttysacu ( za Sumeričanow ) [knježachu] měšniscy wjerchojo , kotřiž politisku a nabožnu móc w swojich rukach dźeržachu .",
+        "output": "W 3 . lěttysacu ( za Sumeričanow ) knježachu měšniscy [wjerchojo | subject] , kotřiž politisku a nabožnu móc w swojich rukach dźeržachu ."
+    },
+    {
+        "input": "Nimo toho [móžeja] rostliny hromadu ale w wobłuku korjenjow tež z hribami , bakterijemi a druhimi mikroorganizmami komunikować .",
+        "output": "Nimo toho móžeja [rostliny | subject] hromadu ale w wobłuku korjenjow tež z hribami , bakterijemi a druhimi mikroorganizmami komunikować ."
+    },
+    {
+        "input": "Dobywanja Sargona [wjedźechu] k hospodarskim a kulturelnymi zwiskam z podćisnjenymi ludami a z nowymi susodami .",
+        "output": "[Dobywanja | subject] Sargona wjedźechu k hospodarskim a kulturelnymi zwiskam z podćisnjenymi ludami a z nowymi susodami ."
+    },
+    {
+        "input": "Nimo toho maja šěsć padow , kotrychž formy [wotwisuja] wot numerusa ( gramatiskeho čisła ) a klasy deklinacije .",
+        "output": "Nimo toho maja šěsć padow , kotrychž [formy | subject] wotwisuja wot numerusa ( gramatiskeho čisła ) a klasy deklinacije ."
+    },
+    {
+        "input": "W zańdźenosći [běchu] wšelake namjety , tola slědowacy kladogram jako prawdźepodobne poměry přiwuznistwa we wotrysach so pokaza :",
+        "output": "W zańdźenosći běchu wšelake [namjety | subject] , tola slědowacy kladogram jako prawdźepodobne poměry přiwuznistwa we wotrysach so pokaza :"
+    },
+    {
+        "input": "W zańdźenosći běchu wšelake namjety , tola slědowacy kladogram jako prawdźepodobne poměry přiwuznistwa we wotrysach so [pokaza] :",
+        "output": "W zańdźenosći běchu wšelake namjety , tola slědowacy [kladogram | subject] jako prawdźepodobne poměry přiwuznistwa we wotrysach so pokaza :"
+    },
+    {
+        "input": "Historikarjo [měnja] , zo tute město najprjedy bě pod knjejstwom Herrschaft Akkada , mjeztym zo prěni Assyričenjo běchu nomadźa .",
+        "output": "[Historikarjo | subject] měnja , zo tute město najprjedy bě pod knjejstwom Herrschaft Akkada , mjeztym zo prěni Assyričenjo běchu nomadźa ."
+    },
+    {
+        "input": "Historikarjo měnja , zo tute město najprjedy [bě] pod knjejstwom Herrschaft Akkada , mjeztym zo prěni Assyričenjo běchu nomadźa .",
+        "output": "Historikarjo měnja , zo tute [město | subject] najprjedy bě pod knjejstwom Herrschaft Akkada , mjeztym zo prěni Assyričenjo běchu nomadźa ."
+    },
+    {
+        "input": "Ležownosće [běchu] we wobsydstwje zemjanskich swójbow , kotrež małych ratarjow dale bóle k wotwisnym činjachu .",
+        "output": "[Ležownosće | subject] běchu we wobsydstwje zemjanskich swójbow , kotrež małych ratarjow dale bóle k wotwisnym činjachu ."
+    },
+    {
+        "input": "W lěće 2006 bu wunamakował nowy šleski alfabet , kotryž bazuje na wšěch ze šleskich pismow ( [je] 10 pismow ) .",
+        "output": "W lěće 2006 bu wunamakował nowy šleski alfabet , kotryž bazuje na wšěch ze šleskich pismow ( je 10 [pismow | subject] ) ."
+    },
+    {
+        "input": "Kaž přikład mjenowaneje móžnosće słuži kartu městow Němskeje , w kotrychž so běchu Fußball - WM 2006 [wotměł] .",
+        "output": "Kaž přikład mjenowaneje móžnosće słuži kartu městow Němskeje , w kotrychž so běchu [Fußball | subject] - WM 2006 wotměł ."
+    },
+    {
+        "input": "Słaby werb je na př . loben , zdónkowy wokal [njeměnja] so při tworjenju preterituma : loben , lobte , gelobt .",
+        "output": "Słaby werb je na př . loben , zdónkowy [wokal | subject] njeměnja so při tworjenju preterituma : loben , lobte , gelobt ."
+    },
+    {
+        "input": "Přećiwo wšemu wočakowanju [njeběchu] po wšěm zdaću žane wiki ( bazary ) , kaž by so poprawom wot orientaliskeho kraja wočakowało .",
+        "output": "Přećiwo wšemu wočakowanju njeběchu po wšěm zdaću žane [wiki | subject] ( bazary ) , kaž by so poprawom wot orientaliskeho kraja wočakowało ."
+    },
+    {
+        "input": "Antologija słowjenskich krótkopowědančkow Auksas kišenėje ( Złoto w zaku ) , wobsahujo Klemenowu stawiznu , [wuńdźe] w Litawskej .",
+        "output": "Antologija słowjenskich krótkopowědančkow [Auksas | subject] kišenėje ( Złoto w zaku ) , wobsahujo Klemenowu stawiznu , wuńdźe w Litawskej ."
+    },
+    {
+        "input": "Jeje wobstatki so w čitarni , wot wědomostnych sobudźěłaćerjow instututa w dźěłowych rumnosćach , [wužiwaja] .",
+        "output": "Jeje [wobstatki | subject] so w čitarni , wot wědomostnych sobudźěłaćerjow instututa w dźěłowych rumnosćach , wužiwaja ."
+    },
+    {
+        "input": "Klemenowa prěna elektroniska kniha Vilnius [wuńdźe] w jendźelskej rěči , kotraž bu wot Shaya Wooda přełožena .",
+        "output": "Klemenowa prěna elektroniska [kniha | subject] Vilnius wuńdźe w jendźelskej rěči , kotraž bu wot Shaya Wooda přełožena ."
+    },
+    {
+        "input": "Najebać toho , někajke substancy so njederje [měšeja] z wodu , inkluziwnje wolijow a hydrofobnych substancow .",
+        "output": "Najebać toho , někajke [substancy | subject] so njederje měšeja z wodu , inkluziwnje wolijow a hydrofobnych substancow ."
+    },
+    {
+        "input": "Lokalne adwerby [móža] akuzatiwny n měć , hdyž směr zwuraznjeja , na př . tie \" tam , tamle \" - tien \" tam \" .",
+        "output": "Lokalne [adwerby | subject] móža akuzatiwny n měć , hdyž směr zwuraznjeja , na př . tie \" tam , tamle \" - tien \" tam \" ."
+    },
+    {
+        "input": "Sobudźěłaćerjo [spytaja] kulturnu a rěčnu praksu Serbow we woběmaj Łužicomaj ze swojimi móžnosćemi podpěrać .",
+        "output": "[Sobudźěłaćerjo | subject] spytaja kulturnu a rěčnu praksu Serbow we woběmaj Łužicomaj ze swojimi móžnosćemi podpěrać ."
+    },
+    {
+        "input": "Dnja 16 . oktobra 2009 [budźe] 100 lět , zo je zemrěł klasikar serbskeje literatury , Jakub Bart - Ćišinski .",
+        "output": "Dnja 16 . oktobra 2009 budźe 100 [lět | subject] , zo je zemrěł klasikar serbskeje literatury , Jakub Bart - Ćišinski ."
+    },
+    {
+        "input": "Dnja 16 . oktobra 2009 budźe 100 lět , zo je [zemrěł] klasikar serbskeje literatury , Jakub Bart - Ćišinski .",
+        "output": "Dnja 16 . oktobra 2009 budźe 100 lět , zo je zemrěł [klasikar | subject] serbskeje literatury , Jakub Bart - Ćišinski ."
+    },
+    {
+        "input": "Nimo wulkich skupinach monokotyledonow a eudikotyledonow hišće [eksistuja] někotre bazalnje stejace porjady .",
+        "output": "Nimo wulkich skupinach monokotyledonow a eudikotyledonow hišće eksistuja někotre bazalnje stejace [porjady | subject] ."
+    },
+    {
+        "input": "Pola Sumeričanow jednotliwe znamješka najprjedy cyłe słowa předstajichu , kotrež [móžachu] tež woznamy měć .",
+        "output": "Pola Sumeričanow jednotliwe znamješka najprjedy cyłe słowa předstajichu , [kotrež | subject] móžachu tež woznamy měć ."
+    },
+    {
+        "input": "Wobmjezowany fundus sekundarneje literatury , w kotrymž su aktualne přepytownja a interpretacije rědke , [njemóže] při tym spokojić .",
+        "output": "Wobmjezowany [fundus | subject] sekundarneje literatury , w kotrymž su aktualne přepytownja a interpretacije rědke , njemóže při tym spokojić ."
+    },
+    {
+        "input": "Zo by so GNU - licenca [dodźeržała] , dyrbi so při tym 3 - 5 tamnišich t . mj . hłownych awtorow mjenować .",
+        "output": "Zo by so GNU - [licenca | subject] dodźeržała , dyrbi so při tym 3 - 5 tamnišich t . mj . hłownych awtorow mjenować ."
+    },
+    {
+        "input": "Tuta móžnosć bu nic doporučena , dokelž w někotrych syćowym wobhladowakach wobrazy so njeprawe [pokazaja] .",
+        "output": "Tuta móžnosć bu nic doporučena , dokelž w někotrych syćowym wobhladowakach [wobrazy | subject] so njeprawe pokazaja ."
+    },
+    {
+        "input": "Pismo bu w běhu časa kompleksniše , jednotliwe symbole [móžachu] nětko tež zwuki resp . wjacore symbole móžachu cyłe sady předstajic .",
+        "output": "Pismo bu w běhu časa kompleksniše , jednotliwe [symbole | subject] móžachu nětko tež zwuki resp . wjacore symbole móžachu cyłe sady předstajic ."
+    },
+    {
+        "input": "Pismo bu w běhu časa kompleksniše , jednotliwe symbole móžachu nětko tež zwuki resp . wjacore symbole [móžachu] cyłe sady předstajic .",
+        "output": "Pismo bu w běhu časa kompleksniše , jednotliwe symbole móžachu nětko tež zwuki resp . wjacore [symbole | subject] móžachu cyłe sady předstajic ."
+    },
+    {
+        "input": "Přez rjad synchronizmow [hodźi] so najwjace babylonskich kralow ( po sumeriskej a babylonskej lisćinje kralow A ) do systema zasunyć .",
+        "output": "Přez rjad synchronizmow hodźi so najwjace babylonskich [kralow | subject] ( po sumeriskej a babylonskej lisćinje kralow A ) do systema zasunyć ."
+    },
+    {
+        "input": "Sylny werb je na př . trinken , wokal [měnja] so při tworjenju preterituma : trinken , trank , getrunken .",
+        "output": "Sylny werb je na př . trinken , [wokal | subject] měnja so při tworjenju preterituma : trinken , trank , getrunken ."
+    },
+    {
+        "input": "Wjele maćiznow so móže we wodźe rozpušćeć , při tym rozpušćomnosć [wotwisuje] wot maćizny a temperatury .",
+        "output": "Wjele maćiznow so móže we wodźe rozpušćeć , při tym [rozpušćomnosć | subject] wotwisuje wot maćizny a temperatury ."
+    },
+    {
+        "input": "Spočatk septembra je sewjer přewažnje bjez dešća , ale traje dalšej měsacaj doniž so tež mróčele na južnym Dekkanje a w Keraly [zminu] .",
+        "output": "Spočatk septembra je sewjer přewažnje bjez dešća , ale traje dalšej měsacaj doniž so tež [mróčele | subject] na južnym Dekkanje a w Keraly zminu ."
+    },
+    {
+        "input": "Serbja we Łužicomaj słyšachu k połobskosłowjanskim kmjenam , kotrež so wot 6 . lětstotka sem mjez Wódru a Łobjom / Solawu [zasydlichu] .",
+        "output": "Serbja we Łužicomaj słyšachu k połobskosłowjanskim kmjenam , [kotrež | subject] so wot 6 . lětstotka sem mjez Wódru a Łobjom / Solawu zasydlichu ."
+    },
+    {
+        "input": "Za markěrowanje nastawkow [eksistuje] předłoha { Namjet za pohódnoćenje } , kotraž trjeba 2 parametraj .",
+        "output": "Za markěrowanje nastawkow eksistuje [předłoha | subject] { Namjet za pohódnoćenje } , kotraž trjeba 2 parametraj ."
+    },
+    {
+        "input": "Salzburg [leži] nad rěku Salzach blisko hranicy mjez Awstriskej a Němskej , při sewjernej kromje Alpow .",
+        "output": "[Salzburg | subject] leži nad rěku Salzach blisko hranicy mjez Awstriskej a Němskej , při sewjernej kromje Alpow ."
+    },
+    {
+        "input": "Při ćežkej a přećežkej wodźe normalny wodźikowy atom ( protium , symbol H ) so přez jeju ćežkej izotopaj deuterium abo tritium [naruna] .",
+        "output": "Při ćežkej a přećežkej wodźe normalny wodźikowy [atom | subject] ( protium , symbol H ) so přez jeju ćežkej izotopaj deuterium abo tritium naruna ."
+    },
+    {
+        "input": "Padnje - li 29 . , 30 . abo 31 . december na póndźelu , da [přiliča] so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta .",
+        "output": "Padnje - li 29 . , 30 . abo 31 . december na póndźelu , da přiliča so [dny | subject] wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta ."
+    },
+    {
+        "input": "Přeměnjenja kultury - kajke wone we Łužicy [wupadaja] , kak so wone formuja a kak so z nimi wobchadźa ?",
+        "output": "Přeměnjenja kultury - kajke [wone | subject] we Łužicy wupadaja , kak so wone formuja a kak so z nimi wobchadźa ?"
+    },
+    {
+        "input": "9 . Jednotliwym wotrjadam instituta [móža] so přiručne knihownje jako dołhodobne požćonki přewostajić .",
+        "output": "9 . Jednotliwym wotrjadam instituta móža so přiručne [knihownje | subject] jako dołhodobne požćonki přewostajić ."
+    },
+    {
+        "input": "Wot lěta 1994 bu federacija wutworjena , kotraž z dźewjeć narodnostnych zwjazkowych statow [wobsteji] :",
+        "output": "Wot lěta 1994 bu federacija wutworjena , [kotraž | subject] z dźewjeć narodnostnych zwjazkowych statow wobsteji :"
+    },
+    {
+        "input": "Nimo toho hesło nastawka so [dyrbi] z delnjeho kapitla \" Lisćina ekscelentnych nastawkow \" wotstronić .",
+        "output": "Nimo toho [hesło | subject] nastawka so dyrbi z delnjeho kapitla \" Lisćina ekscelentnych nastawkow \" wotstronić ."
+    },
+    {
+        "input": "Naš zaměr je , serbski słowoskład tak šěroko kaž móžno registrować , tak zo [budu] w nim tež słowa , kiž hišće njejsu nihdźe registrowane .",
+        "output": "Naš zaměr je , serbski słowoskład tak šěroko kaž móžno registrować , tak zo budu w nim tež [słowa | subject] , kiž hišće njejsu nihdźe registrowane ."
+    },
+    {
+        "input": "W starych kulturach w Mezopotamiskej , Egyptowskej , Persiskej a Israelu [bě] ludowy cyrobowy srědk .",
+        "output": "W starych kulturach w Mezopotamiskej , Egyptowskej , Persiskej a Israelu bě ludowy cyrobowy [srědk | subject] ."
+    },
+    {
+        "input": "Tež w Babylonje [běchu] wliwapołni překupcy , kotřiž ze swojimi swójbami hotowe dynastije tworjachu .",
+        "output": "Tež w Babylonje běchu wliwapołni [překupcy | subject] , kotřiž ze swojimi swójbami hotowe dynastije tworjachu ."
+    },
+    {
+        "input": "Jako němske pomjenowanje za nju [trjeba] so tradicionelnje nimo \" Sorbisch \" tež wuraz \" Wendisch \" .",
+        "output": "Jako němske pomjenowanje za nju trjeba so tradicionelnje nimo \" Sorbisch \" tež [wuraz | subject] \" Wendisch \" ."
+    },
+    {
+        "input": "Korjeń je tołsty a mjasny , mjeztym zo barba [wariěruje] : běły , žołty , wioletny , oranžočerwjeny .",
+        "output": "Korjeń je tołsty a mjasny , mjeztym zo [barba | subject] wariěruje : běły , žołty , wioletny , oranžočerwjeny ."
+    },
+    {
+        "input": "Pódlanska mapa pokaza přez čerwjenu barbu kraje , kotrež kóždolětnje [wobsedźeja] mjeńše hač 500 m ³ wobnowjeneje wody na wšeho wobydlerja .",
+        "output": "Pódlanska mapa pokaza přez čerwjenu barbu kraje , [kotrež | subject] kóždolětnje wobsedźeja mjeńše hač 500 m ³ wobnowjeneje wody na wšeho wobydlerja ."
+    },
+    {
+        "input": "Nimo toho hesło nastawka so [dyrbi] do delnjeho kapitla \" Lisćina ekscelentnych nastawkow \" přidać .",
+        "output": "Nimo toho [hesło | subject] nastawka so dyrbi do delnjeho kapitla \" Lisćina ekscelentnych nastawkow \" přidać ."
+    },
+    {
+        "input": "Ta zahroda [eksistuje] hižo štyri sta lět a ma rjanu rostlinarnju , w kotrejž rědke rostliny kćěja .",
+        "output": "Ta [zahroda | subject] eksistuje hižo štyri sta lět a ma rjanu rostlinarnju , w kotrejž rědke rostliny kćěja ."
+    },
+    {
+        "input": "Ta zahroda eksistuje hižo štyri sta lět a ma rjanu rostlinarnju , w kotrejž rědke rostliny [kćěja] .",
+        "output": "Ta zahroda eksistuje hižo štyri sta lět a ma rjanu rostlinarnju , w kotrejž rědke [rostliny | subject] kćěja ."
+    },
+    {
+        "input": "Druhdy w srjedźišću wokołka [je] ćmowočerwjenje abo čornopurpurowje barbjene kćenje , při čimž wono rědšo hač při dźiwjej morchwi wustupuje .",
+        "output": "Druhdy w srjedźišću wokołka je ćmowočerwjenje abo čornopurpurowje barbjene [kćenje | subject] , při čimž wono rědšo hač při dźiwjej morchwi wustupuje ."
+    },
+    {
+        "input": "Druhdy w srjedźišću wokołka je ćmowočerwjenje abo čornopurpurowje barbjene kćenje , při čimž wono rědšo hač při dźiwjej morchwi [wustupuje] .",
+        "output": "Druhdy w srjedźišću wokołka je ćmowočerwjenje abo čornopurpurowje barbjene kćenje , při čimž [wono | subject] rědšo hač při dźiwjej morchwi wustupuje ."
+    },
+    {
+        "input": "Wuměna datow mjezy jednotliwymi ličakami ( serwer , jendź . Server ) [přewjedźe] so z pomocu technisce normowanych internetowych protokolow .",
+        "output": "[Wuměna | subject] datow mjezy jednotliwymi ličakami ( serwer , jendź . Server ) přewjedźe so z pomocu technisce normowanych internetowych protokolow ."
+    },
+    {
+        "input": "přez to [měł] dalši nomadny lud swoju šansu k postupej dóstać ( hlej tež : Lisćina kralow z Ura ) .",
+        "output": "přez to měł dalši nomadny [lud | subject] swoju šansu k postupej dóstać ( hlej tež : Lisćina kralow z Ura ) ."
+    },
+    {
+        "input": "Nawoda biblioteki [smě] we wěstych padach wupožčenske wobmjezowanja zběhnyć abo přidatne postajić .",
+        "output": "[Nawoda | subject] biblioteki smě we wěstych padach wupožčenske wobmjezowanja zběhnyć abo přidatne postajić ."
+    },
+    {
+        "input": "Lětne wuběrkowe bibliografije [spřistupnjeja] so wot 50tych lět w Lětopisu a wot 1996 w interneće .",
+        "output": "Lětne wuběrkowe [bibliografije | subject] spřistupnjeja so wot 50tych lět w Lětopisu a wot 1996 w interneće ."
+    },
+    {
+        "input": "Projekt Wikipedija [chce] stworić najwjetšu wjelerěčnu , wšitkim přistupnu online - encyklopediju .",
+        "output": "[Projekt | subject] Wikipedija chce stworić najwjetšu wjelerěčnu , wšitkim přistupnu online - encyklopediju ."
+    },
+    {
+        "input": "Tu [maja] nastawki stać , kotrež po měnjenju namjetowaceho wužiwarja ( wjace ) njejsu ekscelentne .",
+        "output": "Tu maja [nastawki | subject] stać , kotrež po měnjenju namjetowaceho wužiwarja ( wjace ) njejsu ekscelentne ."
+    },
+    {
+        "input": "Přez zapis do wužiwanskeje knihi so wužiwanski porjad [připóznaje] a z tym přizjewjenje zdokonja .",
+        "output": "Přez zapis do wužiwanskeje knihi so wužiwanski [porjad | subject] připóznaje a z tym přizjewjenje zdokonja ."
+    },
+    {
+        "input": "Přez zapis do wužiwanskeje knihi so wužiwanski porjad připóznaje a z tym přizjewjenje [zdokonja] .",
+        "output": "Přez zapis do wužiwanskeje knihi so wužiwanski porjad připóznaje a z tym [přizjewjenje | subject] zdokonja ."
+    },
+    {
+        "input": "Dźělenje dźěła [nasta] , hornčerska tačel bu wunamakana , Temple z hlinjanych cyhelow su nastate .",
+        "output": "[Dźělenje | subject] dźěła nasta , hornčerska tačel bu wunamakana , Temple z hlinjanych cyhelow su nastate ."
+    },
+    {
+        "input": "Hodźi so jenakorazny , zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować , dokelž su so wšelake zwukowe přesunjenja [stali] .",
+        "output": "Hodźi so jenakorazny , zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować , dokelž su so wšelake zwukowe [přesunjenja | subject] stali ."
+    },
+    {
+        "input": "Jeli 100x200px so [pisa] , potom wobraz bu skalěrowane , zo wón wužiwa praworóžk ze šěrokosću wot 100 pikselow a z wysokosću wot 200 pikselow .",
+        "output": "Jeli [100x200px | subject] so pisa , potom wobraz bu skalěrowane , zo wón wužiwa praworóžk ze šěrokosću wot 100 pikselow a z wysokosću wot 200 pikselow ."
+    },
+    {
+        "input": "Pismowy wobraz husto starše formy dołho wobchowuje , kotrež su so w rěčanej rěči hižo [změnili] .",
+        "output": "Pismowy wobraz husto starše formy dołho wobchowuje , [kotrež | subject] su so w rěčanej rěči hižo změnili ."
+    },
+    {
+        "input": "Tutón so při zrałoće do płoda přetworjuje , při čimž so dalše dźěle kćenja [móžeja] wobdźělować .",
+        "output": "Tutón so při zrałoće do płoda přetworjuje , při čimž so dalše [dźěle | subject] kćenja móžeja wobdźělować ."
+    },
+    {
+        "input": "Něhdźe 2 . 100 kupow su z tych wobsydlene , cyłkownje [wobydla] 14 , 9 Mio . čłowjekow na tych .",
+        "output": "Něhdźe 2 . 100 kupow su z tych wobsydlene , cyłkownje wobydla 14 , 9 Mio . [čłowjekow | subject] na tych ."
+    },
+    {
+        "input": "Ćežka woda so wot wšědneje wody we fyzikalnych a chemiskich kajkosćach [rozeznawa] , na př . ma wyši škrějny dypk , warjenski dypk a je husćiša .",
+        "output": "Ćežka [woda | subject] so wot wšědneje wody we fyzikalnych a chemiskich kajkosćach rozeznawa , na př . ma wyši škrějny dypk , warjenski dypk a je husćiša ."
+    },
+    {
+        "input": "Kooperacija : Konferenca [wotměje] so w zwisku z wustajeńcu \" Moderni z tradicije . Widy na kultury Romow / Cyganow \" w Serbskim muzeju Budyšin .",
+        "output": "Kooperacija : [Konferenca | subject] wotměje so w zwisku z wustajeńcu \" Moderni z tradicije . Widy na kultury Romow / Cyganow \" w Serbskim muzeju Budyšin ."
+    },
+    {
+        "input": "Citaty z literatury so jenož prawopisnje [adaptuja] , morfologiske wosebitosće so wobchowaja .",
+        "output": "[Citaty | subject] z literatury so jenož prawopisnje adaptuja , morfologiske wosebitosće so wobchowaja ."
+    },
+    {
+        "input": "Citaty z literatury so jenož prawopisnje adaptuja , morfologiske wosebitosće so [wobchowaja] .",
+        "output": "Citaty z literatury so jenož prawopisnje adaptuja , morfologiske [wosebitosće | subject] so wobchowaja ."
+    },
+    {
+        "input": "[Běchu] fazy , kotrež buchu přez wulke mócnarstwa dominowane a druhe , w kotrychž mócy ze susodnych regionow dobywanske wójnske wuprawy wjedźechu .",
+        "output": "Běchu [fazy | subject] , kotrež buchu přez wulke mócnarstwa dominowane a druhe , w kotrychž mócy ze susodnych regionow dobywanske wójnske wuprawy wjedźechu ."
+    },
+    {
+        "input": "Sobudźěłaćerjo dźerža 4 - 5 přednoškow k wšelakim temam , po tym [sćěhuje] krótka diskusija .",
+        "output": "Sobudźěłaćerjo dźerža 4 - 5 přednoškow k wšelakim temam , po tym sćěhuje krótka [diskusija | subject] ."
+    },
+    {
+        "input": "Čerstwa woda je najhusćiša při 4 ° C ; jeje hustosć [wotewza] , hdyž mjerznje abo so zhrěje .",
+        "output": "Čerstwa woda je najhusćiša při 4 ° C ; jeje [hustosć | subject] wotewza , hdyž mjerznje abo so zhrěje ."
+    },
+    {
+        "input": "Woni [dachu] wšě opoziciske strony zakazować , politiske přećiwnicy přesćěhać a zamordować .",
+        "output": "[Woni | subject] dachu wšě opoziciske strony zakazować , politiske přećiwnicy přesćěhać a zamordować ."
+    },
+    {
+        "input": "Kónc 4 . lěttysaca př . n . l . buchu technologije za efektiwniše powodźenje polow wuwite a etablěrowane , tak zo [móhli] so prěni raz města tworić .",
+        "output": "Kónc 4 . lěttysaca př . n . l . buchu technologije za efektiwniše powodźenje polow wuwite a etablěrowane , tak zo móhli so prěni raz [města | subject] tworić ."
+    },
+    {
+        "input": "Karnataka ma drawidsku rěč Kannada jako jeničku zarjadnisku rěč , ale tam so tež Urdu ( 10 , 5 % ) , Telugu ( 7 , 0 % ) a wjele druhich rěčow [rěči] .",
+        "output": "Karnataka ma drawidsku rěč Kannada jako jeničku zarjadnisku rěč , ale tam so tež [Urdu | subject] ( 10 , 5 % ) , Telugu ( 7 , 0 % ) a wjele druhich rěčow rěči ."
+    },
+    {
+        "input": "Na powjerchu zemje so [nahromadźuje] wodowe masy běžace dele - na př . rěčki a rěki - a stajace na wěstym niwowje - na př . jězory , morja , a oceany .",
+        "output": "Na powjerchu zemje so nahromadźuje wodowe [masy | subject] běžace dele - na př . rěčki a rěki - a stajace na wěstym niwowje - na př . jězory , morja , a oceany ."
+    },
+    {
+        "input": "Jednora ale wažna a jónkróćna kajkosć wody je , zo jeje kruta forma [płuwa] na kapalnej .",
+        "output": "Jednora ale wažna a jónkróćna kajkosć wody je , zo jeje kruta [forma | subject] płuwa na kapalnej ."
+    },
+    {
+        "input": "Ze symjenjow so tež muka [zhotowja] , kotraž móže jako přidawk při chlěbpječenju słužić .",
+        "output": "Ze symjenjow so tež [muka | subject] zhotowja , kotraž móže jako přidawk při chlěbpječenju słužić ."
+    },
+    {
+        "input": "Ze symjenjow so tež muka zhotowja , kotraž [móže] jako přidawk při chlěbpječenju słužić .",
+        "output": "Ze symjenjow so tež muka zhotowja , [kotraž | subject] móže jako přidawk při chlěbpječenju słužić ."
+    },
+    {
+        "input": "Prošu wobeńć proste wulkosće wobrazow , dokelž hewak wužiwarske nastajenja [njefunguja] .",
+        "output": "Prošu wobeńć proste wulkosće wobrazow , dokelž hewak wužiwarske [nastajenja | subject] njefunguja ."
+    },
+    {
+        "input": "Ale tež [eksistuja] žiwochi , kotřiž njetrjebaja kislik , předewšěm při jednobańkowcach .",
+        "output": "Ale tež eksistuja [žiwochi | subject] , kotřiž njetrjebaja kislik , předewšěm při jednobańkowcach ."
+    },
+    {
+        "input": "So [móže] widźeć tute hdyž tróšku wody bu kapana na njerozpušćomny powjerch kaž škleńcu .",
+        "output": "So móže widźeć [tute | subject] hdyž tróšku wody bu kapana na njerozpušćomny powjerch kaž škleńcu ."
+    },
+    {
+        "input": "Tuta definicija njeje pak geografisce ale tež tektonisce prawa , dokelž teritorije pak na awstralskej , pacifiskej a někotrych mjeńšich platach [leža] .",
+        "output": "Tuta definicija njeje pak geografisce ale tež tektonisce prawa , dokelž [teritorije | subject] pak na awstralskej , pacifiskej a někotrych mjeńšich platach leža ."
+    },
+    {
+        "input": "10 . Za kopije a druhe posłužby [zběra] so Popłatkowemu porjadej wotpowědowacy popłatk .",
+        "output": "10 . Za kopije a druhe posłužby zběra so Popłatkowemu porjadej wotpowědowacy [popłatk | subject] ."
+    },
+    {
+        "input": "Administratorojo njejsu oficialni zastupnicy Wikimedia Foundation , na kotrejež serwerach w St . Petersburg , Florida , wšě Wikimedia - projekty [leža] .",
+        "output": "Administratorojo njejsu oficialni zastupnicy Wikimedia Foundation , na kotrejež serwerach w St . Petersburg , Florida , wšě Wikimedia - [projekty | subject] leža ."
+    },
+    {
+        "input": "Klemenowe basnje su so před krótkim do japanšćiny , chinšćiny , francošćiny , jendźelšćiny , hindišćiny , šwedšćiny , italšćiny a španšćiny [přełožili] .",
+        "output": "Klemenowe [basnje | subject] su so před krótkim do japanšćiny , chinšćiny , francošćiny , jendźelšćiny , hindišćiny , šwedšćiny , italšćiny a španšćiny přełožili ."
+    },
+    {
+        "input": "Tute přesunjenje wokalow [dźe] na indoeuropski přechad wróćo a hodźi so tohodla , zdźěla pola samsnych werbow , we wjacorych rěčach wobkedźbować , na př .",
+        "output": "Tute [přesunjenje | subject] wokalow dźe na indoeuropski přechad wróćo a hodźi so tohodla , zdźěla pola samsnych werbow , we wjacorych rěčach wobkedźbować , na př ."
+    },
+    {
+        "input": "Dla narunanja normalneje wody při chemiskich substancach runowahowe reakcije [změnja] , štož móže na př . k ćěłoškódnym sćěham w čłowjekowym ćěle wodźić .",
+        "output": "Dla narunanja normalneje wody při chemiskich substancach runowahowe [reakcije | subject] změnja , štož móže na př . k ćěłoškódnym sćěham w čłowjekowym ćěle wodźić ."
+    },
+    {
+        "input": "Dla narunanja normalneje wody při chemiskich substancach runowahowe reakcije změnja , štož [móže] na př . k ćěłoškódnym sćěham w čłowjekowym ćěle wodźić .",
+        "output": "Dla narunanja normalneje wody při chemiskich substancach runowahowe reakcije změnja , [štož | subject] móže na př . k ćěłoškódnym sćěham w čłowjekowym ćěle wodźić ."
+    },
+    {
+        "input": "Na zemi [su] 193 njewotwisnych a wot strony Zjednoćenych narodow připóznatych statow .",
+        "output": "Na zemi su 193 njewotwisnych a wot strony Zjednoćenych narodow připóznatych [statow | subject] ."
+    },
+    {
+        "input": "Nimo \" normalneje \" woda [eksistuje] tež tak mjenowana \" połćežka woda \" , \" ćežka woda \" ( deuteriumowy oksid ) a \" přećežka woda \" ( tritiumowy oksid ) .",
+        "output": "Nimo \" normalneje \" woda eksistuje tež tak mjenowana \" połćežka [woda | subject] \" , \" ćežka woda \" ( deuteriumowy oksid ) a \" přećežka woda \" ( tritiumowy oksid ) ."
+    },
+    {
+        "input": "Tropiski stat [mjezuje] z Gowu na sewjerozapadźe , Maharaštru na sewjeru , Andrapradešom na wuchodźe , Tamil Nadu na juhowuchodźe a Keralu na juhozapadźe .",
+        "output": "Tropiski [stat | subject] mjezuje z Gowu na sewjerozapadźe , Maharaštru na sewjeru , Andrapradešom na wuchodźe , Tamil Nadu na juhowuchodźe a Keralu na juhozapadźe ."
+    },
+    {
+        "input": "Při tym pisachu jenož konsonanty , wokale so w přisłušnym pismje [njepisaše] ( samsne płaći za prapisma Biblije kaž tež hieroglyfowe pismo Egyptowčanow ) .",
+        "output": "Při tym pisachu jenož konsonanty , [wokale | subject] so w přisłušnym pismje njepisaše ( samsne płaći za prapisma Biblije kaž tež hieroglyfowe pismo Egyptowčanow ) ."
+    },
+    {
+        "input": "Při tym pisachu jenož konsonanty , wokale so w přisłušnym pismje njepisaše ( samsne [płaći] za prapisma Biblije kaž tež hieroglyfowe pismo Egyptowčanow ) .",
+        "output": "Při tym pisachu jenož konsonanty , wokale so w přisłušnym pismje njepisaše ( [samsne | subject] płaći za prapisma Biblije kaž tež hieroglyfowe pismo Egyptowčanow ) ."
+    },
+    {
+        "input": "Epos wo tutym rjeku [maja] so za najstarši wobchowany literarny dokument čłowjestwa .",
+        "output": "[Epos | subject] wo tutym rjeku maja so za najstarši wobchowany literarny dokument čłowjestwa ."
+    },
+    {
+        "input": "Serbski institut [kooperuje] z druhimi wědomostnymi zarjadnišćemi w tu - a wukraju .",
+        "output": "Serbski [institut | subject] kooperuje z druhimi wědomostnymi zarjadnišćemi w tu - a wukraju ."
+    },
+    {
+        "input": "Tak wjele pozdźišo samo Assyričenjo w swojich stawiznach wo Sargonje [rozprawichu] .",
+        "output": "Tak wjele pozdźišo samo [Assyričenjo | subject] w swojich stawiznach wo Sargonje rozprawichu ."
+    },
+    {
+        "input": "Wón [započina] kónc meje při přibrjohu Keraly w juhozapadźe Indiskeje połkupy a ćehnje w běhu přichodneho połdra měsaca w sewjerowuchodnym směrje přez kraj .",
+        "output": "[Wón | subject] započina kónc meje při přibrjohu Keraly w juhozapadźe Indiskeje połkupy a ćehnje w běhu přichodneho połdra měsaca w sewjerowuchodnym směrje přez kraj ."
+    },
+    {
+        "input": "Tutón nastawk resp . wotrězk hišće ma wobsahowe mjezoty : [faluje] wjele družinow .",
+        "output": "Tutón nastawk resp . wotrězk hišće ma wobsahowe mjezoty : faluje wjele [družinow | subject] ."
+    },
+    {
+        "input": "Ze spočatka njewotwisnosće hač do 1984 [mjenowaše] so stat Republika Hornja Wolta .",
+        "output": "Ze spočatka njewotwisnosće hač do 1984 mjenowaše so [stat | subject] Republika Hornja Wolta ."
+    },
+    {
+        "input": "Njewólnicy , kotřiž za měšniskich wjerchow [dźěłachu] , dóstachu za to naturalije .",
+        "output": "Njewólnicy , [kotřiž | subject] za měšniskich wjerchow dźěłachu , dóstachu za to naturalije ."
+    },
+    {
+        "input": "Serbšćina so dźensa hišće w někotrych dźělach Hornjeje a Delnjeje Łužicy [wužiwa] .",
+        "output": "[Serbšćina | subject] so dźensa hišće w někotrych dźělach Hornjeje a Delnjeje Łužicy wužiwa ."
+    },
+    {
+        "input": "Historikarjo njejsu sej wěsći , kak dołho so tuta zběrka zakonjow [wobkedźbowaše] .",
+        "output": "Historikarjo njejsu sej wěsći , kak dołho so tuta [zběrka | subject] zakonjow wobkedźbowaše ."
+    },
+    {
+        "input": "Tohodla hłuboka woda [wostanje] kapalna , ćopliša hač lodowy powjerch , a wodowe organizmy ( prěnje žiwe organizmy na zemi ) móžeja lodowe wumjenja přežiwić .",
+        "output": "Tohodla hłuboka [woda | subject] wostanje kapalna , ćopliša hač lodowy powjerch , a wodowe organizmy ( prěnje žiwe organizmy na zemi ) móžeja lodowe wumjenja přežiwić ."
+    },
+    {
+        "input": "Tohodla hłuboka woda wostanje kapalna , ćopliša hač lodowy powjerch , a wodowe organizmy ( prěnje žiwe organizmy na zemi ) [móžeja] lodowe wumjenja přežiwić .",
+        "output": "Tohodla hłuboka woda wostanje kapalna , ćopliša hač lodowy powjerch , a wodowe [organizmy | subject] ( prěnje žiwe organizmy na zemi ) móžeja lodowe wumjenja přežiwić ."
+    },
+    {
+        "input": "Wopytowarjam zarjadowanja w Serbskim domje [steji] nimo toho runje wućišćana \" Dźěłowa rozprawa lěta 2008 \" k dispoziciji .",
+        "output": "[Wopytowarjam | indirect_object] zarjadowanja w Serbskim domje steji nimo toho runje wućišćana \" Dźěłowa [rozprawa | subject] lěta 2008 \" k dispoziciji ."
+    },
+    {
+        "input": "Jej [přisteji] wobstaranje , zadźěłanje , archiwizowanje a spřistupnjenje cyłeje serbskorěčneje literatury a wozjewjenjow wo Serbach .",
+        "output": "[Jej | indirect_object] přisteji [wobstaranje | subject] , zadźěłanje , archiwizowanje a spřistupnjenje cyłeje serbskorěčneje literatury a wozjewjenjow wo Serbach ."
+    },
+    {
+        "input": "Planowane je tež pytansku funkciju integrować , kiž wužiwarjej [dowoli] , wopak pisane słowo namakać .",
+        "output": "Planowane je tež pytansku funkciju integrować , [kiž | subject] [wužiwarjej | indirect_object] dowoli , wopak pisane słowo namakać ."
+    },
+    {
+        "input": "Tute wobrazowe pismo [dowoli] ludźom , wšědne wěcy lěpje organizować .",
+        "output": "Tute wobrazowe [pismo | subject] dowoli [ludźom | indirect_object] , wšědne wěcy lěpje organizować ."
+    },
+    {
+        "input": "Na spočatku [słužeše] pismo jenož knihiwjedstwu -",
+        "output": "Na spočatku słužeše [pismo | subject] jenož [knihiwjedstwu | indirect_object] -"
+    },
+    {
+        "input": "Princ Wilhelm Oranski [da] Leidenčanam , jako myto za spjećowanje přećiwo Španičanam , uniwersitu .",
+        "output": "Princ [Wilhelm | subject] Oranski da [Leidenčanam | indirect_object] , jako myto za spjećowanje přećiwo Španičanam , [uniwersitu | object] ."
+    }
+]

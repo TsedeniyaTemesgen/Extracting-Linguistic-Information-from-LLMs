@@ -1,0 +1,58 @@
+[
+    {
+        "lemma": "bāls",
+        "surface_word": "bālgans",
+        "lemma_pos": "ADJ",
+        "surface_word_tag": "ADJ",
+        "affix": "-gans",
+        "prefix": [],
+        "suffix": "-gans",
+        "alternative_0": "bāls<ADJ> gans<ADJ_SUFF>",
+        "sub_words": "bāls<ADJ> gans<ADJ_SUFF>"
+    },
+    {
+        "lemma": "simbolists",
+        "surface_word": "simbolistisks",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-isks",
+        "prefix": [],
+        "suffix": "-isks",
+        "alternative_0": "simbolists<N> isks<ADJ_SUFF>",
+        "alternative_1": "simbols<N> ists<N_SUFF> isks<ADJ_SUFF>",
+        "sub_words": "simbols<N> ists<N_SUFF> isks<ADJ_SUFF>"
+    },
+    {
+        "lemma": "arābs",
+        "surface_word": "arābisks",
+        "lemma_pos": "N",
+        "surface_word_tag": "ADJ",
+        "affix": "-isks",
+        "prefix": [],
+        "suffix": "-isks",
+        "alternative_0": "arābs<N> isks<ADJ_SUFF>",
+        "sub_words": "arābs<N> isks<ADJ_SUFF>"
+    },
+    {
+        "lemma": "pērn",
+        "surface_word": "pērnējs",
+        "lemma_pos": "ADV",
+        "surface_word_tag": "ADJ",
+        "affix": "-ējs",
+        "prefix": [],
+        "suffix": "-ējs",
+        "alternative_0": "pērn<ADV> ējs<ADJ_SUFF>",
+        "sub_words": "pērn<ADV> ējs<ADJ_SUFF>"
+    },
+    {
+        "lemma": "kārt",
+        "surface_word": "atkarīgs",
+        "lemma_pos": "V",
+        "surface_word_tag": "ADJ",
+        "affix": "at-",
+        "prefix": "at-",
+        "suffix": [],
+        "alternative_0": "at<PREF> kārt<V>",
+        "sub_words": "at<PREF> kārt<V>"
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "input": "Buvo ir kitokių priežasčių , bet , manau , nėra jokios abejonės , kad tokią plėtotę nemaža dalimi [lėmė] mūsų siaurakakčiai patriotai .",
+        "output": "Buvo ir kitokių priežasčių , bet , manau , nėra jokios abejonės , kad tokią [plėtotę | object] nemaža dalimi lėmė mūsų siaurakakčiai [patriotai | subject] ."
+    },
+    {
+        "input": "Kitaip jis visada [generuos] įtampą ir trintį , ne tik prieštaraujančią sveikam protui , bet ir žalingą Lietuvos valstybės interesui ..",
+        "output": "Kitaip [jis | subject] visada generuos [įtampą | object] ir trintį , ne tik prieštaraujančią sveikam protui , bet ir žalingą Lietuvos valstybės interesui .."
+    },
+    {
+        "input": "Santykiuose su Vilnijos lenkais ima veikti tragiškas grįžtamasis ryšys : vienų nenuolaidumas [stiprina] kitų nenuolaidumą .",
+        "output": "Santykiuose su Vilnijos lenkais ima veikti tragiškas grįžtamasis ryšys : vienų [nenuolaidumas | subject] stiprina kitų [nenuolaidumą | object] ."
+    },
+    {
+        "input": "Sutinku , bet polinkis kalbėti , juo labiau šaukti apie kitų kaltes ( nors tai psichologiškai suprantama reakcija ) tik [sunkina] problemą .",
+        "output": "Sutinku , bet [polinkis | subject] kalbėti , juo labiau šaukti apie kitų kaltes ( nors tai psichologiškai suprantama reakcija ) tik sunkina [problemą | object] ."
+    },
+    {
+        "input": "Galima ne be tam tikro pagrindo tikėtis Rusijai tokios išeities , kokią savo metu [pasirinko] Mustafos Kemalio Turkija .",
+        "output": "Galima ne be tam tikro pagrindo tikėtis Rusijai tokios išeities , [kokią | object] savo metu pasirinko Mustafos Kemalio [Turkija | subject] ."
+    },
+    {
+        "input": "Kalbėjimas apie savo kaltes ( kuris [reikalauja] vidinio brandumo ir tam tikrų pastangų ) ją gali kiek palengvinti .",
+        "output": "Kalbėjimas apie savo kaltes ( [kuris | subject] reikalauja vidinio [brandumo | object] ir tam tikrų pastangų ) ją gali kiek palengvinti ."
+    },
+    {
+        "input": "Kad ir ką manytum , apie Efraimą Zuroffą , jo teisybė , kada jis sako , jog lietuviai , skirtingai negu kroatai , [nenuteisė] nė vieno žydšaudžio .",
+        "output": "Kad ir ką manytum , apie Efraimą Zuroffą , jo teisybė , kada jis sako , jog [lietuviai | subject] , skirtingai negu kroatai , nenuteisė nė vieno [žydšaudžio | object] ."
+    },
+    {
+        "input": "Kai kurie Laikinosios vyriausybės nariai gali būti išteisinti , bet tikrai nė vienas jų nebūtų [gavęs] ordino ir nebūtų paskelbtas tautos patriarchu .",
+        "output": "Kai kurie Laikinosios vyriausybės nariai gali būti išteisinti , bet tikrai nė vienas [jų | subject] nebūtų gavęs [ordino | object] ir nebūtų paskelbtas tautos patriarchu ."
+    },
+    {
+        "input": "Sudėtingiausias yra santykių su Rusija klausimas , nes šių dienų Rusija [duoda] pagrindo ja nepasitikėti .",
+        "output": "Sudėtingiausias yra santykių su Rusija klausimas , nes šių dienų [Rusija | subject] duoda [pagrindo | object] ja nepasitikėti ."
+    },
+    {
+        "input": "To [nesupranta] naivūs arba savanaudiški Vakarai , kurie baigia su Rusija susitarti , pasmerkdami mus nevisiškai aiškiam , bet be abejonės klaikiam likimui .",
+        "output": "[To | object] nesupranta naivūs arba savanaudiški [Vakarai | subject] , kurie baigia su Rusija susitarti , pasmerkdami mus nevisiškai aiškiam , bet be abejonės klaikiam likimui ."
+    },
+    {
+        "input": "Tai [lėmė] nepalankų Lietuvai lūžį – vietos žmonės įpyko ir pasirinko ne lietuviškumą , o lenkiškumą .",
+        "output": "[Tai | subject] lėmė nepalankų Lietuvai [lūžį | object] – vietos žmonės įpyko ir pasirinko ne lietuviškumą , o lenkiškumą ."
+    },
+    {
+        "input": "Bet , deja , pastarųjų metų praktika [duoda] pagrindo vadinti lietuvius žydšaudžių advokatų tauta .",
+        "output": "Bet , deja , pastarųjų metų [praktika | subject] duoda [pagrindo | object] vadinti lietuvius žydšaudžių advokatų tauta ."
+    },
+    {
+        "input": "Vienintelis dalykas , kurį galiu rekomenduoti – [nepilkime] benzino į ugnį .",
+        "output": "Vienintelis [dalykas | subject] , kurį galiu rekomenduoti – nepilkime [benzino | object] į ugnį ."
+    },
+    {
+        "input": "Bet kokie Rusijos veiksmai , [sekant] tuo požiūriu , turi piktų intencijų .",
+        "output": "Bet kokie Rusijos [veiksmai | subject] , sekant tuo [požiūriu | object] , turi piktų intencijų ."
+    },
+    {
+        "input": "Dabar , ko gero , daug sunkiau [užgesinti] priešiškumą , negu anuomet .",
+        "output": "Dabar , ko gero , [daug | subject] sunkiau užgesinti [priešiškumą | object] , negu anuomet ."
+    },
+    {
+        "input": "Visa tai [primena] karikatūra , kurią neseniai mačiau lenkų žurnale .",
+        "output": "Visa [tai | subject] primena [karikatūra | object] , kurią neseniai mačiau lenkų žurnale ."
+    },
+    {
+        "input": "Kiti , kaip žinoma , aiškios tautinės sąmonės iš vis [neturėjo] .",
+        "output": "[Kiti | subject] , kaip žinoma , aiškios tautinės [sąmonės | object] iš vis neturėjo ."
+    },
+    {
+        "input": "Pirmoji klaida [liečia] 1941 metų Laikinąją vyriausybę .",
+        "output": "Pirmoji [klaida | subject] liečia 1941 metų Laikinąją [vyriausybę | object] ."
+    },
+    {
+        "input": "Jei leistinas „ alternatyvinės istorijos “ eksperimentas – įsivaizduokime , kad Lietuvą 1944 metas [išvaduoja] Vakarų sąjungininkai , ir į ją grįžta Stasys Lozoraitis , tuo metu nominalus valstybės galva .",
+        "output": "Jei leistinas „ alternatyvinės istorijos “ eksperimentas – įsivaizduokime , kad [Lietuvą | object] 1944 metas išvaduoja Vakarų [sąjungininkai | subject] , ir į ją grįžta Stasys Lozoraitis , tuo metu nominalus valstybės galva ."
+    },
+    {
+        "input": "Antroji klaida – genocido sąvokos infliacija , nutrinanti skirtumus tarp holokausto ir kitų totalitarinių nusikaltimų ( beje , tą infliaciją dar prieš atgaunant nepriklausomybę [skatino] mūsų emigrantai ) .",
+        "output": "Antroji klaida – genocido sąvokos infliacija , nutrinanti skirtumus tarp holokausto ir kitų totalitarinių nusikaltimų ( beje , tą [infliaciją | object] dar prieš atgaunant nepriklausomybę skatino mūsų [emigrantai | subject] ) ."
+    },
+    {
+        "input": "Ką tas Putinas dar [prasimanys] “ .",
+        "output": "[Ką | object] tas [Putinas | subject] dar prasimanys “ ."
+    },
+    {
+        "input": "Dažnas jų [sutiko] ir net norėjo vadintis lietuviu , tik kitonišku , lenkiškai kalbančiu , išlaikančiu ryšį su lenkų kultūra .",
+        "output": "[Dažnas | subject] jų sutiko ir net norėjo vadintis lietuviu , tik kitonišku , lenkiškai kalbančiu , išlaikančiu ryšį su lenkų kultūra ."
+    },
+    {
+        "input": "Būtina be jokių išlygų pareikšti , kad naujoji Lietuva kategoriškai [neįjungia] šios tradicijos į gerbtinų ir sektinų tradicijų skaičių .",
+        "output": "Būtina be jokių išlygų pareikšti , kad naujoji [Lietuva | subject] kategoriškai neįjungia šios tradicijos į gerbtinų ir sektinų tradicijų skaičių ."
+    },
+    {
+        "input": "Santykiuose su Vilnijos lenkais [ima] veikti tragiškas grįžtamasis ryšys : vienų nenuolaidumas stiprina kitų nenuolaidumą .",
+        "output": "Santykiuose su Vilnijos lenkais ima veikti tragiškas grįžtamasis [ryšys | subject] : vienų nenuolaidumas stiprina kitų nenuolaidumą ."
+    },
+    {
+        "input": "Sakiau ir sakysiu , kad šioje srityje buvo [padarytos] dvi didelės klaidos , kurias anksčiau ar vėliau reikės ištaisyt .",
+        "output": "Sakiau ir sakysiu , kad šioje srityje buvo padarytos dvi didelės [klaidos | subject] , kurias anksčiau ar vėliau reikės ištaisyt ."
+    },
+    {
+        "input": "Priešingai , visuomenės ir teismų [neartikuliuotas] , bet aiškiai juntamas nusiteikimas buvo , kad visas tokias bylas pridera tyliai sabotuoti .",
+        "output": "Priešingai , [visuomenės | subject] ir teismų neartikuliuotas , bet aiškiai juntamas nusiteikimas buvo , kad visas tokias bylas pridera tyliai sabotuoti ."
+    },
+    {
+        "input": "Kalbėjimas apie savo kaltes ( kuris reikalauja vidinio brandumo ir tam tikrų pastangų ) ją [gali] kiek palengvinti .",
+        "output": "[Kalbėjimas | subject] apie savo kaltes ( kuris reikalauja vidinio brandumo ir tam tikrų pastangų ) ją gali kiek palengvinti ."
+    },
+    {
+        "input": "Kad ir ką manytum , apie Efraimą Zuroffą , jo teisybė , kada jis [sako] , jog lietuviai , skirtingai negu kroatai , nenuteisė nė vieno žydšaudžio .",
+        "output": "Kad ir ką manytum , apie Efraimą Zuroffą , jo teisybė , kada [jis | subject] sako , jog lietuviai , skirtingai negu kroatai , nenuteisė nė vieno žydšaudžio ."
+    },
+    {
+        "input": "Be abejonės , tada būtų tekę ( kad ir nenoromis ) surengti Laikinosios vyriausybės procesą , kaip Prancūzijoje buvo [surengtas] Pétaine‘o procesas .",
+        "output": "Be abejonės , tada būtų tekę ( kad ir nenoromis ) surengti Laikinosios vyriausybės procesą , kaip Prancūzijoje buvo surengtas Pétaine‘o [procesas | subject] ."
+    },
+    {
+        "input": "Kai kurie Laikinosios vyriausybės nariai [gali] būti išteisinti , bet tikrai nė vienas jų nebūtų gavęs ordino ir nebūtų paskelbtas tautos patriarchu .",
+        "output": "Kai kurie Laikinosios vyriausybės [nariai | subject] gali būti išteisinti , bet tikrai nė vienas jų nebūtų gavęs ordino ir nebūtų paskelbtas tautos patriarchu ."
+    },
+    {
+        "input": "Kada Vilnija grįžo Lietuvai , daugelis tenykščių gyventojų dar nesunkiai [galėjo] pakrypti Lietuvos pusėn .",
+        "output": "Kada Vilnija grįžo Lietuvai , [daugelis | subject] tenykščių gyventojų dar nesunkiai galėjo pakrypti Lietuvos pusėn ."
+    },
+    {
+        "input": "To nesupranta naivūs arba savanaudiški Vakarai , kurie [baigia] su Rusija susitarti , pasmerkdami mus nevisiškai aiškiam , bet be abejonės klaikiam likimui .",
+        "output": "To nesupranta naivūs arba savanaudiški Vakarai , [kurie | subject] baigia su Rusija susitarti , pasmerkdami mus nevisiškai aiškiam , bet be abejonės klaikiam likimui ."
+    },
+    {
+        "input": "Tai lėmė nepalankų Lietuvai lūžį – vietos žmonės [įpyko] ir pasirinko ne lietuviškumą , o lenkiškumą .",
+        "output": "Tai lėmė nepalankų Lietuvai lūžį – vietos [žmonės | subject] įpyko ir pasirinko ne lietuviškumą , o lenkiškumą ."
+    },
+    {
+        "input": "Apskritai paėmus , turkai [nebesvajoja] apie imperiją ir niekam nėra mirtinai pavojingi – nei bulgarams , nei serbams , nei graikams , pagaliau netgi armėnams .",
+        "output": "Apskritai paėmus , [turkai | subject] nebesvajoja apie imperiją ir niekam nėra mirtinai pavojingi – nei bulgarams , nei serbams , nei graikams , pagaliau netgi armėnams ."
+    },
+    {
+        "input": "Priminsiu , kad po karo Lozoraitis , o kurį laiką ir VLIK‘as nuo jų gana aiškiai [atsiribojo] .",
+        "output": "Priminsiu , kad po karo [Lozoraitis | subject] , o kurį laiką ir VLIK‘as nuo jų gana aiškiai atsiribojo ."
+    },
+    {
+        "input": "Bet čia nereikia perlenkti lazdos , nedera užmiršti , kad reikalai [gali] pasisukti ir kitaip .",
+        "output": "Bet čia nereikia perlenkti lazdos , nedera užmiršti , kad [reikalai | subject] gali pasisukti ir kitaip ."
+    },
+    {
+        "input": "Treti buvo nevietinės kilmės lenkai , bet tai [nereiškė] , kad juos derėjo diskriminuoti .",
+        "output": "Treti buvo nevietinės kilmės lenkai , bet [tai | subject] nereiškė , kad juos derėjo diskriminuoti ."
+    },
+    {
+        "input": "Laikinoji vyriausybė iš esmės [nesiskiria] nuo Tiso vyriausybės Slovakijoje ir Paveličiaus vyriausybės Kroatijoje , kurių nė vienas rimtas istorikas nelaiko teigiamu daiktu .",
+        "output": "Laikinoji [vyriausybė | subject] iš esmės nesiskiria nuo Tiso vyriausybės Slovakijoje ir Paveličiaus vyriausybės Kroatijoje , kurių nė vienas rimtas istorikas nelaiko teigiamu daiktu ."
+    },
+    {
+        "input": "Tačiau jau 1939 metais [prasidėjo] įkyrus ir beatodairiškas krašto lietuvinimas , visiškai neatsižvelgiąs į jo ypatingumus , į sudėtingas ir ne tokias sudėtingas sąmonės formas .",
+        "output": "Tačiau jau 1939 metais prasidėjo įkyrus ir beatodairiškas krašto [lietuvinimas | subject] , visiškai neatsižvelgiąs į jo ypatingumus , į sudėtingas ir ne tokias sudėtingas sąmonės formas ."
+    },
+    {
+        "input": "Mano prognozė būtų kitokia : ekonominės bei demografinės priežastys [privers] ir jau verčia Rusiją destalinizuotis , nors tame kelyje pasitaiko ir gali pasitaikyti nesimpatingų vingių .",
+        "output": "Mano prognozė būtų kitokia : ekonominės bei demografinės [priežastys | subject] privers ir jau verčia Rusiją destalinizuotis , nors tame kelyje pasitaiko ir gali pasitaikyti nesimpatingų vingių ."
+    },
+    {
+        "input": "Mano prognozė būtų kitokia : ekonominės bei demografinės priežastys privers ir jau verčia Rusiją destalinizuotis , nors tame kelyje [pasitaiko] ir gali pasitaikyti nesimpatingų vingių .",
+        "output": "Mano prognozė būtų kitokia : ekonominės bei demografinės priežastys privers ir jau verčia Rusiją destalinizuotis , nors tame kelyje pasitaiko ir gali pasitaikyti nesimpatingų [vingių | subject] ."
+    },
+    {
+        "input": "Jei Rusijai sekasi , tai baisu , jei nesiseka , tai didelė laimė ; Rusijos klestėjimas , ekonominis ir kultūrinis atgimimas būtų baisiausia , kas [gali] ištikti jos kaimynus ir pasaulį .",
+        "output": "Jei Rusijai sekasi , tai baisu , jei nesiseka , tai didelė laimė ; Rusijos klestėjimas , ekonominis ir kultūrinis atgimimas būtų baisiausia , [kas | subject] gali ištikti jos kaimynus ir pasaulį ."
+    },
+    {
+        "input": "Jis buvo pagal išgales [tęsiamas] nacių okupacijos metais .",
+        "output": "[Jis | subject] buvo pagal išgales tęsiamas nacių okupacijos metais ."
+    },
+    {
+        "input": "Ko gero , tas grįžtamasis ryšys [veikia] nuo 1939 metų .",
+        "output": "Ko gero , tas grįžtamasis [ryšys | subject] veikia nuo 1939 metų ."
+    },
+    {
+        "input": "Jei [leistinas] „ alternatyvinės istorijos “ eksperimentas – įsivaizduokime , kad Lietuvą 1944 metas išvaduoja Vakarų sąjungininkai , ir į ją grįžta Stasys Lozoraitis , tuo metu nominalus valstybės galva .",
+        "output": "Jei leistinas „ alternatyvinės istorijos “ [eksperimentas | subject] – įsivaizduokime , kad Lietuvą 1944 metas išvaduoja Vakarų sąjungininkai , ir į ją grįžta Stasys Lozoraitis , tuo metu nominalus valstybės galva ."
+    },
+    {
+        "input": "Jei leistinas „ alternatyvinės istorijos “ eksperimentas – įsivaizduokime , kad Lietuvą 1944 metas išvaduoja Vakarų sąjungininkai , ir į ją [grįžta] Stasys Lozoraitis , tuo metu nominalus valstybės galva .",
+        "output": "Jei leistinas „ alternatyvinės istorijos “ eksperimentas – įsivaizduokime , kad Lietuvą 1944 metas išvaduoja Vakarų sąjungininkai , ir į ją grįžta [Stasys | subject] Lozoraitis , tuo metu nominalus valstybės galva ."
+    },
+    {
+        "input": "Du sodiečiai [sėdi] ant potvynio apsemtų namų stogo .",
+        "output": "Du [sodiečiai | subject] sėdi ant potvynio apsemtų namų stogo ."
+    },
+    {
+        "input": "Kada Vilnija [grįžo] Lietuvai , daugelis tenykščių gyventojų dar nesunkiai galėjo pakrypti Lietuvos pusėn .",
+        "output": "Kada [Vilnija | subject] grįžo [Lietuvai | indirect_object] , daugelis tenykščių gyventojų dar nesunkiai galėjo pakrypti Lietuvos pusėn ."
+    },
+    {
+        "input": "Juk jie [pakenkė] Lietuvos prestižui labiau negu kitas Lietuvos priešas .",
+        "output": "Juk [jie | subject] pakenkė Lietuvos [prestižui | indirect_object] labiau negu kitas Lietuvos priešas ."
+    },
+    {
+        "input": "Ne vienas mūsų politikas [laiko] lenkus ir kitas etnines mažumas nelojaliomis ex definitione , o jau jų bendruomenių vadovus – paprasčiausia penktąja kolona .",
+        "output": "Ne vienas mūsų [politikas | subject] laiko [lenkus | object] ir kitas etnines mažumas [nelojaliomis | indirect_object] ex definitione , o jau jų bendruomenių vadovus – paprasčiausia penktąja kolona ."
+    },
+    {
+        "input": "Dešimtys mūsų politologų ir žurnalistų yra [pavertę] savo specialybe Rusijos demaskavimą ( beje , ir Vilnius lenkų demaskavimą , ir „ žydų pretenzijų “ demaskavimą ) .",
+        "output": "Dešimtys mūsų [politologų | subject] ir žurnalistų yra pavertę savo [specialybe | indirect_object] Rusijos [demaskavimą | object] ( beje , ir Vilnius lenkų demaskavimą , ir „ žydų pretenzijų “ demaskavimą ) ."
+    },
+    {
+        "input": "Laikinoji vyriausybė iš esmės nesiskiria nuo Tiso vyriausybės Slovakijoje ir Paveličiaus vyriausybės Kroatijoje , kurių nė vienas rimtas istorikas [nelaiko] teigiamu daiktu .",
+        "output": "Laikinoji vyriausybė iš esmės nesiskiria nuo Tiso vyriausybės Slovakijoje ir Paveličiaus vyriausybės Kroatijoje , [kurių | object] nė vienas rimtas [istorikas | subject] nelaiko teigiamu [daiktu | indirect_object] ."
+    },
+    {
+        "input": "Net jeigu laikysimės tokio požiūrio – kuris man [atrodo] klaidingas , - valstybės interesas yra penktąją koloną ne didinti , o mažinti ; ne stumti kitataučius nuo savęs , nuolat juos puldinėt , pabrėžti jų priešiškumą ir demaskuoti jų kėslus , o priešingai , juos prie savęs įvairiais protingais būdais – taip pat nuolaidomis – pritraukti .",
+        "output": "Net jeigu laikysimės tokio požiūrio – [kuris | subject] [man | indirect_object] atrodo [klaidingas | object] , - valstybės interesas yra penktąją koloną ne didinti , o mažinti ; ne stumti kitataučius nuo savęs , nuolat juos puldinėt , pabrėžti jų priešiškumą ir demaskuoti jų kėslus , o priešingai , juos prie savęs įvairiais protingais būdais – taip pat nuolaidomis – pritraukti ."
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "surface_word": "Massenexhumierungen",
+        "sub_words": "Masse<NN> exhumieren<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Pilasterumrahmung",
+        "sub_words": "Pilaster<NN> umrahmen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "Pilaster<NN> um<VPART> rahmen<V> ung<NN_SUFF>",
+        "alternative_1": "Pilaster<NN> um<VPREF> rahmen<V> ung<NN_SUFF>"
+    },
+    {
+        "surface_word": "Durchbrechungen",
+        "sub_words": "durchbrechen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "durch<VPREF> brechen<V> ung<NN_SUFF>",
+        "alternative_1": "durch<VPART> brechen<V> ung<NN_SUFF>"
+    },
+    {
+        "surface_word": "Namensüblichkeit",
+        "sub_words": "Name<NN> üblich<ADJ> keit<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Symptomkuriererei",
+        "sub_words": "Symptom<NN> kurieren<V> erei<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Stabbrechung",
+        "sub_words": "Stab<NN> brechen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Korbsichter",
+        "sub_words": "Korb<NN> sichten<V> er<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Verhandlungsstils",
+        "sub_words": "verhandeln<V> ung<NN_SUFF> Stil<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "ver<VPREF> handeln<V> ung<NN_SUFF> Stil<NN>"
+    },
+    {
+        "surface_word": "Vermehrungsstadium",
+        "sub_words": "vermehren<V> ung<NN_SUFF> Stadium<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "ver<VPREF> mehren<V> ung<NN_SUFF> Stadium<NN>"
+    },
+    {
+        "surface_word": "Schlagerzärtlichkeiten",
+        "sub_words": "Schlager<NN> zärtlich<ADJ> keit<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Tüchtigkeit",
+        "sub_words": "tüchtig<ADJ> keit<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Majoranwürzung",
+        "sub_words": "Majoran<NN> würzen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Verehrungspraktiken",
+        "sub_words": "verehren<V> ung<NN_SUFF> Praktik<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "ver<VPREF> ehren<V> ung<NN_SUFF> Praktik<NN>"
+    },
+    {
+        "surface_word": "Radioverschmutzung",
+        "sub_words": "Radio<NN> verschmutzen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Verdrängungsgroteske",
+        "sub_words": "verdrängen<V> ung<NN_SUFF> Groteske<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "ver<VPREF> drängen<V> ung<NN_SUFF> Groteske<NN>"
+    },
+    {
+        "surface_word": "Verlobungskaffee",
+        "sub_words": "verloben<V> ung<NN_SUFF> Kaffee<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "ver<VPREF> loben<V> ung<NN_SUFF> Kaffee<NN>"
+    },
+    {
+        "surface_word": "Teichbelüfter",
+        "sub_words": "Teich<NN> belüften<V> er<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "Teich<NN> be<VPREF> lüften<V> er<NN_SUFF>"
+    },
+    {
+        "surface_word": "Dateiindizierung",
+        "sub_words": "Datei<NN> indizieren<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Unverletzlichkeit",
+        "sub_words": "un<PREF> verletzlich<ADJ> keit<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Überwinterungsschwärmen",
+        "sub_words": "überwintern<V> ung<NN_SUFF> Schwarm<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "über<VPREF> wintern<V> ung<NN_SUFF> Schwarm<NN>",
+        "alternative_1": "über<VPART> wintern<V> ung<NN_SUFF> Schwarm<NN>"
+    },
+    {
+        "surface_word": "Betankungssonden",
+        "sub_words": "betanken<V> ung<NN_SUFF> Sonde<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "be<VPREF> tanken<V> ung<NN_SUFF> Sonde<NN>"
+    },
+    {
+        "surface_word": "Verprügelung",
+        "sub_words": "verprügeln<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "ver<VPREF> prügeln<V> ung<NN_SUFF>"
+    },
+    {
+        "surface_word": "Ersatzquerung",
+        "sub_words": "Ersatz<NN> queren<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Verkäsungszulage",
+        "sub_words": "ver<VPREF> käsen<V> ung<NN_SUFF> Zulage<NN>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Mitstudentinnen",
+        "sub_words": "mit<PREF> Student<NN> in<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Transversalverschiebung",
+        "sub_words": "transversal<ADJ> verschieben<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "transversal<ADJ> ver<VPREF> schieben<V> ung<NN_SUFF>"
+    },
+    {
+        "surface_word": "Unterkränchen",
+        "sub_words": "unter<PREF> Kran<NN> chen<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Standortpeilung",
+        "sub_words": "Standort<NN> peilen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "Stand<NN> Ort<NN> peilen<V> ung<NN_SUFF>"
+    },
+    {
+        "surface_word": "Nährstoffübersättigung",
+        "sub_words": "Nährstoff<NN> übersättigen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "Nährstoff<NN> über<VPREF> sättigen<V> ung<NN_SUFF>",
+        "alternative_1": "Nährstoff<NN> über<VPART> sättigen<V> ung<NN_SUFF>",
+        "alternative_2": "nähren<V> Stoff<NN> übersättigen<V> ung<NN_SUFF>",
+        "alternative_3": "nähren<V> Stoff<NN> über<VPREF> sättigen<V> ung<NN_SUFF>",
+        "alternative_4": "nähren<V> Stoff<NN> über<VPART> sättigen<V> ung<NN_SUFF>"
+    },
+    {
+        "surface_word": "Schellensteiner",
+        "sub_words": "Schelle<NN> steinen<V> er<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Tastbarkeit",
+        "sub_words": "tasten<V> bar<ADJ_SUFF> keit<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Schreibtischgelehrsamkeit",
+        "sub_words": "Schreibtisch<NN> gelehrsam<ADJ> keit<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "schreiben<V> Tisch<NN> gelehrsam<ADJ> keit<NN_SUFF>"
+    },
+    {
+        "surface_word": "Beißerangriff",
+        "sub_words": "beißen<V> er<NN_SUFF> Angriff<NN>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Bestreichung",
+        "sub_words": "bestreichen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Entkleidung",
+        "sub_words": "entkleiden<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "ent<VPREF> kleiden<V> ung<NN_SUFF>"
+    },
+    {
+        "surface_word": "Überspannungsschützen",
+        "sub_words": "überspannen<V> ung<NN_SUFF> Schütze<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "über<VPART> spannen<V> ung<NN_SUFF> Schütze<NN>",
+        "alternative_1": "über<VPREF> spannen<V> ung<NN_SUFF> Schütze<NN>"
+    },
+    {
+        "surface_word": "Unterlassungspraktiken",
+        "sub_words": "unterlassen<V> ung<NN_SUFF> Praktik<NN>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Verzweiflungsreiters",
+        "sub_words": "verzweifeln<V> ung<NN_SUFF> Reiter<NN>",
+        "surface_word_tag": "NN",
+        "alternative_0": "ver<VPREF> zweifeln<V> ung<NN_SUFF> Reiter<NN>"
+    },
+    {
+        "surface_word": "Zylinderreibung",
+        "sub_words": "Zylinder<NN> reiben<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Kuschanischen",
+        "sub_words": "kuschen<V> Anis<NN> chen<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Bebung",
+        "sub_words": "beben<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Überführungszahlen",
+        "sub_words": "überführen<V> ung<NN_SUFF> Zahl<NN>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Registerharmonisierung",
+        "sub_words": "Register<NN> harmonisieren<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Fleischverzehrer",
+        "sub_words": "Fleisch<NN> verzehren<V> er<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "Fleisch<NN> ver<VPREF> zehren<V> er<NN_SUFF>"
+    },
+    {
+        "surface_word": "Eulenkappers",
+        "sub_words": "Eule<NN> kappen<V> er<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Vereidigungsakt",
+        "sub_words": "vereidigen<V> ung<NN_SUFF> Akt<NN>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Politikerbeschimpfung",
+        "sub_words": "Politiker<NN> beschimpfen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN",
+        "alternative_0": "Politiker<NN> be<VPREF> schimpfen<V> ung<NN_SUFF>"
+    },
+    {
+        "surface_word": "Fesselungsgefecht",
+        "sub_words": "fesseln<V> ung<NN_SUFF> Gefecht<NN>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Glasöffnungen",
+        "sub_words": "Glas<NN> öffnen<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    },
+    {
+        "surface_word": "Geruchsminimierung",
+        "sub_words": "Geruch<NN> minimieren<V> ung<NN_SUFF>",
+        "surface_word_tag": "NN"
+    }
+]

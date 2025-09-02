@@ -1,0 +1,50 @@
+[
+    {
+        "input": "Il me [semble] bien plus logique que la Commission européenne , que M. Patten , remplisse ce rôle de dirigeant afin d' exécuter rapidement et efficacement le pacte de stabilité .",
+        "output": "Il [me | indirect_object] semble bien plus logique que la [Commission | subject] européenne , que M. Patten , remplisse ce rôle de dirigeant afin d' exécuter rapidement et efficacement le pacte de stabilité ."
+    },
+    {
+        "input": "Où [sont] ceux qui critiquent le travail accompli , qui reviennent constamment avec la question du quorum et ne sont pas présents quand nous réalisons le travail de fond ?",
+        "output": "[Où | indirect_object] sont [ceux | subject] qui critiquent le travail accompli , qui reviennent constamment avec la question du quorum et ne sont pas présents quand nous réalisons le travail de fond ?"
+    },
+    {
+        "input": "Divers aéroports y [travaillent] déjà à l' heure actuelle en promulguant des interdictions de vol pour les avions les plus bruyants ou pour certains vols de nuit .",
+        "output": "Divers [aéroports | subject] [y | indirect_object] travaillent déjà à l' heure actuelle en promulguant des interdictions de vol pour les avions les plus bruyants ou pour certains vols de nuit ."
+    },
+    {
+        "input": "Une hypocalcémie préexistante [doit] être traitée par des apports appropriés de calcium et de vitamine D avant l' instauration du traitement par Aclasta ( voir rubrique 4.3 ) .",
+        "output": "Une [hypocalcémie | subject] préexistante doit être traitée par des apports appropriés de calcium et de vitamine D avant l' instauration du traitement par Aclasta ( voir rubrique 4.3 ) ."
+    },
+    {
+        "input": "La différence , payée par le Trésor ( donc le contribuable français ) , s' [élevait] à environ 8,50 F selon Jacques Despuech , auteur du premier livre sur l' affaire ( 1953 ) .",
+        "output": "La [différence | subject] , payée par le Trésor ( donc le contribuable français ) , s' élevait à environ 8,50 F selon Jacques Despuech , auteur du premier livre sur l' affaire ( 1953 ) ."
+    },
+    {
+        "input": "M. Dumez , président du conseil général , a [parlé] d' une \" réalisation apte à l' épanouissement des petits \" , non sans rappeler le rôle primordial de l' éducation familiale .",
+        "output": "[M. | subject] Dumez , président du conseil général , a parlé d' une \" réalisation apte à l' épanouissement des petits \" , non sans rappeler le rôle primordial de l' éducation familiale ."
+    },
+    {
+        "input": "La Commission européenne a [délivré] une autorisation de mise sur le marché valide dans toute l' Union européenne pour Aclasta à Novartis Europharm Limited , le 15 avril 2005 .",
+        "output": "La [Commission | subject] européenne a délivré une [autorisation | object] de mise sur le marché valide dans toute l' Union européenne pour Aclasta à Novartis Europharm Limited , le 15 avril 2005 ."
+    },
+    {
+        "input": "- 15 janvier 1992 : Un premier rapport de gendarmerie [confirme] l' inscription frauduleuse d' électeurs sur les listes électorales du 3e et d' autres arrondissements de Paris .",
+        "output": "- 15 janvier 1992 : Un premier [rapport | subject] de gendarmerie confirme l' [inscription | object] frauduleuse d' électeurs sur les listes électorales du 3e et d' autres arrondissements de Paris ."
+    },
+    {
+        "input": "Les travaux de la table ronde ivoirienne [suivent] le calendrier prévu et pourraient se terminer avant la date butoir du 24 janvier , a indiqué le porte-parole du Quai d' Orsay .",
+        "output": "Les [travaux | subject] de la table ronde ivoirienne suivent le [calendrier | object] prévu et pourraient se terminer avant la date butoir du 24 janvier , a indiqué le porte-parole du Quai d' Orsay ."
+    },
+    {
+        "input": "Cette défense est assez intelligente , car c' est l' État français lui-même qui lui [fournit] son alibi , en assurant qu' il n' y a eu à aucun moment paiement d' une rançon .",
+        "output": "Cette défense est assez intelligente , car c' est l' État français lui-même [qui | subject] [lui | indirect_object] fournit son [alibi | object] , en assurant qu' il n' y a eu à aucun moment paiement d' une rançon ."
+    },
+    {
+        "input": "Je remercie d' ailleurs le Conseil et la Commission pour ce qu' ils ont déjà entrepris et pour les précisions qu' ils nous ont [apportées] tout à l' heure .",
+        "output": "Je remercie d' ailleurs le Conseil et la Commission pour ce qu' ils ont déjà entrepris et pour les précisions [qu' | object] [ils | subject] [nous | indirect_object] ont apportées tout à l' heure ."
+    },
+    {
+        "input": "Selon l' accord de comitologie , rien ne justifie que le Conseil se [réserve] les pouvoirs de mise en oeuvre au lieu de les déléguer à la Commission .",
+        "output": "Selon l' accord de comitologie , rien ne justifie que le [Conseil | subject] [se | indirect_object] réserve les [pouvoirs | object] de mise en oeuvre au lieu de les déléguer à la Commission ."
+    }
+]

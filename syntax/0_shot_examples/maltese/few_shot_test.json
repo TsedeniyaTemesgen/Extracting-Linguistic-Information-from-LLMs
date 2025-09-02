@@ -1,0 +1,902 @@
+[
+    {
+        "input": "Filgħaxija huma [ħaduha] l- Isptar Mater Dei fejn wara sitt siegħat jistennew daħħluha għand it- tabib li iktar tard il- ġenituri saru jafu li kien Junior Doctor .",
+        "output": "Filgħaxija [huma | subject] ħaduha l- Isptar Mater Dei fejn wara sitt siegħat jistennew daħħluha għand it- tabib li iktar tard il- ġenituri saru jafu li kien Junior Doctor ."
+    },
+    {
+        "input": "Filgħaxija huma ħaduha l- Isptar Mater Dei fejn wara sitt siegħat jistennew daħħluha għand it- tabib li iktar tard il- ġenituri [saru] jafu li kien Junior Doctor .",
+        "output": "Filgħaxija huma ħaduha l- Isptar Mater Dei fejn wara sitt siegħat jistennew daħħluha għand it- tabib li iktar tard il- [ġenituri | subject] saru jafu li kien Junior Doctor ."
+    },
+    {
+        "input": "Min jgħid hekk [jista'] jkun li jgħid hekk biex jaqla' l- ħama għax jaf li ċerti faxex mhumiex aċċettati mis- soċjetà , \" iwieġeb waqt li wiċċu issa huwa skarnat .",
+        "output": "[Min | subject] jgħid hekk jista' jkun li jgħid hekk biex jaqla' l- ħama għax jaf li ċerti faxex mhumiex aċċettati mis- soċjetà , \" iwieġeb waqt li wiċċu issa huwa skarnat ."
+    },
+    {
+        "input": "Min jgħid hekk jista' jkun li jgħid hekk biex jaqla' l- ħama għax jaf li ċerti faxex mhumiex aċċettati mis- soċjetà , \" iwieġeb waqt li wiċċu issa huwa [skarnat] .",
+        "output": "Min jgħid hekk jista' jkun li jgħid hekk biex jaqla' l- ħama għax jaf li ċerti faxex mhumiex aċċettati mis- soċjetà , \" iwieġeb waqt li [wiċċu | subject] issa huwa skarnat ."
+    },
+    {
+        "input": "Il- preżenza tal- maħbuba tiegħu wara ġurnata 'l bogħod minnu tkattarlu ssodisfazzjon li jkun kiseb , jew jekk ikun [hemm] bżonn , twittilu l- ħotob tad- delużjoni .",
+        "output": "Il- preżenza tal- maħbuba tiegħu wara ġurnata 'l bogħod minnu tkattarlu ssodisfazzjon li jkun kiseb , jew jekk ikun hemm [bżonn | subject] , twittilu l- ħotob tad- delużjoni ."
+    },
+    {
+        "input": "Fil- kobor bla sura tal- belt li Erica qiegħda [titgħallem] tgħix fiha , l- arja tinħass għal kollox differenti minn dik li trewwaħ lill- belt ċkejkna fejn trabbiet .",
+        "output": "Fil- kobor bla sura tal- belt li [Erica | subject] qiegħda titgħallem tgħix fiha , l- arja tinħass għal kollox differenti minn dik li trewwaħ lill- belt ċkejkna fejn trabbiet ."
+    },
+    {
+        "input": "L- Awtorità kienet [sostniet] ma' Illum li \" bdiet investigazzjoni dwar il- każ u talbet lill- Melita biex tipprovdi dokumenti u tagħrif b' rabta mal- azzjoni tagħha .",
+        "output": "L- [Awtorità | subject] kienet sostniet ma' Illum li \" bdiet investigazzjoni dwar il- każ u talbet lill- Melita biex tipprovdi dokumenti u tagħrif b' rabta mal- azzjoni tagħha ."
+    },
+    {
+        "input": "Kapaċi jgħallmek , iferrħek , jagħtik is- sabar u għalhekk fi żmien meta f' Malta kien għad [hawn] Radju Malta biss , irnexxa l- kunċett ta' kontenut waqt programm . \"",
+        "output": "Kapaċi jgħallmek , iferrħek , jagħtik is- sabar u għalhekk fi żmien meta f' Malta kien għad hawn [Radju | subject] Malta biss , irnexxa l- kunċett ta' kontenut waqt programm . \""
+    },
+    {
+        "input": "Il- ħsieb imbejjet fit- tama li l- impjieg maħtuf minnha [kellu] jkun temporanju u x' aktarx għal żmien qasir , kien joħloq fiha aspett negattiv aktar milli pożittiv .",
+        "output": "Il- ħsieb imbejjet fit- tama li l- [impjieg | subject] maħtuf minnha kellu jkun temporanju u x' aktarx għal żmien qasir , kien joħloq fiha aspett negattiv aktar milli pożittiv ."
+    },
+    {
+        "input": "Imma kulħadd [irid] jerfa' r- responsabbiltà għal għemilu , \" b' referenza diretta għal ċerti ġuvintur li jibqgħu jġorru bandiera bajda qisu qatt ma kien xejn .",
+        "output": "Imma [kulħadd | subject] irid jerfa' r- responsabbiltà għal għemilu , \" b' referenza diretta għal ċerti ġuvintur li jibqgħu jġorru bandiera bajda qisu qatt ma kien xejn ."
+    },
+    {
+        "input": "Borg Bonaci [jemmen] li s- suċċess tiegħu fejn tidħol il- popolarità hi marbuta mal- karattru tiegħu li jkun sinċier mas- semmiegħa u li ma jkunx vojt f' dak li jgħid .",
+        "output": "[Borg | subject] Bonaci jemmen li s- suċċess tiegħu fejn tidħol il- popolarità hi marbuta mal- karattru tiegħu li jkun sinċier mas- semmiegħa u li ma jkunx vojt f' dak li jgħid ."
+    },
+    {
+        "input": "Borg Bonaci jemmen li s- suċċess tiegħu fejn [tidħol] il- popolarità hi marbuta mal- karattru tiegħu li jkun sinċier mas- semmiegħa u li ma jkunx vojt f' dak li jgħid .",
+        "output": "Borg Bonaci jemmen li s- suċċess tiegħu fejn tidħol il- [popolarità | subject] hi marbuta mal- karattru tiegħu li jkun sinċier mas- semmiegħa u li ma jkunx vojt f' dak li jgħid ."
+    },
+    {
+        "input": "Borg Bonaci jemmen li s- suċċess tiegħu fejn tidħol il- popolarità hi [marbuta] mal- karattru tiegħu li jkun sinċier mas- semmiegħa u li ma jkunx vojt f' dak li jgħid .",
+        "output": "Borg Bonaci jemmen li s- [suċċess | subject] tiegħu fejn tidħol il- popolarità hi marbuta mal- karattru tiegħu li jkun sinċier mas- semmiegħa u li ma jkunx vojt f' dak li jgħid ."
+    },
+    {
+        "input": "Forsi fl- imgħoddi l- iġjene mhux dejjem kienet dik li [nafu] aħna , għalhekk kienu jsibu fiex jaqbdu , għax bosta drabi , ukoll , ma kinux iħalluhom imorru l- knisja .",
+        "output": "Forsi fl- imgħoddi l- iġjene mhux dejjem kienet dik li nafu [aħna | subject] , għalhekk kienu jsibu fiex jaqbdu , għax bosta drabi , ukoll , ma kinux iħalluhom imorru l- knisja ."
+    },
+    {
+        "input": "Iċ- Chairman [qal] li jekk proċeduri finanzjarji tat- tender kienu abbużati u dan joħroġ mil- laqgħat tal- Kumitat , jaqbel li l- Awditur Ġenerali jinvestiga .",
+        "output": "Iċ- [Chairman | subject] qal li jekk proċeduri finanzjarji tat- tender kienu abbużati u dan joħroġ mil- laqgħat tal- Kumitat , jaqbel li l- Awditur Ġenerali jinvestiga ."
+    },
+    {
+        "input": "Iċ- Chairman qal li jekk proċeduri finanzjarji tat- tender kienu abbużati u dan [joħroġ] mil- laqgħat tal- Kumitat , jaqbel li l- Awditur Ġenerali jinvestiga .",
+        "output": "Iċ- Chairman qal li jekk proċeduri finanzjarji tat- tender kienu abbużati u [dan | subject] joħroġ mil- laqgħat tal- Kumitat , jaqbel li l- Awditur Ġenerali jinvestiga ."
+    },
+    {
+        "input": "Iċ- Chairman qal li jekk proċeduri finanzjarji tat- tender kienu abbużati u dan joħroġ mil- laqgħat tal- Kumitat , jaqbel li l- Awditur Ġenerali [jinvestiga] .",
+        "output": "Iċ- Chairman qal li jekk proċeduri finanzjarji tat- tender kienu abbużati u dan joħroġ mil- laqgħat tal- Kumitat , jaqbel li l- [Awditur | subject] Ġenerali jinvestiga ."
+    },
+    {
+        "input": "Għalkemm il- ġenituri [offrew] li jagħtu l- organi tagħha , mill- isptar kienu nfurmati li peress li kellha infezzjoni ma riedux jieħdu riskju fuq ħaddieħor .",
+        "output": "Għalkemm il- [ġenituri | subject] offrew li jagħtu l- organi tagħha , mill- isptar kienu nfurmati li peress li kellha infezzjoni ma riedux jieħdu riskju fuq ħaddieħor ."
+    },
+    {
+        "input": "Jekk meta [jibda] qamar ġdid tfajla kien jiskorrilha ż- żmien meta suppost kienet tistenna li tara kienu jpasprulha ġbara bil- weraq taż- żebbuġ u l- ħwawar .",
+        "output": "Jekk meta jibda [qamar | subject] ġdid tfajla kien jiskorrilha ż- żmien meta suppost kienet tistenna li tara kienu jpasprulha ġbara bil- weraq taż- żebbuġ u l- ħwawar ."
+    },
+    {
+        "input": "Il- kimoterapija [twassal] għall- għejja fiżika , tant li tneħħi l- aptit għal kollox inkluż li toħroġ barra għar- raġuni li tolqot fil- vanità hekk kif jaqa' x- xagħar .",
+        "output": "Il- [kimoterapija | subject] twassal għall- għejja fiżika , tant li tneħħi l- aptit għal kollox inkluż li toħroġ barra għar- raġuni li tolqot fil- vanità hekk kif jaqa' x- xagħar ."
+    },
+    {
+        "input": "Il- kimoterapija twassal għall- għejja fiżika , tant li tneħħi l- aptit għal kollox inkluż li toħroġ barra għar- raġuni li tolqot fil- vanità hekk kif [jaqa'] x- xagħar .",
+        "output": "Il- kimoterapija twassal għall- għejja fiżika , tant li tneħħi l- aptit għal kollox inkluż li toħroġ barra għar- raġuni li tolqot fil- vanità hekk kif jaqa' x- [xagħar | subject] ."
+    },
+    {
+        "input": "\" Ninsab lest b' determinazzjoni kbira biex nerġa' nibda minn fejn tlaqt , \" isostni , filwaqt li żied kif anki fejn [jidħol] ir- radju , \" għaddejjin diskussjonijiet . \"",
+        "output": "\" Ninsab lest b' determinazzjoni kbira biex nerġa' nibda minn fejn tlaqt , \" isostni , filwaqt li żied kif anki fejn jidħol ir- [radju | subject] , \" għaddejjin diskussjonijiet . \""
+    },
+    {
+        "input": "\" Ninsab lest b' determinazzjoni kbira biex nerġa' nibda minn fejn tlaqt , \" isostni , filwaqt li żied kif anki fejn jidħol ir- radju , \" [għaddejjin] diskussjonijiet . \"",
+        "output": "\" Ninsab lest b' determinazzjoni kbira biex nerġa' nibda minn fejn tlaqt , \" isostni , filwaqt li żied kif anki fejn jidħol ir- radju , \" għaddejjin [diskussjonijiet | subject] . \""
+    },
+    {
+        "input": "L- Enemalta , allegatament , irmiet darbtejn il- mercaptan imma ma jirriżultax li f' dak il- perijodu kien [hemm] xi każi ta' persuni li belgħu xi gassijiet minħabba dan .",
+        "output": "L- Enemalta , allegatament , irmiet darbtejn il- mercaptan imma ma jirriżultax li f' dak il- perijodu kien hemm xi [każi | subject] ta' persuni li belgħu xi gassijiet minħabba dan ."
+    },
+    {
+        "input": "Ix- xewqa mwarrba li jkollha tarbija mhux biss kienet [reġgħet] bdiet tfeġġ , iżda nbidlet fi bżonn ewlieni li kien essenzjali għat- twettiq ta' ħajjitha .",
+        "output": "Ix- [xewqa | subject] mwarrba li jkollha tarbija mhux biss kienet reġgħet bdiet tfeġġ , iżda nbidlet fi bżonn ewlieni li kien essenzjali għat- twettiq ta' ħajjitha ."
+    },
+    {
+        "input": "Iċ- Chairman [qal] li l- Bord qal lil Joe Mizzi li huma kienu lesti jirrispettaw is- sors li kellu imma Joe Mizzi qal li hu kien għadda d- dokumenti lura lil min tagħhomlu .",
+        "output": "Iċ- [Chairman | subject] qal li l- Bord qal lil Joe Mizzi li huma kienu lesti jirrispettaw is- sors li kellu imma Joe Mizzi qal li hu kien għadda d- dokumenti lura lil min tagħhomlu ."
+    },
+    {
+        "input": "Iċ- Chairman qal li l- Bord qal lil Joe Mizzi li huma kienu lesti jirrispettaw is- sors li kellu imma Joe Mizzi [qal] li hu kien għadda d- dokumenti lura lil min tagħhomlu .",
+        "output": "Iċ- Chairman qal li l- Bord qal lil Joe Mizzi li huma kienu lesti jirrispettaw is- sors li kellu imma [Joe | subject] Mizzi qal li hu kien għadda d- dokumenti lura lil min tagħhomlu ."
+    },
+    {
+        "input": "2 Billi aħmar , dawk li ma kinux iridu tqala , kienu [jaħsbu] li tajjeb biex iwaqqaf id- demm , u ġieli kienu jużawh biex iħammru , sinjal li ma nqabdux .",
+        "output": "2 Billi aħmar , [dawk | subject] li ma kinux iridu tqala , kienu jaħsbu li tajjeb biex iwaqqaf id- demm , u ġieli kienu jużawh biex iħammru , sinjal li ma nqabdux ."
+    },
+    {
+        "input": "\" M' għandi xejn kontra l- koabitazzjoni dment li jkun [hemm] il- lealtà , \" jispjega filwaqt li jaqbel li l- liġijiet għandhom jinbidlu biex jipproteġu liż- żewġ partijiet .",
+        "output": "\" M' għandi xejn kontra l- koabitazzjoni dment li jkun hemm il- [lealtà | subject] , \" jispjega filwaqt li jaqbel li l- liġijiet għandhom jinbidlu biex jipproteġu liż- żewġ partijiet ."
+    },
+    {
+        "input": "\" M' għandi xejn kontra l- koabitazzjoni dment li jkun hemm il- lealtà , \" jispjega filwaqt li jaqbel li l- liġijiet [għandhom] jinbidlu biex jipproteġu liż- żewġ partijiet .",
+        "output": "\" M' għandi xejn kontra l- koabitazzjoni dment li jkun hemm il- lealtà , \" jispjega filwaqt li jaqbel li l- [liġijiet | subject] għandhom jinbidlu biex jipproteġu liż- żewġ partijiet ."
+    },
+    {
+        "input": "Issa qegħdin fi żmien meta l- edukazzjoni u x- xjenza tant [imxew] 'il quddiem li issa jekk dak li tgħid ma tafx tippruvah tgħidux , u ħallih fil- moħħ .",
+        "output": "Issa qegħdin fi żmien meta l- [edukazzjoni | subject] u x- xjenza tant imxew 'il quddiem li issa jekk dak li tgħid ma tafx tippruvah tgħidux , u ħallih fil- moħħ ."
+    },
+    {
+        "input": "Madankollu , ma rridux ninsew li l- Malti Standard stess huwa djalett u bħala djalett standard seta' , kieku ċ- ċirkustanzi storiċi ma [ġewx] kif ġew , kellna xi djalett ieħor .",
+        "output": "Madankollu , ma rridux ninsew li l- Malti Standard stess huwa djalett u bħala djalett standard seta' , kieku ċ- [ċirkustanzi | subject] storiċi ma ġewx kif ġew , kellna xi djalett ieħor ."
+    },
+    {
+        "input": "Hi kienet [aċċettatu] kif inhu , waħdu , u hu kien laqagħha fi ħdanu bla kompromessi jew tamiet li , fl- opinjoni tiegħu , faċli jirriżultaw fiergħa .",
+        "output": "[Hi | subject] kienet aċċettatu kif inhu , waħdu , u hu kien laqagħha fi ħdanu bla kompromessi jew tamiet li , fl- opinjoni tiegħu , faċli jirriżultaw fiergħa ."
+    },
+    {
+        "input": "Hi kienet aċċettatu kif inhu , waħdu , u hu kien [laqagħha] fi ħdanu bla kompromessi jew tamiet li , fl- opinjoni tiegħu , faċli jirriżultaw fiergħa .",
+        "output": "Hi kienet aċċettatu kif inhu , waħdu , u [hu | subject] kien laqagħha fi ħdanu bla kompromessi jew tamiet li , fl- opinjoni tiegħu , faċli jirriżultaw fiergħa ."
+    },
+    {
+        "input": "Biha jew mingħajrha ma kienx xorta la għalih u anqas għall- arti tiegħu u din id- darba l- għażla ta' sieħba kienet [tirrendi] u lilu tagħmillu ġieħ .",
+        "output": "Biha jew mingħajrha ma kienx xorta la għalih u anqas għall- arti tiegħu u din id- darba l- [għażla | subject] ta' sieħba kienet tirrendi u lilu tagħmillu ġieħ ."
+    },
+    {
+        "input": "Li [għamel] it- tabib kien taha ' drip ' biex il- ' paracetamol ' jaħdmu iktar malajr mill- pilloli ħalli ma tibqax muġugħa kif ukoll kitbilhom l- ' paracetamol ' u l- Voltaren .",
+        "output": "Li għamel it- [tabib | subject] kien taha ' drip ' biex il- ' paracetamol ' jaħdmu iktar malajr mill- pilloli ħalli ma tibqax muġugħa kif ukoll kitbilhom l- ' paracetamol ' u l- Voltaren ."
+    },
+    {
+        "input": "Li għamel it- tabib kien taha ' drip ' biex il- ' paracetamol ' [jaħdmu] iktar malajr mill- pilloli ħalli ma tibqax muġugħa kif ukoll kitbilhom l- ' paracetamol ' u l- Voltaren .",
+        "output": "Li għamel it- tabib kien taha ' drip ' biex il- ' [paracetamol | subject] ' jaħdmu iktar malajr mill- pilloli ħalli ma tibqax muġugħa kif ukoll kitbilhom l- ' paracetamol ' u l- Voltaren ."
+    },
+    {
+        "input": "[Hemm] min li lill- Professur Zammit jakkużah b' ipokrezija għax filwaqt li jimplikaw li hu gay , jibża' jiddefendi fil- beraħ temi ta' gays biex ma jitlifx l- appoġġ tan- nies .",
+        "output": "Hemm [min | subject] li lill- Professur Zammit jakkużah b' ipokrezija għax filwaqt li jimplikaw li hu gay , jibża' jiddefendi fil- beraħ temi ta' gays biex ma jitlifx l- appoġġ tan- nies ."
+    },
+    {
+        "input": "Il- Professur [jemmen] li tul dawn l- aħħar snin Malta tilfet ħafna mill- valuri u hawn jiftaħ fuq realtà oħra soċjali : xebbiet li jispiċċaw irabbu tfal waħedhom barra ż- żwieġ .",
+        "output": "Il- [Professur | subject] jemmen li tul dawn l- aħħar snin Malta tilfet ħafna mill- valuri u hawn jiftaħ fuq realtà oħra soċjali : xebbiet li jispiċċaw irabbu tfal waħedhom barra ż- żwieġ ."
+    },
+    {
+        "input": "Tonio Fenech [qal] li l- aħjar li l- Kumitat jiffoka fuq il- kwistjoni ta' kif inħaraq il- mercaptan u qal li hemm nies kompetenti li jitrattaw jekk it- tenders sarux kif suppost .",
+        "output": "[Tonio | subject] Fenech qal li l- aħjar li l- Kumitat jiffoka fuq il- kwistjoni ta' kif inħaraq il- mercaptan u qal li hemm nies kompetenti li jitrattaw jekk it- tenders sarux kif suppost ."
+    },
+    {
+        "input": "Tonio Fenech qal li l- aħjar li l- Kumitat [jiffoka] fuq il- kwistjoni ta' kif inħaraq il- mercaptan u qal li hemm nies kompetenti li jitrattaw jekk it- tenders sarux kif suppost .",
+        "output": "Tonio Fenech qal li l- aħjar li l- [Kumitat | subject] jiffoka fuq il- kwistjoni ta' kif inħaraq il- mercaptan u qal li hemm nies kompetenti li jitrattaw jekk it- tenders sarux kif suppost ."
+    },
+    {
+        "input": "Tonio Fenech qal li l- aħjar li l- Kumitat jiffoka fuq il- kwistjoni ta' kif inħaraq il- mercaptan u qal li [hemm] nies kompetenti li jitrattaw jekk it- tenders sarux kif suppost .",
+        "output": "Tonio Fenech qal li l- aħjar li l- Kumitat jiffoka fuq il- kwistjoni ta' kif inħaraq il- mercaptan u qal li hemm [nies | subject] kompetenti li jitrattaw jekk it- tenders sarux kif suppost ."
+    },
+    {
+        "input": "Tonio Fenech qal li l- aħjar li l- Kumitat jiffoka fuq il- kwistjoni ta' kif inħaraq il- mercaptan u qal li hemm nies kompetenti li jitrattaw jekk it- tenders [sarux] kif suppost .",
+        "output": "Tonio Fenech qal li l- aħjar li l- Kumitat jiffoka fuq il- kwistjoni ta' kif inħaraq il- mercaptan u qal li hemm nies kompetenti li jitrattaw jekk it- [tenders | subject] sarux kif suppost ."
+    },
+    {
+        "input": "Anthony Zammit [jaħseb] li wasal iż- żmien li l- Partit Laburista jgħid ċar u tond kif jaħsibha dwar suġġetti jaħarqu , fosthom il- koabitazzjoni u d- drittijiet għal persuni gay ?",
+        "output": "[Anthony | subject] Zammit jaħseb li wasal iż- żmien li l- Partit Laburista jgħid ċar u tond kif jaħsibha dwar suġġetti jaħarqu , fosthom il- koabitazzjoni u d- drittijiet għal persuni gay ?"
+    },
+    {
+        "input": "Anthony Zammit jaħseb li [wasal] iż- żmien li l- Partit Laburista jgħid ċar u tond kif jaħsibha dwar suġġetti jaħarqu , fosthom il- koabitazzjoni u d- drittijiet għal persuni gay ?",
+        "output": "Anthony Zammit jaħseb li wasal iż- [żmien | subject] li l- Partit Laburista jgħid ċar u tond kif jaħsibha dwar suġġetti jaħarqu , fosthom il- koabitazzjoni u d- drittijiet għal persuni gay ?"
+    },
+    {
+        "input": "Anthony Zammit jaħseb li wasal iż- żmien li l- Partit Laburista [jgħid] ċar u tond kif jaħsibha dwar suġġetti jaħarqu , fosthom il- koabitazzjoni u d- drittijiet għal persuni gay ?",
+        "output": "Anthony Zammit jaħseb li wasal iż- żmien li l- [Partit | subject] Laburista jgħid ċar u tond kif jaħsibha dwar suġġetti jaħarqu , fosthom il- koabitazzjoni u d- drittijiet għal persuni gay ?"
+    },
+    {
+        "input": "Ħarist madwari u lmaħt it- tapit kwadru tas- salott fejn kont , li kellu kantuniera minnu mgħawġa bħal meta xi ħadd [jgħawwiġha] b' saqajh u ma qagħadx jikkoppa jerġa' jirranġaha .",
+        "output": "Ħarist madwari u lmaħt it- tapit kwadru tas- salott fejn kont , li kellu kantuniera minnu mgħawġa bħal meta xi [ħadd | subject] jgħawwiġha b' saqajh u ma qagħadx jikkoppa jerġa' jirranġaha ."
+    },
+    {
+        "input": "Nibdew billi nippruvaw nagħtu xi definizzjoni ta' djalett ; definizzjoni li x' aktarx tkun astratta , u forsi mhux eżatta , imma wara l- ispjegazzjoni kollox [jibda] jiċċara ruħu .",
+        "output": "Nibdew billi nippruvaw nagħtu xi definizzjoni ta' djalett ; definizzjoni li x' aktarx tkun astratta , u forsi mhux eżatta , imma wara l- ispjegazzjoni [kollox | subject] jibda jiċċara ruħu ."
+    },
+    {
+        "input": "Kellhom ħabta l- ġenituri [jiddeċiedu] x' se jsir mit- tfal li jkollhom ; jgħidu li waħda tibqa' d- dar , oħra ssir soru , l- oħra nibagħtuha taħdem ma' xi ħadd , u l- kumplament .",
+        "output": "Kellhom ħabta l- [ġenituri | subject] jiddeċiedu x' se jsir mit- tfal li jkollhom ; jgħidu li waħda tibqa' d- dar , oħra ssir soru , l- oħra nibagħtuha taħdem ma' xi ħadd , u l- kumplament ."
+    },
+    {
+        "input": "Kellhom ħabta l- ġenituri jiddeċiedu x' se [jsir] mit- tfal li jkollhom ; jgħidu li waħda tibqa' d- dar , oħra ssir soru , l- oħra nibagħtuha taħdem ma' xi ħadd , u l- kumplament .",
+        "output": "Kellhom ħabta l- ġenituri jiddeċiedu [x' | subject] se jsir mit- tfal li jkollhom ; jgħidu li waħda tibqa' d- dar , oħra ssir soru , l- oħra nibagħtuha taħdem ma' xi ħadd , u l- kumplament ."
+    },
+    {
+        "input": "Kellhom ħabta l- ġenituri jiddeċiedu x' se jsir mit- tfal li jkollhom ; jgħidu li waħda [tibqa'] d- dar , oħra ssir soru , l- oħra nibagħtuha taħdem ma' xi ħadd , u l- kumplament .",
+        "output": "Kellhom ħabta l- ġenituri jiddeċiedu x' se jsir mit- tfal li jkollhom ; jgħidu li [waħda | subject] tibqa' d- dar , oħra ssir soru , l- oħra nibagħtuha taħdem ma' xi ħadd , u l- kumplament ."
+    },
+    {
+        "input": "Kellhom ħabta l- ġenituri jiddeċiedu x' se jsir mit- tfal li jkollhom ; jgħidu li waħda tibqa' d- dar , oħra [ssir] soru , l- oħra nibagħtuha taħdem ma' xi ħadd , u l- kumplament .",
+        "output": "Kellhom ħabta l- ġenituri jiddeċiedu x' se jsir mit- tfal li jkollhom ; jgħidu li waħda tibqa' d- dar , [oħra | subject] ssir soru , l- oħra nibagħtuha taħdem ma' xi ħadd , u l- kumplament ."
+    },
+    {
+        "input": "Kienu jsemmuh il- qamar ukoll , għax dik il- ħabta kienu [jkorru] ħafna nisa , u jgħidu : ' Qamar ħażin ! ' jew : ' Ħlas ħażin għax qamar ħażin ! '",
+        "output": "Kienu jsemmuh il- qamar ukoll , għax dik il- ħabta kienu jkorru ħafna [nisa | subject] , u jgħidu : ' Qamar ħażin ! ' jew : ' Ħlas ħażin għax qamar ħażin ! '"
+    },
+    {
+        "input": "Huwa għalhekk li meta xi ħadd juża tipi antiki bħal Tornado , Malta jew M . Maiandra biex jibgħat id- dokumenti tiegħu lil ħaddieħor , ħafna nies ma jkunux [jistgħu] jaqrawhom sew .",
+        "output": "Huwa għalhekk li meta xi ħadd juża tipi antiki bħal Tornado , Malta jew M . Maiandra biex jibgħat id- dokumenti tiegħu lil ħaddieħor , ħafna [nies | subject] ma jkunux jistgħu jaqrawhom sew ."
+    },
+    {
+        "input": "Borg Bonaci [jispjega] kif għex ir- realtà tal- qawl Malti li l- appoġġ hu nofs il- fejqan , fejn bis- saħħa tal- familja u l- ħbieb , ikkronfronta din ir- realtà l- ġdida f' ħajtu .",
+        "output": "[Borg | subject] Bonaci jispjega kif għex ir- realtà tal- qawl Malti li l- appoġġ hu nofs il- fejqan , fejn bis- saħħa tal- familja u l- ħbieb , ikkronfronta din ir- realtà l- ġdida f' ħajtu ."
+    },
+    {
+        "input": "Mistoqsi dwar dan , kelliem għall- Melita [ikkonferma] ma' Illum li l- ħlas kien twaqqaf sakemm tittieħed deċiżjoni finali dwar din il- materja .",
+        "output": "Mistoqsi dwar dan , [kelliem | subject] għall- Melita ikkonferma ma' Illum li l- ħlas kien twaqqaf sakemm tittieħed deċiżjoni finali dwar din il- materja ."
+    },
+    {
+        "input": "\" Li ma kenitx għall- kuraġg kbir li [tħaddan] marti Natalie ma nafx kif psikoloġikament stajt naffronta l- ġimgħat ta' kura li kelli bżonn . \"",
+        "output": "\" Li ma kenitx għall- kuraġg kbir li tħaddan marti [Natalie | subject] ma nafx kif psikoloġikament stajt naffronta l- ġimgħat ta' kura li kelli bżonn . \""
+    },
+    {
+        "input": "Iżda issa li minn dak li [rrappurtawlu] t- tobba li l- kura li rċieva ħadmet tajjeb , Borg Bonaci qed iħares 'il quddiem b' ottimiżmu mġedded .",
+        "output": "Iżda issa li minn dak li rrappurtawlu t- [tobba | subject] li l- kura li rċieva ħadmet tajjeb , Borg Bonaci qed iħares 'il quddiem b' ottimiżmu mġedded ."
+    },
+    {
+        "input": "Iżda issa li minn dak li rrappurtawlu t- tobba li l- kura li rċieva [ħadmet] tajjeb , Borg Bonaci qed iħares 'il quddiem b' ottimiżmu mġedded .",
+        "output": "Iżda issa li minn dak li rrappurtawlu t- tobba li l- [kura | subject] li rċieva ħadmet tajjeb , Borg Bonaci qed iħares 'il quddiem b' ottimiżmu mġedded ."
+    },
+    {
+        "input": "Iżda issa li minn dak li rrappurtawlu t- tobba li l- kura li rċieva ħadmet tajjeb , Borg Bonaci qed [iħares] 'il quddiem b' ottimiżmu mġedded .",
+        "output": "Iżda issa li minn dak li rrappurtawlu t- tobba li l- kura li rċieva ħadmet tajjeb , [Borg | subject] Bonaci qed iħares 'il quddiem b' ottimiżmu mġedded ."
+    },
+    {
+        "input": "Qabel ma nsellmu lil xulxin Borg Bonaci [jerġa'] juri l- ħeġġa kbira li għandu li jirritorna għall- programm tiegħu u jkompli minn fejn ħalla .",
+        "output": "Qabel ma nsellmu lil xulxin [Borg | subject] Bonaci jerġa' juri l- ħeġġa kbira li għandu li jirritorna għall- programm tiegħu u jkompli minn fejn ħalla ."
+    },
+    {
+        "input": "Jirrakkonta li l- pawsa ta' 14-il xahar mir- radju u t- televiżjoni [servietu] biex jaġġorna ruħu aktar u jlesti ruħu għal ritorn bil- qawwi .",
+        "output": "Jirrakkonta li l- [pawsa | subject] ta' 14-il xahar mir- radju u t- televiżjoni servietu biex jaġġorna ruħu aktar u jlesti ruħu għal ritorn bil- qawwi ."
+    },
+    {
+        "input": "Ma neskludix il- possibbiltà li wara l- ħatra tal- mexxej ikun [hemm] diskussjoni interna biex jinbidel l- istatut , \" iwieġeb il- Professur .",
+        "output": "Ma neskludix il- possibbiltà li wara l- ħatra tal- mexxej ikun hemm [diskussjoni | subject] interna biex jinbidel l- istatut , \" iwieġeb il- Professur ."
+    },
+    {
+        "input": "Ma neskludix il- possibbiltà li wara l- ħatra tal- mexxej ikun hemm diskussjoni interna biex jinbidel l- istatut , \" [iwieġeb] il- Professur .",
+        "output": "Ma neskludix il- possibbiltà li wara l- ħatra tal- mexxej ikun hemm diskussjoni interna biex jinbidel l- istatut , \" iwieġeb il- [Professur | subject] ."
+    },
+    {
+        "input": "Daru minn wara l- knisja u waslu qrib iz- zuntier fejn bħas- soltu kien [hemm] dawk li m' għandhomx x' jagħmlu għajr ibeżżqu lejn kullimkien .",
+        "output": "Daru minn wara l- knisja u waslu qrib iz- zuntier fejn bħas- soltu kien hemm [dawk | subject] li m' għandhomx x' jagħmlu għajr ibeżżqu lejn kullimkien ."
+    },
+    {
+        "input": "Għalhekk sal- ġurnata ta' llum għad [hawn] ħafna jibbużullottjaw bl- oroskopji , tbassir tal- futur , u s- superstizzjonijiet , kemm dawk li jibilgħuhom , kif ukoll dawk li jbellgħuhom .",
+        "output": "Għalhekk sal- ġurnata ta' llum għad hawn [ħafna | subject] jibbużullottjaw bl- oroskopji , tbassir tal- futur , u s- superstizzjonijiet , kemm dawk li jibilgħuhom , kif ukoll dawk li jbellgħuhom ."
+    },
+    {
+        "input": "\" Meta lil ommi għidtilha li ħiereġ mal- Partit Laburista qaltli : \" ibni se [tħammarli] wiċċi \" , \" ikompli qisu qed jerġa' jgħix ix- xena .",
+        "output": "\" Meta lil ommi għidtilha li ħiereġ mal- Partit Laburista qaltli : \" ibni se tħammarli [wiċċi | subject] \" , \" ikompli qisu qed jerġa' jgħix ix- xena ."
+    },
+    {
+        "input": "Gavin Gulia , veteran fil- politika u żiemel b' saħħtu fuq id- distrett li [tela'] minnu Zammit , baqa' l- art minħabba l- voti li naqqarlu .",
+        "output": "Gavin Gulia , veteran fil- politika u żiemel b' saħħtu fuq id- distrett li tela' minnu [Zammit | subject] , baqa' l- art minħabba l- voti li naqqarlu ."
+    },
+    {
+        "input": "Gavin Gulia , veteran fil- politika u żiemel b' saħħtu fuq id- distrett li tela' minnu Zammit , [baqa'] l- art minħabba l- voti li naqqarlu .",
+        "output": "[Gavin | subject] Gulia , veteran fil- politika u żiemel b' saħħtu fuq id- distrett li tela' minnu Zammit , baqa' l- art minħabba l- voti li naqqarlu ."
+    },
+    {
+        "input": "Jien [naqbel] li wara ċertu ammont ta' snin li tnejn ikunu ilhom jgħixu taħt l- istess saqaf , japplikaw ċerti regolamenti , \" jgħid Zammit .",
+        "output": "[Jien | subject] naqbel li wara ċertu ammont ta' snin li tnejn ikunu ilhom jgħixu taħt l- istess saqaf , japplikaw ċerti regolamenti , \" jgħid Zammit ."
+    },
+    {
+        "input": "Jien naqbel li wara ċertu ammont ta' snin li tnejn ikunu [ilhom] jgħixu taħt l- istess saqaf , japplikaw ċerti regolamenti , \" jgħid Zammit .",
+        "output": "Jien naqbel li wara ċertu ammont ta' snin li [tnejn | subject] ikunu ilhom jgħixu taħt l- istess saqaf , japplikaw ċerti regolamenti , \" jgħid Zammit ."
+    },
+    {
+        "input": "Jien naqbel li wara ċertu ammont ta' snin li tnejn ikunu ilhom jgħixu taħt l- istess saqaf , [japplikaw] ċerti regolamenti , \" jgħid Zammit .",
+        "output": "Jien naqbel li wara ċertu ammont ta' snin li tnejn ikunu ilhom jgħixu taħt l- istess saqaf , japplikaw ċerti [regolamenti | subject] , \" jgħid Zammit ."
+    },
+    {
+        "input": "Jien naqbel li wara ċertu ammont ta' snin li tnejn ikunu ilhom jgħixu taħt l- istess saqaf , japplikaw ċerti regolamenti , \" [jgħid] Zammit .",
+        "output": "Jien naqbel li wara ċertu ammont ta' snin li tnejn ikunu ilhom jgħixu taħt l- istess saqaf , japplikaw ċerti regolamenti , \" jgħid [Zammit | subject] ."
+    },
+    {
+        "input": "Sakemm [beda] ż- żmien tal- prova tiegħu mad- ditta tar- reklamar , Karl kien ikun lest jistennieha kull filgħaxija biex jilqagħha fi ħdanu .",
+        "output": "Sakemm beda ż- [żmien | subject] tal- prova tiegħu mad- ditta tar- reklamar , Karl kien ikun lest jistennieha kull filgħaxija biex jilqagħha fi ħdanu ."
+    },
+    {
+        "input": "Carlo Borg Bonaci [jkompli] jispjega kif minbarra sħabu tas- soltu , feġġew ukoll il- ħbieb l- antiki li kien ilu ma jisma' b' aħbarhom għal snin twal , inklużi dawk ta' żmien l- iskola .",
+        "output": "[Carlo | subject] Borg Bonaci jkompli jispjega kif minbarra sħabu tas- soltu , feġġew ukoll il- ħbieb l- antiki li kien ilu ma jisma' b' aħbarhom għal snin twal , inklużi dawk ta' żmien l- iskola ."
+    },
+    {
+        "input": "Carlo Borg Bonaci jkompli jispjega kif minbarra sħabu tas- soltu , [feġġew] ukoll il- ħbieb l- antiki li kien ilu ma jisma' b' aħbarhom għal snin twal , inklużi dawk ta' żmien l- iskola .",
+        "output": "Carlo Borg Bonaci jkompli jispjega kif minbarra sħabu tas- soltu , feġġew ukoll il- [ħbieb | subject] l- antiki li kien ilu ma jisma' b' aħbarhom għal snin twal , inklużi dawk ta' żmien l- iskola ."
+    },
+    {
+        "input": "Id- deċiżjoni iebsa li ma tgħarrafhomx aktar bi ħbarha u li tinjora l- eżistenza tagħhom , [għenitha] tinsa kull ħsieb jew riżoluzzjoni oħra li ma kellhiex x' taqsam direttament magħhom .",
+        "output": "Id- [deċiżjoni | subject] iebsa li ma tgħarrafhomx aktar bi ħbarha u li tinjora l- eżistenza tagħhom , għenitha tinsa kull ħsieb jew riżoluzzjoni oħra li ma kellhiex x' taqsam direttament magħhom ."
+    },
+    {
+        "input": "Kien jeħtiġilha taljena ruħha u ssib ftuħ ieħor fejn moħħha jkun [jista'] jimraħ , biex waqt li Karl ikun jinħass 'il bogħod minnha , tibqa' tiġġustifika s- siwi ta' l- eżistenza tagħha .",
+        "output": "Kien jeħtiġilha taljena ruħha u ssib ftuħ ieħor fejn [moħħha | subject] jkun jista' jimraħ , biex waqt li Karl ikun jinħass 'il bogħod minnha , tibqa' tiġġustifika s- siwi ta' l- eżistenza tagħha ."
+    },
+    {
+        "input": "Dan id- djalett x' aktarx li [jservi] ta' mudell ideali għan- nazzjon kollu , u ġeneralment jissejjaħ il- Malti Standard li hu l- Malti l- aktar li nisimgħu fuq ir- radju u t- televixin .",
+        "output": "Dan id- [djalett | subject] x' aktarx li jservi ta' mudell ideali għan- nazzjon kollu , u ġeneralment jissejjaħ il- Malti Standard li hu l- Malti l- aktar li nisimgħu fuq ir- radju u t- televixin ."
+    },
+    {
+        "input": "Madankollu bdejt nidra f' din ir- realtà u bis- saħha tal- kuntatt li [żammew] miegħi l- ħbieb irnexxieli naffronta dan il- mument ukoll . \"",
+        "output": "Madankollu bdejt nidra f' din ir- realtà u bis- saħha tal- kuntatt li żammew miegħi l- [ħbieb | subject] irnexxieli naffronta dan il- mument ukoll . \""
+    },
+    {
+        "input": "Borg Bonaci [sostna] li t- televiżjoni hu mezz sabiħ ta' komunikazzjoni , madankollu r- radju hu l- aktar mezz li jippreferi minn kull lat .",
+        "output": "[Borg | subject] Bonaci sostna li t- televiżjoni hu mezz sabiħ ta' komunikazzjoni , madankollu r- radju hu l- aktar mezz li jippreferi minn kull lat ."
+    },
+    {
+        "input": "U l- ħamallaġni kulħadd [ra] fejn kienet fil- kampanja elettorali , \" jargumenta b' referenza għal ċerti xeni ta' partitarji Nazzjonalisti .",
+        "output": "U l- ħamallaġni [kulħadd | subject] ra fejn kienet fil- kampanja elettorali , \" jargumenta b' referenza għal ċerti xeni ta' partitarji Nazzjonalisti ."
+    },
+    {
+        "input": "Minkejja dan kollu , is- soċjetà ( u dan [isir] f' kull soċjetà ) għażlet djalett , minn fost il- ħafna , biex iservi ta' djalett standard .",
+        "output": "Minkejja dan kollu , is- soċjetà ( u [dan | subject] isir f' kull soċjetà ) għażlet djalett , minn fost il- ħafna , biex iservi ta' djalett standard ."
+    },
+    {
+        "input": "L- ommijiet li jkollhom il- bniet sa minn dejjem [jaslu] biex jibdew jaħsbu u jinkwetaw dwar l- iżvilupp u l- fertilità tat- tifla tagħhom .",
+        "output": "L- [ommijiet | subject] li jkollhom il- bniet sa minn dejjem jaslu biex jibdew jaħsbu u jinkwetaw dwar l- iżvilupp u l- fertilità tat- tifla tagħhom ."
+    },
+    {
+        "input": "Kieku , [ngħidu] aħna , il- Kavallieri u warajhom l- Ingliżi baqgħu lejn ir- Rabat kien x' aktarx ikollna d- djalett Rabti bħala standard .",
+        "output": "Kieku , ngħidu [aħna | subject] , il- Kavallieri u warajhom l- Ingliżi baqgħu lejn ir- Rabat kien x' aktarx ikollna d- djalett Rabti bħala standard ."
+    },
+    {
+        "input": "Kieku , ngħidu aħna , il- Kavallieri u warajhom l- Ingliżi [baqgħu] lejn ir- Rabat kien x' aktarx ikollna d- djalett Rabti bħala standard .",
+        "output": "Kieku , ngħidu aħna , il- [Kavallieri | subject] u warajhom l- Ingliżi baqgħu lejn ir- Rabat kien x' aktarx ikollna d- djalett Rabti bħala standard ."
+    },
+    {
+        "input": "3 . Meta l- qargħa ħamra u t- tewm ikunu [saru] , neħħi t- tewm mill- qoxra u itfagħhom mat- taħlita tal- kurrat , il- karfus u l- patata .",
+        "output": "3 . Meta l- [qargħa | subject] ħamra u t- tewm ikunu saru , neħħi t- tewm mill- qoxra u itfagħhom mat- taħlita tal- kurrat , il- karfus u l- patata ."
+    },
+    {
+        "input": "M' għandniex xi ngħidu , kienet tirrikmanda xi rimedju jekk ikun [hemm] il- bżonn , u ftit ħxejjex bi ftit awrina ma kinux jagħmlu ħażin .",
+        "output": "M' għandniex xi ngħidu , kienet tirrikmanda xi rimedju jekk ikun hemm il- [bżonn | subject] , u ftit ħxejjex bi ftit awrina ma kinux jagħmlu ħażin ."
+    },
+    {
+        "input": "M' għandniex xi ngħidu , kienet tirrikmanda xi rimedju jekk ikun hemm il- bżonn , u ftit ħxejjex bi ftit awrina ma kinux [jagħmlu] ħażin .",
+        "output": "M' għandniex xi ngħidu , kienet tirrikmanda xi rimedju jekk ikun hemm il- bżonn , u ftit [ħxejjex | subject] bi ftit awrina ma kinux jagħmlu ħażin ."
+    },
+    {
+        "input": "\" Minn dak il- programm [ħarġu] l- prezentaturi Joe Tanti , Mario l- Banana u anki Martin Sapiano , filwaqt li kien hemm ukoll Alfie Fabri u Toni Sant li kienu diġà qed jiksbu popolarità … \"",
+        "output": "\" Minn dak il- programm ħarġu l- prezentaturi [Joe | subject] Tanti , Mario l- Banana u anki Martin Sapiano , filwaqt li kien hemm ukoll Alfie Fabri u Toni Sant li kienu diġà qed jiksbu popolarità … \""
+    },
+    {
+        "input": "\" Minn dak il- programm ħarġu l- prezentaturi Joe Tanti , Mario l- Banana u anki Martin Sapiano , filwaqt li kien [hemm] ukoll Alfie Fabri u Toni Sant li kienu diġà qed jiksbu popolarità … \"",
+        "output": "\" Minn dak il- programm ħarġu l- prezentaturi Joe Tanti , Mario l- Banana u anki Martin Sapiano , filwaqt li kien hemm ukoll [Alfie | subject] Fabri u Toni Sant li kienu diġà qed jiksbu popolarità … \""
+    },
+    {
+        "input": "F' superstizzjoni oħra , meta mara tkun qed [tħammar] għax jasal ix- xahar tagħha , kien hemm min jemmen ( u għad hawn min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn jitħassru .",
+        "output": "F' superstizzjoni oħra , meta [mara | subject] tkun qed tħammar għax jasal ix- xahar tagħha , kien hemm min jemmen ( u għad hawn min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn jitħassru ."
+    },
+    {
+        "input": "F' superstizzjoni oħra , meta mara tkun qed tħammar għax [jasal] ix- xahar tagħha , kien hemm min jemmen ( u għad hawn min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn jitħassru .",
+        "output": "F' superstizzjoni oħra , meta mara tkun qed tħammar għax jasal ix- [xahar | subject] tagħha , kien hemm min jemmen ( u għad hawn min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn jitħassru ."
+    },
+    {
+        "input": "F' superstizzjoni oħra , meta mara tkun qed tħammar għax jasal ix- xahar tagħha , kien [hemm] min jemmen ( u għad hawn min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn jitħassru .",
+        "output": "F' superstizzjoni oħra , meta mara tkun qed tħammar għax jasal ix- xahar tagħha , kien hemm [min | subject] jemmen ( u għad hawn min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn jitħassru ."
+    },
+    {
+        "input": "F' superstizzjoni oħra , meta mara tkun qed tħammar għax jasal ix- xahar tagħha , kien hemm min jemmen ( u għad [hawn] min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn jitħassru .",
+        "output": "F' superstizzjoni oħra , meta mara tkun qed tħammar għax jasal ix- xahar tagħha , kien hemm min jemmen ( u għad hawn [min | subject] jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn jitħassru ."
+    },
+    {
+        "input": "F' superstizzjoni oħra , meta mara tkun qed tħammar għax jasal ix- xahar tagħha , kien hemm min jemmen ( u għad hawn min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , dawn [jitħassru] .",
+        "output": "F' superstizzjoni oħra , meta mara tkun qed tħammar għax jasal ix- xahar tagħha , kien hemm min jemmen ( u għad hawn min jemmen ) li jekk tmiss frott , fjuri jew l- ikel , [dawn | subject] jitħassru ."
+    },
+    {
+        "input": "F' li ma tkun tixtieq xejn għajr ir- raġel li tħobb , jingħelbu d- distanzi kważi illużorji u l- ħin ma [jibqagħlux] ma' xiex jitkejjel .",
+        "output": "F' li ma tkun tixtieq xejn għajr ir- raġel li tħobb , jingħelbu d- distanzi kważi illużorji u l- [ħin | subject] ma jibqagħlux ma' xiex jitkejjel ."
+    },
+    {
+        "input": "Kien fl- imsemmi xahar li darba minnhom [qabadha] ' synus ' u l- ġenituri iddeċidew li jeħduha għand it- tabib li taha l- antibijotiċi .",
+        "output": "Kien fl- imsemmi xahar li darba minnhom qabadha ' [synus | subject] ' u l- ġenituri iddeċidew li jeħduha għand it- tabib li taha l- antibijotiċi ."
+    },
+    {
+        "input": "Kien fl- imsemmi xahar li darba minnhom qabadha ' synus ' u l- ġenituri [iddeċidew] li jeħduha għand it- tabib li taha l- antibijotiċi .",
+        "output": "Kien fl- imsemmi xahar li darba minnhom qabadha ' synus ' u l- [ġenituri | subject] iddeċidew li jeħduha għand it- tabib li taha l- antibijotiċi ."
+    },
+    {
+        "input": "Mill- ġimgħa d- dieħla se jirritorna fuq l- iskrin permezz tal- kwiżż ' Kontra l- Ħin ' fuq Net Television u r- rekordings diġà [bdew] .",
+        "output": "Mill- ġimgħa d- dieħla se jirritorna fuq l- iskrin permezz tal- kwiżż ' Kontra l- Ħin ' fuq Net Television u r- [rekordings | subject] diġà bdew ."
+    },
+    {
+        "input": "Karl ma kienx [jidher] milqut bħalha miċ- ċirkustanzi li bdew jinħassu jagħfsu fuqha bi pressjoni li ma setgħetx ma tagħtix kas tagħha .",
+        "output": "[Karl | subject] ma kienx jidher milqut bħalha miċ- ċirkustanzi li bdew jinħassu jagħfsu fuqha bi pressjoni li ma setgħetx ma tagħtix kas tagħha ."
+    },
+    {
+        "input": "Iva , għandu jkun [hemm] bidla ta' kulħadd imma ma naħsibx li għandna nagħmlu reklutaġġ minbarra l- partit , \" jargumenta b' referenza ċara għal persuni li snin ilu lebbtu 'l barra mill- MLP .",
+        "output": "Iva , għandu jkun hemm [bidla | subject] ta' kulħadd imma ma naħsibx li għandna nagħmlu reklutaġġ minbarra l- partit , \" jargumenta b' referenza ċara għal persuni li snin ilu lebbtu 'l barra mill- MLP ."
+    },
+    {
+        "input": "L- importanti għalih li ż- żmien [jibqa'] għaddej kemm jista' jkun bla tfixkil u bla ma jazzarda jsabbtu wiċċ imb' wiċċ miegħu nnifsu .",
+        "output": "L- importanti għalih li ż- [żmien | subject] jibqa' għaddej kemm jista' jkun bla tfixkil u bla ma jazzarda jsabbtu wiċċ imb' wiċċ miegħu nnifsu ."
+    },
+    {
+        "input": "Kif rajna , ħafna ommijiet jixtrulha d- drapp għal liżar kbir biex toqgħod tirrakkmah bil- mod , għal meta tiżżewweġ u [tasal] bżonnu .",
+        "output": "Kif rajna , ħafna ommijiet jixtrulha d- drapp għal liżar kbir biex toqgħod tirrakkmah bil- mod , għal meta tiżżewweġ u tasal [bżonnu | subject] ."
+    },
+    {
+        "input": "Wara li qalilhom li fl- opinjoni kienet ' migraine ' , it- tabib [daħal] ġewwa u wara nofs siegħa ħareġ fejn wara qalilhom li ikkonsulta ma' ta' fuqu u ma kienx hemm bżonn ta' iktar testijiet .",
+        "output": "Wara li qalilhom li fl- opinjoni kienet ' migraine ' , it- [tabib | subject] daħal ġewwa u wara nofs siegħa ħareġ fejn wara qalilhom li ikkonsulta ma' ta' fuqu u ma kienx hemm bżonn ta' iktar testijiet ."
+    },
+    {
+        "input": "Wara li qalilhom li fl- opinjoni kienet ' migraine ' , it- tabib daħal ġewwa u wara nofs siegħa ħareġ fejn wara qalilhom li ikkonsulta ma' ta' fuqu u ma kienx [hemm] bżonn ta' iktar testijiet .",
+        "output": "Wara li qalilhom li fl- opinjoni kienet ' migraine ' , it- tabib daħal ġewwa u wara nofs siegħa ħareġ fejn wara qalilhom li ikkonsulta ma' ta' fuqu u ma kienx hemm [bżonn | subject] ta' iktar testijiet ."
+    },
+    {
+        "input": "Meta t- tifla [tiżviluppa] u turi s- sinjali li saret xebba l- omm kienet tifraħ , u ma ddumx ma tqiegħed il- qasrija tal- ħabaq fuq il- ħarrieġa , għax kif rajna qabel kienu jżewġuhom malajr .",
+        "output": "Meta t- [tifla | subject] tiżviluppa u turi s- sinjali li saret xebba l- omm kienet tifraħ , u ma ddumx ma tqiegħed il- qasrija tal- ħabaq fuq il- ħarrieġa , għax kif rajna qabel kienu jżewġuhom malajr ."
+    },
+    {
+        "input": "Meta t- tifla tiżviluppa u turi s- sinjali li saret xebba l- omm kienet [tifraħ] , u ma ddumx ma tqiegħed il- qasrija tal- ħabaq fuq il- ħarrieġa , għax kif rajna qabel kienu jżewġuhom malajr .",
+        "output": "Meta t- tifla tiżviluppa u turi s- sinjali li saret xebba l- [omm | subject] kienet tifraħ , u ma ddumx ma tqiegħed il- qasrija tal- ħabaq fuq il- ħarrieġa , għax kif rajna qabel kienu jżewġuhom malajr ."
+    },
+    {
+        "input": "Dwar id- dati tal- laqgħat li fihom se [jidhru] x- xhieda , kien deċiż li jsiru tliet seduti fis- 16 , 17 u 18 ta' Lulju fl- 4 p . m .",
+        "output": "Dwar id- dati tal- laqgħat li fihom se jidhru x- [xhieda | subject] , kien deċiż li jsiru tliet seduti fis- 16 , 17 u 18 ta' Lulju fl- 4 p . m ."
+    },
+    {
+        "input": "Dwar id- dati tal- laqgħat li fihom se jidhru x- xhieda , kien deċiż li [jsiru] tliet seduti fis- 16 , 17 u 18 ta' Lulju fl- 4 p . m .",
+        "output": "Dwar id- dati tal- laqgħat li fihom se jidhru x- xhieda , kien deċiż li jsiru tliet [seduti | subject] fis- 16 , 17 u 18 ta' Lulju fl- 4 p . m ."
+    },
+    {
+        "input": "Għandu 57 sena u ftit 'il bogħod mill- Kartanzjan il- Professor Anthony Zammit [irnexxielu] jitla' għall- ewwel darba fil- Parlament .",
+        "output": "Għandu 57 sena u ftit 'il bogħod mill- Kartanzjan il- Professor [Anthony | subject] Zammit irnexxielu jitla' għall- ewwel darba fil- Parlament ."
+    },
+    {
+        "input": "Wara jumejn , il- ġenituri [reġgħu] ħadu lil Sharon fl- emerġenza wara li bdiet tirrametti u l- kpiepel t' għajnejha bdew jingħalqu .",
+        "output": "Wara jumejn , il- [ġenituri | subject] reġgħu ħadu lil Sharon fl- emerġenza wara li bdiet tirrametti u l- kpiepel t' għajnejha bdew jingħalqu ."
+    },
+    {
+        "input": "Wara jumejn , il- ġenituri reġgħu ħadu lil Sharon fl- emerġenza wara li bdiet tirrametti u l- kpiepel t' għajnejha [bdew] jingħalqu .",
+        "output": "Wara jumejn , il- ġenituri reġgħu ħadu lil Sharon fl- emerġenza wara li bdiet tirrametti u l- [kpiepel | subject] t' għajnejha bdew jingħalqu ."
+    },
+    {
+        "input": "Imma f' daqqa waħda f' Diċembru [seħħ] dak li ħadd ma basar u f' temp ta' xahrejn ismu sploda hekk kif ftit wara l- Milied opera b' suċċess lill- Kap ta' l- Oppożizzjoni għall- marda tal- kanċer .",
+        "output": "Imma f' daqqa waħda f' Diċembru seħħ [dak | subject] li ħadd ma basar u f' temp ta' xahrejn ismu sploda hekk kif ftit wara l- Milied opera b' suċċess lill- Kap ta' l- Oppożizzjoni għall- marda tal- kanċer ."
+    },
+    {
+        "input": "Imma f' daqqa waħda f' Diċembru seħħ dak li ħadd ma [basar] u f' temp ta' xahrejn ismu sploda hekk kif ftit wara l- Milied opera b' suċċess lill- Kap ta' l- Oppożizzjoni għall- marda tal- kanċer .",
+        "output": "Imma f' daqqa waħda f' Diċembru seħħ dak li [ħadd | subject] ma basar u f' temp ta' xahrejn ismu sploda hekk kif ftit wara l- Milied opera b' suċċess lill- Kap ta' l- Oppożizzjoni għall- marda tal- kanċer ."
+    },
+    {
+        "input": "Imma f' daqqa waħda f' Diċembru seħħ dak li ħadd ma basar u f' temp ta' xahrejn ismu [sploda] hekk kif ftit wara l- Milied opera b' suċċess lill- Kap ta' l- Oppożizzjoni għall- marda tal- kanċer .",
+        "output": "Imma f' daqqa waħda f' Diċembru seħħ dak li ħadd ma basar u f' temp ta' xahrejn [ismu | subject] sploda hekk kif ftit wara l- Milied opera b' suċċess lill- Kap ta' l- Oppożizzjoni għall- marda tal- kanċer ."
+    },
+    {
+        "input": "M' għandniex xi ngħidu tagħmel x' tagħmel kollox [isir] kif għandu jsir , imma fid- dilemma l- bniedem jagħmel u jemmen f' kollox .",
+        "output": "M' għandniex xi ngħidu tagħmel x' tagħmel [kollox | subject] isir kif għandu jsir , imma fid- dilemma l- bniedem jagħmel u jemmen f' kollox ."
+    },
+    {
+        "input": "M' għandniex xi ngħidu tagħmel x' tagħmel kollox isir kif għandu jsir , imma fid- dilemma l- bniedem [jagħmel] u jemmen f' kollox .",
+        "output": "M' għandniex xi ngħidu tagħmel x' tagħmel kollox isir kif għandu jsir , imma fid- dilemma l- [bniedem | subject] jagħmel u jemmen f' kollox ."
+    },
+    {
+        "input": "Wara aktar minn 10 snin f' Bay Radio , Carlo Borg Bonaci [għadda] għall- X- FM fejn kompla jespandi fuq il- proġett tiegħu li jkompli jwessa' l- kunċett tal- kontenut waqt il- programmi tar- radju .",
+        "output": "Wara aktar minn 10 snin f' Bay Radio , [Carlo | subject] Borg Bonaci għadda għall- X- FM fejn kompla jespandi fuq il- proġett tiegħu li jkompli jwessa' l- kunċett tal- kontenut waqt il- programmi tar- radju ."
+    },
+    {
+        "input": "Is- sekonda hija l- afterbirth jew il- fdal tal- plaċenta , u dari kien [hawn] min inixxifha u jerfagħha għal esiġenza bħal din .",
+        "output": "Is- sekonda hija l- afterbirth jew il- fdal tal- plaċenta , u dari kien hawn [min | subject] inixxifha u jerfagħha għal esiġenza bħal din ."
+    },
+    {
+        "input": "Il- folklor nistudjawh biex naraw kif kien [jaħsibha] l- bniedem , u għal bosta raġunijiet oħra , imma mhux biex ngħidu li dak li kien jagħmel kien dejjem korrett , ukoll jekk għal żmienu kien hekk .",
+        "output": "Il- folklor nistudjawh biex naraw kif kien jaħsibha l- [bniedem | subject] , u għal bosta raġunijiet oħra , imma mhux biex ngħidu li dak li kien jagħmel kien dejjem korrett , ukoll jekk għal żmienu kien hekk ."
+    },
+    {
+        "input": "\" Forsi ħafna mill- każijiet huma tali li jekk dawn il- koppji jkunu [identifikati] , il- pajjiż jista' jgħinhom bħala koppja .",
+        "output": "\" Forsi ħafna mill- każijiet huma tali li jekk dawn il- [koppji | subject] jkunu identifikati , il- pajjiż jista' jgħinhom bħala koppja ."
+    },
+    {
+        "input": "\" Forsi ħafna mill- każijiet huma tali li jekk dawn il- koppji jkunu identifikati , il- pajjiż [jista'] jgħinhom bħala koppja .",
+        "output": "\" Forsi ħafna mill- każijiet huma tali li jekk dawn il- koppji jkunu identifikati , il- [pajjiż | subject] jista' jgħinhom bħala koppja ."
+    },
+    {
+        "input": "Illum , id- dwejjaq tal- koppja nbidlet f' rabja għall- fatt li għalkemm xahrejn ilu talbu li [ssir] inkjesta dwar il- mewt tagħha s' issa għadhom lanqas biss irċevew acknowledgment tat- talba tagħha .",
+        "output": "Illum , id- dwejjaq tal- koppja nbidlet f' rabja għall- fatt li għalkemm xahrejn ilu talbu li ssir [inkjesta | subject] dwar il- mewt tagħha s' issa għadhom lanqas biss irċevew acknowledgment tat- talba tagħha ."
+    },
+    {
+        "input": "Karl kien [għadu] bla xogħol u wara t- tweġiba t' ommha għall- ittra tagħha , għeb kull pjan ta' rikonċiljazzjoni ma' niesha .",
+        "output": "[Karl | subject] kien għadu bla xogħol u wara t- tweġiba t' ommha għall- ittra tagħha , għeb kull pjan ta' rikonċiljazzjoni ma' niesha ."
+    },
+    {
+        "input": "Il- preżenza tal- maħbuba tiegħu wara ġurnata 'l bogħod minnu [tkattarlu] ssodisfazzjon li jkun kiseb , jew jekk ikun hemm bżonn , twittilu l- ħotob tad- delużjoni .",
+        "output": "Il- [preżenza | subject] tal- maħbuba tiegħu wara ġurnata 'l bogħod minnu tkattarlu [ssodisfazzjon | object] li jkun kiseb , jew jekk ikun hemm bżonn , twittilu l- ħotob tad- delużjoni ."
+    },
+    {
+        "input": "Oħrajn kien [ikollhom] merfugħa s- sieħba jew is- sekonda li tiġi wara t- twelid ta' tewmin , u jekk ma jkollhomx huma jiddubbaw biċċa , u jagħmluhielha mal- ġbara .",
+        "output": "[Oħrajn | subject] kien ikollhom merfugħa s- [sieħba | object] jew is- sekonda li tiġi wara t- twelid ta' tewmin , u jekk ma jkollhomx huma jiddubbaw biċċa , u jagħmluhielha mal- ġbara ."
+    },
+    {
+        "input": "Oħrajn kien ikollhom merfugħa s- sieħba jew is- sekonda li tiġi wara t- twelid ta' tewmin , u jekk ma jkollhomx huma [jiddubbaw] biċċa , u jagħmluhielha mal- ġbara .",
+        "output": "Oħrajn kien ikollhom merfugħa s- sieħba jew is- sekonda li tiġi wara t- twelid ta' tewmin , u jekk ma jkollhomx [huma | subject] jiddubbaw [biċċa | object] , u jagħmluhielha mal- ġbara ."
+    },
+    {
+        "input": "L- Awtorità [fakkret] lill- Melita li kellha l- obbligu li tirrilaxxa mill- kuntratt mingħajr xi penali lil dawk il- konsumaturi li kienu komdi jħallsu biss b' ċekk .",
+        "output": "L- [Awtorità | subject] fakkret lill- [Melita | object] li kellha l- obbligu li tirrilaxxa mill- kuntratt mingħajr xi penali lil dawk il- konsumaturi li kienu komdi jħallsu biss b' ċekk ."
+    },
+    {
+        "input": "Fl- imgħoddi , il- Maltin , bħal bosta ġnus oħra , ma [kellhomx] wisq biex jiddevertu , u ma kellhomx tradizzjonijiet li jagħmlu riċevimenti għal kull ħaġa ta' xejn .",
+        "output": "Fl- imgħoddi , il- [Maltin | subject] , bħal bosta ġnus oħra , ma kellhomx [wisq | object] biex jiddevertu , u ma kellhomx tradizzjonijiet li jagħmlu riċevimenti għal kull ħaġa ta' xejn ."
+    },
+    {
+        "input": "Il- ħsieb imbejjet fit- tama li l- impjieg maħtuf minnha kellu jkun temporanju u x' aktarx għal żmien qasir , kien [joħloq] fiha aspett negattiv aktar milli pożittiv .",
+        "output": "Il- [ħsieb | subject] imbejjet fit- tama li l- impjieg maħtuf minnha kellu jkun temporanju u x' aktarx għal żmien qasir , kien joħloq fiha [aspett | object] negattiv aktar milli pożittiv ."
+    },
+    {
+        "input": "L- Enemalta , allegatament , [irmiet] darbtejn il- mercaptan imma ma jirriżultax li f' dak il- perijodu kien hemm xi każi ta' persuni li belgħu xi gassijiet minħabba dan .",
+        "output": "L- [Enemalta | subject] , allegatament , irmiet darbtejn il- [mercaptan | object] imma ma jirriżultax li f' dak il- perijodu kien hemm xi każi ta' persuni li belgħu xi gassijiet minħabba dan ."
+    },
+    {
+        "input": "Fil- belt il- kbira , miżgħuda bin- nies , mhux faċli ssib ix- xogħol kif u xħin tixtieq u Erica kienet [tgħodd] ruħha b' ixxurtjata li bdiet taħdem ħmistax wara li waslu .",
+        "output": "Fil- belt il- kbira , miżgħuda bin- nies , mhux faċli ssib ix- xogħol kif u xħin tixtieq u [Erica | subject] kienet tgħodd [ruħha | object] b' ixxurtjata li bdiet taħdem ħmistax wara li waslu ."
+    },
+    {
+        "input": "Dak li waħħlet f' rasha li twettaq , ukoll jekk bħas- soltu jiġi magħdud minn ħaddieħor b' għemil għaġġieli u mferfex , ma kien se [jisfrattahulha] ħadd .",
+        "output": "[Dak | object] li waħħlet f' rasha li twettaq , ukoll jekk bħas- soltu jiġi magħdud minn ħaddieħor b' għemil għaġġieli u mferfex , ma kien se jisfrattahulha [ħadd | subject] ."
+    },
+    {
+        "input": "Il- qamar , fiżikament , [jaffettwa] biss il- wiċċ vast tal- oċeani meta jgħaddi bi dritthom u jimla jew jofrogħ il- baħar , u mhux farka ta' bniedem .",
+        "output": "Il- [qamar | subject] , fiżikament , jaffettwa biss il- [wiċċ | object] vast tal- oċeani meta jgħaddi bi dritthom u jimla jew jofrogħ il- baħar , u mhux farka ta' bniedem ."
+    },
+    {
+        "input": "Għalhekk differenza fil- pronunzja ma [titlobx] bilfors differenza fil- kitba , infatti differenza djalettali qatt ma titlob ortografija differenti .",
+        "output": "Għalhekk [differenza | subject] fil- pronunzja ma titlobx bilfors [differenza | object] fil- kitba , infatti differenza djalettali qatt ma titlob ortografija differenti ."
+    },
+    {
+        "input": "Għalhekk differenza fil- pronunzja ma titlobx bilfors differenza fil- kitba , infatti differenza djalettali qatt ma [titlob] ortografija differenti .",
+        "output": "Għalhekk differenza fil- pronunzja ma titlobx bilfors differenza fil- kitba , infatti [differenza | subject] djalettali qatt ma titlob [ortografija | object] differenti ."
+    },
+    {
+        "input": "Il- Professur jemmen li tul dawn l- aħħar snin Malta [tilfet] ħafna mill- valuri u hawn jiftaħ fuq realtà oħra soċjali : xebbiet li jispiċċaw irabbu tfal waħedhom barra ż- żwieġ .",
+        "output": "Il- Professur jemmen li tul dawn l- aħħar snin [Malta | subject] tilfet [ħafna | object] mill- valuri u hawn jiftaħ fuq realtà oħra soċjali : xebbiet li jispiċċaw irabbu tfal waħedhom barra ż- żwieġ ."
+    },
+    {
+        "input": "Huwa għalhekk li meta xi ħadd [juża] tipi antiki bħal Tornado , Malta jew M . Maiandra biex jibgħat id- dokumenti tiegħu lil ħaddieħor , ħafna nies ma jkunux jistgħu jaqrawhom sew .",
+        "output": "Huwa għalhekk li meta xi [ħadd | subject] juża [tipi | object] antiki bħal Tornado , Malta jew M . Maiandra biex jibgħat id- dokumenti tiegħu lil ħaddieħor , ħafna nies ma jkunux jistgħu jaqrawhom sew ."
+    },
+    {
+        "input": "Peress li l- programmi ta' dawn il- kompjuters qed jiġu żviluppati minn kelliema tal- Ingliż fl- Istati Uniti , dawn il- programmaturi [jagħżlu] dik il- kodifikazzjoni bħala default .",
+        "output": "Peress li l- programmi ta' dawn il- kompjuters qed jiġu żviluppati minn kelliema tal- Ingliż fl- Istati Uniti , dawn il- [programmaturi | subject] jagħżlu dik il- [kodifikazzjoni | object] bħala default ."
+    },
+    {
+        "input": "Ġanpatist , sar aħmar nar , [telgħatlu] għoqla fi griżmejh u f' daqqa waħda dar fuq ibnu u xejjirlu daqqa ta' ħarta fuq ħaddejh li dawru dawra tond waqt li minn ħalq mimli qilla , qallu :",
+        "output": "[Ġanpatist | subject] , sar aħmar nar , telgħatlu [għoqla | object] fi griżmejh u f' daqqa waħda dar fuq ibnu u xejjirlu daqqa ta' ħarta fuq ħaddejh li dawru dawra tond waqt li minn ħalq mimli qilla , qallu :"
+    },
+    {
+        "input": "Qishom iż- żewġt ibliet ma [jagħmlux] sehem minn dinja waħda , imma jinsabu fuq żewġ pjaneti mbiegħda li ma jafux bl- eżistenza ta' xulxin .",
+        "output": "Qishom iż- żewġt [ibliet | subject] ma jagħmlux [sehem | object] minn dinja waħda , imma jinsabu fuq żewġ pjaneti mbiegħda li ma jafux bl- eżistenza ta' xulxin ."
+    },
+    {
+        "input": "Minkejja dan kollu , is- soċjetà ( u dan isir f' kull soċjetà ) [għażlet] djalett , minn fost il- ħafna , biex iservi ta' djalett standard .",
+        "output": "Minkejja dan kollu , is- [soċjetà | subject] ( u dan isir f' kull soċjetà ) għażlet [djalett | object] , minn fost il- ħafna , biex iservi ta' djalett standard ."
+    },
+    {
+        "input": "It- tastiera Maltija li attivajt [tuża] din is- sistema universali tal- Unicode ( UTF8 ) , li taħdem mal- Windows , mal- Linux u mal- Mac .",
+        "output": "It- [tastiera | subject] Maltija li attivajt tuża din is- [sistema | object] universali tal- Unicode ( UTF8 ) , li taħdem mal- Windows , mal- Linux u mal- Mac ."
+    },
+    {
+        "input": "Eżattament bħal- lum seba' xhur ilu , koppja mis- Swieqi [ħadet] l- ikbar xokk ta' ħajjitha hekk kif tilfu lil binthom ta' 17-il sena .",
+        "output": "Eżattament bħal- lum seba' xhur ilu , [koppja | subject] mis- Swieqi ħadet l- ikbar [xokk | object] ta' ħajjitha hekk kif tilfu lil binthom ta' 17-il sena ."
+    },
+    {
+        "input": "Kif rajna , ħafna ommijiet [jixtrulha] d- drapp għal liżar kbir biex toqgħod tirrakkmah bil- mod , għal meta tiżżewweġ u tasal bżonnu .",
+        "output": "Kif rajna , ħafna [ommijiet | subject] jixtrulha d- [drapp | object] għal liżar kbir biex toqgħod tirrakkmah bil- mod , għal meta tiżżewweġ u tasal bżonnu ."
+    },
+    {
+        "input": "L- ebda djalett ma għandna d- dritt insejħulu ħażin , għax kull djalett hu prodott naturali miġbur mill- ambjent tal- individwu ; u kull ambjent [jipprovdi] mod tad- diskors partikulari għalih .",
+        "output": "L- ebda djalett ma għandna d- dritt insejħulu ħażin , għax kull djalett hu prodott naturali miġbur mill- ambjent tal- individwu ; u kull [ambjent | subject] jipprovdi [mod | object] tad- diskors partikulari għalih ."
+    },
+    {
+        "input": "It- tqala u t- twelid huma aktar problema medika jew bijoloġika u minħabba f' hekk insibu li l- folklor u d- drawwiet assoċjati magħhom [għandhom] aktar mill- mediċina popolari milli ħaġa oħra .",
+        "output": "It- tqala u t- twelid huma aktar problema medika jew bijoloġika u minħabba f' hekk insibu li l- [folklor | subject] u d- drawwiet assoċjati magħhom għandhom [aktar | object] mill- mediċina popolari milli ħaġa oħra ."
+    },
+    {
+        "input": "Ftit wara jgħidli li ommu , li tilifha tliet snin ilu , meta qalilha li kien ħiereġ mal- Partit Laburista kienet [ħadet] xokk kbir .",
+        "output": "Ftit wara jgħidli li [ommu | subject] , li tilifha tliet snin ilu , meta qalilha li kien ħiereġ mal- Partit Laburista kienet ħadet [xokk | object] kbir ."
+    },
+    {
+        "input": "Qatt ma basret li setgħet titqarraq u li ħajjitha kienet [teħtieġ] xi ħaġa aktar mill- preżenza fiżika ta' l- artist meqjum minnha .",
+        "output": "Qatt ma basret li setgħet titqarraq u li [ħajjitha | subject] kienet teħtieġ xi [ħaġa | object] aktar mill- preżenza fiżika ta' l- artist meqjum minnha ."
+    },
+    {
+        "input": "Il- qamar u x- xahar tal- mara m' [għandhom] x' jaqsmu assolutament xejn bejniethom , imma moħħ il- bniedem idaħħal xi ħaġa f' moħħu , ukoll jekk mingħajr loġika u mingħajr provi , u jibda jemminha .",
+        "output": "Il- [qamar | subject] u x- xahar tal- mara m' għandhom [x' | object] jaqsmu assolutament xejn bejniethom , imma moħħ il- bniedem idaħħal xi ħaġa f' moħħu , ukoll jekk mingħajr loġika u mingħajr provi , u jibda jemminha ."
+    },
+    {
+        "input": "Il- qamar u x- xahar tal- mara m' għandhom x' jaqsmu assolutament xejn bejniethom , imma moħħ il- bniedem [idaħħal] xi ħaġa f' moħħu , ukoll jekk mingħajr loġika u mingħajr provi , u jibda jemminha .",
+        "output": "Il- qamar u x- xahar tal- mara m' għandhom x' jaqsmu assolutament xejn bejniethom , imma [moħħ | subject] il- bniedem idaħħal xi [ħaġa | object] f' moħħu , ukoll jekk mingħajr loġika u mingħajr provi , u jibda jemminha ."
+    },
+    {
+        "input": "Antoine d' Ambrogio , f' isem l- Awditur Ġenerali , [ta] sommarju tar- rapport ta' inkjesta dwar ir- rimi tal- mercaptan u qal li saru diversi intervisti ma' persuni mill- Enemalta u entitajiet oħrajn .",
+        "output": "[Antoine | subject] d' Ambrogio , f' isem l- Awditur Ġenerali , ta [sommarju | object] tar- rapport ta' inkjesta dwar ir- rimi tal- mercaptan u qal li saru diversi intervisti ma' persuni mill- Enemalta u entitajiet oħrajn ."
+    },
+    {
+        "input": "Hemmhekk għamlu t- testijiet , fosthom l- MRI , fejn it- tobba [tawhom] l- aħbar ħażin li t- tifla kienet f' qagħda kritika .",
+        "output": "Hemmhekk għamlu t- testijiet , fosthom l- MRI , fejn it- [tobba | subject] tawhom l- [aħbar | object] ħażin li t- tifla kienet f' qagħda kritika ."
+    },
+    {
+        "input": "Ngħiduha kif inhi , min għandu l- kandidat tiegħu [jżomm] lilu u lili vvutali t- tieni , \" isostni l- Professur Zammit .",
+        "output": "Ngħiduha kif inhi , [min | subject] għandu l- kandidat tiegħu jżomm [lilu | object] u lili vvutali t- tieni , \" isostni l- Professur Zammit ."
+    },
+    {
+        "input": "Robert qalilna li huma [sabu] għajnuna kbira mill- familjari u l- ħbieb u wara xahar tkellmu ma' avukatessa għax fil- fond ta' qalbhom kienu konvinti li binthom mietet minħabba t- traskuraġni ta' żewġ tobba .",
+        "output": "Robert qalilna li [huma | subject] sabu [għajnuna | object] kbira mill- familjari u l- ħbieb u wara xahar tkellmu ma' avukatessa għax fil- fond ta' qalbhom kienu konvinti li binthom mietet minħabba t- traskuraġni ta' żewġ tobba ."
+    },
+    {
+        "input": "L- MCA kienet [talbet] lill- Melita biex temenda t- termini u l- kundizzjonijiet li jsiru lill- klijenti l- ġodda u fihom jgħidu ċar u tond li hemm tariffa ta' ewro għal kull darba li wieħed iħallas b' ċekk .",
+        "output": "L- [MCA | subject] kienet talbet lill- [Melita | object] biex temenda t- termini u l- kundizzjonijiet li jsiru lill- klijenti l- ġodda u fihom jgħidu ċar u tond li hemm tariffa ta' ewro għal kull darba li wieħed iħallas b' ċekk ."
+    },
+    {
+        "input": "Fl- opinjoni tagħha , min ma kellux ir- rieda li jgħinha tgħix ħajjitha fis- sħiħ , ma [kellux] il- jedd jikkritikaha .",
+        "output": "Fl- opinjoni tagħha , [min | subject] ma kellux ir- rieda li jgħinha tgħix ħajjitha fis- sħiħ , ma kellux il- [jedd | object] jikkritikaha ."
+    },
+    {
+        "input": "Tonio Fenech qal li hu m' [għandux] oġġezzjoni għat- talbiet tal- Oppożizzjoni imma qal li wieħed m' għandux jorbot il- kwistjoni tal- mercaptan mal- proċeduri jekk ċertu xiri li sar mill- Enemalta hux korrett .",
+        "output": "Tonio Fenech qal li [hu | subject] m' għandux [oġġezzjoni | object] għat- talbiet tal- Oppożizzjoni imma qal li wieħed m' għandux jorbot il- kwistjoni tal- mercaptan mal- proċeduri jekk ċertu xiri li sar mill- Enemalta hux korrett ."
+    },
+    {
+        "input": "Tonio Fenech qal li hu m' għandux oġġezzjoni għat- talbiet tal- Oppożizzjoni imma qal li wieħed m' għandux [jorbot] il- kwistjoni tal- mercaptan mal- proċeduri jekk ċertu xiri li sar mill- Enemalta hux korrett .",
+        "output": "Tonio Fenech qal li hu m' għandux oġġezzjoni għat- talbiet tal- Oppożizzjoni imma qal li [wieħed | subject] m' għandux jorbot il- [kwistjoni | object] tal- mercaptan mal- proċeduri jekk ċertu xiri li sar mill- Enemalta hux korrett ."
+    },
+    {
+        "input": "Imqar jekk kellha għalfejn tkun kburija li l- personalità tagħha kienet [ħalliet] timbru fuq il- personalità tiegħu , ma setgħetx tixtieq li l- artist jibda jimitaha fit- tendenzi merfugħa tal- karattru tagħha .",
+        "output": "Imqar jekk kellha għalfejn tkun kburija li l- [personalità | subject] tagħha kienet ħalliet [timbru | object] fuq il- personalità tiegħu , ma setgħetx tixtieq li l- artist jibda jimitaha fit- tendenzi merfugħa tal- karattru tagħha ."
+    },
+    {
+        "input": "Jidher li dan il- punt ittieħed inkonsiderazzjoni mill- Awtorità li waqt li sostniet li bil- Liġi hi m' [għandhiex] saħħa li ġġiegħel lill- Melita tirtira d- deċiżjoni madankollu talbitha ssegwi numru ta' passi .",
+        "output": "Jidher li dan il- punt ittieħed inkonsiderazzjoni mill- Awtorità li waqt li sostniet li bil- Liġi [hi | subject] m' għandhiex [saħħa | object] li ġġiegħel lill- Melita tirtira d- deċiżjoni madankollu talbitha ssegwi numru ta' passi ."
+    },
+    {
+        "input": "Kulħadd kien drah u mhux l- ewwel darba li minn fuq iz- zuntier tal- knisja xi ruħ tajba kienet [tiġbidlu] saqajh .",
+        "output": "Kulħadd kien drah u mhux l- ewwel darba li minn fuq iz- zuntier tal- knisja xi [ruħ | subject] tajba kienet tiġbidlu [saqajh | object] ."
+    },
+    {
+        "input": "Ma' dan il- kliem , l- erwieħ twajba ta' fuq iz- zuntier [ċarrtu] ħalqhom f' daħka kbira li kienet tfisser ħafna .",
+        "output": "Ma' dan il- kliem , l- [erwieħ | subject] twajba ta' fuq iz- zuntier ċarrtu [ħalqhom | object] f' daħka kbira li kienet tfisser ħafna ."
+    },
+    {
+        "input": "Bis- saħħa tal- fatt li Carlo kien u għadu [jsegwi] l- metodi ta' produzzjoni ta' programmi fuq ir- radju barra l- pajjiż , irnexxielu jdaħħal il- kunċett ta' preżentatur , u b' dan irnexxielu jsaħħaħ il- kontenut .",
+        "output": "Bis- saħħa tal- fatt li [Carlo | subject] kien u għadu jsegwi l- [metodi | object] ta' produzzjoni ta' programmi fuq ir- radju barra l- pajjiż , irnexxielu jdaħħal il- kunċett ta' preżentatur , u b' dan irnexxielu jsaħħaħ il- kontenut ."
+    },
+    {
+        "input": "Il- PN [beżża'] lin- nies li l- MLP se joħroġ lil Malta mill- Unjoni Ewropea , xi ħaġa li qatt ma kien il- każ .",
+        "output": "Il- [PN | subject] beżża' lin- [nies | object] li l- MLP se joħroġ lil Malta mill- Unjoni Ewropea , xi ħaġa li qatt ma kien il- każ ."
+    },
+    {
+        "input": "Il- PN beżża' lin- nies li l- MLP se [joħroġ] lil Malta mill- Unjoni Ewropea , xi ħaġa li qatt ma kien il- każ .",
+        "output": "Il- PN beżża' lin- nies li l- [MLP | subject] se joħroġ lil [Malta | object] mill- Unjoni Ewropea , xi ħaġa li qatt ma kien il- każ ."
+    },
+    {
+        "input": "Hu qal li x- xiri taċ- ċilindri tal- gass m' [għandux] x' jaqsam mar- rapport ta' inkjesta dwar il- mercaptan .",
+        "output": "Hu qal li x- [xiri | subject] taċ- ċilindri tal- gass m' għandux [x' | object] jaqsam mar- rapport ta' inkjesta dwar il- mercaptan ."
+    },
+    {
+        "input": "Il- koppja qed [titlob] inkjesta għax temmen li kienet it- traskuraġni ta' żewġ tobba li wasslu għall- mewt ta' binthom meta naqsu li jagħmlulha t- testijiet meħtieġa li suppost isiru meta jidhru s- sintomi li kellha .",
+        "output": "Il- [koppja | subject] qed titlob [inkjesta | object] għax temmen li kienet it- traskuraġni ta' żewġ tobba li wasslu għall- mewt ta' binthom meta naqsu li jagħmlulha t- testijiet meħtieġa li suppost isiru meta jidhru s- sintomi li kellha ."
+    },
+    {
+        "input": "Għalkemm hi u Karl kienu [sabu] 'l xulxin , ma kinitx żgura jekk bħala individwi kinux sabu lilhom infushom .",
+        "output": "Għalkemm [hi | subject] u Karl kienu sabu 'l [xulxin | object] , ma kinitx żgura jekk bħala individwi kinux sabu lilhom infushom ."
+    },
+    {
+        "input": "Carlo Borg Bonaci , li għandu 44 sena , [ħabbat] wiċċu mad- dilemma tal- ħajja , fejn ftit aktar minn sena ilu kien mogħti l- aħbar li kien jeħtieġ il- kura bil- kimoterapija minħabba djanjosi mhux mistennija għal lymphoma .",
+        "output": "[Carlo | subject] Borg Bonaci , li għandu 44 sena , ħabbat [wiċċu | object] mad- dilemma tal- ħajja , fejn ftit aktar minn sena ilu kien mogħti l- aħbar li kien jeħtieġ il- kura bil- kimoterapija minħabba djanjosi mhux mistennija għal lymphoma ."
+    },
+    {
+        "input": "Il- każ [jikkonċerna] lil Sharon Rodenas , l- unika wild tal- koppja Robert u Esmeralda mis- Swieqi .",
+        "output": "Il- [każ | subject] jikkonċerna lil [Sharon | object] Rodenas , l- unika wild tal- koppja Robert u Esmeralda mis- Swieqi ."
+    },
+    {
+        "input": "\" Isemmu l- qamar u mhux qamar , m' [għandux] ħajja hu , ( kif ) jista jagħti ħajja lil ħaddieħor ?",
+        "output": "\" Isemmu l- qamar u mhux qamar , m' għandux [ħajja | object] [hu | subject] , ( kif ) jista jagħti ħajja lil ħaddieħor ?"
+    },
+    {
+        "input": "Inzerta li ċ- ċiklu tal- mara fl- aħjar tagħha [jieħu] bejn wieħed u ieħor tmienja u għoxrin jum .",
+        "output": "Inzerta li ċ- [ċiklu | subject] tal- mara fl- aħjar tagħha jieħu bejn wieħed u ieħor tmienja u għoxrin [jum | object] ."
+    },
+    {
+        "input": "Il- ħajt dejjaq li fuq naħa waħda jifridhom minn ġirien għaġġieba għall- aħħar , ma [jitfix] id- diwi ta' l- ilħna werżieqa u ma joħnoqx it- tħanxir ta' mużika b' ritmu mgħaġġel , li tinstama' f' mumenti meta ma tkunx mistennija .",
+        "output": "Il- [ħajt | subject] dejjaq li fuq naħa waħda jifridhom minn ġirien għaġġieba għall- aħħar , ma jitfix id- [diwi | object] ta' l- ilħna werżieqa u ma joħnoqx it- tħanxir ta' mużika b' ritmu mgħaġġel , li tinstama' f' mumenti meta ma tkunx mistennija ."
+    },
+    {
+        "input": "Għaldaqstant min jikkritikana jew jagħtina tikketta politika jkun [jagħmel] żball , \" sostna .",
+        "output": "Għaldaqstant [min | subject] jikkritikana jew jagħtina tikketta politika jkun jagħmel [żball | object] , \" sostna ."
+    },
+    {
+        "input": "\" Jien fl- 1987 , ftit wara li ġejt mill- Ġermanja , [ivvutajt] lill- Partit Nazzjonalista .",
+        "output": "\" [Jien | subject] fl- 1987 , ftit wara li ġejt mill- Ġermanja , ivvutajt lill- [Partit | object] Nazzjonalista ."
+    },
+    {
+        "input": "Fuq kollox anqas hi ma kienet qatt [tiddiskuti] miegħu x' jgħaddi mingħaliha fil- fabbrika .",
+        "output": "Fuq kollox anqas [hi | subject] ma kienet qatt tiddiskuti miegħu [x' | object] jgħaddi mingħaliha fil- fabbrika ."
+    },
+    {
+        "input": "Issa jiddependi x' viżjoni qed [jara] l- Partit u x' għandu x' joffri hu lill- Partit . \"",
+        "output": "Issa jiddependi x' [viżjoni | object] qed jara l- [Partit | subject] u x' għandu x' joffri hu lill- Partit . \""
+    },
+    {
+        "input": "\" Biżżejjed li ngħid li anki l- banek kummerċjali [daħħlu] bosta ħlasijiet għall- ipproċessar tat- transazzjonijet bankarji matul ix- xhur li għaddew u anki riċentement fuq is- servizzi bankarji fuq l- internet , \" kompla jgħid il- kelliem .",
+        "output": "\" Biżżejjed li ngħid li anki l- [banek | subject] kummerċjali daħħlu bosta [ħlasijiet | object] għall- ipproċessar tat- transazzjonijet bankarji matul ix- xhur li għaddew u anki riċentement fuq is- servizzi bankarji fuq l- internet , \" kompla jgħid il- kelliem ."
+    },
+    {
+        "input": "Sfortunatament , din ma [tinkludix] il- lingwa Maltija u hawn jinħolqu l- problemi .",
+        "output": "Sfortunatament , [din | subject] ma tinkludix il- [lingwa | object] Maltija u hawn jinħolqu l- problemi ."
+    },
+    {
+        "input": "Fit- 18 ta' Jannar 2009 kelliema għall- MCA kkonfermat ma' Illum li kienet bdiet tinvestiga lill- Melita wara li din il- kumpanija fil- bidu tas- sena [avżat] lill- klijenti li se tibda titlob ħlas ta' ewro għal kull pagament li jagħmlu b' ċekk .",
+        "output": "Fit- 18 ta' Jannar 2009 kelliema għall- MCA kkonfermat ma' Illum li kienet bdiet tinvestiga lill- Melita wara li din il- [kumpanija | subject] fil- bidu tas- sena avżat lill- [klijenti | object] li se tibda titlob ħlas ta' ewro għal kull pagament li jagħmlu b' ċekk ."
+    },
+    {
+        "input": "Min kien [tilef] ħafna demm u bħalissa jinsab mejjet x' imkien fid- dar żgur !",
+        "output": "[Min | subject] kien tilef ħafna [demm | object] u bħalissa jinsab mejjet x' imkien fid- dar żgur !"
+    },
+    {
+        "input": "Kienu jibżgħu li jekk nisa tqal [jieħdu] qatgħa jew xokk , iħassru d- demm .",
+        "output": "Kienu jibżgħu li jekk [nisa | subject] tqal jieħdu [qatgħa | object] jew xokk , iħassru d- demm ."
+    },
+    {
+        "input": "Il- Membru tal- Kumitat Leo Brincat talab li bħala xhud ikun hemm rappreżentant tal- MEPA u kien hemm qbil filwaqt li d- Deputat Laburista Joe Mizzi [ta] lista ta' persuni oħrajn mill- Korporazzjoni Enemalta u minn WasteServ u ma kienx hemm oġġezzjoni .",
+        "output": "Il- Membru tal- Kumitat Leo Brincat talab li bħala xhud ikun hemm rappreżentant tal- MEPA u kien hemm qbil filwaqt li d- Deputat Laburista [Joe | subject] Mizzi ta [lista | object] ta' persuni oħrajn mill- Korporazzjoni Enemalta u minn WasteServ u ma kienx hemm oġġezzjoni ."
+    },
+    {
+        "input": "Imbagħad isemmili x' [qallu] ħabib tiegħu gay meta kien il- Ġermanja .",
+        "output": "Imbagħad isemmili [x' | object] qallu [ħabib | subject] tiegħu gay meta kien il- Ġermanja ."
+    },
+    {
+        "input": "Din il- kodifikazzjoni [tkopri] l- aktar lingwi dominanti tad- dinja .",
+        "output": "Din il- [kodifikazzjoni | subject] tkopri l- aktar [lingwi | object] dominanti tad- dinja ."
+    },
+    {
+        "input": "Lejn tmiem l- intervista Borg Bonaci [jwieġeb] il- mistoqsija speċifika tiegħi dwar il- kritika li ssir xi drabi lejn ċerti preżentaturi li jbiddlu l- istazzjon tar- radju jew tat- televiżjoni – l- aktar dawk tal- partiti politiċi – u jieħdu timbru politiku .",
+        "output": "Lejn tmiem l- intervista [Borg | subject] Bonaci jwieġeb il- [mistoqsija | object] speċifika tiegħi dwar il- kritika li ssir xi drabi lejn ċerti preżentaturi li jbiddlu l- istazzjon tar- radju jew tat- televiżjoni – l- aktar dawk tal- partiti politiċi – u jieħdu timbru politiku ."
+    },
+    {
+        "input": "Dejjem jibżgħu li se jkollha xi difett u ma tkunx tista' tiżżewweġ jew twelled , għax wara kollox l- antiki ma kinux [iħabblu] rashom wisq fuq il- futur skolastiku tat- tifla , għax skola mhux dejjem kien hemm , u jekk kien hemm ftit kienu jibagħtu lit- tfal .",
+        "output": "Dejjem jibżgħu li se jkollha xi difett u ma tkunx tista' tiżżewweġ jew twelled , għax wara kollox l- [antiki | subject] ma kinux iħabblu [rashom | object] wisq fuq il- futur skolastiku tat- tifla , għax skola mhux dejjem kien hemm , u jekk kien hemm ftit kienu jibagħtu lit- tfal ."
+    },
+    {
+        "input": "Dejjem jibżgħu li se jkollha xi difett u ma tkunx tista' tiżżewweġ jew twelled , għax wara kollox l- antiki ma kinux iħabblu rashom wisq fuq il- futur skolastiku tat- tifla , għax skola mhux dejjem kien hemm , u jekk kien hemm ftit kienu [jibagħtu] lit- tfal .",
+        "output": "Dejjem jibżgħu li se jkollha xi difett u ma tkunx tista' tiżżewweġ jew twelled , għax wara kollox l- antiki ma kinux iħabblu rashom wisq fuq il- futur skolastiku tat- tifla , għax skola mhux dejjem kien hemm , u jekk kien hemm [ftit | subject] kienu jibagħtu lit- [tfal | object] ."
+    },
+    {
+        "input": "Dan m' [għandux] ħajja , allura kif għandu setgħa fuq ħaddieħor ? \"",
+        "output": "[Dan | subject] m' għandux [ħajja | object] , allura kif għandu setgħa fuq ħaddieħor ? \""
+    },
+    {
+        "input": "Imma fil- bagalja tiegħu l- Professur [iġorr] suċċess personali .",
+        "output": "Imma fil- bagalja tiegħu l- [Professur | subject] iġorr [suċċess | object] personali ."
+    },
+    {
+        "input": "Wara tliet ijiem fl- ITU , Sharon [taha] attakk tal- qalb .",
+        "output": "Wara tliet ijiem fl- ITU , [Sharon | object] taha [attakk | subject] tal- qalb ."
+    },
+    {
+        "input": "Julia Farrugia [tintervista] lill- Professur Anthony Zammit",
+        "output": "[Julia | subject] Farrugia tintervista lill- Professur [Anthony | object] Zammit"
+    },
+    {
+        "input": "\" Jien waqt li nkun qed nikkonċentra [nagħlaq] għajnejja .",
+        "output": "\" [Jien | subject] waqt li nkun qed nikkonċentra nagħlaq [għajnejja | object] ."
+    },
+    {
+        "input": "Naħseb li l- Partit Nazzjonalista [beżża'] lill- votant .",
+        "output": "Naħseb li l- [Partit | subject] Nazzjonalista beżża' lill- [votant | object] ."
+    },
+    {
+        "input": "Din il- PN [ħadha] u biegħha bħala \" repeater class \" . \"",
+        "output": "[Din | object] il- [PN | subject] ħadha u biegħha bħala \" repeater class \" . \""
+    },
+    {
+        "input": "\" L- MCA qed [tħeġġeġ] ukoll lill- Melita biex tneħħi din it- tariffa ta' ewro minn fuq l- orħos pakketti biex tevita piżijiet ġodda fuq persuni li lanqas li jistgħu jaffordjaw jixtru servizzi tal- komunikazzjoni , \" kienet temmet tgħid il- kelliema tal- MCA lill- Illum .",
+        "output": "\" L- [MCA | subject] qed tħeġġeġ ukoll lill- [Melita | object] biex tneħħi din it- tariffa ta' ewro minn fuq l- orħos pakketti biex tevita piżijiet ġodda fuq persuni li lanqas li jistgħu jaffordjaw jixtru servizzi tal- komunikazzjoni , \" kienet temmet tgħid il- kelliema tal- MCA lill- Illum ."
+    },
+    {
+        "input": "Koppja [titlob] inkjesta dwar il- mewt ta' bintha •",
+        "output": "[Koppja | subject] titlob [inkjesta | object] dwar il- mewt ta' bintha •"
+    },
+    {
+        "input": "Kulħadd [għandu] x' joffri fil- Partit Laburista .",
+        "output": "[Kulħadd | subject] għandu [x' | object] joffri fil- Partit Laburista ."
+    },
+    {
+        "input": "\" Jien qatt ma [nqdejt] b' din l- operazzjoni .",
+        "output": "\" [Jien | subject] qatt ma nqdejt b' din l- [operazzjoni | object] ."
+    },
+    {
+        "input": "Ir- rispett [iġib] ir- rispett , \" iwieġeb .",
+        "output": "Ir- [rispett | subject] iġib ir- [rispett | object] , \" iwieġeb ."
+    },
+    {
+        "input": "Is- saħħa m' [għandhiex] kuluri , \" jgħid .",
+        "output": "Is- [saħħa | subject] m' għandhiex [kuluri | object] , \" jgħid ."
+    },
+    {
+        "input": "Il- karriera ta' Borg Bonaci tmur lura għas- snin 80 meta kien disc jockey f' diskoteka magħrufa f' San Ġiljan , u l- popolarità tiegħu ġiet mix- xejn hekk kif Charles Flores , dak iż- żmien Kap tal- Programmi fuq Radju Malta kien [offrielu] breakfast show u mbagħad programm wara nofsinhar .",
+        "output": "Il- karriera ta' Borg Bonaci tmur lura għas- snin 80 meta kien disc jockey f' diskoteka magħrufa f' San Ġiljan , u l- popolarità tiegħu ġiet mix- xejn hekk kif [Charles | subject] Flores , dak iż- żmien Kap tal- Programmi fuq Radju Malta kien offrielu breakfast [show | object] u mbagħad programm wara nofsinhar ."
+    },
+    {
+        "input": "\" Melita bħalissa qed [tirrevedi] din il- materja u f' dan iż- żmien meta t- tariffa hi taħt reviżjoni , il- Melita ma ċċarġjatx , u qatt m' hi se tiċċarġja , il- ħlas ta' ewro għall- ipproċessar taċ- ċekkijiet sakemm tittieħed deċiżjoni dwar x' se jsir , \" stqarr il- kelliem tal- kumpanija .",
+        "output": "\" [Melita | subject] bħalissa qed tirrevedi din il- [materja | object] u f' dan iż- żmien meta t- tariffa hi taħt reviżjoni , il- Melita ma ċċarġjatx , u qatt m' hi se tiċċarġja , il- ħlas ta' ewro għall- ipproċessar taċ- ċekkijiet sakemm tittieħed deċiżjoni dwar x' se jsir , \" stqarr il- kelliem tal- kumpanija ."
+    },
+    {
+        "input": "\" Melita bħalissa qed tirrevedi din il- materja u f' dan iż- żmien meta t- tariffa hi taħt reviżjoni , il- Melita ma [ċċarġjatx] , u qatt m' hi se tiċċarġja , il- ħlas ta' ewro għall- ipproċessar taċ- ċekkijiet sakemm tittieħed deċiżjoni dwar x' se jsir , \" stqarr il- kelliem tal- kumpanija .",
+        "output": "\" Melita bħalissa qed tirrevedi din il- materja u f' dan iż- żmien meta t- tariffa hi taħt reviżjoni , il- [Melita | subject] ma ċċarġjatx , u qatt m' hi se tiċċarġja , il- [ħlas | object] ta' ewro għall- ipproċessar taċ- ċekkijiet sakemm tittieħed deċiżjoni dwar x' se jsir , \" stqarr il- kelliem tal- kumpanija ."
+    },
+    {
+        "input": "Minħabba li b' kumbinazzjoni d- dawra tal- qamar madwar id- dinja [tieħu] preċiż tmienja u għoxrin jum , malajr il- bniedem tal- imgħoddi , tista' tgħid mad- dinja kollha , minħabba l- injoranza u doża qawwija ta' superstizzjoni beda jqabbel iż- żmien tal- qamar maż- żmien taċ- ċiklu tal- mara .",
+        "output": "Minħabba li b' kumbinazzjoni d- [dawra | subject] tal- qamar madwar id- dinja tieħu preċiż tmienja u għoxrin [jum | object] , malajr il- bniedem tal- imgħoddi , tista' tgħid mad- dinja kollha , minħabba l- injoranza u doża qawwija ta' superstizzjoni beda jqabbel iż- żmien tal- qamar maż- żmien taċ- ċiklu tal- mara ."
+    },
+    {
+        "input": "Għalkemm Malta , meta nqabbluha ma' artijiet oħra bħall- Ingilterra , l- Italja , u l- Awstralja , [għandha] popolazzjoni żgħira , għandha nies li jitkellmu l- Malti Standard u l- Malti varjat ; jiġifieri , Malti li jvarja xi ftit jew wisq minn dak Standard u għalhekk jiġbor fih id- djaletti kollha ta' Malta .",
+        "output": "Għalkemm [Malta | subject] , meta nqabbluha ma' artijiet oħra bħall- Ingilterra , l- Italja , u l- Awstralja , għandha [popolazzjoni | object] żgħira , għandha nies li jitkellmu l- Malti Standard u l- Malti varjat ; jiġifieri , Malti li jvarja xi ftit jew wisq minn dak Standard u għalhekk jiġbor fih id- djaletti kollha ta' Malta ."
+    },
+    {
+        "input": "Kif diġà għedna , il- fatturi li jwasslu għall- għażla tad- djalett standard mhumiex lingwistiċi imma soċjali , politiċi , u / jew storiċi ; u għalhekk mhux la kemm tħaqqaqha ma' nazzjon biex tipprova turih li lingwistikament djalett ma [għandu] ebda privileġġ aktar mill- oħrajn biex ikun imlaqqam \" standard \" .",
+        "output": "Kif diġà għedna , il- fatturi li jwasslu għall- għażla tad- djalett standard mhumiex lingwistiċi imma soċjali , politiċi , u / jew storiċi ; u għalhekk mhux la kemm tħaqqaqha ma' nazzjon biex tipprova turih li lingwistikament [djalett | subject] ma għandu ebda [privileġġ | object] aktar mill- oħrajn biex ikun imlaqqam \" standard \" ."
+    },
+    {
+        "input": "Xahar wara li l- gazzetta Illum żvelat li l- Awtorità Maltija dwar il- Komunikazzjoni ( MCA ) [nediet] investigazzjoni dwar il- ħlas ta' ewro li Melita , il- kumpannija tat- telekomunikazzjonijiet , bdiet tiċċarġja għal kull pagament li jsir b' ċekk , jidher li issa l- kumpanija reġa' bdielha u waqqfet dan il- ħlas .",
+        "output": "Xahar wara li l- gazzetta Illum żvelat li l- [Awtorità | subject] Maltija dwar il- Komunikazzjoni ( MCA ) nediet [investigazzjoni | object] dwar il- ħlas ta' ewro li Melita , il- kumpannija tat- telekomunikazzjonijiet , bdiet tiċċarġja għal kull pagament li jsir b' ċekk , jidher li issa l- kumpanija reġa' bdielha u waqqfet dan il- ħlas ."
+    },
+    {
+        "input": "Philip Schembri , iċ- Chairman tal- Bord ta' Inkjesta dwar l- allegat rimi illegali ta' kimika imsejħa mercaptan mill- Enemalta , qal li l- Bord ta' Inkjesta [talab] id- dokumenti li qal li kellu f' idejh id- Deputat Laburista Joe Mizzi wara li hu b' mod pubbliku qal li kellu dokumenti li kien lest jgħaddihom lil Bord ta' Inkjesta .",
+        "output": "Philip Schembri , iċ- Chairman tal- Bord ta' Inkjesta dwar l- allegat rimi illegali ta' kimika imsejħa mercaptan mill- Enemalta , qal li l- [Bord | subject] ta' Inkjesta talab id- [dokumenti | object] li qal li kellu f' idejh id- Deputat Laburista Joe Mizzi wara li hu b' mod pubbliku qal li kellu dokumenti li kien lest jgħaddihom lil Bord ta' Inkjesta ."
+    },
+    {
+        "input": "Meta kittieb kreattiv [jirrappreżenta] djalett billi jvarja mill- kitba stabbilita , jista' jkun każ li jkun qiegħed jirrappreżenta l- pronunzja komuni għal ħafna , għalkemm il- qarrej forsi ma jindunax b' dan u xorta jieħu l- kitba varjata bħala rappreżentazzjoni ta' djalett minħabba li l- qarrej huwa mdorri bil- kitba stabbilita .",
+        "output": "Meta [kittieb | subject] kreattiv jirrappreżenta [djalett | object] billi jvarja mill- kitba stabbilita , jista' jkun każ li jkun qiegħed jirrappreżenta l- pronunzja komuni għal ħafna , għalkemm il- qarrej forsi ma jindunax b' dan u xorta jieħu l- kitba varjata bħala rappreżentazzjoni ta' djalett minħabba li l- qarrej huwa mdorri bil- kitba stabbilita ."
+    },
+    {
+        "input": "Filwaqt li d- drawwiet tat- tieġ mimlijin ċerimonji , twemmin , u qwiel , huma biss manifestazzjonijiet estemi ta' okkażjoni , it- tqala u t- twelid mhux biss [fihom] drawwiet , ċerimonji , u l- kumplament , imma jittieħdu b' serjetà kbira għax din id- darba jinvolvu l- ħajja tal- mara u tat- tarbija , għalhekk ma jibqgħux biss drawwiet .",
+        "output": "Filwaqt li d- drawwiet tat- tieġ mimlijin ċerimonji , twemmin , u qwiel , huma biss manifestazzjonijiet estemi ta' okkażjoni , it- [tqala | subject] u t- twelid mhux biss fihom [drawwiet | object] , ċerimonji , u l- kumplament , imma jittieħdu b' serjetà kbira għax din id- darba jinvolvu l- ħajja tal- mara u tat- tarbija , għalhekk ma jibqgħux biss drawwiet ."
+    },
+    {
+        "input": "Il- qamar , bħal pjaneti oħra , ma jistax ikun li jkollu effett fuq dan il- proċess , għax l- ewwelnett il- fażijiet tal- qamar huma biss dawl u nuqqas ta' dawl tax- xemx fuq il- qamar jiddependi f' liema qagħda jinsab , u t- tieni kieku l- qamar [għandu] x' jaqsam , kieku in- nisa tad- dinja kollha f' daqqa jwelldu u f' daqqa jsiru xebbiet .",
+        "output": "Il- qamar , bħal pjaneti oħra , ma jistax ikun li jkollu effett fuq dan il- proċess , għax l- ewwelnett il- fażijiet tal- qamar huma biss dawl u nuqqas ta' dawl tax- xemx fuq il- qamar jiddependi f' liema qagħda jinsab , u t- tieni kieku l- [qamar | subject] għandu [x' | object] jaqsam , kieku in- nisa tad- dinja kollha f' daqqa jwelldu u f' daqqa jsiru xebbiet ."
+    },
+    {
+        "input": "Fost superstizzjonijiet insibu li l- għerq sinjur , dik il- pjanta li tikber fuq Ħaġret il- General , Għawdex ( u rari bnadi oħra ) billi għandha għamla li tfakkrek f' simbolu falliku jew tal- fertilità , ( wara kollox hekk tfisser il- kelma Maltija għerq ) in- nisa kienu [jdendluh] , jew biċċa minnu , m' għonqhom bħallikieku amuleta jew talisman .",
+        "output": "Fost superstizzjonijiet insibu li l- [għerq | object] sinjur , dik il- pjanta li tikber fuq Ħaġret il- General , Għawdex ( u rari bnadi oħra ) billi għandha għamla li tfakkrek f' simbolu falliku jew tal- fertilità , ( wara kollox hekk tfisser il- kelma Maltija għerq ) in- [nisa | subject] kienu jdendluh , jew biċċa minnu , m' għonqhom bħallikieku amuleta jew talisman ."
+    },
+    {
+        "input": "Huma tkellmu ma' konsulent mediku li wara li ra l- fajl dwar dak li għaddiet minnhom bintu qalilhom li mhux biss meta persuna [jkollha] ' double vision ' u uġiegħ ta' ras persistenti jrid isir CET scan jew MRI , li fil- fatt ma sarx l- ewwel darba li Sharon ittieħdet l- isptar , imma li t- tfajla ma kellix meninġite kif issemma li kellha fiċ- ċertifikat tal- mewt .",
+        "output": "Huma tkellmu ma' konsulent mediku li wara li ra l- fajl dwar dak li għaddiet minnhom bintu qalilhom li mhux biss meta [persuna | subject] jkollha ' double [vision | object] ' u uġiegħ ta' ras persistenti jrid isir CET scan jew MRI , li fil- fatt ma sarx l- ewwel darba li Sharon ittieħdet l- isptar , imma li t- tfajla ma kellix meninġite kif issemma li kellha fiċ- ċertifikat tal- mewt ."
+    },
+    {
+        "input": "Huma tkellmu ma' konsulent mediku li wara li ra l- fajl dwar dak li għaddiet minnhom bintu qalilhom li mhux biss meta persuna jkollha ' double vision ' u uġiegħ ta' ras persistenti jrid isir CET scan jew MRI , li fil- fatt ma sarx l- ewwel darba li Sharon ittieħdet l- isptar , imma li t- tfajla ma [kellix] meninġite kif issemma li kellha fiċ- ċertifikat tal- mewt .",
+        "output": "Huma tkellmu ma' konsulent mediku li wara li ra l- fajl dwar dak li għaddiet minnhom bintu qalilhom li mhux biss meta persuna jkollha ' double vision ' u uġiegħ ta' ras persistenti jrid isir CET scan jew MRI , li fil- fatt ma sarx l- ewwel darba li Sharon ittieħdet l- isptar , imma li t- [tfajla | subject] ma kellix [meninġite | object] kif issemma li kellha fiċ- ċertifikat tal- mewt ."
+    },
+    {
+        "input": "Minn Radju Malta , Borg Bonaci kien wieħed mill- fundaturi ta' Bay Radio u kien hemmekk li r- radju kummerċjali [ta] spinta lill- kunċett ta' programm bil- kontenut .",
+        "output": "Minn Radju Malta , Borg Bonaci kien wieħed mill- fundaturi ta' Bay Radio u kien hemmekk li r- [radju | subject] kummerċjali ta spinta lill- [kunċett | indirect_object] ta' programm bil- kontenut ."
+    },
+    {
+        "input": "Jekk meta jibda qamar ġdid tfajla kien [jiskorrilha] ż- żmien meta suppost kienet tistenna li tara kienu jpasprulha ġbara bil- weraq taż- żebbuġ u l- ħwawar .",
+        "output": "Jekk meta jibda qamar ġdid [tfajla | indirect_object] kien jiskorrilha ż- [żmien | subject] meta suppost kienet tistenna li tara kienu jpasprulha ġbara bil- weraq taż- żebbuġ u l- ħwawar ."
+    },
+    {
+        "input": "Iċ- Chairman qal li l- Bord [qal] lil Joe Mizzi li huma kienu lesti jirrispettaw is- sors li kellu imma Joe Mizzi qal li hu kien għadda d- dokumenti lura lil min tagħhomlu .",
+        "output": "Iċ- Chairman qal li l- [Bord | subject] qal lil [Joe | indirect_object] Mizzi li huma kienu lesti jirrispettaw is- sors li kellu imma Joe Mizzi qal li hu kien għadda d- dokumenti lura lil min tagħhomlu ."
+    },
+    {
+        "input": "It- tifel kien qed [ifisser] lil missieru kemm tgħallem bit- Taljan .",
+        "output": "It- [tifel | subject] kien qed ifisser lil [missieru | indirect_object] kemm tgħallem bit- Taljan ."
+    },
+    {
+        "input": "\" L- MCA qed tħeġġeġ ukoll lill- Melita biex tneħħi din it- tariffa ta' ewro minn fuq l- orħos pakketti biex tevita piżijiet ġodda fuq persuni li lanqas li jistgħu jaffordjaw jixtru servizzi tal- komunikazzjoni , \" kienet temmet [tgħid] il- kelliema tal- MCA lill- Illum .",
+        "output": "\" L- MCA qed tħeġġeġ ukoll lill- Melita biex tneħħi din it- tariffa ta' ewro minn fuq l- orħos pakketti biex tevita piżijiet ġodda fuq persuni li lanqas li jistgħu jaffordjaw jixtru servizzi tal- komunikazzjoni , \" kienet temmet tgħid il- [kelliema | subject] tal- MCA lill- [Illum | indirect_object] ."
+    },
+    {
+        "input": "Iċ- Chairman qal li l- Bord qal lil Joe Mizzi li huma kienu lesti jirrispettaw is- sors li kellu imma Joe Mizzi qal li hu kien [għadda] d- dokumenti lura lil min tagħhomlu .",
+        "output": "Iċ- Chairman qal li l- Bord qal lil Joe Mizzi li huma kienu lesti jirrispettaw is- sors li kellu imma Joe Mizzi qal li [hu | subject] kien għadda d- [dokumenti | object] lura lil [min | indirect_object] tagħhomlu ."
+    },
+    {
+        "input": "Issa jiddependi x' viżjoni qed jara l- Partit u x' għandu x' [joffri] hu lill- Partit . \"",
+        "output": "Issa jiddependi x' viżjoni qed jara l- Partit u x' għandu [x' | object] joffri [hu | subject] lill- [Partit | indirect_object] . \""
+    },
+    {
+        "input": "Jekk id- deċiżjoni tteħditx wara intervent minn xi regolatur estern bħall- Uffiċċju tal- Kompetizzjoni Ġusta jew l- MCA dwar il- materja , jew jekk kinitx tneħħiet wara r- rispons tal- pubbliku dwar il- ħaġa , il- kelliem tal- Melita qal li l- kumpanija \" [għaddiet] l- informazzjoni kollha lill- awtoritajiet kompetenti .",
+        "output": "Jekk id- deċiżjoni tteħditx wara intervent minn xi regolatur estern bħall- Uffiċċju tal- Kompetizzjoni Ġusta jew l- MCA dwar il- materja , jew jekk kinitx tneħħiet wara r- rispons tal- pubbliku dwar il- ħaġa , il- kelliem tal- Melita qal li l- [kumpanija | subject] \" għaddiet l- [informazzjoni | object] kollha lill- [awtoritajiet | indirect_object] kompetenti ."
+    }
+]

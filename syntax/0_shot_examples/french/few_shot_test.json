@@ -1,0 +1,1054 @@
+[
+    {
+        "input": "Le comité des médicaments à usage humain ( CHMP ) a [estimé] que Angiox constitue un substitut acceptable pour l' héparine dans le cadre du traitement du SCA et pendant l' ICP .",
+        "output": "Le [comité | subject] des médicaments à usage humain ( CHMP ) a estimé que Angiox constitue un substitut acceptable pour l' héparine dans le cadre du traitement du SCA et pendant l' ICP ."
+    },
+    {
+        "input": "L' appréciation clinique du médecin traitant [devrait] orienter la prise en charge de chaque patient en se basant sur l' évaluation individuelle du rapport bénéfice / risque .",
+        "output": "L' [appréciation | subject] clinique du médecin traitant devrait orienter la prise en charge de chaque patient en se basant sur l' évaluation individuelle du rapport bénéfice / risque ."
+    },
+    {
+        "input": "La poursuite des investigations policières [permettra] d' apporter une réponse quant à l' origine de ce sinistre qui a perturbé la tranquillité de dizaines de familles de l' immeuble .",
+        "output": "La [poursuite | subject] des investigations policières permettra d' apporter une réponse quant à l' origine de ce sinistre qui a perturbé la tranquillité de dizaines de familles de l' immeuble ."
+    },
+    {
+        "input": "S' apercevant que son mari avait soudainement perdu connaissance , l' épouse , passagère avant , a [tenté] de garder le véhicule en ligne droite en se saisissant du volant .",
+        "output": "S' apercevant que son mari avait soudainement perdu connaissance , l' [épouse | subject] , passagère avant , a tenté de garder le véhicule en ligne droite en se saisissant du volant ."
+    },
+    {
+        "input": "Les autres troubles des ions minéraux [doivent] aussi être efficacement traités ( par exemple réduction de la réserve parathyroïde , malabsorption intestinale de calcium ) .",
+        "output": "Les autres [troubles | subject] des ions minéraux doivent aussi être efficacement traités ( par exemple réduction de la réserve parathyroïde , malabsorption intestinale de calcium ) ."
+    },
+    {
+        "input": "Aussitôt , les gendarmes effectuaient une enquête de voisinage et s' informaient auprès des hôpitaux ou de tout autre endroit où aurait [pu] trouver refuge la jeune fille .",
+        "output": "Aussitôt , les gendarmes effectuaient une enquête de voisinage et s' informaient auprès des hôpitaux ou de tout autre endroit où aurait pu trouver refuge la jeune [fille | subject] ."
+    },
+    {
+        "input": "Selon Bernard B. Fall , ce trafic fut l' une des sources de profit dans le cadre d' une colonisation dont le bilan général s' [avéra] très négatif pour le budget national .",
+        "output": "Selon Bernard B. Fall , ce trafic fut l' une des sources de profit dans le cadre d' une colonisation dont le [bilan | subject] général s' avéra très négatif pour le budget national ."
+    },
+    {
+        "input": "En tant que remarque isolée , je [voudrais] donc remercier Mme Cederschiöld du fait qu' elle ait clarifié par exemple la notion desdites copies temporaires dans son avis .",
+        "output": "En tant que remarque isolée , [je | subject] voudrais donc remercier Mme Cederschiöld du fait qu' elle ait clarifié par exemple la notion desdites copies temporaires dans son avis ."
+    },
+    {
+        "input": "Les autres troubles du métabolisme des minéraux [doivent] également être traités de manière efficace ( par ex. hypoparathyroïdie , malabsorption intestinale du calcium ) .",
+        "output": "Les autres [troubles | subject] du métabolisme des minéraux doivent également être traités de manière efficace ( par ex. hypoparathyroïdie , malabsorption intestinale du calcium ) ."
+    },
+    {
+        "input": "Selon l' accusation : \" L' instruction n' est pas [parvenue] à établir formellement l' implication personnelle des responsables au sein de l' appareil politique du RPR . \"",
+        "output": "Selon l' accusation : \" L' [instruction | subject] n' est pas parvenue à établir formellement l' implication personnelle des responsables au sein de l' appareil politique du RPR . \""
+    },
+    {
+        "input": "Je [crois] aussi qu' il faut accorder une attention particulière - c' est l' objet d' un amendement que nous présenterons demain en plénière - au droit à la vie privée .",
+        "output": "[Je | subject] crois aussi qu' il faut accorder une attention particulière - c' est l' objet d' un amendement que nous présenterons demain en plénière - au droit à la vie privée ."
+    },
+    {
+        "input": "Ceci [peut] contribuer à maintenir le flux sanguin vers le coeur chez les patients atteints d' angor ou d' une crise cardiaque et à améliorer l' efficacité de leur ICP .",
+        "output": "[Ceci | subject] peut contribuer à maintenir le flux sanguin vers le coeur chez les patients atteints d' angor ou d' une crise cardiaque et à améliorer l' efficacité de leur ICP ."
+    },
+    {
+        "input": "Car EFI , mise en redressement judiciaire en 1998 avec un plan de continuation de dix ans , [devait] déjà impérativement régler une partie des sommes dues à ses créanciers en juin dernier .",
+        "output": "Car [EFI | subject] , mise en redressement judiciaire en 1998 avec un plan de continuation de dix ans , devait déjà impérativement régler une partie des sommes dues à ses créanciers en juin dernier ."
+    },
+    {
+        "input": "Les anticorps positifs à la bivalirudine qui [apparaissent] en cours de traitement sont rares et n' ont pas été associés à des signes cliniques de réactions allergiques ou anaphylactiques .",
+        "output": "Les anticorps positifs à la bivalirudine [qui | subject] apparaissent en cours de traitement sont rares et n' ont pas été associés à des signes cliniques de réactions allergiques ou anaphylactiques ."
+    },
+    {
+        "input": "Mais l' introduction effective de l' euro en 2002 [va] se traduire par une transparence et une concurrence telles que les marchés nationaux vont devoir s' adapter plus rapidement que prévu .",
+        "output": "Mais l' [introduction | subject] effective de l' euro en 2002 va se traduire par une transparence et une concurrence telles que les marchés nationaux vont devoir s' adapter plus rapidement que prévu ."
+    },
+    {
+        "input": "Mais l' introduction effective de l' euro en 2002 va se traduire par une transparence et une concurrence telles que les marchés nationaux [vont] devoir s' adapter plus rapidement que prévu .",
+        "output": "Mais l' introduction effective de l' euro en 2002 va se traduire par une transparence et une concurrence telles que les [marchés | subject] nationaux vont devoir s' adapter plus rapidement que prévu ."
+    },
+    {
+        "input": "La plupart des effets indésirables associés à Aclasta ont tendance à se produire dans les trois jours suivant la perfusion et ils [deviennent] moins fréquents lors des perfusions réitérées .",
+        "output": "La plupart des effets indésirables associés à Aclasta ont tendance à se produire dans les trois jours suivant la perfusion et [ils | subject] deviennent moins fréquents lors des perfusions réitérées ."
+    },
+    {
+        "input": "Le procureur général à la Cour de cassation Jean-François Burgelin , par ailleurs proche du Chef de l' État , [décide] fin août que la juridiction ne se penchera pas sur ce dossier délicat .",
+        "output": "Le [procureur | subject] général à la Cour de cassation Jean-François Burgelin , par ailleurs proche du Chef de l' État , décide fin août que la juridiction ne se penchera pas sur ce dossier délicat ."
+    },
+    {
+        "input": "Le procureur général à la Cour de cassation Jean-François Burgelin , par ailleurs proche du Chef de l' État , décide fin août que la juridiction ne se [penchera] pas sur ce dossier délicat .",
+        "output": "Le procureur général à la Cour de cassation Jean-François Burgelin , par ailleurs proche du Chef de l' État , décide fin août que la [juridiction | subject] ne se penchera pas sur ce dossier délicat ."
+    },
+    {
+        "input": "- L' actuelle direction de Thales , présidée par Denis Ranque , [dit] n' être pas concernée par l' enquête , et s' est désolidarisée d' Alain Gomez , PDG de Thomson CSF au moment des faits .",
+        "output": "- L' actuelle [direction | subject] de Thales , présidée par Denis Ranque , dit n' être pas concernée par l' enquête , et s' est désolidarisée d' Alain Gomez , PDG de Thomson CSF au moment des faits ."
+    },
+    {
+        "input": "Ce dernier [vient] de répondre aux maires de la vallée et au député Claude Jacquot , qui lui avaient fait collectivement un courrier pour , de nouveau , attirer son attention sur ce dossier .",
+        "output": "Ce [dernier | subject] vient de répondre aux maires de la vallée et au député Claude Jacquot , qui lui avaient fait collectivement un courrier pour , de nouveau , attirer son attention sur ce dossier ."
+    },
+    {
+        "input": "Il s' [étonne] également des tarifs - 100 000 francs la page ( 15 000 ) - demandés aux entreprises qui passent des publicités dans Le Clichois , modeste journal électoral de Didier Schuller .",
+        "output": "[Il | subject] s' étonne également des tarifs - 100 000 francs la page ( 15 000 ) - demandés aux entreprises qui passent des publicités dans Le Clichois , modeste journal électoral de Didier Schuller ."
+    },
+    {
+        "input": "Aux États-Unis , le traité de l' OMPI est déjà [entré] en vigueur au moyen du Digital Millenium Corporate Act et cette mesure législative a permis de sauvegarder l' équilibre délicat de l' OMPI .",
+        "output": "Aux États-Unis , le [traité | subject] de l' OMPI est déjà entré en vigueur au moyen du Digital Millenium Corporate Act et cette mesure législative a permis de sauvegarder l' équilibre délicat de l' OMPI ."
+    },
+    {
+        "input": "Aux États-Unis , le traité de l' OMPI est déjà entré en vigueur au moyen du Digital Millenium Corporate Act et cette mesure législative a [permis] de sauvegarder l' équilibre délicat de l' OMPI .",
+        "output": "Aux États-Unis , le traité de l' OMPI est déjà entré en vigueur au moyen du Digital Millenium Corporate Act et cette [mesure | subject] législative a permis de sauvegarder l' équilibre délicat de l' OMPI ."
+    },
+    {
+        "input": "Atteinte depuis peu d' une grave maladie , Suzanne Sequin s' est [éteinte] samedi au centre hospitalier de Bar-le-Duc , où elle avait été admise il y a un mois .",
+        "output": "Atteinte depuis peu d' une grave maladie , [Suzanne | subject] Sequin s' est éteinte samedi au centre hospitalier de Bar-le-Duc , où elle avait été admise il y a un mois ."
+    },
+    {
+        "input": "Je [voudrais] souligner , comme l' a fait le précédent orateur , la nécessité de passer à l' action , de développer la coopération entre les polices et d' augmenter l' information dans ce domaine .",
+        "output": "[Je | subject] voudrais souligner , comme l' a fait le précédent orateur , la nécessité de passer à l' action , de développer la coopération entre les polices et d' augmenter l' information dans ce domaine ."
+    },
+    {
+        "input": "Chez les patients atteints d' insuffisance rénale , les paramètres de la coagulation tels que l' ACT [peuvent] être monitorés pendant un traitement par Angiox .",
+        "output": "Chez les patients atteints d' insuffisance rénale , les [paramètres | subject] de la coagulation tels que l' ACT peuvent être monitorés pendant un traitement par Angiox ."
+    },
+    {
+        "input": "Nous [estimons] qu' il est possible de concilier une politique de pêche basée sur la conservation du milieu marin et les intérêts des communautés de pêcheurs .",
+        "output": "[Nous | subject] estimons qu' il est possible de concilier une politique de pêche basée sur la conservation du milieu marin et les intérêts des communautés de pêcheurs ."
+    },
+    {
+        "input": "Nous ne [pouvons] pas seulement exiger que les Serbes se comportent correctement , nous devons également obliger ceux à qui nous sommes venus en aide à ne pas répondre à la violence par la violence .",
+        "output": "[Nous | subject] ne pouvons pas seulement exiger que les Serbes se comportent correctement , nous devons également obliger ceux à qui nous sommes venus en aide à ne pas répondre à la violence par la violence ."
+    },
+    {
+        "input": "Nous ne pouvons pas seulement exiger que les Serbes se [comportent] correctement , nous devons également obliger ceux à qui nous sommes venus en aide à ne pas répondre à la violence par la violence .",
+        "output": "Nous ne pouvons pas seulement exiger que les [Serbes | subject] se comportent correctement , nous devons également obliger ceux à qui nous sommes venus en aide à ne pas répondre à la violence par la violence ."
+    },
+    {
+        "input": "Nous ne pouvons pas seulement exiger que les Serbes se comportent correctement , nous [devons] également obliger ceux à qui nous sommes venus en aide à ne pas répondre à la violence par la violence .",
+        "output": "Nous ne pouvons pas seulement exiger que les Serbes se comportent correctement , [nous | subject] devons également obliger ceux à qui nous sommes venus en aide à ne pas répondre à la violence par la violence ."
+    },
+    {
+        "input": "Nous ne pouvons pas seulement exiger que les Serbes se comportent correctement , nous devons également obliger ceux à qui nous sommes [venus] en aide à ne pas répondre à la violence par la violence .",
+        "output": "Nous ne pouvons pas seulement exiger que les Serbes se comportent correctement , nous devons également obliger ceux à qui [nous | subject] sommes venus en aide à ne pas répondre à la violence par la violence ."
+    },
+    {
+        "input": "Madame la Présidente , j' ai [appris] hier soir que M. Akim Birdal , l' ancien président du comité des droits de l' homme de Turquie , a été remis en prison .",
+        "output": "Madame la Présidente , [j' | subject] ai appris hier soir que M. Akim Birdal , l' ancien président du comité des droits de l' homme de Turquie , a été remis en prison ."
+    },
+    {
+        "input": "En 1981 , cette affaire [pourrait] être une des causes de la défaite de Valéry Giscard d' Estaing face au candidat du parti socialiste François Mitterrand .",
+        "output": "En 1981 , cette [affaire | subject] pourrait être une des causes de la défaite de Valéry Giscard d' Estaing face au candidat du parti socialiste François Mitterrand ."
+    },
+    {
+        "input": "Il [pense] que l' espace , les couleurs , le silence d' un tel lieu ne peuvent qu' être un élément d' harmonie dans la vie de la commune , et espère que d' autres projets seront réalisés dans cet esprit .",
+        "output": "[Il | subject] pense que l' espace , les couleurs , le silence d' un tel lieu ne peuvent qu' être un élément d' harmonie dans la vie de la commune , et espère que d' autres projets seront réalisés dans cet esprit ."
+    },
+    {
+        "input": "Il pense que l' espace , les couleurs , le silence d' un tel lieu ne [peuvent] qu' être un élément d' harmonie dans la vie de la commune , et espère que d' autres projets seront réalisés dans cet esprit .",
+        "output": "Il pense que l' [espace | subject] , les couleurs , le silence d' un tel lieu ne peuvent qu' être un élément d' harmonie dans la vie de la commune , et espère que d' autres projets seront réalisés dans cet esprit ."
+    },
+    {
+        "input": "Monsieur le Président , au nom du groupe du parti des socialistes européens , je [voudrais] me réjouir de la proposition de résolution de Mme Malmström .",
+        "output": "Monsieur le Président , au nom du groupe du parti des socialistes européens , [je | subject] voudrais me réjouir de la proposition de résolution de Mme Malmström ."
+    },
+    {
+        "input": "Comme vous tous , j' entends les appels à l' aide des mères , des épouses et des soeurs des Kosovars albanais qui [croupissent] dans les geôles serbes .",
+        "output": "Comme vous tous , j' entends les appels à l' aide des mères , des épouses et des soeurs des Kosovars albanais [qui | subject] croupissent dans les geôles serbes ."
+    },
+    {
+        "input": "Je [pense] que cela est important pour garantir davantage de démocratie , pour se défaire de la comitologie et pour renforcer le contrôle du Parlement .",
+        "output": "[Je | subject] pense que cela est important pour garantir davantage de démocratie , pour se défaire de la comitologie et pour renforcer le contrôle du Parlement ."
+    },
+    {
+        "input": "Pour les patients bénéficiant d' un pontage aorto-coronaire sans CEC , la perfusion de bivalirudine [doit] être maintenue jusqu' à l' intervention .",
+        "output": "Pour les patients bénéficiant d' un pontage aorto-coronaire sans CEC , la [perfusion | subject] de bivalirudine doit être maintenue jusqu' à l' intervention ."
+    },
+    {
+        "input": "Le 4 octobre 2006 et pour la quatrième fois depuis 2001 , le ministre de l' Economie Thierry Breton a une nouvelle fois [refusé] de déclassifier les documents des douanes dans l' affaire des frégates de Taïwan .",
+        "output": "Le 4 octobre 2006 et pour la quatrième fois depuis 2001 , le [ministre | subject] de l' Economie Thierry Breton a une nouvelle fois refusé de déclassifier les documents des douanes dans l' affaire des frégates de Taïwan ."
+    },
+    {
+        "input": "La voiture [circulait] dans le sens Mulhouse-Montbéliard lorsqu' après être passée à hauteur du 35e RI , elle a quitté la chaussée sur sa droite .",
+        "output": "La [voiture | subject] circulait dans le sens Mulhouse-Montbéliard lorsqu' après être passée à hauteur du 35e RI , elle a quitté la chaussée sur sa droite ."
+    },
+    {
+        "input": "Chaque flacon de 100 ml de solution contient 5 mg d' acide zolédronique anhydre , ce qui [équivaut] à 5,330 mg d' acide zolédronique monohydraté .",
+        "output": "Chaque flacon de 100 ml de solution contient 5 mg d' acide zolédronique anhydre , ce [qui | subject] équivaut à 5,330 mg d' acide zolédronique monohydraté ."
+    },
+    {
+        "input": "Il n' est pas clairement établi à ce jour qu' Aclasta entraîne ces irrégularités du rythme cardiaque mais en cas de survenue des ces symptômes après avoir reçu Aclasta vous [devez] en faire part à votre médecin .",
+        "output": "Il n' est pas clairement établi à ce jour qu' Aclasta entraîne ces irrégularités du rythme cardiaque mais en cas de survenue des ces symptômes après avoir reçu Aclasta [vous | subject] devez en faire part à votre médecin ."
+    },
+    {
+        "input": "Où sont -ils donc ces 32 et quelques , qui se sont [levés] et qui se lèveront encore , mais sont absents maintenant pendant que nous délibérons ?",
+        "output": "Où sont -ils donc ces 32 et quelques , [qui | subject] se sont levés et qui se lèveront encore , mais sont absents maintenant pendant que nous délibérons ?"
+    },
+    {
+        "input": "Où sont -ils donc ces 32 et quelques , qui se sont levés et qui se [lèveront] encore , mais sont absents maintenant pendant que nous délibérons ?",
+        "output": "Où sont -ils donc ces 32 et quelques , qui se sont levés et [qui | subject] se lèveront encore , mais sont absents maintenant pendant que nous délibérons ?"
+    },
+    {
+        "input": "Où sont -ils donc ces 32 et quelques , qui se sont levés et qui se lèveront encore , mais sont absents maintenant pendant que nous [délibérons] ?",
+        "output": "Où sont -ils donc ces 32 et quelques , qui se sont levés et qui se lèveront encore , mais sont absents maintenant pendant que [nous | subject] délibérons ?"
+    },
+    {
+        "input": "Jacques Rousselot qui [tenait] à conserver Correa repassa à l' offensive et après une première proposition d' un an , il se rangea au souhait du joueur qui en souhaitait deux : \" Notre objectif reste le maintien .",
+        "output": "Jacques Rousselot [qui | subject] tenait à conserver Correa repassa à l' offensive et après une première proposition d' un an , il se rangea au souhait du joueur qui en souhaitait deux : \" Notre objectif reste le maintien ."
+    },
+    {
+        "input": "Jacques Rousselot qui tenait à conserver Correa [repassa] à l' offensive et après une première proposition d' un an , il se rangea au souhait du joueur qui en souhaitait deux : \" Notre objectif reste le maintien .",
+        "output": "[Jacques | subject] Rousselot qui tenait à conserver Correa repassa à l' offensive et après une première proposition d' un an , il se rangea au souhait du joueur qui en souhaitait deux : \" Notre objectif reste le maintien ."
+    },
+    {
+        "input": "Jacques Rousselot qui tenait à conserver Correa repassa à l' offensive et après une première proposition d' un an , il se [rangea] au souhait du joueur qui en souhaitait deux : \" Notre objectif reste le maintien .",
+        "output": "Jacques Rousselot qui tenait à conserver Correa repassa à l' offensive et après une première proposition d' un an , [il | subject] se rangea au souhait du joueur qui en souhaitait deux : \" Notre objectif reste le maintien ."
+    },
+    {
+        "input": "Jacques Rousselot qui tenait à conserver Correa repassa à l' offensive et après une première proposition d' un an , il se rangea au souhait du joueur qui en souhaitait deux : \" Notre objectif [reste] le maintien .",
+        "output": "Jacques Rousselot qui tenait à conserver Correa repassa à l' offensive et après une première proposition d' un an , il se rangea au souhait du joueur qui en souhaitait deux : \" Notre [objectif | subject] reste le maintien ."
+    },
+    {
+        "input": "Cette solution équilibrée [permettra] peut-être de répondre de manière plus détendue et confiante à certaines réserves et à certains doutes politiques que certains députés du Parlement ont soulevés lors de ce débat .",
+        "output": "Cette [solution | subject] équilibrée permettra peut-être de répondre de manière plus détendue et confiante à certaines réserves et à certains doutes politiques que certains députés du Parlement ont soulevés lors de ce débat ."
+    },
+    {
+        "input": "Y a -t-il des circonstances dans lesquelles la Commission [chercherait] à utiliser le vote à la majorité qualifiée pour l' un de ces sujets ?",
+        "output": "Y a -t-il des circonstances dans lesquelles la [Commission | subject] chercherait à utiliser le vote à la majorité qualifiée pour l' un de ces sujets ?"
+    },
+    {
+        "input": "Les patients faisant l' objet d' un traitement conservateur médical [peuvent] continuer la perfusion de 0,25 mg / kg / h pendant 72 heures .",
+        "output": "Les [patients | subject] faisant l' objet d' un traitement conservateur médical peuvent continuer la perfusion de 0,25 mg / kg / h pendant 72 heures ."
+    },
+    {
+        "input": "Un saignement mineur a été défini comme étant tout événement hémorragique observé qui ne [répondait] pas aux critères de saignement majeur .",
+        "output": "Un saignement mineur a été défini comme étant tout événement hémorragique observé [qui | subject] ne répondait pas aux critères de saignement majeur ."
+    },
+    {
+        "input": "Chez les patients souffrant d' ostéoporose , Aclasta a [permis] de réduire plus efficacement le nombre de fractures par rapport au placebo .",
+        "output": "Chez les patients souffrant d' ostéoporose , [Aclasta | subject] a permis de réduire plus efficacement le nombre de fractures par rapport au placebo ."
+    },
+    {
+        "input": "Si les représentants du Conseil avaient un fils , un frère ou un père dans les prisons serbes , ils [réagiraient] plus vite , croyez -moi !",
+        "output": "Si les représentants du Conseil avaient un fils , un frère ou un père dans les prisons serbes , [ils | subject] réagiraient plus vite , croyez -moi !"
+    },
+    {
+        "input": "Dans les objectifs que vous avez évoqués , vous avez [parlé] de votre souhait d' entrer dans une maison commune solide , forte , unie , et je crois pouvoir dire que tel est le souhait de la majorité de notre Assemblée .",
+        "output": "Dans les objectifs que vous avez évoqués , [vous | subject] avez parlé de votre souhait d' entrer dans une maison commune solide , forte , unie , et je crois pouvoir dire que tel est le souhait de la majorité de notre Assemblée ."
+    },
+    {
+        "input": "Dans les objectifs que vous avez évoqués , vous avez parlé de votre souhait d' entrer dans une maison commune solide , forte , unie , et je [crois] pouvoir dire que tel est le souhait de la majorité de notre Assemblée .",
+        "output": "Dans les objectifs que vous avez évoqués , vous avez parlé de votre souhait d' entrer dans une maison commune solide , forte , unie , et [je | subject] crois pouvoir dire que tel est le souhait de la majorité de notre Assemblée ."
+    },
+    {
+        "input": "En conséquence , la Commission [pense] qu' elle devrait donner des éclaircissements sur deux idées très strictes et claires au Parlement .",
+        "output": "En conséquence , la [Commission | subject] pense qu' elle devrait donner des éclaircissements sur deux idées très strictes et claires au Parlement ."
+    },
+    {
+        "input": "En conséquence , la Commission pense qu' elle [devrait] donner des éclaircissements sur deux idées très strictes et claires au Parlement .",
+        "output": "En conséquence , la Commission pense qu' [elle | subject] devrait donner des éclaircissements sur deux idées très strictes et claires au Parlement ."
+    },
+    {
+        "input": "Les cyclistes et vététistes [peuvent] se réunir ce matin , à 9 h , place Jacques-Bailleurs , à l' occasion d' une sortie d' entraînement .",
+        "output": "Les [cyclistes | subject] et vététistes peuvent se réunir ce matin , à 9 h , place Jacques-Bailleurs , à l' occasion d' une sortie d' entraînement ."
+    },
+    {
+        "input": "Des perfusions uniques et multiples de 5 et 15 minutes avec 2 , 4 , 8 et 16 mg d' acide zolédronique chez 64 patients ont généré les données pharmacocinétiques suivantes , qui se sont [révélées] indépendantes de la dose .",
+        "output": "Des perfusions uniques et multiples de 5 et 15 minutes avec 2 , 4 , 8 et 16 mg d' acide zolédronique chez 64 patients ont généré les données pharmacocinétiques suivantes , [qui | subject] se sont révélées indépendantes de la dose ."
+    },
+    {
+        "input": "Son correspondant lui indique qu' une transaction [doit] se dérouler à l' heure du déjeuner à l' hôtel Mercure de Nogent-sur-Marne : une femme doit remettre 50 000 francs à un homme aux cheveux bruns qui arrivera en 4X4 .",
+        "output": "Son correspondant lui indique qu' une [transaction | subject] doit se dérouler à l' heure du déjeuner à l' hôtel Mercure de Nogent-sur-Marne : une femme doit remettre 50 000 francs à un homme aux cheveux bruns qui arrivera en 4X4 ."
+    },
+    {
+        "input": "Son correspondant lui indique qu' une transaction doit se dérouler à l' heure du déjeuner à l' hôtel Mercure de Nogent-sur-Marne : une femme [doit] remettre 50 000 francs à un homme aux cheveux bruns qui arrivera en 4X4 .",
+        "output": "Son correspondant lui indique qu' une transaction doit se dérouler à l' heure du déjeuner à l' hôtel Mercure de Nogent-sur-Marne : une [femme | subject] doit remettre 50 000 francs à un homme aux cheveux bruns qui arrivera en 4X4 ."
+    },
+    {
+        "input": "Son correspondant lui indique qu' une transaction doit se dérouler à l' heure du déjeuner à l' hôtel Mercure de Nogent-sur-Marne : une femme doit remettre 50 000 francs à un homme aux cheveux bruns qui [arrivera] en 4X4 .",
+        "output": "Son correspondant lui indique qu' une transaction doit se dérouler à l' heure du déjeuner à l' hôtel Mercure de Nogent-sur-Marne : une femme doit remettre 50 000 francs à un homme aux cheveux bruns [qui | subject] arrivera en 4X4 ."
+    },
+    {
+        "input": "Sans fournir la moindre preuve , Washington [continue] d' accuser l' Irak de fabriquer secrètement des armes biologiques et chimiques .",
+        "output": "Sans fournir la moindre preuve , [Washington | subject] continue d' accuser l' Irak de fabriquer secrètement des armes biologiques et chimiques ."
+    },
+    {
+        "input": "Le procès [doit] s' étaler sur cinq semaines , jusqu' au 22 novembre 2006 , à raison de deux jours d' audience par semaine en moyenne .",
+        "output": "Le [procès | subject] doit s' étaler sur cinq semaines , jusqu' au 22 novembre 2006 , à raison de deux jours d' audience par semaine en moyenne ."
+    },
+    {
+        "input": "Enfin , je [voudrais] profiter de cette occasion pour rappeler aux collègues qu' on a récolté plus de cent signatures de députés européens pour soutenir la candidature au prix Nobel de la paix des Mères de la place de Mai .",
+        "output": "Enfin , [je | subject] voudrais profiter de cette occasion pour rappeler aux collègues qu' on a récolté plus de cent signatures de députés européens pour soutenir la candidature au prix Nobel de la paix des Mères de la place de Mai ."
+    },
+    {
+        "input": "J' [espère] que cela incitera la Commission à adopter une attitude plus active , ce qui , selon moi , fait défaut jusqu' à présent .",
+        "output": "[J' | subject] espère que cela incitera la Commission à adopter une attitude plus active , ce qui , selon moi , fait défaut jusqu' à présent ."
+    },
+    {
+        "input": "Il y [racontait] notamment avoir remis peronnellement des fonds en espèces en 1986 à Jacques Chirac en présence de Michel Roussin .",
+        "output": "[Il | subject] y racontait notamment avoir remis peronnellement des fonds en espèces en 1986 à Jacques Chirac en présence de Michel Roussin ."
+    },
+    {
+        "input": "Bien sûr , les 800 000 tonnes d' aide d' urgence promises par la communauté internationale [doivent] être envoyées au plus vite .",
+        "output": "Bien sûr , les 800 000 [tonnes | subject] d' aide d' urgence promises par la communauté internationale doivent être envoyées au plus vite ."
+    },
+    {
+        "input": "Le visiteur [pourra] aussi découvrir un exposé sur l' histoire et le fonctionnement des planètes , sur l' astrologie en général .",
+        "output": "Le [visiteur | subject] pourra aussi découvrir un exposé sur l' histoire et le fonctionnement des planètes , sur l' astrologie en général ."
+    },
+    {
+        "input": "Grosse journée pour les nombreux bénévoles de la section puisque , finalement , 210 petits combattants ont [répondu] présents !",
+        "output": "Grosse journée pour les nombreux bénévoles de la section puisque , finalement , 210 petits [combattants | subject] ont répondu présents !"
+    },
+    {
+        "input": "Tout à sa joie , l' Uruguayen s' en [tirait] par une pirouette : \" Dans deux ans , j' aurai peut-être encore envie de jouer \" .",
+        "output": "Tout à sa joie , l' [Uruguayen | subject] s' en tirait par une pirouette : \" Dans deux ans , j' aurai peut-être encore envie de jouer \" ."
+    },
+    {
+        "input": "- Ex-directeur adjoint chez Thomson-CSF , Alain Fribourg a [assuré] aux juges avoir \" toujours considéré à l' époque que c' était le parti au pouvoir à Taïwan qui bénéficiait pour une bonne partie de ce que l'on versait à M. Wang \" .",
+        "output": "- Ex-directeur adjoint chez Thomson-CSF , [Alain | subject] Fribourg a assuré aux juges avoir \" toujours considéré à l' époque que c' était le parti au pouvoir à Taïwan qui bénéficiait pour une bonne partie de ce que l'on versait à M. Wang \" ."
+    },
+    {
+        "input": "- Ex-directeur adjoint chez Thomson-CSF , Alain Fribourg a assuré aux juges avoir \" toujours considéré à l' époque que c' était le parti au pouvoir à Taïwan qui [bénéficiait] pour une bonne partie de ce que l'on versait à M. Wang \" .",
+        "output": "- Ex-directeur adjoint chez Thomson-CSF , Alain Fribourg a assuré aux juges avoir \" toujours considéré à l' époque que c' était le parti au pouvoir à Taïwan [qui | subject] bénéficiait pour une bonne partie de ce que l'on versait à M. Wang \" ."
+    },
+    {
+        "input": "La plus grosse part ( 1,2 % ) du \" racket \" [revint] au RPR , alors dirigé par Jacques Chirac , secondé par Michel Roussin .",
+        "output": "La plus grosse [part | subject] ( 1,2 % ) du \" racket \" revint au RPR , alors dirigé par Jacques Chirac , secondé par Michel Roussin ."
+    },
+    {
+        "input": "Je [pense] que ce serait très bienvenu si vous-même , en tant que Présidente du Parlement européen , vous adressiez , dans les formes qui vous conviendraient , aux autorités turques pour demander la libération de cet homme d' honneur .",
+        "output": "[Je | subject] pense que ce serait très bienvenu si vous-même , en tant que Présidente du Parlement européen , vous adressiez , dans les formes qui vous conviendraient , aux autorités turques pour demander la libération de cet homme d' honneur ."
+    },
+    {
+        "input": "Je pense que ce serait très bienvenu si vous-même , en tant que Présidente du Parlement européen , vous [adressiez] , dans les formes qui vous conviendraient , aux autorités turques pour demander la libération de cet homme d' honneur .",
+        "output": "Je pense que ce serait très bienvenu si [vous-même | subject] , en tant que Présidente du Parlement européen , vous adressiez , dans les formes qui vous conviendraient , aux autorités turques pour demander la libération de cet homme d' honneur ."
+    },
+    {
+        "input": "La visite du jardin de J.-P. Bruneau est également un moment attendu , lors des portes ouvertes organisées en juin dans ses 1.100 m2 de verger et potager : \" Cela [permet] d' échanger , transmettre un savoir et partager une passion \" .",
+        "output": "La visite du jardin de J.-P. Bruneau est également un moment attendu , lors des portes ouvertes organisées en juin dans ses 1.100 m2 de verger et potager : \" [Cela | subject] permet d' échanger , transmettre un savoir et partager une passion \" ."
+    },
+    {
+        "input": "Des études cliniques ont [montré] que la bivalirudine procure une anticoagulation adéquate pendant les procédures d' ICP .",
+        "output": "Des [études | subject] cliniques ont montré que la bivalirudine procure une anticoagulation adéquate pendant les procédures d' ICP ."
+    },
+    {
+        "input": "En ce qui concerne le rapport Kuckelkorn , je [dois] féliciter son auteur pour la ténacité avec laquelle il plaide pour les retraites complémentaires , pour que celles-ci soient effectivement un second pilier de l' assurance vieillesse .",
+        "output": "En ce qui concerne le rapport Kuckelkorn , [je | subject] dois féliciter son auteur pour la ténacité avec laquelle il plaide pour les retraites complémentaires , pour que celles-ci soient effectivement un second pilier de l' assurance vieillesse ."
+    },
+    {
+        "input": "En ce qui concerne le rapport Kuckelkorn , je dois féliciter son auteur pour la ténacité avec laquelle il [plaide] pour les retraites complémentaires , pour que celles-ci soient effectivement un second pilier de l' assurance vieillesse .",
+        "output": "En ce qui concerne le rapport Kuckelkorn , je dois féliciter son auteur pour la ténacité avec laquelle [il | subject] plaide pour les retraites complémentaires , pour que celles-ci soient effectivement un second pilier de l' assurance vieillesse ."
+    },
+    {
+        "input": "D' autres manifestations ont très bien [fonctionné] en terme d' affluence , notamment lors de la fête des Fraises organisée le 1er dimanche de juin , ou encore la journée des associations au Zénith , où 2.000 visiteurs étaient présents .",
+        "output": "D' autres [manifestations | subject] ont très bien fonctionné en terme d' affluence , notamment lors de la fête des Fraises organisée le 1er dimanche de juin , ou encore la journée des associations au Zénith , où 2.000 visiteurs étaient présents ."
+    },
+    {
+        "input": "C' est pourquoi j' [attends] de tout le monde , Albanais et Serbes , qu' ils laissent les troupes de la KFOR en paix .",
+        "output": "C' est pourquoi [j' | subject] attends de tout le monde , Albanais et Serbes , qu' ils laissent les troupes de la KFOR en paix ."
+    },
+    {
+        "input": "Des observateurs [doivent] être dépêchés le plus rapidement au Zimbabwe , si possible aujourd'hui plutôt que demain .",
+        "output": "Des [observateurs | subject] doivent être dépêchés le plus rapidement au Zimbabwe , si possible aujourd'hui plutôt que demain ."
+    },
+    {
+        "input": "Si la Commission n' [agit] pas de la sorte , les saisies illégales de terres pourraient s' étendre au reste de l' Afrique australe et entraîner une catastrophe , non seulement pour cette région , mais aussi pour tout le reste de l' Afrique .",
+        "output": "Si la [Commission | subject] n' agit pas de la sorte , les saisies illégales de terres pourraient s' étendre au reste de l' Afrique australe et entraîner une catastrophe , non seulement pour cette région , mais aussi pour tout le reste de l' Afrique ."
+    },
+    {
+        "input": "Si la Commission n' agit pas de la sorte , les saisies illégales de terres [pourraient] s' étendre au reste de l' Afrique australe et entraîner une catastrophe , non seulement pour cette région , mais aussi pour tout le reste de l' Afrique .",
+        "output": "Si la Commission n' agit pas de la sorte , les [saisies | subject] illégales de terres pourraient s' étendre au reste de l' Afrique australe et entraîner une catastrophe , non seulement pour cette région , mais aussi pour tout le reste de l' Afrique ."
+    },
+    {
+        "input": "Je suis déjà politicien , je [pourrais] devenir astronaute , le premier astronaute retraité de l' Union européenne .",
+        "output": "Je suis déjà politicien , [je | subject] pourrais devenir astronaute , le premier astronaute retraité de l' Union européenne ."
+    },
+    {
+        "input": "On [parle] entre autre d' un métis qui dès son arrivée à Brazzaville a été autorisé à sortir de la file d' attente .",
+        "output": "[On | subject] parle entre autre d' un métis qui dès son arrivée à Brazzaville a été autorisé à sortir de la file d' attente ."
+    },
+    {
+        "input": "J' ai [apprécié] de voir qu' à cette conférence l' enthousiasme était bien présent à toutes les tables de travail .",
+        "output": "[J' | subject] ai apprécié de voir qu' à cette conférence l' enthousiasme était bien présent à toutes les tables de travail ."
+    },
+    {
+        "input": "[Pouvez] -vous donner les mêmes garanties en ce qui concerne la taxe proposée sur les carburants des avions , qui a été débattue au sein d' Écofin cette semaine , et en ce qui concerne l' impôt sur les sociétés au sein de l' Union européenne ?",
+        "output": "Pouvez [-vous | subject] donner les mêmes garanties en ce qui concerne la taxe proposée sur les carburants des avions , qui a été débattue au sein d' Écofin cette semaine , et en ce qui concerne l' impôt sur les sociétés au sein de l' Union européenne ?"
+    },
+    {
+        "input": "Selon les agences humanitaires de l' ONU , plusieurs centaines de milliers d' Irakiens , dont quelque 500 000 enfants , sont [morts] prématurément en raison de l' embargo , faute de produits alimentaires , de médicaments et de soins adéquats .",
+        "output": "Selon les agences humanitaires de l' ONU , plusieurs [centaines | subject] de milliers d' Irakiens , dont quelque 500 000 enfants , sont morts prématurément en raison de l' embargo , faute de produits alimentaires , de médicaments et de soins adéquats ."
+    },
+    {
+        "input": "Comme dans d' autres affaires politico-financières françaises des années 1990 , plusieurs protagonistes de cette affaire [appartiennent] à des loges maçonniques : Jean-Claude Méry , Jacky Chaisaz , Didier Schuller ( loge Silence de la GLNF ) .",
+        "output": "Comme dans d' autres affaires politico-financières françaises des années 1990 , plusieurs [protagonistes | subject] de cette affaire appartiennent à des loges maçonniques : Jean-Claude Méry , Jacky Chaisaz , Didier Schuller ( loge Silence de la GLNF ) ."
+    },
+    {
+        "input": "Lorsque les représentants de l' ordre se [présentent] sur les lieux , il n' y a plus trace de la moindre bagarre .",
+        "output": "Lorsque les [représentants | subject] de l' ordre se présentent sur les lieux , il n' y a plus trace de la moindre bagarre ."
+    },
+    {
+        "input": "Nous avons [noté] que la production d' électricité correspond à 30 % des émissions de CO2 imputables à l' homme .",
+        "output": "[Nous | subject] avons noté que la production d' électricité correspond à 30 % des émissions de CO2 imputables à l' homme ."
+    },
+    {
+        "input": "Nous avons noté que la production d' électricité [correspond] à 30 % des émissions de CO2 imputables à l' homme .",
+        "output": "Nous avons noté que la [production | subject] d' électricité correspond à 30 % des émissions de CO2 imputables à l' homme ."
+    },
+    {
+        "input": "Bien sûr , pour l' heure , c' est simplement l' appel de la population qui [souffre] que nous devons entendre .",
+        "output": "Bien sûr , pour l' heure , c' est simplement l' appel de la population [qui | subject] souffre que nous devons entendre ."
+    },
+    {
+        "input": "Bien sûr , pour l' heure , c' est simplement l' appel de la population qui souffre que nous [devons] entendre .",
+        "output": "Bien sûr , pour l' heure , c' est simplement l' appel de la population qui souffre que [nous | subject] devons entendre ."
+    },
+    {
+        "input": "Pour l' ostéoporose , Aclasta [agit] pendant un an et vous ne devrez prendre la dose suivante qu' après un an .",
+        "output": "Pour l' ostéoporose , [Aclasta | subject] agit pendant un an et vous ne devrez prendre la dose suivante qu' après un an ."
+    },
+    {
+        "input": "Pour l' ostéoporose , Aclasta agit pendant un an et vous ne [devrez] prendre la dose suivante qu' après un an .",
+        "output": "Pour l' ostéoporose , Aclasta agit pendant un an et [vous | subject] ne devrez prendre la dose suivante qu' après un an ."
+    },
+    {
+        "input": "Ses confidences , dûment enregistrées sur procès-verbal , [vont] donner à l' affaire une dimension politique .",
+        "output": "Ses [confidences | subject] , dûment enregistrées sur procès-verbal , vont donner à l' affaire une dimension politique ."
+    },
+    {
+        "input": "Les os [deviennent] progressivement plus minces et plus fragiles et se cassent plus facilement ( fracture ) .",
+        "output": "Les [os | subject] deviennent progressivement plus minces et plus fragiles et se cassent plus facilement ( fracture ) ."
+    },
+    {
+        "input": "Votre médecin vous conseillera et décidera pendant combien de temps vous [devez] être traité(e) par Aclasta .",
+        "output": "Votre médecin vous conseillera et décidera pendant combien de temps [vous | subject] devez être traité(e) par Aclasta ."
+    },
+    {
+        "input": "Premièrement : pour ce qui est de la base légale , notre collègue Lechner a déjà suffisamment [argumenté] .",
+        "output": "Premièrement : pour ce qui est de la base légale , notre [collègue | subject] Lechner a déjà suffisamment argumenté ."
+    },
+    {
+        "input": "La pose d' un panneau stop [paraît] être la formule la mieux adaptée pour assurer la sécurité des usagers .",
+        "output": "La [pose | subject] d' un panneau stop paraît être la formule la mieux adaptée pour assurer la sécurité des usagers ."
+    },
+    {
+        "input": "Les patients ayant reçu une dose supérieure à la dose recommandée [doivent] être surveillés attentivement .",
+        "output": "Les [patients | subject] ayant reçu une dose supérieure à la dose recommandée doivent être surveillés attentivement ."
+    },
+    {
+        "input": "Ils se sont [assurés] que l' Irak ne dispose d' aucune fusée à longue portée pouvant menacer ses voisins .",
+        "output": "[Ils | subject] se sont assurés que l' Irak ne dispose d' aucune fusée à longue portée pouvant menacer ses voisins ."
+    },
+    {
+        "input": "Ils se sont assurés que l' Irak ne [dispose] d' aucune fusée à longue portée pouvant menacer ses voisins .",
+        "output": "Ils se sont assurés que l' [Irak | subject] ne dispose d' aucune fusée à longue portée pouvant menacer ses voisins ."
+    },
+    {
+        "input": "Les épouses des fusillés reçurent le franc symbolique au titre de dommages et intérêts , mais l' essentiel était que ces 4 hommes soient réhabilités dans la mémoire des Français et que leurs veuves [puissent] enfin faire valoir leurs droits à pension .",
+        "output": "Les épouses des fusillés reçurent le franc symbolique au titre de dommages et intérêts , mais l' essentiel était que ces 4 hommes soient réhabilités dans la mémoire des Français et que leurs [veuves | subject] puissent enfin faire valoir leurs droits à pension ."
+    },
+    {
+        "input": "Je [crois] également que le Conseil de ministres ne s' intéresse pas le moins du monde à ces tragédies .",
+        "output": "[Je | subject] crois également que le Conseil de ministres ne s' intéresse pas le moins du monde à ces tragédies ."
+    },
+    {
+        "input": "Je crois également que le Conseil de ministres ne s' [intéresse] pas le moins du monde à ces tragédies .",
+        "output": "Je crois également que le [Conseil | subject] de ministres ne s' intéresse pas le moins du monde à ces tragédies ."
+    },
+    {
+        "input": "Ceci présente l' avantage qu' un solde résultant des comptes [peut] être reporté sur l' année suivante .",
+        "output": "Ceci présente l' avantage qu' un [solde | subject] résultant des comptes peut être reporté sur l' année suivante ."
+    },
+    {
+        "input": "\" Mis en place ( ... ) par mesure d' assurance \" et \" dans des conditions non rigoureuses \" , [écrivait] Jean-François Briand , l' ancien directeur général de Thomson-CSF , ce réseau suscitait plus de doutes que de certitudes chez les dirigeants d' Elf .",
+        "output": "\" Mis en place ( ... ) par mesure d' assurance \" et \" dans des conditions non rigoureuses \" , écrivait [Jean-François | subject] Briand , l' ancien directeur général de Thomson-CSF , ce réseau suscitait plus de doutes que de certitudes chez les dirigeants d' Elf ."
+    },
+    {
+        "input": "Après avoir contribué à diminuer le soutien à la guerre , il [tourna] court avec la perte de l' Indochine et le climat politique et social qui s' ensuivit , peu propice aux débats sur la période coloniale ; il n' eut pas de suites judiciaires en France .",
+        "output": "Après avoir contribué à diminuer le soutien à la guerre , [il | subject] tourna court avec la perte de l' Indochine et le climat politique et social qui s' ensuivit , peu propice aux débats sur la période coloniale ; il n' eut pas de suites judiciaires en France ."
+    },
+    {
+        "input": "Après avoir contribué à diminuer le soutien à la guerre , il tourna court avec la perte de l' Indochine et le climat politique et social qui s' [ensuivit] , peu propice aux débats sur la période coloniale ; il n' eut pas de suites judiciaires en France .",
+        "output": "Après avoir contribué à diminuer le soutien à la guerre , il tourna court avec la perte de l' Indochine et le climat politique et social [qui | subject] s' ensuivit , peu propice aux débats sur la période coloniale ; il n' eut pas de suites judiciaires en France ."
+    },
+    {
+        "input": "En effet , la proposition [découle] d' un engagement qui a été pris concernant la commission de suivi .",
+        "output": "En effet , la [proposition | subject] découle d' un engagement qui a été pris concernant la commission de suivi ."
+    },
+    {
+        "input": "La commission juridique [recommande] à cette Assemblée de ne pas lever l' immunité dans cette affaire .",
+        "output": "La [commission | subject] juridique recommande à cette Assemblée de ne pas lever l' immunité dans cette affaire ."
+    },
+    {
+        "input": "Si la maladie n' est pas traitée , les os se [déforment] , deviennent douloureux et peuvent se casser .",
+        "output": "Si la maladie n' est pas traitée , les [os | subject] se déforment , deviennent douloureux et peuvent se casser ."
+    },
+    {
+        "input": "Une sorte de réaction épidermique par rapport à leur présence \" [commentait] le commissaire central .",
+        "output": "Une sorte de réaction épidermique par rapport à leur présence \" commentait le [commissaire | subject] central ."
+    },
+    {
+        "input": "Anita Dachaud est quant à elle [arrivée] en famille , et très jeune , de sa chère Italie ( Cesano ) .",
+        "output": "[Anita | subject] Dachaud est quant à elle arrivée en famille , et très jeune , de sa chère Italie ( Cesano ) ."
+    },
+    {
+        "input": "Le journal L' Évènement du jeudi du 28 décembre 1989 a même [titré] \" Dracula était communiste . \"",
+        "output": "Le [journal | subject] L' Évènement du jeudi du 28 décembre 1989 a même titré \" Dracula était communiste . \""
+    },
+    {
+        "input": "- Une information judiciaire contre X a été ouverte en juin 2001 pour \" abus de biens sociaux et recel \" après la découverte sur un compte suisse , et la mise sous séquestre , de plusieurs dizaines de millions d' euros qui [pourrait] être liée à cette affaire .",
+        "output": "- Une information judiciaire contre X a été ouverte en juin 2001 pour \" abus de biens sociaux et recel \" après la découverte sur un compte suisse , et la mise sous séquestre , de plusieurs dizaines de millions d' euros [qui | subject] pourrait être liée à cette affaire ."
+    },
+    {
+        "input": "Si l' ACT est inférieur à 225 secondes , un second bolus de 0,3 mg / kg [doit] être administré .",
+        "output": "Si l' ACT est inférieur à 225 secondes , un second [bolus | subject] de 0,3 mg / kg doit être administré ."
+    },
+    {
+        "input": "Ils ont [vidé] les supermarchés de nourriture , les pharmacies de médicaments , les usines de matériel médical , ils ont cambriolé les maisons et torturé des voisins et des amis .",
+        "output": "[Ils | subject] ont vidé les [supermarchés | object] de nourriture , les pharmacies de médicaments , les usines de matériel médical , ils ont cambriolé les maisons et torturé des voisins et des amis ."
+    },
+    {
+        "input": "Ils ont vidé les supermarchés de nourriture , les pharmacies de médicaments , les usines de matériel médical , ils ont [cambriolé] les maisons et torturé des voisins et des amis .",
+        "output": "Ils ont vidé les supermarchés de nourriture , les pharmacies de médicaments , les usines de matériel médical , [ils | subject] ont cambriolé les [maisons | object] et torturé des voisins et des amis ."
+    },
+    {
+        "input": "Le comité des médicaments à usage humain ( CHMP ) a estimé que Angiox [constitue] un substitut acceptable pour l' héparine dans le cadre du traitement du SCA et pendant l' ICP .",
+        "output": "Le comité des médicaments à usage humain ( CHMP ) a estimé que [Angiox | subject] constitue un [substitut | object] acceptable pour l' héparine dans le cadre du traitement du SCA et pendant l' ICP ."
+    },
+    {
+        "input": "Le 25 octobre 2006 , le parquet de Paris a [requis] contre Jacques Dominati une peine de douze mois de prison avec sursis , 2 000 euros d' amende et cinq ans d' inéligibilité .",
+        "output": "Le 25 octobre 2006 , le [parquet | subject] de Paris a requis contre Jacques Dominati une [peine | object] de douze mois de prison avec sursis , 2 000 euros d' amende et cinq ans d' inéligibilité ."
+    },
+    {
+        "input": "Les phases de distribution précoce ( et , avec les demi-vies t½ précisées ci-dessus ) [reflètent] vraisemblablement une absorption rapide dans l' os et une excrétion par voie rénale .",
+        "output": "Les [phases | subject] de distribution précoce ( et , avec les demi-vies t½ précisées ci-dessus ) reflètent vraisemblablement une [absorption | object] rapide dans l' os et une excrétion par voie rénale ."
+    },
+    {
+        "input": "La poursuite des investigations policières permettra d' apporter une réponse quant à l' origine de ce sinistre qui a [perturbé] la tranquillité de dizaines de familles de l' immeuble .",
+        "output": "La poursuite des investigations policières permettra d' apporter une réponse quant à l' origine de ce sinistre [qui | subject] a perturbé la [tranquillité | object] de dizaines de familles de l' immeuble ."
+    },
+    {
+        "input": "En ce qui concerne Robert Pandraud , qui avait déjà [rencontré] à plusieurs reprises Francis Poullain , les fonds lui auraient été transmis par Rémy Halbwax , ancien policier révoqué .",
+        "output": "En ce qui concerne Robert Pandraud , [qui | subject] avait déjà rencontré à plusieurs reprises [Francis | object] Poullain , les fonds lui auraient été transmis par Rémy Halbwax , ancien policier révoqué ."
+    },
+    {
+        "input": "S' apercevant que son mari avait soudainement [perdu] connaissance , l' épouse , passagère avant , a tenté de garder le véhicule en ligne droite en se saisissant du volant .",
+        "output": "S' apercevant que son [mari | subject] avait soudainement perdu [connaissance | object] , l' épouse , passagère avant , a tenté de garder le véhicule en ligne droite en se saisissant du volant ."
+    },
+    {
+        "input": "Je me [pose] également des questions quant à la sagesse de l' EU et sa réaction à la formation du gouvernement en Autriche et la manière dont cela affectera l' opinion publique là-bas .",
+        "output": "[Je | subject] me pose également des [questions | object] quant à la sagesse de l' EU et sa réaction à la formation du gouvernement en Autriche et la manière dont cela affectera l' opinion publique là-bas ."
+    },
+    {
+        "input": "Je me pose également des questions quant à la sagesse de l' EU et sa réaction à la formation du gouvernement en Autriche et la manière dont cela [affectera] l' opinion publique là-bas .",
+        "output": "Je me pose également des questions quant à la sagesse de l' EU et sa réaction à la formation du gouvernement en Autriche et la manière dont [cela | subject] affectera l' [opinion | object] publique là-bas ."
+    },
+    {
+        "input": "- En 2001 , le juge genevois Paul Perraudin a [bloqué] à Zurich 1,2 milliard de francs suisses appartenant sur les comptes suisses de l' intermédiaire taiwanais , Andrew Wang , 73 ans .",
+        "output": "- En 2001 , le [juge | subject] genevois Paul Perraudin a bloqué à Zurich 1,2 [milliard | object] de francs suisses appartenant sur les comptes suisses de l' intermédiaire taiwanais , Andrew Wang , 73 ans ."
+    },
+    {
+        "input": "Aussitôt , les gendarmes [effectuaient] une enquête de voisinage et s' informaient auprès des hôpitaux ou de tout autre endroit où aurait pu trouver refuge la jeune fille .",
+        "output": "Aussitôt , les [gendarmes | subject] effectuaient une [enquête | object] de voisinage et s' informaient auprès des hôpitaux ou de tout autre endroit où aurait pu trouver refuge la jeune fille ."
+    },
+    {
+        "input": "En tant que remarque isolée , je voudrais donc remercier Mme Cederschiöld du fait qu' elle ait [clarifié] par exemple la notion desdites copies temporaires dans son avis .",
+        "output": "En tant que remarque isolée , je voudrais donc remercier Mme Cederschiöld du fait qu' [elle | subject] ait clarifié par exemple la [notion | object] desdites copies temporaires dans son avis ."
+    },
+    {
+        "input": "Elle est rétrogradée en série B ( 2e division ) avec 30 points de pénalité où elle [retrouvera] la Fiorentina et la Lazio Rome reléguées avec respectivement 12 , et 7 points de pénalité .",
+        "output": "Elle est rétrogradée en série B ( 2e division ) avec 30 points de pénalité où [elle | subject] retrouvera la [Fiorentina | object] et la Lazio Rome reléguées avec respectivement 12 , et 7 points de pénalité ."
+    },
+    {
+        "input": "Je crois aussi qu' il faut accorder une attention particulière - c' est l' objet d' un amendement que nous [présenterons] demain en plénière - au droit à la vie privée .",
+        "output": "Je crois aussi qu' il faut accorder une attention particulière - c' est l' objet d' un amendement [que | object] [nous | subject] présenterons demain en plénière - au droit à la vie privée ."
+    },
+    {
+        "input": "Aclasta est utilisé pour le traitement des maladies suivantes : l' ostéoporose ( maladie qui [fragilise] les os ) tant chez les femmes ménopausées que chez les hommes .",
+        "output": "Aclasta est utilisé pour le traitement des maladies suivantes : l' ostéoporose ( maladie [qui | subject] fragilise les [os | object] ) tant chez les femmes ménopausées que chez les hommes ."
+    },
+    {
+        "input": "Dans l' étude HORIZON-RFT , le traitement par Aclasta a significativement [augmenté] la DMO au fémur total et au col fémoral comparé au placebo , à toutes les mesures .",
+        "output": "Dans l' étude HORIZON-RFT , le [traitement | subject] par Aclasta a significativement augmenté la [DMO | object] au fémur total et au col fémoral comparé au placebo , à toutes les mesures ."
+    },
+    {
+        "input": "La plupart des effets indésirables associés à Aclasta [ont] tendance à se produire dans les trois jours suivant la perfusion et ils deviennent moins fréquents lors des perfusions réitérées .",
+        "output": "La [plupart | subject] des effets indésirables associés à Aclasta ont [tendance | object] à se produire dans les trois jours suivant la perfusion et ils deviennent moins fréquents lors des perfusions réitérées ."
+    },
+    {
+        "input": "Troisièmement , je [considère] comme positive l' obligation imposée aux exploitations frappées par la maladie de détruire ou de supprimer l' ensemble de leur cheptel .",
+        "output": "Troisièmement , [je | subject] considère comme positive l' [obligation | object] imposée aux exploitations frappées par la maladie de détruire ou de supprimer l' ensemble de leur cheptel ."
+    },
+    {
+        "input": "Pour préparer la population à ce phénomène , la ville [propose] actuellement au centre Marie-Marvingt et jusqu' au 23 juin , une exposition réalisée par le CNRS intitulée \" Images du ciel \" .",
+        "output": "Pour préparer la population à ce phénomène , la [ville | subject] propose actuellement au centre Marie-Marvingt et jusqu' au 23 juin , une [exposition | object] réalisée par le CNRS intitulée \" Images du ciel \" ."
+    },
+    {
+        "input": "Il s' étonne également des tarifs - 100 000 francs la page ( 15 000 ) - demandés aux entreprises qui [passent] des publicités dans Le Clichois , modeste journal électoral de Didier Schuller .",
+        "output": "Il s' étonne également des tarifs - 100 000 francs la page ( 15 000 ) - demandés aux entreprises [qui | subject] passent des [publicités | object] dans Le Clichois , modeste journal électoral de Didier Schuller ."
+    },
+    {
+        "input": "Dans le cas où vous avez [eu] récemment une fracture de hanche , il est recommandé qu' Aclasta soit administré 2 semaines ou plus après réparation de votre fracture .",
+        "output": "Dans le cas où [vous | subject] avez eu récemment une [fracture | object] de hanche , il est recommandé qu' Aclasta soit administré 2 semaines ou plus après réparation de votre fracture ."
+    },
+    {
+        "input": "Les enquêteurs [placent] sous scellés 170 cartons de documents , essentiellement relatifs à la passation des marchés publics et aux appels d' offre de l' organisme .",
+        "output": "Les [enquêteurs | subject] placent sous scellés 170 [cartons | object] de documents , essentiellement relatifs à la passation des marchés publics et aux appels d' offre de l' organisme ."
+    },
+    {
+        "input": "- Été 1994 : une information judiciaire est ouverte : le juge Éric Halphen [acquiert] vite la conviction que Jean-Claude Méry est l' un des hommes clefs du système .",
+        "output": "- Été 1994 : une information judiciaire est ouverte : le [juge | subject] Éric Halphen acquiert vite la [conviction | object] que Jean-Claude Méry est l' un des hommes clefs du système ."
+    },
+    {
+        "input": "Le ministre de la justice Jacques Toubon [envoie] un hélicoptère dans l' Himalaya pour ramener en urgence le procureur de la République de l' Essonne chargé d' éviter des ennuis à Xavière Tiberi .",
+        "output": "Le [ministre | subject] de la justice Jacques Toubon envoie un [hélicoptère | object] dans l' Himalaya pour ramener en urgence le procureur de la République de l' Essonne chargé d' éviter des ennuis à Xavière Tiberi ."
+    },
+    {
+        "input": "Je voudrais souligner , comme l' a [fait] le précédent orateur , la nécessité de passer à l' action , de développer la coopération entre les polices et d' augmenter l' information dans ce domaine .",
+        "output": "Je voudrais souligner , comme [l' | object] a fait le précédent [orateur | subject] , la nécessité de passer à l' action , de développer la coopération entre les polices et d' augmenter l' information dans ce domaine ."
+    },
+    {
+        "input": "Depuis le 4 juillet 1991 , Alfred Sirven et Christine Deviers-Joncour avaient [mis] en place un dispositif bancaire destiné à accueillir la commission espérée .",
+        "output": "Depuis le 4 juillet 1991 , [Alfred | subject] Sirven et Christine Deviers-Joncour avaient mis en place un [dispositif | object] bancaire destiné à accueillir la commission espérée ."
+    },
+    {
+        "input": "Un livre , Pour l' honneur de Théo et des caporaux de Souain , écrit par Jacqueline Laisné , l' institutrice qui [prit] la suite de Blanche Maupas dans son école , raconte également cette histoire .",
+        "output": "Un livre , Pour l' honneur de Théo et des caporaux de Souain , écrit par Jacqueline Laisné , l' institutrice [qui | subject] prit la [suite | object] de Blanche Maupas dans son école , raconte également cette histoire ."
+    },
+    {
+        "input": "Un livre , Pour l' honneur de Théo et des caporaux de Souain , écrit par Jacqueline Laisné , l' institutrice qui prit la suite de Blanche Maupas dans son école , [raconte] également cette histoire .",
+        "output": "Un [livre | subject] , Pour l' honneur de Théo et des caporaux de Souain , écrit par Jacqueline Laisné , l' institutrice qui prit la suite de Blanche Maupas dans son école , raconte également cette [histoire | object] ."
+    },
+    {
+        "input": "Pour être précis , c' est autour de 1950 que la société d' aviculture de Belfort a vraiment [pris] sa réelle importance , avec la présidence de Claude Simon .",
+        "output": "Pour être précis , c' est autour de 1950 que la [société | subject] d' aviculture de Belfort a vraiment pris sa réelle [importance | object] , avec la présidence de Claude Simon ."
+    },
+    {
+        "input": "Il y eut de nombreuses signatures de motions , des protestations devant la chambre des députés , toutes [demandant] la réhabilitation des caporaux de Souain .",
+        "output": "Il y eut de nombreuses signatures de motions , des protestations devant la chambre des députés , [toutes | subject] demandant la [réhabilitation | object] des caporaux de Souain ."
+    },
+    {
+        "input": "Le Dr Maréchal lui aurait proposé le 11 octobre 1994 , de faire pression sur son gendre pour qu' il [freine] son instruction en direction des Hauts-de-Seine .",
+        "output": "Le Dr Maréchal lui aurait proposé le 11 octobre 1994 , de faire pression sur son gendre pour qu' [il | subject] freine son [instruction | object] en direction des Hauts-de-Seine ."
+    },
+    {
+        "input": "Deux étoiles aussi , c' est le nouveau classement de l' Office de tourisme d' Arc-et-Senans qui [prend] ainsi sa place dans la cour des grands , juste derrière les offices de Besançon et Montbéliard .",
+        "output": "Deux étoiles aussi , c' est le nouveau classement de l' Office de tourisme d' Arc-et-Senans [qui | subject] prend ainsi sa [place | object] dans la cour des grands , juste derrière les offices de Besançon et Montbéliard ."
+    },
+    {
+        "input": "Aclasta a [réduit] significativement le nombre moyen de jours d' activité limitée et de jours d' alitement du fait de douleurs rachidiennes de 17,9 jours par rapport à 11,3 jours dans le groupe placebo .",
+        "output": "[Aclasta | subject] a réduit significativement le [nombre | object] moyen de jours d' activité limitée et de jours d' alitement du fait de douleurs rachidiennes de 17,9 jours par rapport à 11,3 jours dans le groupe placebo ."
+    },
+    {
+        "input": "Comme vous tous , j' [entends] les appels à l' aide des mères , des épouses et des soeurs des Kosovars albanais qui croupissent dans les geôles serbes .",
+        "output": "Comme vous tous , [j' | subject] entends les [appels | object] à l' aide des mères , des épouses et des soeurs des Kosovars albanais qui croupissent dans les geôles serbes ."
+    },
+    {
+        "input": "Le trio n' a pas [eu] recours à la violence physique pour contraindre le chauffeur à jouer le rôle de taxi mais a cherché à impressionner ce dernier .",
+        "output": "Le [trio | subject] n' a pas eu [recours | object] à la violence physique pour contraindre le chauffeur à jouer le rôle de taxi mais a cherché à impressionner ce dernier ."
+    },
+    {
+        "input": "La voiture circulait dans le sens Mulhouse-Montbéliard lorsqu' après être passée à hauteur du 35e RI , elle a [quitté] la chaussée sur sa droite .",
+        "output": "La voiture circulait dans le sens Mulhouse-Montbéliard lorsqu' après être passée à hauteur du 35e RI , [elle | subject] a quitté la [chaussée | object] sur sa droite ."
+    },
+    {
+        "input": "Chaque flacon de 100 ml de solution [contient] 5 mg d' acide zolédronique anhydre , ce qui équivaut à 5,330 mg d' acide zolédronique monohydraté .",
+        "output": "Chaque [flacon | subject] de 100 ml de solution contient 5 [mg | object] d' acide zolédronique anhydre , ce qui équivaut à 5,330 mg d' acide zolédronique monohydraté ."
+    },
+    {
+        "input": "Il n' est pas clairement établi à ce jour qu' Aclasta [entraîne] ces irrégularités du rythme cardiaque mais en cas de survenue des ces symptômes après avoir reçu Aclasta vous devez en faire part à votre médecin .",
+        "output": "Il n' est pas clairement établi à ce jour qu' [Aclasta | subject] entraîne ces [irrégularités | object] du rythme cardiaque mais en cas de survenue des ces symptômes après avoir reçu Aclasta vous devez en faire part à votre médecin ."
+    },
+    {
+        "input": "Jacques Rousselot qui tenait à conserver Correa repassa à l' offensive et après une première proposition d' un an , il se rangea au souhait du joueur qui en [souhaitait] deux : \" Notre objectif reste le maintien .",
+        "output": "Jacques Rousselot qui tenait à conserver Correa repassa à l' offensive et après une première proposition d' un an , il se rangea au souhait du joueur [qui | subject] en souhaitait [deux | object] : \" Notre objectif reste le maintien ."
+    },
+    {
+        "input": "Le 19 avril 1999 un incendie [ravage] la paillote Chez Francis construite dans l' illégalité en bord de mer , sur le domaine public maritime , plage de Cala d' Orzo au sud du golfe d' Ajaccio en Corse ( France ) .",
+        "output": "Le 19 avril 1999 un [incendie | subject] ravage la [paillote | object] Chez Francis construite dans l' illégalité en bord de mer , sur le domaine public maritime , plage de Cala d' Orzo au sud du golfe d' Ajaccio en Corse ( France ) ."
+    },
+    {
+        "input": "Par ailleurs , la délégation britannique , composée actuellement de 36 députés , a [présenté] à nouveau la résolution dans sa forme originale .",
+        "output": "Par ailleurs , la [délégation | subject] britannique , composée actuellement de 36 députés , a présenté à nouveau la [résolution | object] dans sa forme originale ."
+    },
+    {
+        "input": "Cette solution équilibrée permettra peut-être de répondre de manière plus détendue et confiante à certaines réserves et à certains doutes politiques que certains députés du Parlement ont [soulevés] lors de ce débat .",
+        "output": "Cette solution équilibrée permettra peut-être de répondre de manière plus détendue et confiante à certaines réserves et à certains doutes politiques [que | object] certains [députés | subject] du Parlement ont soulevés lors de ce débat ."
+    },
+    {
+        "input": "Si les représentants du Conseil [avaient] un fils , un frère ou un père dans les prisons serbes , ils réagiraient plus vite , croyez -moi !",
+        "output": "Si les [représentants | subject] du Conseil avaient un [fils | object] , un frère ou un père dans les prisons serbes , ils réagiraient plus vite , croyez -moi !"
+    },
+    {
+        "input": "Dans les objectifs que vous avez [évoqués] , vous avez parlé de votre souhait d' entrer dans une maison commune solide , forte , unie , et je crois pouvoir dire que tel est le souhait de la majorité de notre Assemblée .",
+        "output": "Dans les objectifs [que | object] [vous | subject] avez évoqués , vous avez parlé de votre souhait d' entrer dans une maison commune solide , forte , unie , et je crois pouvoir dire que tel est le souhait de la majorité de notre Assemblée ."
+    },
+    {
+        "input": "Le nouveau cadre d' action [constitue] surtout une énorme possibilité de créer et de diffuser de la culture selon des modalités inédites .",
+        "output": "Le nouveau [cadre | subject] d' action constitue surtout une énorme [possibilité | object] de créer et de diffuser de la culture selon des modalités inédites ."
+    },
+    {
+        "input": "En délibérant , l' assemblée a [accepté] la proposition du maire et l' a chargé de faire établir par les services de la DDE un dossier de demande de subvention dans le cadre de la répartition des amendes de police 1999 .",
+        "output": "En délibérant , l' [assemblée | subject] a accepté la [proposition | object] du maire et l' a chargé de faire établir par les services de la DDE un dossier de demande de subvention dans le cadre de la répartition des amendes de police 1999 ."
+    },
+    {
+        "input": "Des perfusions uniques et multiples de 5 et 15 minutes avec 2 , 4 , 8 et 16 mg d' acide zolédronique chez 64 patients ont [généré] les données pharmacocinétiques suivantes , qui se sont révélées indépendantes de la dose .",
+        "output": "Des [perfusions | subject] uniques et multiples de 5 et 15 minutes avec 2 , 4 , 8 et 16 mg d' acide zolédronique chez 64 patients ont généré les [données | object] pharmacocinétiques suivantes , qui se sont révélées indépendantes de la dose ."
+    },
+    {
+        "input": "Le Conseil a bien sûr [fait] preuve de générosité en ce sens qu' il a confié la gestion et le fonctionnement technique à la Commission .",
+        "output": "Le [Conseil | subject] a bien sûr fait [preuve | object] de générosité en ce sens qu' il a confié la gestion et le fonctionnement technique à la Commission ."
+    },
+    {
+        "input": "Le Conseil a bien sûr fait preuve de générosité en ce sens qu' il a [confié] la gestion et le fonctionnement technique à la Commission .",
+        "output": "Le Conseil a bien sûr fait preuve de générosité en ce sens qu' [il | subject] a confié la [gestion | object] et le fonctionnement technique à la Commission ."
+    },
+    {
+        "input": "Enfin , je voudrais profiter de cette occasion pour rappeler aux collègues qu' on a [récolté] plus de cent signatures de députés européens pour soutenir la candidature au prix Nobel de la paix des Mères de la place de Mai .",
+        "output": "Enfin , je voudrais profiter de cette occasion pour rappeler aux collègues qu' [on | subject] a récolté [plus | object] de cent signatures de députés européens pour soutenir la candidature au prix Nobel de la paix des Mères de la place de Mai ."
+    },
+    {
+        "input": "La remise du lavoir [abrite] depuis quelques jours une exposition qui a été inaugurée par Roger Thiriot , président de l' Association d' insertion des pays de la Saulx et du Perthois , en présence de nombreux élus du canton .",
+        "output": "La [remise | subject] du lavoir abrite depuis quelques jours une [exposition | object] qui a été inaugurée par Roger Thiriot , président de l' Association d' insertion des pays de la Saulx et du Perthois , en présence de nombreux élus du canton ."
+    },
+    {
+        "input": "J' espère que cela [incitera] la Commission à adopter une attitude plus active , ce qui , selon moi , fait défaut jusqu' à présent .",
+        "output": "J' espère que [cela | subject] incitera la [Commission | object] à adopter une attitude plus active , ce qui , selon moi , fait défaut jusqu' à présent ."
+    },
+    {
+        "input": "J' espère que cela incitera la Commission à adopter une attitude plus active , ce qui , selon moi , [fait] défaut jusqu' à présent .",
+        "output": "J' espère que cela incitera la Commission à adopter une attitude plus active , ce [qui | subject] , selon moi , fait [défaut | object] jusqu' à présent ."
+    },
+    {
+        "input": "Les tireurs de la Vaux-Racine [ont] rendez-vous à partir de 9 h , sur les pas de tir , à l' occasion d' une séance d' entraînement .",
+        "output": "Les [tireurs | subject] de la Vaux-Racine ont [rendez-vous | object] à partir de 9 h , sur les pas de tir , à l' occasion d' une séance d' entraînement ."
+    },
+    {
+        "input": "Ce dernier avait [publié] un pamphlet violent contre Richelieu et s' opposait fermement à la destruction des murailles de la ville .",
+        "output": "Ce [dernier | subject] avait publié un [pamphlet | object] violent contre Richelieu et s' opposait fermement à la destruction des murailles de la ville ."
+    },
+    {
+        "input": "Angiox [contient] de la bivalirudine , un inhibiteur direct et spécifique de la thrombine , qui se lie à la fois au site catalytique et à l' exosite de liaison des anions de la thrombine en phase liquide et liée aux caillots .",
+        "output": "[Angiox | subject] contient de la [bivalirudine | object] , un inhibiteur direct et spécifique de la thrombine , qui se lie à la fois au site catalytique et à l' exosite de liaison des anions de la thrombine en phase liquide et liée aux caillots ."
+    },
+    {
+        "input": "Angiox contient de la bivalirudine , un inhibiteur direct et spécifique de la thrombine , qui se [lie] à la fois au site catalytique et à l' exosite de liaison des anions de la thrombine en phase liquide et liée aux caillots .",
+        "output": "Angiox contient de la bivalirudine , un inhibiteur direct et spécifique de la thrombine , [qui | subject] [se | object] lie à la fois au site catalytique et à l' exosite de liaison des anions de la thrombine en phase liquide et liée aux caillots ."
+    },
+    {
+        "input": "Le traitement par Aclasta [réduit] rapidement la vitesse de renouvellement osseux , à partir de taux post-ménopausiques élevés .",
+        "output": "Le [traitement | subject] par Aclasta réduit rapidement la [vitesse | object] de renouvellement osseux , à partir de taux post-ménopausiques élevés ."
+    },
+    {
+        "input": "Tout à sa joie , l' Uruguayen s' en tirait par une pirouette : \" Dans deux ans , j' [aurai] peut-être encore envie de jouer \" .",
+        "output": "Tout à sa joie , l' Uruguayen s' en tirait par une pirouette : \" Dans deux ans , [j' | subject] aurai peut-être encore [envie | object] de jouer \" ."
+    },
+    {
+        "input": "Elle fut très affectée par le décès de son mari en avril 1993 , une disparition qu' elle [surmonta] avec beaucoup de courage .",
+        "output": "Elle fut très affectée par le décès de son mari en avril 1993 , une disparition [qu' | object] [elle | subject] surmonta avec beaucoup de courage ."
+    },
+    {
+        "input": "Le premier retour de familles ( adultes , femmes , enfants ) [a] lieu par la \" traversée du Beach \" ( navette fluviale qui effectue les liaisons Brazzaville-Kinshasa ) , et comprend environ 1500 personnes , sous le contrôle du HCR .",
+        "output": "Le premier [retour | subject] de familles ( adultes , femmes , enfants ) a [lieu | object] par la \" traversée du Beach \" ( navette fluviale qui effectue les liaisons Brazzaville-Kinshasa ) , et comprend environ 1500 personnes , sous le contrôle du HCR ."
+    },
+    {
+        "input": "Le premier retour de familles ( adultes , femmes , enfants ) a lieu par la \" traversée du Beach \" ( navette fluviale qui [effectue] les liaisons Brazzaville-Kinshasa ) , et comprend environ 1500 personnes , sous le contrôle du HCR .",
+        "output": "Le premier retour de familles ( adultes , femmes , enfants ) a lieu par la \" traversée du Beach \" ( navette fluviale [qui | subject] effectue les [liaisons | object] Brazzaville-Kinshasa ) , et comprend environ 1500 personnes , sous le contrôle du HCR ."
+    },
+    {
+        "input": "- Ex-directeur adjoint chez Thomson-CSF , Alain Fribourg a assuré aux juges avoir \" toujours considéré à l' époque que c' était le parti au pouvoir à Taïwan qui bénéficiait pour une bonne partie de ce que l'on [versait] à M. Wang \" .",
+        "output": "- Ex-directeur adjoint chez Thomson-CSF , Alain Fribourg a assuré aux juges avoir \" toujours considéré à l' époque que c' était le parti au pouvoir à Taïwan qui bénéficiait pour une bonne partie de ce [que | object] [l'on | subject] versait à M. Wang \" ."
+    },
+    {
+        "input": "Il n' y a plus de mots pour condamner non seulement les assassins mais également ceux qui les [soutiennent] politiquement .",
+        "output": "Il n' y a plus de mots pour condamner non seulement les assassins mais également ceux [qui | subject] [les | object] soutiennent politiquement ."
+    },
+    {
+        "input": "L' affaire des emplois fictifs de la Mairie de Paris , ou \" affaire des emplois fictifs du RPR \" , instruite par le juge Patrick Desmure , [concerne] sept employés permanents du RPR , dont le salaire a été payé par la mairie de Paris .",
+        "output": "L' [affaire | subject] des emplois fictifs de la Mairie de Paris , ou \" affaire des emplois fictifs du RPR \" , instruite par le juge Patrick Desmure , concerne sept [employés | object] permanents du RPR , dont le salaire a été payé par la mairie de Paris ."
+    },
+    {
+        "input": "Des études cliniques ont montré que la bivalirudine [procure] une anticoagulation adéquate pendant les procédures d' ICP .",
+        "output": "Des études cliniques ont montré que la [bivalirudine | subject] procure une [anticoagulation | object] adéquate pendant les procédures d' ICP ."
+    },
+    {
+        "input": "Aclasta a également [réduit] significativement le nombre moyen de jours d' activité limitée et de jours d' alitement du fait de fractures de 2,9 jours par rapport à 0,5 jours dans le groupe placebo ( p < 0,01 pour toutes les valeurs ) .",
+        "output": "[Aclasta | subject] a également réduit significativement le [nombre | object] moyen de jours d' activité limitée et de jours d' alitement du fait de fractures de 2,9 jours par rapport à 0,5 jours dans le groupe placebo ( p < 0,01 pour toutes les valeurs ) ."
+    },
+    {
+        "input": "Aclasta a également réduit significativement le nombre moyen de jours d' activité limitée et de jours d' alitement du fait de fractures de 2,9 jours par rapport à 0,5 jours dans le groupe placebo ( p [<] 0,01 pour toutes les valeurs ) .",
+        "output": "Aclasta a également réduit significativement le nombre moyen de jours d' activité limitée et de jours d' alitement du fait de fractures de 2,9 jours par rapport à 0,5 jours dans le groupe placebo ( [p | subject] < [0,01 | object] pour toutes les valeurs ) ."
+    },
+    {
+        "input": "Ce Belfortain de 27 ans a [recouvré] sa liberté après avoir passé le restant de la nuit dans une cellule de dégrisement .",
+        "output": "Ce [Belfortain | subject] de 27 ans a recouvré sa [liberté | object] après avoir passé le restant de la nuit dans une cellule de dégrisement ."
+    },
+    {
+        "input": "Lors de ces échanges , Moggi [donnait] ses instructions pour la désignation des arbitres dans le matches de son équipe .",
+        "output": "Lors de ces échanges , [Moggi | subject] donnait ses [instructions | object] pour la désignation des arbitres dans le matches de son équipe ."
+    },
+    {
+        "input": "C' est pourquoi j' attends de tout le monde , Albanais et Serbes , qu' ils [laissent] les troupes de la KFOR en paix .",
+        "output": "C' est pourquoi j' attends de tout le monde , Albanais et Serbes , qu' [ils | subject] laissent les [troupes | object] de la KFOR en paix ."
+    },
+    {
+        "input": "Bien sûr , je ne [néglige] pas l' aspect financier , mais il n' est pas le seul élément que j' ai pris en compte \" .",
+        "output": "Bien sûr , [je | subject] ne néglige pas l' [aspect | object] financier , mais il n' est pas le seul élément que j' ai pris en compte \" ."
+    },
+    {
+        "input": "Bien sûr , je ne néglige pas l' aspect financier , mais il n' est pas le seul élément que j' ai [pris] en compte \" .",
+        "output": "Bien sûr , je ne néglige pas l' aspect financier , mais il n' est pas le seul élément [que | object] [j' | subject] ai pris en compte \" ."
+    },
+    {
+        "input": "Nous le [répétons] avec insistance : l' Union européenne est à la fois une union d' États et une union de peuples .",
+        "output": "[Nous | subject] [le | object] répétons avec insistance : l' Union européenne est à la fois une union d' États et une union de peuples ."
+    },
+    {
+        "input": "John Kenneth Galbraith a [dénoncé] l' illusion selon laquelle argent et intelligence seraient des facteurs liés .",
+        "output": "[John | subject] Kenneth Galbraith a dénoncé l' [illusion | object] selon laquelle argent et intelligence seraient des facteurs liés ."
+    },
+    {
+        "input": "Elles n' ont pas [produit] d' effet , notamment auprès des grandes formations susceptibles d' avoir des députés .",
+        "output": "[Elles | subject] n' ont pas produit d' [effet | object] , notamment auprès des grandes formations susceptibles d' avoir des députés ."
+    },
+    {
+        "input": "à travers cette oeuvre , les élèves de CM2 de la classe de Mme Galotte ont [abordé] la compréhension du texte .",
+        "output": "à travers cette oeuvre , les [élèves | subject] de CM2 de la classe de Mme Galotte ont abordé la [compréhension | object] du texte ."
+    },
+    {
+        "input": "Elle [bloque] spécifiquement l' une des substances impliquées dans le processus de coagulation , la thrombine .",
+        "output": "[Elle | subject] bloque spécifiquement l' [une | object] des substances impliquées dans le processus de coagulation , la thrombine ."
+    },
+    {
+        "input": "- Si vous [avez] d' autres questions , si vous avez un doute , demandez plus d' informations à votre pharmacien",
+        "output": "- Si [vous | subject] avez d' autres [questions | object] , si vous avez un doute , demandez plus d' informations à votre pharmacien"
+    },
+    {
+        "input": "- Si vous avez d' autres questions , si vous [avez] un doute , demandez plus d' informations à votre pharmacien",
+        "output": "- Si vous avez d' autres questions , si [vous | subject] avez un [doute | object] , demandez plus d' informations à votre pharmacien"
+    },
+    {
+        "input": "Les recommandations proposées n' [amélioreront] pas la position de la culture en Europe , bien au contraire .",
+        "output": "Les [recommandations | subject] proposées n' amélioreront pas la [position | object] de la culture en Europe , bien au contraire ."
+    },
+    {
+        "input": "Votre médecin vous [conseillera] et décidera pendant combien de temps vous devez être traité(e) par Aclasta .",
+        "output": "Votre [médecin | subject] [vous | object] conseillera et décidera pendant combien de temps vous devez être traité(e) par Aclasta ."
+    },
+    {
+        "input": "L' automobile a [perdu] sa roue gauche , et a décollé pour se retourner et terminer sa course sur le toit .",
+        "output": "L' [automobile | subject] a perdu sa [roue | object] gauche , et a décollé pour se retourner et terminer sa course sur le toit ."
+    },
+    {
+        "input": "Elle a été condamnée parce qu' en tant que médecin , elle a [porté] secours à des blessés des deux camps .",
+        "output": "Elle a été condamnée parce qu' en tant que médecin , [elle | subject] a porté [secours | object] à des blessés des deux camps ."
+    },
+    {
+        "input": "à son époux , à ses enfants , ainsi qu' à toute sa famille , nous [présentons] nos sincères condoléances .",
+        "output": "à son époux , à ses enfants , ainsi qu' à toute sa famille , [nous | subject] présentons nos sincères [condoléances | object] ."
+    },
+    {
+        "input": "Les épouses des fusillés [reçurent] le franc symbolique au titre de dommages et intérêts , mais l' essentiel était que ces 4 hommes soient réhabilités dans la mémoire des Français et que leurs veuves puissent enfin faire valoir leurs droits à pension .",
+        "output": "Les [épouses | subject] des fusillés reçurent le [franc | object] symbolique au titre de dommages et intérêts , mais l' essentiel était que ces 4 hommes soient réhabilités dans la mémoire des Français et que leurs veuves puissent enfin faire valoir leurs droits à pension ."
+    },
+    {
+        "input": "Ceci [présente] l' avantage qu' un solde résultant des comptes peut être reporté sur l' année suivante .",
+        "output": "[Ceci | subject] présente l' [avantage | object] qu' un solde résultant des comptes peut être reporté sur l' année suivante ."
+    },
+    {
+        "input": "Il n' en [justifie] pas moins le décret du 13 juillet 2000 qui \" crée bien un dispositif particulier \" .",
+        "output": "[Il | subject] n' en justifie pas moins le [décret | object] du 13 juillet 2000 qui \" crée bien un dispositif particulier \" ."
+    },
+    {
+        "input": "Il n' en justifie pas moins le décret du 13 juillet 2000 qui \" [crée] bien un dispositif particulier \" .",
+        "output": "Il n' en justifie pas moins le décret du 13 juillet 2000 [qui | subject] \" crée bien un [dispositif | object] particulier \" ."
+    },
+    {
+        "input": "\" Mis en place ( ... ) par mesure d' assurance \" et \" dans des conditions non rigoureuses \" , écrivait Jean-François Briand , l' ancien directeur général de Thomson-CSF , ce réseau [suscitait] plus de doutes que de certitudes chez les dirigeants d' Elf .",
+        "output": "\" Mis en place ( ... ) par mesure d' assurance \" et \" dans des conditions non rigoureuses \" , écrivait Jean-François Briand , l' ancien directeur général de Thomson-CSF , ce [réseau | subject] suscitait [plus | object] de doutes que de certitudes chez les dirigeants d' Elf ."
+    },
+    {
+        "input": "Après avoir contribué à diminuer le soutien à la guerre , il tourna court avec la perte de l' Indochine et le climat politique et social qui s' ensuivit , peu propice aux débats sur la période coloniale ; il n' [eut] pas de suites judiciaires en France .",
+        "output": "Après avoir contribué à diminuer le soutien à la guerre , il tourna court avec la perte de l' Indochine et le climat politique et social qui s' ensuivit , peu propice aux débats sur la période coloniale ; [il | subject] n' eut pas de [suites | object] judiciaires en France ."
+    },
+    {
+        "input": "Alors le tribunal lui avait accordé un ultime délai : fin janvier , avec l' échec que l'on [sait] .",
+        "output": "Alors le tribunal lui avait accordé un ultime délai : fin janvier , avec l' échec [que | object] [l'on | subject] sait ."
+    },
+    {
+        "input": "J' [invite] la Commission à prendre ce signal avec le plus grand sérieux et à fournir cette aide .",
+        "output": "[J' | subject] invite la [Commission | object] à prendre ce signal avec le plus grand sérieux et à fournir cette aide ."
+    },
+    {
+        "input": "J' ai par exemple [introduit] en commission de l' environnement , de la santé publique et de la politique des consommateurs une proposition concernant les émissions de NOX en cas de coïncinération , proposition qui est bien plus ambitieuse que celles du Conseil .",
+        "output": "[J' | subject] ai par exemple introduit en commission de l' environnement , de la santé publique et de la politique des consommateurs une [proposition | object] concernant les émissions de NOX en cas de coïncinération , proposition qui est bien plus ambitieuse que celles du Conseil ."
+    },
+    {
+        "input": "Le médecin [administrant] et surveillant le traitement , une omission est très peu probable .",
+        "output": "Le [médecin | subject] administrant et surveillant le [traitement | object] , une omission est très peu probable ."
+    },
+    {
+        "input": "Le 15 mars , le général [donne] l' ordre de mise de jugement directe des 24 hommes désignés .",
+        "output": "Le 15 mars , le [général | subject] donne l' [ordre | object] de mise de jugement directe des 24 hommes désignés ."
+    },
+    {
+        "input": "En témoignage de reconnaissance , elle avait d' ailleurs [reçu] la médaille du mérite UNC .",
+        "output": "En témoignage de reconnaissance , [elle | subject] avait d' ailleurs reçu la [médaille | object] du mérite UNC ."
+    },
+    {
+        "input": "il faut que l' Union européenne [gère] les budgets nationaux pour la recherche spatiale .",
+        "output": "il faut que l' [Union | subject] européenne gère les [budgets | object] nationaux pour la recherche spatiale ."
+    },
+    {
+        "input": "Il est probable que ce blocage a [eu] lieu avant la dispersion des commissions occultes .",
+        "output": "Il est probable que ce [blocage | subject] a eu [lieu | object] avant la dispersion des commissions occultes ."
+    },
+    {
+        "input": "Deuxièmement , la proposition de directive [propose] une limitation des exportations .",
+        "output": "Deuxièmement , la [proposition | subject] de directive propose une [limitation | object] des exportations ."
+    },
+    {
+        "input": "Les poursuites ne [font] pas référence à son rôle comme instigateur ou organisateur .",
+        "output": "Les [poursuites | subject] ne font pas [référence | object] à son rôle comme instigateur ou organisateur ."
+    },
+    {
+        "input": "Plus particulièrement , les orages et les formations nuageuses qui les [précèdent] .",
+        "output": "Plus particulièrement , les orages et les formations nuageuses [qui | subject] [les | object] précèdent ."
+    },
+    {
+        "input": "Tous les patients ont également [reçu] de l' aspirine , avec ou sans clopidogrel .",
+        "output": "Tous les [patients | subject] ont également reçu de l' [aspirine | object] , avec ou sans clopidogrel ."
+    },
+    {
+        "input": "D' autant que le relèvement des seuils [exclurait] de nombreuses petites listes .",
+        "output": "D' autant que le [relèvement | subject] des seuils exclurait de nombreuses petites [listes | object] ."
+    },
+    {
+        "input": "L' école de Percy [porte] le nom de \" Blanche et Théophile Maupas \" depuis 1998 .",
+        "output": "L' [école | subject] de Percy porte le [nom | object] de \" Blanche et Théophile Maupas \" depuis 1998 ."
+    },
+    {
+        "input": "C' est pourquoi nous ne [soumettrons] pas aujourd'hui cette résolution au vote .",
+        "output": "C' est pourquoi [nous | subject] ne soumettrons pas aujourd'hui cette [résolution | object] au vote ."
+    },
+    {
+        "input": "La commune [compte] 50 de ces avaloirs et ils seront nettoyés deux fois par an .",
+        "output": "La [commune | subject] compte [50 | object] de ces avaloirs et ils seront nettoyés deux fois par an ."
+    },
+    {
+        "input": "Je me demande vraiment si le Conseil [possède] encore un minimum d' humanité !",
+        "output": "Je me demande vraiment si le [Conseil | subject] possède encore un [minimum | object] d' humanité !"
+    },
+    {
+        "input": "La dose d' Angiox sera réduite si vous [avez] des problèmes rénaux modérés .",
+        "output": "La dose d' Angiox sera réduite si [vous | subject] avez des [problèmes | object] rénaux modérés ."
+    },
+    {
+        "input": "C' était également une réussite , et je ne le [dis] pas seulement pour complimenter le commissaire , parce qu' il était évident que l' Union européenne , la Commission européenne , a enfin pris une initiative , tandis qu' elle est restée à mon avis trop longtemps à l' arrière-plan .",
+        "output": "C' était également une réussite , et [je | subject] ne [le | object] dis pas seulement pour complimenter le commissaire , parce qu' il était évident que l' Union européenne , la Commission européenne , a enfin pris une initiative , tandis qu' elle est restée à mon avis trop longtemps à l' arrière-plan ."
+    },
+    {
+        "input": "C' était également une réussite , et je ne le dis pas seulement pour complimenter le commissaire , parce qu' il était évident que l' Union européenne , la Commission européenne , a enfin [pris] une initiative , tandis qu' elle est restée à mon avis trop longtemps à l' arrière-plan .",
+        "output": "C' était également une réussite , et je ne le dis pas seulement pour complimenter le commissaire , parce qu' il était évident que l' [Union | subject] européenne , la Commission européenne , a enfin pris une [initiative | object] , tandis qu' elle est restée à mon avis trop longtemps à l' arrière-plan ."
+    },
+    {
+        "input": "Une entreprise dont on reparlera et qui [nécessite] un budget important .",
+        "output": "Une entreprise dont on reparlera et [qui | subject] nécessite un [budget | object] important ."
+    },
+    {
+        "input": "Pour soutenir \" le chef \" , comme l' [explique] un des démissionnaires .",
+        "output": "Pour soutenir \" le chef \" , comme [l' | object] explique [un | subject] des démissionnaires ."
+    },
+    {
+        "input": "Je le [répète] , nous n' avons pas à parler d' aidées de grandeur \" .",
+        "output": "[Je | subject] [le | object] répète , nous n' avons pas à parler d' aidées de grandeur \" ."
+    },
+    {
+        "input": "Je suis peut-être têtu , mais c' est ce que je [crois] sincèrement .",
+        "output": "Je suis peut-être têtu , mais c' est ce [que | object] [je | subject] crois sincèrement ."
+    },
+    {
+        "input": "Plus tard , le bombardement des tranchées françaises [fera] l' objet d' une polémique , à la suite d' un témoignage : Le général Réveilhac , ordonnateur de l' attaque , aurait demandé à l' artillerie de pilonner les positions française pour obliger les soldats à sortir de leurs tranchées .",
+        "output": "Plus tard , le [bombardement | subject] des tranchées françaises fera l' [objet | object] d' une polémique , à la suite d' un témoignage : Le général Réveilhac , ordonnateur de l' attaque , aurait demandé à l' artillerie de pilonner les positions française pour obliger les soldats à sortir de leurs tranchées ."
+    },
+    {
+        "input": "85 % des patients n' avaient jamais [reçu] de bisphosphonates .",
+        "output": "85 [% | subject] des patients n' avaient jamais reçu de [bisphosphonates | object] ."
+    },
+    {
+        "input": "L' affaire [concerne] une manifestation organisée par M. Brie et des partisans en Septembre 1998 , quand lui et huit autres personnes ont déroulé et exhibé une affiche de la Porte de Brandebourg à Berlin pour protester contre le fossé qui existe dans la société entre les riches et les pauvres .",
+        "output": "L' [affaire | subject] concerne une [manifestation | object] organisée par M. Brie et des partisans en Septembre 1998 , quand lui et huit autres personnes ont déroulé et exhibé une affiche de la Porte de Brandebourg à Berlin pour protester contre le fossé qui existe dans la société entre les riches et les pauvres ."
+    },
+    {
+        "input": "L' affaire concerne une manifestation organisée par M. Brie et des partisans en Septembre 1998 , quand lui et huit autres personnes ont [déroulé] et exhibé une affiche de la Porte de Brandebourg à Berlin pour protester contre le fossé qui existe dans la société entre les riches et les pauvres .",
+        "output": "L' affaire concerne une manifestation organisée par M. Brie et des partisans en Septembre 1998 , quand [lui | subject] et huit autres personnes ont déroulé et exhibé une [affiche | object] de la Porte de Brandebourg à Berlin pour protester contre le fossé qui existe dans la société entre les riches et les pauvres ."
+    },
+    {
+        "input": "Après reconstitution , 1 ml [contient] 50 mg de bivalirudine .",
+        "output": "Après reconstitution , 1 [ml | subject] contient 50 [mg | object] de bivalirudine ."
+    },
+    {
+        "input": "Il [conçut] le montage financier de l' opération Bravo .",
+        "output": "[Il | subject] conçut le [montage | object] financier de l' opération Bravo ."
+    },
+    {
+        "input": "Après dilution , 1 ml [contient] 5 mg de bivalirudine .",
+        "output": "Après dilution , 1 [ml | subject] contient 5 [mg | object] de bivalirudine ."
+    },
+    {
+        "input": "Personne n' [aide] cette femme à sortir de prison .",
+        "output": "[Personne | subject] n' aide cette [femme | object] à sortir de prison ."
+    },
+    {
+        "input": "- Le 16 juin 2006 , les juges Renaud van Ruymbeke et Xavière Simeoni ( qui [remplace] Dominique de Talancé ) ont adressé une nouvelle demande de levée du secret défense au ministère de l' Économie et des Finances , seul habilité à saisir la commission consultative du secret de la défense nationale ( CCSDN ) .",
+        "output": "- Le 16 juin 2006 , les juges Renaud van Ruymbeke et Xavière Simeoni ( [qui | subject] remplace [Dominique | object] de Talancé ) ont adressé une nouvelle demande de levée du secret défense au ministère de l' Économie et des Finances , seul habilité à saisir la commission consultative du secret de la défense nationale ( CCSDN ) ."
+    },
+    {
+        "input": "Selon Le Monde du 25 janvier 2006 , on lui [reproche] d' avoir perçu près de 40 millions de francs en trois ans , en échange d' informations livrées aux entreprises sur les marchés de l' OPAC .",
+        "output": "Selon Le Monde du 25 janvier 2006 , [on | subject] [lui | indirect_object] reproche d' avoir perçu près de 40 millions de francs en trois ans , en échange d' informations livrées aux entreprises sur les marchés de l' OPAC ."
+    },
+    {
+        "input": "Le Dr Maréchal lui aurait [proposé] le 11 octobre 1994 , de faire pression sur son gendre pour qu' il freine son instruction en direction des Hauts-de-Seine .",
+        "output": "Le [Dr | subject] Maréchal [lui | indirect_object] aurait proposé le 11 octobre 1994 , de faire pression sur son gendre pour qu' il freine son instruction en direction des Hauts-de-Seine ."
+    },
+    {
+        "input": "Où [sont] -ils donc ces 32 et quelques , qui se sont levés et qui se lèveront encore , mais sont absents maintenant pendant que nous délibérons ?",
+        "output": "[Où | indirect_object] sont -ils donc ces [32 | subject] et quelques , qui se sont levés et qui se lèveront encore , mais sont absents maintenant pendant que nous délibérons ?"
+    },
+    {
+        "input": "Son correspondant lui [indique] qu' une transaction doit se dérouler à l' heure du déjeuner à l' hôtel Mercure de Nogent-sur-Marne : une femme doit remettre 50 000 francs à un homme aux cheveux bruns qui arrivera en 4X4 .",
+        "output": "Son [correspondant | subject] [lui | indirect_object] indique qu' une transaction doit se dérouler à l' heure du déjeuner à l' hôtel Mercure de Nogent-sur-Marne : une femme doit remettre 50 000 francs à un homme aux cheveux bruns qui arrivera en 4X4 ."
+    },
+    {
+        "input": "Je pense que ce serait très bienvenu si vous-même , en tant que Présidente du Parlement européen , vous adressiez , dans les formes qui vous [conviendraient] , aux autorités turques pour demander la libération de cet homme d' honneur .",
+        "output": "Je pense que ce serait très bienvenu si vous-même , en tant que Présidente du Parlement européen , vous adressiez , dans les formes [qui | subject] [vous | indirect_object] conviendraient , aux autorités turques pour demander la libération de cet homme d' honneur ."
+    },
+    {
+        "input": "Un montant qui notamment n' est jamais cité par la Banque européenne d' investissement , qui est mentionné plus tard par le Président de la Commission Prodi et dont on ne [sait] pas encore , du moins à mon avis , comment il sera déboursé l' année prochaine .",
+        "output": "Un montant qui notamment n' est jamais cité par la Banque européenne d' investissement , qui est mentionné plus tard par le Président de la Commission Prodi et [dont | indirect_object] [on | subject] ne sait pas encore , du moins à mon avis , comment il sera déboursé l' année prochaine ."
+    },
+    {
+        "input": "Une entreprise dont on [reparlera] et qui nécessite un budget important .",
+        "output": "Une entreprise [dont | indirect_object] [on | subject] reparlera et qui nécessite un budget important ."
+    },
+    {
+        "input": "Je n' ai pas encore lu ni entendu que le Conseil s' y soit [intéressé] .",
+        "output": "Je n' ai pas encore lu ni entendu que le [Conseil | subject] s' [y | indirect_object] soit intéressé ."
+    },
+    {
+        "input": "Il n' y a aucun motif pour qu' ils y [soient] .",
+        "output": "Il n' y a aucun motif pour qu' [ils | subject] [y | indirect_object] soient ."
+    },
+    {
+        "input": "On s' en [aperçoit] aux nombreuses lettres que nous recevons des organisations environnementales mais aussi du secteur économique , avec à sa tête l' industrie du ciment , bien entendu , mais également beaucoup d' autres secteurs , comme l' industrie de transformation du bois , l' industrie du papier , l' industrie de transformation du métal , etc.",
+        "output": "[On | subject] s' [en | indirect_object] aperçoit aux nombreuses lettres que nous recevons des organisations environnementales mais aussi du secteur économique , avec à sa tête l' industrie du ciment , bien entendu , mais également beaucoup d' autres secteurs , comme l' industrie de transformation du bois , l' industrie du papier , l' industrie de transformation du métal , etc."
+    },
+    {
+        "input": "Ce dernier vient de répondre aux maires de la vallée et au député Claude Jacquot , qui lui avaient [fait] collectivement un courrier pour , de nouveau , attirer son attention sur ce dossier .",
+        "output": "Ce dernier vient de répondre aux maires de la vallée et au député Claude Jacquot , [qui | subject] [lui | indirect_object] avaient fait collectivement un [courrier | object] pour , de nouveau , attirer son attention sur ce dossier ."
+    },
+    {
+        "input": "Alors le tribunal lui avait [accordé] un ultime délai : fin janvier , avec l' échec que l'on sait .",
+        "output": "Alors le [tribunal | subject] [lui | indirect_object] avait accordé un ultime [délai | object] : fin janvier , avec l' échec que l'on sait ."
+    },
+    {
+        "input": "M. Rousselot a insisté pour me garder et je l' en [remercie] .",
+        "output": "M. Rousselot a insisté pour me garder et [je | subject] [l' | object] [en | indirect_object] remercie ."
+    }
+]
