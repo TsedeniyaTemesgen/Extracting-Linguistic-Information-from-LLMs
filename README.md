@@ -78,3 +78,11 @@ The following table lists the languages included in the datasets along with thei
 
 ## Citation
 If you use this dataset in your research, please cite the following paper:
+@inproceedings{
+temesgen2025extracting,
+title={Extracting Linguistic Information from Large Language Models: Syntactic Relations and Derivational Knowledge},
+author={Tsedeniya Kinfe Temesgen and Marion Di Marco and Alexander Fraser},
+booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
+year={2025},
+url={https://openreview.net/forum?id=nqRDS0ht3x}
+}
